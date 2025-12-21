@@ -4,14 +4,15 @@ import os
 from datetime import datetime
 
 def fetch_and_save():
+    # YoSinTV Global Live Score Scraper
     url = "https://api.sofascore.com/api/v1/sport/football/events/live"
     
     try:
-        # Using chrome120 impersonation to bypass Cloudflare protection
+        # Mimic Chrome 120 TLS fingerprint to bypass Cloudflare
         response = requests.get(url, impersonate="chrome120", timeout=30)
         
         if response.status_code != 200:
-            print(f"Failed with status: {response.status_code}")
+            print(f"YoSinTV Error: API returned {response.status_code}")
             return
 
         data = response.json()
@@ -19,59 +20,71 @@ def fetch_and_save():
         
         match_list = []
         for event in events:
-            # League and Country info
+            # --- Extract Deep Metadata ---
             tournament = event.get('tournament', {})
-            league_name = tournament.get('name', 'Unknown League')
             category = tournament.get('category', {})
+            round_info = event.get('roundInfo', {})
+            
+            # Extract League, Country, and Round
+            league_name = tournament.get('name', 'Unknown League')
             country = category.get('name', 'International')
+            round_num = round_info.get('round', '')
+            round_text = f"Round {round_num}" if round_num else "N/A"
             
-            # Round info (e.g., Round 5 or "Final")
-            round_data = event.get('roundInfo', {})
-            round_num = round_data.get('round', '')
-            round_name = f"Round {round_num}" if round_num else ""
+            # --- Match Details ---
+            home_team = event.get('homeTeam', {}).get('name', 'Home')
+            away_team = event.get('awayTeam', {}).get('name', 'Away')
             
-            # Start time and Clock
+            home_score = event.get('homeScore', {}).get('current', 0)
+            away_score = event.get('awayScore', {}).get('current', 0)
+            
+            # Status / Time
+            status_desc = event.get('status', {}).get('description', 'Live')
             start_ts = event.get('startTimestamp')
-            start_time = datetime.fromtimestamp(start_ts).strftime('%H:%M') if start_ts else "N/A"
-            match_minute = event.get('status', {}).get('description', 'Live')
-            
+            start_time = datetime.fromtimestamp(start_ts).strftime('%H:%M') if start_ts else "--:--"
+
             match_list.append({
                 "country": country,
                 "league": league_name,
-                "round": round_name,
-                "home": event['homeTeam']['name'],
-                "away": event['awayTeam']['name'],
-                "score": f"{event.get('homeScore', {}).get('current', 0)} - {event.get('awayScore', {}).get('current', 0)}",
-                "minute": match_minute,
-                "kick_off": start_time
+                "round": round_text,
+                "kick_off": start_time,
+                "home_team": home_team,
+                "away_team": away_team,
+                "score": f"{home_score} - {away_score}",
+                "minute": status_desc
             })
 
-        # Save the full structured JSON
+        # --- Generate JSON Output ---
         output_json = {
             "metadata": {
+                "source": "YoSinTV",
                 "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC"),
-                "total_matches": len(match_list)
+                "active_matches": len(match_list)
             },
             "matches": match_list
         }
 
+        # Save the JSON file
         with open("livescore.json", "w", encoding="utf-8") as f:
             json.dump(output_json, f, indent=4)
             
-        # Update README with a detailed table
-        table = "| Time | League | Round | Match | Score | Min |\n| :--- | :--- | :--- | :--- | :---: | :--- |\n"
-        for m in match_list:
-            # Grouping by country + league
-            league_full = f"{m['country']}: {m['league']}"
-            table += f"| {m['kick_off']} | {league_full} | {m['round']} | {m['home']} vs {m['away']} | **{m['score']}** | {m['minute']} |\n"
+        # --- Update README.md (Visual Dashboard) ---
+        table = "| Time | Country | League | Round | Match | Score | Min |\n"
+        table += "| :--- | :--- | :--- | :--- | :--- | :---: | :--- |\n"
         
-        with open("README.md", "w") as f:
-            f.write(f"# ⚽ Live Global Football Scores\n\n{table}\n\n*Last Sync: {output_json['metadata']['last_updated']}*")
+        for m in match_list:
+            table += f"| {m['kick_off']} | {m['country']} | {m['league']} | {m['round']} | {m['home_team']} vs {m['away_team']} | **{m['score']}** | {m['minute']} |\n"
+        
+        header = f"# ⚽ Live Football Dashboard\n\n**Powered by: YoSinTV**\n\n"
+        footer = f"\n\n*Last Sync: {output_json['metadata']['last_updated']}*"
+        
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(header + table + footer)
 
-        print(f"Successfully processed {len(match_list)} matches.")
+        print(f"YoSinTV Sync Complete: {len(match_list)} matches processed.")
 
     except Exception as e:
-        print(f"Error fetching data: {e}")
+        print(f"YoSinTV Critical Failure: {e}")
 
 if __name__ == "__main__":
     fetch_and_save()
