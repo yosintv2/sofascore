@@ -2,7 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 10:30 | Turkey | Hatayspor vs Serikspor A.Ş. | **1 - 0** | `1st half` | Baran Sarka 4'(H) |
+| 10:30 | Turkey | Hatayspor vs Serikspor A.Ş. | **1 - 1** | `1st half` | Baran Sarka 4'(H) |
 | 09:00 | Australia | Perth Glory vs Adelaide United | **1 - 0** | `2nd half` | Rola Badawiya 39'(H) |
 | 10:00 | Italy | Frosinone U20 vs Sassuolo U20 | **0 - 0** | `1st half` | --- |
 | 10:00 | Italy | Roma U20 vs Hellas Verona U20 | **0 - 0** | `1st half` | --- |
@@ -22,9 +22,9 @@
 | 10:30 | Azerbaijan | Lənkəran FK vs Ərkivan Masallı | **0 - 0** | `Started` | --- |
 | 10:30 | Azerbaijan | Neftchala FK vs Biləsuvar FK | **0 - 1** | `Started` | Unknown 1'(A) |
 | 10:30 | Azerbaijan | Salyan OİK vs Naxçıvan FK | **0 - 0** | `Started` | --- |
-| 10:30 | Chinese Taipei | AC Taipei vs Ming Chuan University | **0 - 0** | `1st half` | --- |
+| 10:30 | Chinese Taipei | AC Taipei vs Ming Chuan University | **1 - 0** | `1st half` | --- |
 | 10:30 | Chinese Taipei | Taipower vs Taichung Futuro FC | **0 - 0** | `1st half` | --- |
-| 10:00 | Ethiopia | Dire Dawa vs Adama City | **1 - 1** | `1st half` | Unknown 30'(A), Yared Tadesse 27'(H) |
+| 10:00 | Ethiopia | Dire Dawa vs Adama City | **1 - 1** | `1st half` | Nebil Nuri 30'(A), Yared Tadesse 27'(H) |
 | 09:00 | Ghana | Revelation FC vs Kormantse Nkum | **0 - 0** | `Started` | --- |
 | 09:00 | Ghana | Northern Lullaby FC vs Prominence Elite FC | **0 - 0** | `Started` | --- |
 | 10:00 | Greece | AO Trikala vs AS Aris Filiaton | **0 - 1** | `1st half` | --- |
@@ -115,14 +115,15 @@
 | 09:00 | Greece Amateur | Doxa Xrysomhlias FC vs Ajax Asproklisias | **0 - 0** | `Started` | --- |
 | 09:00 | Greece Amateur | FC Asklhpios Piaelias vs Gorgogiri | **0 - 0** | `Started` | --- |
 | 10:00 | Greece Amateur | Olympiacos Filon Podosfairou vs AO Peteinoi | **0 - 0** | `Started` | --- |
-| 08:45 | Hong Kong | Lucky Mile vs Bright Cerulean FC | **0 - 1** | `2nd half` | Unknown 90'(A) |
-| 09:30 | Hong Kong | Tsuen Wan vs Gospel FC | **1 - 2** | `2nd half` | Unknown 20'(H), Unknown 18'(A), Unknown 12'(A) |
-| 11:00 | India | Uttar Pradesh vs Haryana | **1 - 0** | `2nd half` | Unknown 53'(H) |
-| 09:00 | India | Jharkhand vs Delhi SA | **0 - 5** | `2nd half` | Unknown 62'(A), Unknown 53'(A), Unknown 38'(A), Unknown 16'(A), Unknown 7'(A) |
+| 09:30 | Hong Kong | Tsuen Wan vs Gospel FC | **1 - 3** | `2nd half` | Unknown 55'(A), Unknown 20'(H), Unknown 18'(A), Unknown 12'(A) |
+| 11:00 | India | Uttar Pradesh vs Haryana | **1 - 1** | `2nd half` | Unknown 61'(A), Unknown 53'(H) |
+| 09:00 | India | Jharkhand vs Delhi SA | **0 - 6** | `2nd half` | Unknown 62'(A), Unknown 53'(A), Unknown 38'(A), Unknown 16'(A), Unknown 7'(A) |
 | 10:30 | India | Sikkim Football Team vs Arunachal Pradesh | **0 - 0** | `1st half` | --- |
-| 09:30 | India | Pondicherry vs Tamil Nadu | **0 - 1** | `Halftime` | Unknown 39'(A) |
+| 09:30 | India | Pondicherry vs Tamil Nadu | **0 - 1** | `2nd half` | Unknown 39'(A) |
 | 09:00 | India | Maharashtra FA vs Rajasthan | **0 - 2** | `2nd half` | Unknown 27'(A), Unknown 19'(A) |
+| 10:30 | Iran | Arka Alborz vs Shayan Diesel FC | **0 - 0** | `1st half` | --- |
 | 10:30 | Iran | Sepahan Novin Esfahan vs Chooka Talesh | **0 - 0** | `1st half` | --- |
+| 10:30 | Iran | Sepidrood Rasht vs Bargh Jadid Shiraz | **0 - 0** | `1st half` | --- |
 | 10:30 | Iran | Setaregan Sorkh vs PAS Hamedan | **0 - 0** | `1st half` | --- |
 | 10:30 | Italy Amateur | Quarto 2012 vs Pomigliano | **0 - 0** | `1st half` | --- |
 | 09:30 | Italy Amateur | Giacomo Caracciolo Liternum vs Cellole | **0 - 0** | `Started` | --- |
@@ -141,25 +142,25 @@
 | 08:30 | Italy Amateur | Real Angri vs Red Lions | **0 - 0** | `Started` | --- |
 | 09:30 | Italy Amateur | Angels Episcopio vs Green Goal | **0 - 0** | `Started` | --- |
 | 09:30 | Italy Amateur | Picentina vs Ricigliano | **0 - 0** | `Started` | --- |
-| 10:00 | Italy Amateur | Aranova vs FC Rieti 1936 | **1 - 0** | `1st half` | Luca Germoni 8'(H) |
+| 10:00 | Italy Amateur | Aranova vs FC Rieti 1936 | **1 - 1** | `1st half` | Luca Germoni 8'(H) |
 | 10:00 | Italy Amateur | ASD Sorianese vs Roma City | **0 - 0** | `1st half` | --- |
 | 10:00 | Italy Amateur | Astrea vs S.S. Romulea | **0 - 0** | `1st half` | --- |
 | 10:00 | Italy Amateur | Sporting Nuova Florida vs W3 Maccarese | **0 - 0** | `1st half` | --- |
 | 10:15 | Italy Amateur | Salaria FC vs ASD Aurelia Antica Aurelio | **0 - 0** | `1st half` | --- |
-| 10:30 | Italy Amateur | Campus EUR 1960 vs Boreale | **0 - 0** | `Started` | --- |
-| 10:30 | Italy Amateur | Pomezia Calcio 1957 vs Grifone Gialloverde | **0 - 0** | `Started` | --- |
-| 10:30 | Italy Amateur | Pro Calcio Tor Sapienza vs Monti Prenestini 1919 | **0 - 0** | `Started` | --- |
+| 10:30 | Italy Amateur | Campus EUR 1960 vs Boreale | **0 - 0** | `1st half` | --- |
+| 10:30 | Italy Amateur | Pomezia Calcio 1957 vs Grifone Gialloverde | **0 - 0** | `1st half` | --- |
+| 10:30 | Italy Amateur | Pro Calcio Tor Sapienza vs Monti Prenestini 1919 | **0 - 0** | `1st half` | --- |
 | 10:00 | Italy Amateur | Anagni vs A.S.D. Ferentino Calcio | **0 - 0** | `1st half` | --- |
 | 10:00 | Italy Amateur | S.S.D. Colleferro Calcio vs A.S.D Casal Barriera | **0 - 0** | `1st half` | --- |
 | 10:15 | Italy Amateur | Ottavia vs SSD Certosa 1965 | **0 - 0** | `1st half` | --- |
-| 10:30 | Italy Amateur | Sterparo vs A.S.D. Roccasecca T. San Tommaso | **0 - 0** | `Started` | --- |
+| 10:30 | Italy Amateur | Sterparo vs A.S.D. Roccasecca T. San Tommaso | **0 - 0** | `1st half` | --- |
 | 10:00 | Italy Amateur | ASD Don Uva Calcio 1971 vs Polisportiva Virtus Andria | **0 - 0** | `Started` | --- |
 | 10:00 | Italy Amateur | Molfetta vs ASD Noicattaro Calcio | **0 - 0** | `Started` | --- |
 | 10:00 | Kenya | Kisped Queens vs Bungoma Queens | **1 - 1** | `1st half` | Unknown 20'(A), Unknown 9'(H) |
 | 10:30 | Malta | Lija Athletic FC vs Victoria Hotspurs FC | **0 - 0** | `1st half` | --- |
 | 10:30 | Malta | Luqa St. Andrew's FC vs Xghajra Tornados FC | **0 - 0** | `Started` | --- |
 | 12:00 | Romania Amateur | CSM Focșani 2007 vs Viitorul Măicănești | **0 - 0** | `Started` | --- |
-| 10:00 | Spain Amateur | CF San Ignacio vs CD Aurrerá De Vitoria | **1 - 0** | `1st half` | Unknown 35'(H) |
+| 10:00 | Spain Amateur | CF San Ignacio vs CD Aurrerá De Vitoria | **1 - 1** | `1st half` | Unknown 38'(A), Unknown 35'(H) |
 | 10:30 | Spain Amateur | Athletic Torrellano vs Crevillente Deportivo | **0 - 0** | `1st half` | --- |
 | 10:30 | Spain Amateur | Real CD Carabanchel vs Leganés B | **0 - 0** | `1st half` | --- |
 | 10:30 | Spain Amateur | CF Santomera vs Real Murcia B | **0 - 0** | `1st half` | --- |
@@ -185,16 +186,16 @@
 | 10:30 | Spain Amateur | Navalcarnero B vs Villaviciosa Odón | **0 - 0** | `Started` | --- |
 | 10:30 | Spain Amateur | Real Aranjuez CF vs CP Parla Escuela | **0 - 0** | `Started` | --- |
 | 10:30 | Spain Amateur | Deportivo Arenas B vs Casavieja C.F. | **0 - 0** | `Started` | --- |
-| 08:00 | Thailand | Samui United vs Khon Kaen United | **1 - 1** | `2nd extra` | Unknown 75'(A), Unknown 34'(H) |
+| 08:00 | Thailand | Samui United vs Khon Kaen United | **1 - 3** | `2nd extra` | Unknown 75'(A), Unknown 34'(H) |
 | 08:00 | Thailand | Uttaradit FC vs Pattaya City FC | **1 - 0** | `2nd extra` | Unknown 99'(H) |
 | 10:00 | Thailand | Customs United vs Buriram United | **1 - 0** | `1st half` | Unknown 7'(H) |
 | 10:00 | Turkey | Adana 01 FK vs 24 Erzincanspor | **0 - 0** | `1st half` | --- |
 | 10:00 | Turkey | Batman Petrolspor vs Bucaspor 1928 | **1 - 0** | `1st half` | İshak Çakmak 16'(H) |
 | 10:00 | Turkey | Kahramanmaraş İstiklalspor vs Somaspor | **2 - 0** | `1st half` | Hüseyin Eray Karataş 34'(H), Kemal Rüzgar 10'(H) |
-| 10:00 | Turkey | Bulvarspor vs Etimesgut Belediyespor | **1 - 0** | `1st half` | Unknown 8'(H) |
+| 10:00 | Turkey | Bulvarspor vs Etimesgut Belediyespor | **2 - 0** | `1st half` | Unknown 8'(H) |
 | 10:00 | Turkey | Ağrı 1970 SK vs Suvermez Kapadokyaspor | **0 - 0** | `1st half` | --- |
 | 10:00 | Turkey | Karaköprü Belediyespor vs Kırıkkale FK | **0 - 0** | `1st half` | --- |
-| 10:00 | Turkey | Kilis 1984 Futbol Kulübü vs Malatya Yeşilyurt Belediyespor | **0 - 0** | `1st half` | --- |
+| 10:00 | Turkey | Kilis 1984 Futbol Kulübü vs Malatya Yeşilyurt Belediyespor | **1 - 0** | `1st half` | Remzi Kolcuoglu 36'(H) |
 | 10:00 | Turkey | Osmaniyespor FK vs Kırşehir FK | **0 - 0** | `1st half` | --- |
 | 10:00 | Turkey | Silifke Belediyespor vs 12 Bingölspor | **0 - 0** | `1st half` | --- |
 | 10:00 | Turkey | Amasyaspor FK vs Pazarspor | **0 - 0** | `1st half` | --- |
@@ -203,7 +204,7 @@
 | 10:00 | Turkey | Karabük İdman Yurdu FK vs Giresunspor | **0 - 1** | `1st half` | Şahin Dik 7'(A) |
 | 10:00 | Turkey | Yozgat Belediye Bozokspor vs Sebat Gençlik Spor | **0 - 0** | `1st half` | --- |
 | 10:00 | Turkey | Zonguldakspor FK vs 52 Orduspor | **1 - 0** | `1st half` | Berkay Ekici 26'(H) |
-| 10:00 | Turkey | Alanya 1221 FK vs Eskişehirspor | **0 - 1** | `1st half` | Unknown 35'(A) |
+| 10:00 | Turkey | Alanya 1221 FK vs Eskişehirspor | **0 - 1** | `1st half` | Kaan Baysal 35'(A) |
 | 09:00 | Turkey | Gölbaşı Belediye Spor vs Horozkent SK | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey | Telsizspor vs Kocaeli Kadın FK | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey | Afyonkarahisar Anadolugücü vs 7 Eylül Gençlikspor | **0 - 0** | `Started` | --- |
@@ -241,24 +242,24 @@
 | 10:00 | Turkey Amateur | Surspor SK vs Bismil 21 SK | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Çermik 21 FK vs Eğil Asurspor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Diyarbakır Yenişehir BSK vs Çüngüş Gençlikspor | **0 - 0** | `Started` | --- |
-| 09:00 | Turkey Amateur | Amaratspor vs Hacılar Erciyes GSK | **0 - 2** | `Started` | Unknown 52'(A), Unknown 34'(A), Unknown 27'(A) |
+| 09:00 | Turkey Amateur | Amaratspor vs Hacılar Erciyes GSK | **0 - 3** | `Started` | Unknown 52'(A), Unknown 34'(A), Unknown 27'(A) |
 | 09:00 | Turkey Amateur | Döğergücü FK vs Başakpınar Belediyespor | **0 - 3** | `Started` | Unknown 51'(A), Unknown 46'(A), Unknown 26'(A) |
 | 09:00 | Turkey Amateur | Arıt Kayadibispor vs Kozcağız Belediyespor | **1 - 0** | `Started` | Unknown -1'(H) |
-| 09:00 | Turkey Amateur | Elazığ Yıldırım FK vs Elazığ İdman Yurdu | **1 - 3** | `Started` | Unknown 41'(A), Unknown 41'(A), Unknown 7'(A), Unknown 2'(H) |
+| 09:00 | Turkey Amateur | Elazığ Yıldırım FK vs Elazığ İdman Yurdu | **1 - 4** | `Started` | Unknown 65'(A), Unknown 41'(A), Unknown 41'(A), Unknown 7'(A), Unknown 2'(H) |
 | 10:00 | Turkey Amateur | Kovancılarspor vs Karakoçan 1985 SK | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey Amateur | Batman Yeşiltepespor vs Sason Meretospor | **3 - 2** | `Started` | Unknown 65'(A), Unknown 59'(H), Unknown 57'(H), Unknown 40'(H), Unknown 8'(A) |
 | 09:00 | Turkey Amateur | Tilmerçspor vs Batman Kültürspor | **2 - 1** | `Started` | Unknown 21'(H), Unknown 15'(H), Unknown 9'(A) |
-| 09:00 | Turkey Amateur | Edirne Çarşıspor vs Ata Gençspor | **0 - 6** | `Started` | Unknown 53'(A), Unknown 48'(A), Unknown 40'(A), Unknown 36'(A), Unknown 14'(A), Unknown 1'(A) |
+| 09:00 | Turkey Amateur | Edirne Çarşıspor vs Ata Gençspor | **0 - 7** | `Started` | Unknown 61'(A), Unknown 53'(A), Unknown 48'(A), Unknown 40'(A), Unknown 36'(A), Unknown 14'(A), Unknown 1'(A) |
 | 09:00 | Turkey Amateur | Erzurum Harb-İş SK vs Ilıca İdmanocağı | **0 - 1** | `Started` | Unknown 5'(A) |
 | 10:00 | Turkey Amateur | Kurtalan Kültürspor vs Kayabağlar BGS | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Pervari Belediyegücü vs Eruh Sağlıkspor | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey Amateur | Büyükkayalıspor vs Yayalarspor | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey Amateur | Mende SK vs Bozkuş Stadspor | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey Amateur | Çatalzeytinspor vs Kastamonu Özel İdare Köy Hizmetlerispor | **0 - 1** | `Started` | Unknown 31'(A) |
-| 09:00 | Turkey Amateur | İmamağaspor vs Adıyaman Uğurspor | **1 - 3** | `Started` | Unknown 39'(A), Unknown 27'(H), Unknown 12'(A), Unknown 9'(A) |
+| 09:00 | Turkey Amateur | İmamağaspor vs Adıyaman Uğurspor | **1 - 4** | `Started` | Unknown 71'(A), Unknown 39'(A), Unknown 27'(H), Unknown 12'(A), Unknown 9'(A) |
 | 09:00 | Turkey Amateur | Burdur Karakartallarspor vs Kılavuzlarspor | **1 - 1** | `Started` | Unknown 40'(A), Unknown 16'(H) |
-| 09:00 | Turkey Amateur | Sudurağı Gençlerbirliği vs Muzaffer Uğur SK | **1 - 1** | `Started` | Unknown 32'(H), Unknown 27'(A) |
-| 09:00 | Turkey Amateur | Niğde Aktaşspor vs 51 Bor Spor | **2 - 0** | `Started` | Unknown 54'(H), Unknown 41'(H) |
+| 09:00 | Turkey Amateur | Sudurağı Gençlerbirliği vs Muzaffer Uğur SK | **1 - 2** | `Started` | Unknown 60'(A), Unknown 32'(H), Unknown 27'(A) |
+| 09:00 | Turkey Amateur | Niğde Aktaşspor vs 51 Bor Spor | **5 - 0** | `Started` | Unknown 68'(H), Unknown 63'(H), Unknown 61'(H), Unknown 54'(H), Unknown 41'(H) |
 | 09:00 | Turkey Amateur | Azatlıspor vs Niğde Belediyesi Spor Amatör | **0 - 1** | `Started` | Unknown 49'(A) |
 | 09:00 | Turkey Amateur | Türkmeneli SK vs 1299 Osmanlıspor | **3 - 2** | `Started` | Unknown 41'(A), Unknown 25'(A), Unknown 20'(H), Unknown 15'(H), Unknown 7'(H) |
 | 10:00 | Turkey Amateur | Kayaşehirspor vs Küçükçekmece Tokat Bereketli | **0 - 0** | `Started` | --- |
