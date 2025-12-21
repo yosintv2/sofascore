@@ -1,3 +1,34 @@
-- name: Install dependencies
+name: Update Live Scores
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
         run: |
-          pip install curl_cffi
+          python -m pip install --upgrade pip
+          pip install curl_cffi requests
+
+      - name: Run Scraper
+        run: python update_scores.py
+
+      - name: Push Changes
+        run: |
+          git config --global user.name "ScoreBot"
+          git config --global user.email "bot@github.com"
+          git add README.md livescore.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update scores" && git push)
