@@ -11,7 +11,6 @@ async def get_scorers(session, match_id):
     try:
         res = await session.get(url, impersonate="chrome120", timeout=10)
         if res.status_code != 200: return []
-        
         incidents = res.json().get('incidents', [])
         scorers = []
         for inc in incidents:
@@ -43,14 +42,18 @@ async def fetch_and_save():
             h_score = event.get('homeScore', {}).get('current', 0)
             a_score = event.get('awayScore', {}).get('current', 0)
             
-            # --- EXTRACTING THE ACTUAL CLOCK ---
-            # displayTime usually shows "45'" or "90+2'"
-            # description is the fallback (shows "HT", "1st half", etc.)
+            # --- EXTRACTING EXACT START TIME ---
+            # startTimestamp is Unix time. We convert it to HH:MM format.
+            start_ts = event.get('startTimestamp')
+            exact_start = datetime.fromtimestamp(start_ts).strftime('%H:%M') if start_ts else "N/A"
+
+            # --- LIVE CLOCK ---
             live_minute = event.get('status', {}).get('displayTime')
             if not live_minute or live_minute == "":
                 live_minute = event.get('status', {}).get('description', 'Live')
 
             match_info = {
+                "start_time": exact_start, # Exact Kick-off
                 "league": event.get('tournament', {}).get('name', 'Unknown'),
                 "country": event.get('tournament', {}).get('category', {}).get('name', ''),
                 "home": event['homeTeam']['name'],
@@ -78,10 +81,10 @@ async def fetch_and_save():
             json.dump(final_json, f, indent=4)
 
         # Output README Table
-        md = "| League | Match | Score | Minute | Scorers |\n| :--- | :--- | :---: | :---: | :--- |\n"
+        md = "| Start | League | Match | Score | Minute | Scorers |\n| :--- | :--- | :--- | :---: | :---: | :--- |\n"
         for m in matches:
             s_list = ", ".join(m['scorers']) if m['scorers'] else "---"
-            md += f"| {m['country']} | {m['home']} vs {m['away']} | **{m['score']}** | `{m['minute']}` | {s_list} |\n"
+            md += f"| {m['start_time']} | {m['country']} | {m['home']} vs {m['away']} | **{m['score']}** | `{m['minute']}` | {s_list} |\n"
 
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(f"# ⚽ {SOURCE_NAME} Live Dashboard\n\n{md}")
