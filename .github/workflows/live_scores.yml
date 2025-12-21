@@ -1,35 +1,24 @@
-name: Update Live Scores
-
+name: Update Live JSON
 on:
   schedule:
-    # Runs every 10 minutes (GitHub's minimum is ~5-10 mins)
     - cron: '*/5 * * * *'
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to push changes back
-
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run update script
-        run: python update_scores.py
-
-      - name: Commit and push if changed
+          python-version: '3.10'
+      - run: pip install requests
+      - run: python update_scores.py
+      - name: Commit and Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update live scores" && git push)
+          git config --global user.name "ScoreBot"
+          git config --global user.email "bot@github.com"
+          git add README.md livescore.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update livescore.json" && git push)
