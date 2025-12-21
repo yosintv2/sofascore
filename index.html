@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pro LiveScore Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap');
+        body { font-family: 'Outfit', sans-serif; background-color: #0f172a; color: white; }
+        .glass { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.05); }
+    </style>
+</head>
+<body class="min-h-screen p-4">
+
+    <div class="max-w-6xl mx-auto">
+        <nav class="flex justify-between items-center mb-10 py-4 border-b border-slate-800">
+            <div class="flex items-center gap-2">
+                <div class="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center font-bold">F</div>
+                <h1 class="text-xl font-extrabold tracking-tighter uppercase">Football<span class="text-indigo-500">Live</span></h1>
+            </div>
+            <div id="loader" class="text-[10px] text-slate-500 font-mono uppercase tracking-widest flex items-center gap-2">
+                <div class="w-2 h-2 bg-indigo-500 rounded-full animate-ping"></div>
+                Syncing API
+            </div>
+        </nav>
+
+        <div class="flex flex-col lg:flex-row gap-6">
+            <aside class="w-full lg:w-64 order-2 lg:order-1">
+                <div class="glass rounded-2xl p-5 sticky top-6">
+                    <h3 class="text-slate-400 text-xs font-bold uppercase mb-4 tracking-widest">Leagues</h3>
+                    <ul id="league-list" class="space-y-3">
+                        </ul>
+                </div>
+            </aside>
+
+            <main id="match-container" class="flex-1 space-y-4 order-1 lg:order-2">
+                <div class="py-20 text-center text-slate-500">Initializing connection...</div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'https://yosintv2.github.io/sofascore/livescore.json';
+        // We use a different, more reliable proxy that doesn't wrap the JSON
+        const PROXY = 'https://api.allorigins.win/get?url=';
+
+        async function fetchScores() {
+            try {
+                const response = await fetch(PROXY + encodeURIComponent(API_URL + '?t=' + Date.now()));
+                if (!response.ok) throw new Error('Proxy unreachable');
+                
+                const wrapper = await response.json();
+                // AllOrigins wraps data in a .contents string
+                const data = JSON.parse(wrapper.contents);
+                
+                renderUI(data);
+            } catch (error) {
+                console.error("Critical Error:", error);
+                document.getElementById('match-container').innerHTML = `
+                    <div class="glass p-8 rounded-2xl text-center border-red-900/30">
+                        <p class="text-red-400 font-semibold">Connection Timeout</p>
+                        <p class="text-slate-500 text-sm mt-1">Please ensure your GitHub API is public.</p>
+                        <button onclick="location.reload()" class="mt-4 bg-indigo-600 px-6 py-2 rounded-full text-sm font-bold">Refresh</button>
+                    </div>`;
+            }
+        }
+
+        function renderUI(matches) {
+            const container = document.getElementById('match-container');
+            const leagueList = document.getElementById('league-list');
+            
+            if (!matches || matches.length === 0) {
+                container.innerHTML = `<div class="glass p-10 rounded-2xl text-center">No active matches found.</div>`;
+                return;
+            }
+
+            // 1. Render Matches
+            container.innerHTML = matches.map(match => `
+                <div class="glass rounded-2xl overflow-hidden hover:bg-white/5 transition-all duration-300">
+                    <div class="p-6">
+                        <div class="flex justify-between items-center mb-4">
+                            <span class="text-[10px] font-bold py-1 px-2 bg-slate-800 rounded text-slate-300 uppercase tracking-widest">${match.league}</span>
+                            <span class="text-xs font-bold text-indigo-400 uppercase tracking-tighter">${match.minute}</span>
+                        </div>
+                        
+                        <div class="grid grid-cols-7 items-center">
+                            <div class="col-span-3 text-right font-bold text-lg text-slate-100">${match.home}</div>
+                            <div class="col-span-1 flex flex-col items-center">
+                                <div class="text-2xl font-black bg-indigo-600/20 text-indigo-400 w-14 h-10 flex items-center justify-center rounded-lg border border-indigo-500/30">
+                                    ${match.score.replace(/\s/g, '')}
+                                </div>
+                            </div>
+                            <div class="col-span-3 text-left font-bold text-lg text-slate-100">${match.away}</div>
+                        </div>
+                    </div>
+                    
+                    ${match.scorers && match.scorers.length > 0 ? `
+                        <div class="px-6 py-3 bg-white/[0.02] border-t border-white/5 flex flex-wrap gap-x-4 gap-y-1">
+                            ${match.scorers.map(s => `
+                                <div class="text-[11px] text-slate-400 flex items-center gap-1">
+                                    <span class="opacity-50 text-[8px]">⚽</span> ${s}
+                                </div>
+                            `).join('')}
+                        </div>
+                    ` : ''}
+                </div>
+            `).join('');
+
+            // 2. Render Leagues Sidebar
+            const leagues = [...new Set(matches.map(m => m.league))].sort();
+            leagueList.innerHTML = leagues.map(league => `
+                <li class="flex items-center justify-between text-sm text-slate-400 hover:text-white cursor-pointer group transition-all">
+                    <span>${league}</span>
+                    <span class="w-1.5 h-1.5 rounded-full bg-slate-700 group-hover:bg-indigo-500"></span>
+                </li>
+            `).join('');
+        }
+
+        // Start
+        fetchScores();
+        // Update every 30 seconds
+        setInterval(fetchScores, 30000);
+    </script>
+</body>
+</html>
