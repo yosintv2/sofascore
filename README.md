@@ -72,7 +72,7 @@
 | Greece Amateur: C EPS Korinthias | AO Ofeltis Arxaias Nemeas vs Dafni Poulitsas FC | **0 - 0** | --- |
 | Greece Amateur: C EPS Korinthias | Mapsos FC vs Fokas Arxaion Kleonon FC | **0 - 0** | --- |
 | Greece Amateur: C EPS Larissa - Group 1 | AO Aiantas Kallitheas 2023 vs POE B | **0 - 0** | --- |
-| Greece Amateur: A1 EPS Makedonias Group 1 | AS Neapolis vs AO Pavlos Melas | **0 - 0** | --- |
+| Greece Amateur: A1 EPS Makedonias Group 1 | AS Neapolis vs AO Pavlos Melas | **1 - 0** | Unknown Player 36' (H) |
 | Greece Amateur: A1 EPS Makedonias Group 1 | MAPO Keravnos Oraiokastrou vs AEO Finikas Toumpas | **0 - 0** | --- |
 | Greece Amateur: A EPS Makedonias - Group 1 | AE Ampelokipoi vs AMPS Thriamvos Partheniou | **0 - 0** | --- |
 | Greece Amateur: A EPS Makedonias - Group 1 | APO Eleftheriakos vs PAO Koufalion | **1 - 1** | Unknown Player -1' (A), Unknown Player -1' (H) |
@@ -111,7 +111,7 @@
 | India: Santosh Trophy, Group C | Jharkhand vs Delhi SA | **0 - 4** | Unknown Player 53' (A), Unknown Player 38' (A), Unknown Player 16' (A), Unknown Player 7' (A) |
 | India: Santosh Trophy, Group G | Pondicherry vs Tamil Nadu | **0 - 1** | Unknown Player 39' (A) |
 | India: Santosh Trophy, Group I | Maharashtra FA vs Rajasthan | **0 - 2** | Unknown Player 27' (A), Unknown Player 19' (A) |
-| Indonesia: Indonesia Super League | Persita Tangerang vs Persik Kediri | **3 - 0** | Hokky Caraka 69' (H), Hokky Caraka 66' (H) |
+| Indonesia: Indonesia Super League | Persita Tangerang vs Persik Kediri | **3 - 0** | Éber Bessa 82' (H), Hokky Caraka 69' (H), Hokky Caraka 66' (H) |
 | Indonesia: Indonesia Super League | PSM Makassar vs Malut United FC | **0 - 1** | David Da Silva 2' (A) |
 | Italy Amateur: Promozione Campania - Girone A | Giacomo Caracciolo Liternum vs Cellole | **0 - 0** | --- |
 | Italy Amateur: Promozione Campania - Girone B | Virtus San Gennarello vs Stabia City | **0 - 0** | --- |
@@ -141,9 +141,9 @@
 | Kenya: Premier League, Women | Kisped Queens vs Bungoma Queens | **1 - 0** | Unknown Player 9' (H) |
 | Romania Amateur: Liga 4 Vrancea | CSM Focșani 2007 vs Viitorul Măicănești | **0 - 0** | --- |
 | Spain Amateur: Tercera Federación, Group 4 | CF San Ignacio vs CD Aurrerá De Vitoria | **0 - 0** | --- |
-| Spain Amateur: Tercera Federación Femenina, Grupo 6 | UD Levante C vs CD Castellón | **0 - 1** | Unknown Player 7' (A) |
+| Spain Amateur: Tercera Federación Femenina, Grupo 6 | UD Levante C vs CD Castellón | **0 - 2** | Unknown Player 14' (A), Unknown Player 7' (A) |
 | Spain Amateur: Tercera Federación Femenina, Grupo 13 | FC Cartagena vs UCAM Murcia CF | **0 - 0** | --- |
-| Spain Amateur: Tercera Federación Femenina, Grupo 13 | Levante UD vs CD Castellón | **0 - 1** | Unknown Player 7' (A) |
+| Spain Amateur: Tercera Federación Femenina, Grupo 13 | Levante UD vs CD Castellón | **0 - 2** | Unknown Player 14' (A), Unknown Player 7' (A) |
 | Spain Amateur: Tercera Federación Femenina, Grupo 17 | CD Unión La Jota Vadorrey vs CD Ebro | **0 - 0** | --- |
 | Spain Amateur: Segunda Regional Aragón Grupo 1 - Zaragoza | Santa Isabel RSD vs Villanueva CF | **0 - 0** | --- |
 | Spain Amateur: Segunda Regional Aragón Grupo 2-2 - Huesca | CF Pomar vs CD Albalate Paobal | **0 - 0** | --- |
@@ -160,7 +160,7 @@
 | Spain Amateur: Primera Division Madrid, Grupo 1 | Las Rozas B vs Robledo | **0 - 0** | --- |
 | Thailand: Thai FA Cup | Samui United vs Khon Kaen United | **1 - 1** | Unknown Player 75' (A), Unknown Player 34' (H) |
 | Thailand: Thai FA Cup | Uttaradit FC vs Pattaya City FC | **1 - 0** | Unknown Player 99' (H) |
-| Thailand: Thai FA Cup | Customs United vs Buriram United | **1 - 0** | --- |
+| Thailand: Thai FA Cup | Customs United vs Buriram United | **1 - 0** | Unknown Player 7' (H) |
 | Turkey: TFF 2. Lig, Beyaz Grup | Adana 01 FK vs 24 Erzincanspor | **0 - 0** | --- |
 | Turkey: TFF 2. Lig, Beyaz Grup | Batman Petrolspor vs Bucaspor 1928 | **0 - 0** | --- |
 | Turkey: TFF 2. Lig, Kirmizi Grup | Kahramanmaraş İstiklalspor vs Somaspor | **1 - 0** | Kemal Rüzgar 10' (H) |
@@ -190,7 +190,7 @@
 | Turkey: Kadınlar 2. Ligi, Group 3 | Siverek Kadın Spor Kulübü vs Vangücü SK | **0 - 0** | --- |
 | Turkey: Kadınlar 2. Ligi, Group 4 | Sancaktepe Belediye Spor vs Bursa Soğanlıspor | **0 - 0** | --- |
 | Turkey: Kadınlar 2. Ligi, Group 4 | Tuzla Sahil Spor vs Avcılar Cihangirspor | **0 - 0** | --- |
-| Turkey Amateur: Bölgesel Amatör Lig - Group 1 | Batman Sason SK vs Murat 2020 GSK | **0 - 0** | --- |
+| Turkey Amateur: Bölgesel Amatör Lig - Group 1 | Batman Sason SK vs Murat 2020 GSK | **1 - 0** | Unknown Player 7' (H) |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 1 | Bulanık Kopspor vs Hakkari Zapspor | **1 - 1** | Unknown Player 8' (A), Unknown Player 5' (H) |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 1 | Doğubayazıt FK vs Dersimspor | **0 - 0** | --- |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 1 | İsmail Demirel Karaağaçspor vs Serhat Ardahan Spor | **1 - 0** | Unknown Player 1' (H) |
@@ -202,7 +202,7 @@
 | Turkey Amateur: Bölgesel Amatör Lig - Group 2 | Viranşehir Belediye Spor vs Kahta 02 SK | **0 - 0** | --- |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 3 | Batlamaspor vs Şiran Yıldızspor | **0 - 0** | --- |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 3 | Erzincangücü vs Rize Atletik 1973 SK | **0 - 0** | --- |
-| Turkey Amateur: Bölgesel Amatör Lig - Group 3 | Erzurum Büyükşehir Belediyesi SK vs Sivas Gücü Belediyespor | **0 - 0** | --- |
+| Turkey Amateur: Bölgesel Amatör Lig - Group 3 | Erzurum Büyükşehir Belediyesi SK vs Sivas Gücü Belediyespor | **1 - 0** | Unknown Player 9' (H) |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 3 | Kelkit 1954 SK vs Ortahisar FSK | **0 - 0** | --- |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 3 | Maçka Belediyespor vs Murgul Belediyespor | **0 - 0** | --- |
 | Turkey Amateur: Bölgesel Amatör Lig - Group 3 | Ünye 1957 SK vs Arsin Belediye Spor Kulübü | **0 - 0** | --- |
@@ -238,4 +238,4 @@
 | Turkey Amateur: Kayseri 1. Amatör Ligi, Group A | Kayseri Yolspor vs Kayseri Gültepespor | **0 - 0** | --- |
 
 
-*Updated: 2025-12-21 10:16:08 UTC*
+*Updated: 2025-12-21 10:17:33 UTC*
