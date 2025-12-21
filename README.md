@@ -5,7 +5,7 @@
 | Australia | Perth Glory vs Adelaide United | **1 - 0** | `2nd half` | Rola Badawiya 39'(H) |
 | Italy | Frosinone U20 vs Sassuolo U20 | **0 - 0** | `1st half` | --- |
 | Italy | Roma U20 vs Hellas Verona U20 | **0 - 0** | `1st half` | --- |
-| Andorra | Atlètic Club Escaldes vs UE Santa Coloma | **0 - 0** | `1st half` | --- |
+| Andorra | Atlètic Club Escaldes vs UE Santa Coloma | **0 - 1** | `1st half` | Unknown 18'(A) |
 | Azerbaijan | ŞKGB vs Topçular FK | **0 - 0** | `Started` | --- |
 | Azerbaijan | Qaradağ Şıxlar FK vs Dirçəliş FK | **0 - 0** | `Started` | --- |
 | Azerbaijan | Zəngəzur FK vs Ərgünəş FK | **0 - 0** | `Started` | --- |
@@ -106,7 +106,7 @@
 | Greece Amateur | FC Asklhpios Piaelias vs Gorgogiri | **0 - 0** | `Started` | --- |
 | Greece Amateur | Olympiacos Filon Podosfairou vs AO Peteinoi | **0 - 0** | `Started` | --- |
 | Hong Kong | Lucky Mile vs Bright Cerulean FC | **0 - 0** | `2nd half` | --- |
-| Hong Kong | Tsuen Wan vs Gospel FC | **1 - 2** | `1st half` | Unknown 20'(H), Unknown 18'(A), Unknown 12'(A) |
+| Hong Kong | Tsuen Wan vs Gospel FC | **1 - 2** | `Halftime` | Unknown 20'(H), Unknown 18'(A), Unknown 12'(A) |
 | India | Uttar Pradesh vs Haryana | **0 - 0** | `Halftime` | --- |
 | India | Jharkhand vs Delhi SA | **0 - 4** | `2nd half` | Unknown 53'(A), Unknown 38'(A), Unknown 16'(A), Unknown 7'(A) |
 | India | Pondicherry vs Tamil Nadu | **0 - 1** | `1st half` | Unknown 39'(A) |
@@ -162,7 +162,7 @@
 | Thailand | Uttaradit FC vs Pattaya City FC | **1 - 0** | `1st extra` | Unknown 99'(H) |
 | Thailand | Customs United vs Buriram United | **1 - 0** | `1st half` | Unknown 7'(H) |
 | Turkey | Adana 01 FK vs 24 Erzincanspor | **0 - 0** | `1st half` | --- |
-| Turkey | Batman Petrolspor vs Bucaspor 1928 | **0 - 0** | `1st half` | --- |
+| Turkey | Batman Petrolspor vs Bucaspor 1928 | **1 - 0** | `1st half` | Unknown 16'(H) |
 | Turkey | Kahramanmaraş İstiklalspor vs Somaspor | **1 - 0** | `1st half` | Kemal Rüzgar 10'(H) |
 | Turkey | Bulvarspor vs Etimesgut Belediyespor | **1 - 0** | `1st half` | Unknown 8'(H) |
 | Turkey | Karaköprü Belediyespor vs Kırıkkale FK | **0 - 0** | `1st half` | --- |
@@ -196,7 +196,7 @@
 | Turkey Amateur | İsmail Demirel Karaağaçspor vs Serhat Ardahan Spor | **1 - 0** | `1st half` | Unknown 1'(H) |
 | Turkey Amateur | Kars 36 Spor vs Kurtalanspor | **0 - 0** | `1st half` | --- |
 | Turkey Amateur | Şırnak Petrolspor vs Bitlis 1916 FSK | **0 - 0** | `1st half` | --- |
-| Turkey Amateur | Battalgazi Belediyespor vs Onikişubatspor | **0 - 0** | `1st half` | --- |
+| Turkey Amateur | Battalgazi Belediyespor vs Onikişubatspor | **1 - 0** | `1st half` | Unknown 16'(H) |
 | Turkey Amateur | Diyarbakırspor vs Elazığ Yolspor | **0 - 0** | `Started` | --- |
 | Turkey Amateur | Onikişubat İdman Yurdu vs Kocasinan Şimşekspor | **0 - 0** | `Started` | --- |
 | Turkey Amateur | Viranşehir Belediye Spor vs Kahta 02 SK | **0 - 0** | `1st half` | --- |
