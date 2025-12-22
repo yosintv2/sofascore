@@ -2,8 +2,8 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | World | América-RN vs Treze | **0 - 0** | `Halftime` | --- |
-| 22:15 | England | N5 FC vs VZN FC | **1 - 2** | `2nd half` | Martyn Waghorn 18'(H), Joshua Parker 17'(A), Tayos Flowers 7'(A) |
+| 22:00 | World | América-RN vs Treze | **1 - 1** | `2nd half` | Unknown 60'(A), Elierce Barboza de Souza 56'(H) |
+| 23:00 | Bolivia | Bolívar vs Nacional Potosí | **0 - 2** | `1st half` | Saulo Guerra 17'(A), William Álvarez 3'(A) |
 | 23:00 | Uruguay | CA Independiente de Mercedes vs Sportivo Barracas Dolores | **0 - 0** | `Started` | --- |
 | 23:00 | Uruguay Amateur | Paysandú Rampla Juniors FC vs CA Litoral | **0 - 0** | `Started` | --- |
 | 23:00 | Uruguay Amateur | CA Juventud Unida vs 18 de Julio FC | **0 - 0** | `Started` | --- |
