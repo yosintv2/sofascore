@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-23 19:42:51 UTC"
+        "updated": "2025-12-23 19:52:18 UTC"
     },
     "matches": [
         {
@@ -53,7 +53,7 @@
             "home": "Aldershot Town",
             "away": "West Ham U21",
             "score": "0 - 3",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Lewis Orford 25'(A)",
                 "Airidas Golambeckis 12'(A)",
@@ -66,9 +66,11 @@
             "country": "Algeria",
             "home": "MC Alger",
             "away": "ES Ben Aknoun",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Ayoub Ghezala 56'(H)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -81,30 +83,37 @@
             "scorers": []
         },
         {
+            "start_time": "19:45",
+            "league": "Southern League, Premier Division South",
+            "country": "England Amateur",
+            "home": "Hungerford Town",
+            "away": "Taunton Town",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Edward Case Cup",
+            "country": "England Amateur",
+            "home": "Daisy Hill FC",
+            "away": "Nelson FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "18:30",
             "league": "Greece Friendly Games",
             "country": "Greece Amateur",
             "home": "PS Enosi Anthokipon Karatasou",
             "away": "PMAS Agrotikos Asteras B",
-            "score": "1 - 0",
+            "score": "3 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 65'(H)",
+                "Unknown 62'(H)",
                 "Unknown 10'(H)"
-            ]
-        },
-        {
-            "start_time": "18:00",
-            "league": "Liga Bet South A",
-            "country": "Israel",
-            "home": "Maccabi Shaaraim",
-            "away": "FC Sderot",
-            "score": "0 - 4",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 53'(A)",
-                "Unknown 47'(A)",
-                "Unknown 35'(A)",
-                "Unknown 23'(A)"
             ]
         },
         {
@@ -124,10 +133,42 @@
             "home": "SS Virtus",
             "away": "SP Tre Fiori",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 32'(H)"
             ]
+        },
+        {
+            "start_time": "19:45",
+            "league": "Lowland League",
+            "country": "Scotland Amateur",
+            "home": "Bonnyrigg Rose",
+            "away": "Tranent FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Lowland League",
+            "country": "Scotland Amateur",
+            "home": "Cumbernauld Colts FC",
+            "away": "Caledonian Braves FC",
+            "score": "0 - 1",
+            "minute": "Started",
+            "scorers": [
+                "Unknown -1'(A)"
+            ]
+        },
+        {
+            "start_time": "19:45",
+            "league": "Lowland League",
+            "country": "Scotland Amateur",
+            "home": "Heart of Midlothian B U21",
+            "away": "Civil Service Strollers FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "19:00",
@@ -155,9 +196,10 @@
             "country": "Spain Amateur",
             "home": "R\u014dnin FC",
             "away": "Juventud 25 de Septiembre B",
-            "score": "2 - 0",
+            "score": "3 - 0",
             "minute": "2nd half",
             "scorers": [
+                "David C\u00e1rdenas 85'(H)",
                 "Edgar Alvaro 70'(H)",
                 "Nico Santos 45'(H)"
             ]
@@ -168,9 +210,10 @@
             "country": "Turkey Amateur",
             "home": "D\u00fcmenspor",
             "away": "Betong\u00fcc\u00fc FK",
-            "score": "1 - 2",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Emir Kadir Ekinci 28'(H)",
                 "Erdem Onat 17'(H)",
                 "Ahmet Kartal 7'(A)",
                 "\u00d6mer Akt\u00fcrk 5'(A)"
@@ -195,9 +238,10 @@
             "country": "Turkey Amateur",
             "home": "Grand Bazar FC",
             "away": "\u0130stanbul Bo\u011fazi\u00e7i SK",
-            "score": "2 - 0",
+            "score": "3 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Baver \u00d6zer 35'(H)",
                 "Nima Pourfarhadi 13'(H)",
                 "Chris Eren Dilmener 9'(H)"
             ]
@@ -208,9 +252,14 @@
             "country": "Turkey Amateur",
             "home": "Karacada\u011f",
             "away": "Bar\u0131\u015f Spor",
-            "score": "6 - 0",
-            "minute": "Halftime",
+            "score": "11 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Osman Ekinci 34'(H)",
+                "Mahmut \u00c7elik 34'(H)",
+                "Gaffar Okan Minig\u00fcl 31'(H)",
+                "\u0130smail Minig\u00fcl 30'(H)",
+                "Mehmet Emin Altun 26'(H)",
                 "Caner G\u00fcler 22'(H)",
                 "\u0130smail Minig\u00fcl 21'(H)",
                 "Mehmet Emin Altun 20'(H)",
