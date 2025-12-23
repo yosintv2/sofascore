@@ -2,11 +2,9 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 20:00 | Africa | Tunisia vs Uganda | **3 - 0** | `2nd half` | Elias Achouri 64'(H), Elias Achouri 40'(H), Ellyes Skhiri 10'(H) |
-| 20:45 | Portugal | Vitória SC vs Sporting CP | **0 - 2** | `Halftime` | Fotis Ioannidis 42'(A), Francisco Trincão 32'(A) |
-| 20:00 | England | Arsenal vs Crystal Palace | **1 - 0** | `2nd half` | Maxence Lacroix 80'(H) |
+| 20:45 | Portugal | Vitória SC vs Sporting CP | **0 - 2** | `2nd half` | Fotis Ioannidis 42'(A), Francisco Trincão 32'(A) |
+| 20:00 | England | Arsenal vs Crystal Palace | **1 - 1** | `2nd half` | Marc Guéhi 90'(A), Maxence Lacroix 80'(H) |
 | 20:15 | Argentina Amateur | Escobar FC vs Lima FC | **1 - 1** | `Halftime` | Unknown 25'(H), Unknown 15'(A) |
-| 20:00 | England Amateur | Farnham Town vs Plymouth Parkway | **4 - 0** | `2nd half` | Owen Dean 85'(H), Bobby-Joe Taylor 69'(H), Ryan Kinnane 38'(H), Darryl Sanders 25'(H) |
 | 19:45 | England Amateur | Daisy Hill FC vs Nelson FC | **3 - 1** | `2nd half` | Unknown 90'(H), Unknown 89'(H), Unknown 11'(H), Unknown 9'(A) |
 | 21:00 | Honduras | CD Marathon Reserves vs Lobos UPNFM Reserves | **0 - 0** | `Halftime` | --- |
 | 20:45 | Portugal Amateur | AMCH Ringe vs AD Guimarei | **0 - 0** | `Started` | --- |
