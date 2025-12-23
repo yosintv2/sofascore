@@ -2,17 +2,16 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 17:30 | Africa | Nigeria vs Tanzania | **0 - 0** | `1st half` | --- |
-| 17:30 | Turkey | Fenerbahçe vs Beşiktaş JK | **0 - 0** | `1st half` | --- |
-| 16:00 | Asia | Al-Sadd vs Shabab Al-Ahli Dubai | **1 - 2** | `2nd half` | Rafa Mújica 75'(H), Yahya Alghassani 70'(A), Federico Cartabia 47'(A) |
-| 17:00 | Albania | FK Partizani vs Dinamo City | **1 - 0** | `Halftime` | Rrok Toma 43'(H) |
-| 17:00 | Albania | KF Teuta Durrës vs KF Egnatia | **0 - 0** | `Halftime` | --- |
+| 17:30 | Africa | Nigeria vs Tanzania | **1 - 0** | `Halftime` | Semi Ajayi 36'(H) |
+| 17:30 | Turkey | Fenerbahçe vs Beşiktaş JK | **1 - 1** | `Halftime` | Marco Asensio 43'(H), Václav Černý 33'(A) |
+| 18:15 | Asia | Al-Ittihad vs Nasaf Qarshi | **0 - 0** | `1st half` | --- |
+| 17:00 | Albania | FK Partizani vs Dinamo City | **1 - 1** | `2nd half` | Dejvi Bregu 48'(A), Rrok Toma 43'(H) |
+| 17:00 | Albania | KF Teuta Durrës vs KF Egnatia | **0 - 1** | `2nd half` | Kastriot Selmani 61'(A) |
 | 17:00 | Croatia Amateur | Delta team vs Sigma team | **0 - 0** | `1st half` | --- |
-| 16:00 | Gambia | Gambian Dutch Lions vs BST Galaxy | **2 - 0** | `2nd half` | Unknown 8'(H), Unknown 6'(H) |
-| 16:00 | Gambia | Hawks FC vs Brikama United FC | **1 - 1** | `2nd half` | Unknown 62'(H), Unknown 40'(A) |
-| 16:00 | Gambia | Real De Banjul vs Hart Academy FC | **1 - 1** | `2nd half` | Unknown 56'(A), Unknown 9'(H) |
-| 16:00 | Gambia | TMT FA vs Medina United FA | **0 - 2** | `2nd half` | Unknown 25'(A), Unknown 12'(A) |
-| 16:15 | Israel | Hapoel Nof HaGalil U19 vs Ironi Tiberias U19 | **1 - 1** | `2nd half` | Unknown 21'(H), Unknown 2'(A) |
-| 15:45 | Kuwait | Al Kuwait SC vs Al Arabi SC Kuwait | **2 - 0** | `2nd half` | Mohammad Daham 39'(H), Yousef Nasser 5'(H) |
-| 16:00 | Liberia | Cece United FC vs Shaita FC | **2 - 2** | `2nd half` | Unknown 69'(A), Unknown 60'(A), Unknown 34'(H), Unknown 24'(H) |
-| 16:00 | Turkey Amateur | Diyarbakır Yıldızları Futbol SK vs Diyarbakır Gençlerbirliği | **1 - 0** | `Started` | Unknown 65'(H) |
+| 18:30 | Greece Amateur | PS Enosi Anthokipon Karatasou vs PMAS Agrotikos Asteras B | **0 - 0** | `Started` | --- |
+| 18:00 | Israel | AS Nordia Jerusalem U19 vs Hapoel Marmorek Rehovot U19 | **0 - 0** | `1st half` | --- |
+| 18:00 | Spain Amateur | Rōnin FC vs Juventud 25 de Septiembre B | **0 - 0** | `1st half` | --- |
+| 17:50 | Turkey Amateur | Veteranlar FK vs Kayaşehir United | **1 - 0** | `1st half` | Mehmet Erakça 12'(H) |
+| 18:00 | Turkey Amateur | Koçak FK vs Legion FC | **2 - 0** | `1st half` | Yunus Emre Koçak 15'(H), Ferhat Taşdelen 9'(H) |
+| 17:45 | Turkey Amateur | Mekas FK vs Matadorlar FC | **1 - 2** | `Halftime` | Yavuz Yılmaz 25'(A), İbrahim Öztürk 19'(H), Erdoğan Özer 12'(A) |
+| 18:00 | Turkey Amateur | Toprak Shop vs Çiğzade Diriliş | **0 - 0** | `1st half` | --- |
