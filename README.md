@@ -2,5 +2,6 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 21:00 | Honduras | CD Marathon Reserves vs Lobos UPNFM Reserves | **1 - 0** | `2nd half` | Unknown 69'(H) |
-| 20:45 | Portugal Amateur | AMCH Ringe vs AD Guimarei | **1 - 0** | `Started` | Unknown 90'(H) |
+| 23:30 | Argentina | Defensores Puerto Vilelas vs Resistencia Central | **0 - 0** | `1st half` | --- |
+| 23:30 | Uruguay | Club Campana de Libertad vs Juventud Unida de Libertad | **1 - 0** | `Started` | Facundo Porley Daveri -1'(H) |
+| 23:30 | Uruguay | San Eugenio FC de Artigas vs CA Uruguay de Bella Unión | **0 - 0** | `Started` | --- |
