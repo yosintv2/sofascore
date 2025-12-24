@@ -7,5 +7,5 @@
 | 18:00 | Egypt | Arab Contractors FC vs Tala'ea El-Gaish | **0 - 0** | `2nd half` | --- |
 | 19:00 | Honduras | CD Platense Reserves vs CD Olimpia Reserves | **0 - 1** | `Halftime` | Unknown 45'(A) |
 | 18:50 | Turkey Amateur | FC Bosna vs Paşa Spor | **2 - 0** | `2nd half` | Mert Atabey 29'(H), Burhan Er 25'(H) |
-| 19:00 | Turkey Amateur | Gençlergücü vs Bears FC | **1 - 1** | `2nd half` | Burak Talha Üstün 28'(H), Yusuf Arkın Kaya 15'(A) |
-| 18:45 | Turkey Amateur | Ziraat Bankası vs Kuzey FC | **2 - 1** | `2nd half` | Uğur Yıldız 32'(H), Rusat Özkan Çalışkan 29'(A), Murat Bilgin 7'(H) |
+| 19:00 | Turkey Amateur | Gençlergücü vs Bears FC | **1 - 2** | `2nd half` | Eren Bora Çakır 36'(A), Burak Talha Üstün 28'(H), Yusuf Arkın Kaya 15'(A) |
+| 18:45 | Turkey Amateur | Ziraat Bankası vs Kuzey FC | **3 - 1** | `2nd half` | Erdem Bingöl 42'(H), Uğur Yıldız 32'(H), Rusat Özkan Çalışkan 29'(A), Murat Bilgin 7'(H) |
