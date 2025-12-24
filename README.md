@@ -2,25 +2,29 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 08:30 | World | Hoàng Anh Gia Lai vs Thể Công - Viettel | **0 - 1** | `2nd half` | Trần Danh Trung 27'(A) |
+| 10:00 | Turkey | Iğdır FK vs Aliağa FK | **0 - 0** | `1st half` | --- |
+| 10:00 | Azerbaijan | Energetik Mingəçevir FK vs Şahdağ Qusar FK | **1 - 1** | `1st half` | Ruslan Voronsov 25'(A), Kenneth Kalunga 13'(H) |
+| 10:00 | Azerbaijan | Səbail FK vs Şimal FK | **0 - 0** | `1st half` | --- |
+| 10:30 | Azerbaijan | Baku Sporting FK vs PFK Zaqatala | **0 - 0** | `1st half` | --- |
 | 08:30 | Bangladesh | Somaj Kollayan KS Mugda vs Badda Jagorani Sangsad | **1 - 0** | `Started` | Unknown -1'(H) |
+| 10:00 | Ethiopia | Negelle Arsi vs Welwalu Adigrat | **1 - 0** | `1st half` | Unknown 6'(H) |
+| 10:00 | Ethiopia | Dessie Ketema vs Addis Ababa Ketema | **0 - 0** | `1st half` | --- |
+| 10:00 | Ethiopia | Harare City vs Akaki Kality | **0 - 1** | `1st half` | Unknown 17'(A) |
 | 08:00 | Ghana | Swift FA vs Shimizu FC | **0 - 0** | `2nd half` | --- |
-| 09:30 | India | GOA FA vs Karnataka State FA | **0 - 0** | `1st half` | --- |
-| 09:00 | India | Kickstart Karnataka FC vs Garhwal United FC | **0 - 0** | `Halftime` | --- |
-| 09:00 | India | Sethu FC vs East Bengal FC | **0 - 0** | `Halftime` | --- |
-| 09:00 | Myanmar | Yangon United vs Ayeyawady United | **0 - 0** | `Halftime` | --- |
-| 09:30 | Myanmar | Shan United vs Thitsar Arman FC | **1 - 1** | `1st half` | Sa Aung Pyae Ko 28'(H), Saw Myo Zaw 23'(A) |
-| 09:00 | Myanmar | Shan Utd Women vs Yangon City | **0 - 0** | `Halftime` | --- |
-| 08:30 | Thailand | Chachoengsao FC vs Burapha United | **0 - 0** | `2nd half` | --- |
-| 08:30 | Thailand | Customs United vs BFB Pattaya City | **2 - 1** | `2nd half` | Unknown 70'(H), Unknown 53'(A), Unknown 6'(H) |
-| 08:30 | Thailand | Futera United FC vs Royal Thai Air Force | **0 - 3** | `2nd half` | Unknown 27'(A), Unknown 19'(A), Unknown 3'(A) |
-| 08:30 | Thailand | Hua Hin City FC vs Thonburi United | **0 - 2** | `2nd half` | Unknown 58'(A), Unknown 26'(A) |
-| 08:30 | Thailand | Kasem Bundit University FC vs North Bangkok University FC | **0 - 0** | `2nd half` | --- |
-| 08:30 | Thailand | Khelang United vs Chattrakarn City FC | **0 - 0** | `2nd half` | --- |
-| 08:30 | Thailand | Nara United vs Phuket Andaman | **2 - 0** | `2nd half` | Unknown 60'(H), Unknown 53'(H) |
-| 08:30 | Thailand | Samut Songkhram FC vs Raj Pracha | **0 - 0** | `2nd half` | --- |
-| 08:30 | Thailand | Satun United FC vs Muang Trang United | **3 - 0** | `2nd half` | Unknown 23'(H), Unknown 18'(H), Unknown 3'(H) |
-| 08:30 | Thailand | Thap Luang United FC vs Nonthaburi United | **0 - 0** | `2nd half` | --- |
-| 08:30 | Thailand | VRN Muangnont FC vs Samut Sakhon City | **1 - 2** | `2nd half` | Unknown 57'(H), Unknown 18'(A), Unknown 13'(A) |
-| 08:30 | Thailand | Yala FC vs Samui United | **0 - 1** | `2nd half` | Unknown 31'(A) |
+| 10:00 | Ghana | Footworks FC vs Royal Unique FC | **0 - 0** | `Started` | --- |
+| 09:30 | India | GOA FA vs Karnataka State FA | **1 - 0** | `Halftime` | Unknown 45'(H) |
+| 09:00 | India | Kickstart Karnataka FC vs Garhwal United FC | **0 - 0** | `2nd half` | --- |
+| 09:00 | India | Sethu FC vs East Bengal FC | **0 - 0** | `2nd half` | --- |
+| 09:30 | India Amateur | Millat FC vs Mumbay FC | **0 - 1** | `1st half` | Unknown 7'(A) |
+| 09:00 | Myanmar | Yangon United vs Ayeyawady United | **0 - 0** | `2nd half` | --- |
+| 09:30 | Myanmar | Shan United vs Thitsar Arman FC | **2 - 1** | `2nd half` | Sa Aung Pyae Ko 45'(H), Sa Aung Pyae Ko 28'(H), Saw Myo Zaw 23'(A) |
+| 09:00 | Myanmar | Shan Utd Women vs Yangon City | **2 - 0** | `2nd half` | Unknown 68'(H), Unknown 54'(H) |
+| 08:30 | Thailand | Kasem Bundit University FC vs North Bangkok University FC | **1 - 0** | `2nd half` | Unknown 90'(H) |
+| 10:00 | Thailand | Buriram United U21 vs Bangkok United U21 | **0 - 0** | `1st half` | --- |
+| 10:00 | Turkey | Bornova 1877 U19 vs Manisa FK U19 | **1 - 0** | `1st half` | Unknown 29'(H) |
+| 10:00 | Turkey Amateur | Çarşıbaşı Belediyespor vs Pazarkapıspor | **0 - 0** | `Started` | --- |
+| 10:00 | Turkey Amateur | Tonyaspor vs 1986 Yenimahalle Gençlikspor | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey Amateur | Akçaabat Tütünspor vs Pelitlispor FK | **0 - 1** | `Started` | Unknown 1'(A) |
+| 10:00 | Turkey Amateur | Ofspor vs Trabzon Fatih Gençlikspor | **1 - 0** | `Started` | Unknown 5'(H) |
+| 10:00 | Turkey Amateur | Özdilspor vs Trabzon Erdoğduspor | **0 - 0** | `Started` | --- |
+| 10:00 | Vietnam | Luxury Ha Long U19 vs Ha Noi FC U19 | **0 - 2** | `1st half` | Unknown 22'(A), Unknown 18'(A) |
