@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-25 17:59:18 UTC"
+        "updated": "2025-12-25 18:39:07 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Al-Riyadh",
             "away": "Al-Ettifaq",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -20,6 +20,16 @@
             "country": "Saudi Arabia",
             "home": "Neom SC",
             "away": "Al-Najma SC",
+            "score": "0 - 0",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Ligue 1",
+            "country": "Algeria",
+            "home": "CR Belouizdad",
+            "away": "ES S\u00e9tif",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -30,6 +40,20 @@
             "country": "Egypt",
             "home": "Pyramids FC",
             "away": "Ismaily",
+            "score": "0 - 3",
+            "minute": "1st half",
+            "scorers": [
+                "Nader Farag 40'(A)",
+                "Nader Farag 38'(A)",
+                "Abdel Karim Mostafa 6'(A)"
+            ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "League Cup, Group C",
+            "country": "Egypt",
+            "home": "Zamalek SC",
+            "away": "Smouha",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -40,9 +64,11 @@
             "country": "Israel",
             "home": "Bnei Sakhnin",
             "away": "Maccabi Yafo Kabilyo",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Yoel Abuhatzira 61'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -51,7 +77,7 @@
             "home": "Bnei Yehuda Tel Aviv",
             "away": "Maccabi Ata Bialik",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 14'(H)"
             ]
@@ -63,7 +89,7 @@
             "home": "Hapoel Petach Tikva",
             "away": "Hapoel Ironi Karmiel",
             "score": "2 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 45'(H)",
                 "Unknown 13'(A)",
@@ -76,12 +102,23 @@
             "country": "Israel",
             "home": "Hapoel Raanana",
             "away": "Maccabi Kiiryat Gat",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Reef Messika 62'(A)",
                 "Awajo Asefa 13'(H)",
                 "Unknown 11'(A)"
             ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "State Cup",
+            "country": "Israel",
+            "home": "Hapoel Tel Aviv",
+            "away": "Ashdod SC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -90,7 +127,7 @@
             "home": "Sport Club Ramla",
             "away": "MS Shikun Hamizrah",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 45'(A)"
             ]
@@ -101,6 +138,18 @@
             "country": "Israel",
             "home": "Beitar Kfar Saba Shlomi",
             "away": "Hapoel Bnei Lod",
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 35'(A)"
+            ]
+        },
+        {
+            "start_time": "18:30",
+            "league": "Liga Bet South A",
+            "country": "Israel",
+            "home": "Beitar Ironi Kiryat Gat",
+            "away": "Ihud Tzeirey Abu Gosh FC",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -112,7 +161,7 @@
             "home": "Hapoel Yafia",
             "away": "Beitar Haifa Yaacov",
             "score": "1 - 2",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 29'(A)",
                 "Unknown 23'(A)",
@@ -125,9 +174,10 @@
             "country": "Libya",
             "home": "Swehly SC",
             "away": "Al Khums SC",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Mohammed Al Tubal 73'(H)",
                 "John Oto John 49'(H)"
             ]
         },
@@ -137,33 +187,11 @@
             "country": "Libya",
             "home": "Al Madina Tripoli SC",
             "away": "Al Ahli Tripoli",
-            "score": "0 - 1",
-            "minute": "Halftime",
-            "scorers": [
-                "Mohammed Al Munir 22'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Premier League, Group 3",
-            "country": "Libya",
-            "home": "Al Ahly Benghazi",
-            "away": "Al Hilal Benghazi SC",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Super Ligue",
-            "country": "Niger",
-            "home": "AS Police Niamey",
-            "away": "Olympic Niamey",
             "score": "1 - 1",
-            "minute": "Started",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 90'(A)",
-                "Unknown -1'(H)"
+                "Amjed Al Gsheim 66'(H)",
+                "Mohammed Al Munir 22'(A)"
             ]
         },
         {
@@ -172,95 +200,50 @@
             "country": "Saudi Arabia",
             "home": "Al-Artawi",
             "away": "Al-Najm Al-Sahili",
-            "score": "2 - 0",
+            "score": "2 - 1",
             "minute": "Started",
             "scorers": [
+                "Unknown 50'(A)",
                 "Unknown 35'(H)",
                 "Unknown 18'(H)"
             ]
         },
         {
-            "start_time": "16:30",
-            "league": "Gaziantep S\u00fcper Amat\u00f6r Ligi - Group 2",
+            "start_time": "17:50",
+            "league": "Pozitif Lig, Group B",
             "country": "Turkey Amateur",
-            "home": "Beykentg\u00fcc\u00fc 2014",
-            "away": "Gazikent SK",
-            "score": "0 - 3",
-            "minute": "2nd half",
+            "home": "T\u0131kt\u0131k Spor",
+            "away": "Pars FK",
+            "score": "3 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 50'(A)",
-                "Unknown 10'(A)",
-                "Unknown 8'(A)"
+                "Soner Da\u011fdelen 24'(H)",
+                "Berat M\u00fclazimo\u011flu 12'(H)",
+                "Mustafa Samsama 9'(H)"
             ]
         },
         {
-            "start_time": "16:30",
-            "league": "Gaziantep S\u00fcper Amat\u00f6r Ligi - Group 2",
+            "start_time": "17:45",
+            "league": "Futbolig A\u00e7\u0131l\u0131\u015f Sezonu, Group A",
             "country": "Turkey Amateur",
-            "home": "Gaziantep Anadoluspor",
-            "away": "Araban Belediyespor",
-            "score": "2 - 4",
-            "minute": "2nd half",
+            "home": "Olympus FC",
+            "away": "\u00c7engelnazionale FC",
+            "score": "1 - 0",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 53'(H)",
-                "Unknown 49'(H)",
-                "Unknown 43'(A)",
-                "Unknown 22'(A)",
-                "Unknown 18'(A)",
-                "Unknown 13'(A)"
+                "Turan Bu\u011fday 13'(H)"
             ]
         },
         {
-            "start_time": "16:30",
-            "league": "Gaziantep S\u00fcper Amat\u00f6r Ligi - Group 2",
+            "start_time": "18:00",
+            "league": "Sokak Lig 34, Group B",
             "country": "Turkey Amateur",
-            "home": "Gaziantepg\u00fcc\u00fc SK",
-            "away": "Gaziantep Kalespor",
-            "score": "2 - 0",
-            "minute": "2nd half",
+            "home": "Vice City SK",
+            "away": "Demirg\u00fcc\u00fc FC",
+            "score": "1 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 68'(H)",
-                "Unknown 45'(H)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Gaziantep S\u00fcper Amat\u00f6r Ligi - Group 2",
-            "country": "Turkey Amateur",
-            "home": "Gaziantep G\u00fcneydo\u011fuspor",
-            "away": "\u015eehitkamil Kar\u015f\u0131yaka Futbol SK",
-            "score": "0 - 13",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 58'(A)",
-                "Unknown 53'(A)",
-                "Unknown 46'(A)",
-                "Unknown 43'(A)",
-                "Unknown 41'(A)",
-                "Unknown 35'(A)",
-                "Unknown 25'(A)",
-                "Unknown 24'(A)",
-                "Unknown 22'(A)",
-                "Unknown 18'(A)",
-                "Unknown 17'(A)",
-                "Unknown 7'(A)",
-                "Unknown 5'(A)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Gaziantep S\u00fcper Amat\u00f6r Ligi - Group 2",
-            "country": "Turkey Amateur",
-            "home": "\u00dc\u00e7oklar Demirspor",
-            "away": "Samspor",
-            "score": "1 - 4",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 65'(A)",
-                "Unknown 43'(A)",
-                "Unknown 25'(H)",
-                "Unknown 20'(A)",
-                "Unknown 9'(A)"
+                "Yasin \u015eavl\u0131 21'(H)"
             ]
         }
     ]
