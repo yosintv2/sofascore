@@ -2,4 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Honduras | Olancho FC vs Platense Futbol Club | **0 - 0** | `1st half` | --- |
+| 23:00 | Honduras | Olancho FC vs Platense Futbol Club | **1 - 0** | `1st half` | Unknown 39'(H) |
