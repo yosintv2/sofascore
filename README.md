@@ -2,4 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 20:00 | Haiti | Baltimore SC vs Ouanaminthe FC | **1 - 0** | `2nd half` | Unknown 11'(H) |
+| 23:00 | Honduras | Olancho FC vs Platense Futbol Club | **0 - 0** | `1st half` | --- |
