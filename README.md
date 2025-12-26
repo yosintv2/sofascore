@@ -2,5 +2,6 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 02:00 | Japan | Toyo University vs Kibi International University | **1 - 1** | `2nd half` | Unknown 48'(A), Unknown 34'(H) |
-| 02:00 | Japan | Waseda University vs Osaka University HSS | **0 - 0** | `2nd half` | --- |
+| 05:30 | India | Somaiya FC vs Soccer XI | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | Tokyo International University vs Shizuoka Sangyo University | **2 - 0** | `1st half` | Unknown 14'(H), Unknown 2'(H) |
+| 05:00 | Japan | Yamanashi Gakuin University vs Otemon Gakuin University | **1 - 0** | `1st half` | Unknown 34'(H) |
