@@ -15,5 +15,4 @@
 | 19:45 | England Amateur | Guisborough Town vs Northallerton Town FC | **0 - 0** | `Started` | --- |
 | 19:45 | England Amateur | Marske United FC vs Boro Rangers FC | **0 - 0** | `Started` | --- |
 | 19:45 | England Amateur | Penrith AFC vs Kendal Town | **0 - 0** | `Started` | --- |
-| 19:00 | Turkey Amateur | Camlıkahve United vs Bongomya FC | **2 - 2** | `2nd half` | Anıl Sarıçiçek 42'(H), Burhan Altun 42'(A), Ali Çaça 18'(H), Furkan Berat Aktar 7'(A) |
-| 19:45 | Turkey Amateur | Etiler İdman Yurdu vs FC Trapezounta | **0 - 0** | `1st half` | --- |
+| 19:45 | Turkey Amateur | Etiler İdman Yurdu vs FC Trapezounta | **0 - 2** | `1st half` | Kerem Güven 25'(A), Yavuz Bakkal 14'(A) |
