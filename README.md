@@ -2,4 +2,5 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Honduras | Olancho FC vs Platense Futbol Club | **1 - 0** | `Halftime` | Rodrigo de Olivera 39'(H) |
+| 02:00 | Japan | Toyo University vs Kibi International University | **1 - 1** | `2nd half` | Unknown 48'(A), Unknown 34'(H) |
+| 02:00 | Japan | Waseda University vs Osaka University HSS | **0 - 0** | `2nd half` | --- |
