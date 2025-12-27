@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-27 13:41:48 UTC"
+        "updated": "2025-12-27 13:52:03 UTC"
     },
     "matches": [
         {
@@ -35,7 +35,7 @@
             "country": "Belgium",
             "home": "Royal Antwerp FC",
             "away": "SV Zulte Waregem",
-            "score": "1 - 1",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
                 "Vincent Janssen 43'(H)",
@@ -62,9 +62,10 @@
             "country": "Turkey",
             "home": "Vanspor FK",
             "away": "Hatayspor",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "2 - 0",
+            "minute": "Halftime",
             "scorers": [
+                "Emir Bars 45'(H)",
                 "Iv\u00e1n C\u00e9dric 40'(H)"
             ]
         },
@@ -74,9 +75,10 @@
             "country": "Saudi Arabia",
             "home": "Al-Qadsiah",
             "away": "Damac FC",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "1 - 1",
+            "minute": "Halftime",
             "scorers": [
+                "Mateo Retegui 45'(H)",
                 "Valent\u00edn Vada 4'(A)"
             ]
         },
@@ -87,7 +89,7 @@
             "home": "Olympique Akbou",
             "away": "USM Alger",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -109,7 +111,7 @@
             "home": "Bechar Djedid",
             "away": "RC Arba\u00e2",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 16'(A)",
                 "Unknown 8'(H)"
@@ -122,7 +124,7 @@
             "home": "CRB Adrar",
             "away": "JS Tixeraine",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 5'(A)"
             ]
@@ -134,7 +136,7 @@
             "home": "CR Temouchent",
             "away": "JSM Tiaret",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 8'(H)"
             ]
@@ -146,7 +148,7 @@
             "home": "ESM Kolea",
             "away": "WA Tlemcen",
             "score": "3 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 36'(H)",
                 "Unknown 31'(H)",
@@ -269,7 +271,7 @@
             "home": "Bowers & Pitsea",
             "away": "Concord Rangers",
             "score": "1 - 2",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 28'(H)",
                 "Unknown 25'(A)",
@@ -292,6 +294,16 @@
             "country": "England Amateur",
             "home": "East Grinstead Town",
             "away": "Jersey Bulls FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "13:00",
+            "league": "Southern Football League, Division One South",
+            "country": "England Amateur",
+            "home": "Didcot Town",
+            "away": "Swindon Supermarine FC",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -357,16 +369,6 @@
             "scorers": []
         },
         {
-            "start_time": "11:30",
-            "league": "MTN Premier League",
-            "country": "Eswatini",
-            "home": "Amawele FC",
-            "away": "Young Buffaloes FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "13:00",
             "league": "MTN Premier League",
             "country": "Eswatini",
@@ -392,6 +394,16 @@
             "country": "Eswatini",
             "home": "Mbabane Highlanders",
             "away": "Tabankulu Celtics",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "13:45",
+            "league": "MTN Premier League",
+            "country": "Eswatini",
+            "home": "Mbabane Swallows",
+            "away": "Manzini Sea Birds",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -560,23 +572,13 @@
             "scorers": []
         },
         {
-            "start_time": "11:30",
-            "league": "Azadegan League",
-            "country": "Iran",
-            "home": "Pars Jonoubi Jam",
-            "away": "Beasat Kermanshah FC",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
             "start_time": "13:00",
             "league": "State Cup",
             "country": "Israel",
             "home": "Maccabi Ahi Nazareth",
             "away": "Maccabi Haifa",
             "score": "0 - 6",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Guy Melamed 30'(A)",
                 "Unknown 25'(A)",
@@ -605,7 +607,7 @@
             "home": "Ramtha SC",
             "away": "Al Hussein Irbid",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -614,9 +616,11 @@
             "country": "Libya",
             "home": "Shabab Al Ghar",
             "away": "Al Majd Tripoli SCS",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Mouad Al Sharif 12'(A)"
+            ]
         },
         {
             "start_time": "12:30",
@@ -624,9 +628,11 @@
             "country": "Libya",
             "home": "Andalus FC",
             "away": "Al Afriqi Derna SC",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Riliwan Gbadamosi 46'(A)"
+            ]
         },
         {
             "start_time": "13:00",
@@ -637,7 +643,7 @@
             "score": "1 - 0",
             "minute": "1st half",
             "scorers": [
-                "Unknown 31'(H)"
+                "Yusuf Lawal 31'(H)"
             ]
         },
         {
@@ -785,7 +791,7 @@
             "home": "Kiyovu SC",
             "away": "Amagaju",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -807,7 +813,7 @@
             "home": "\u200fTouik",
             "away": "Al-Shoulla",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 27'(A)"
             ]
@@ -844,9 +850,10 @@
             "country": "Saudi Arabia",
             "home": "Al-Ghota",
             "away": "Al-Nairiyah",
-            "score": "0 - 2",
+            "score": "0 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Maher Boulabiar 56'(A)",
                 "Maher Boulabiar 40'(A)",
                 "Mory Kone 18'(A)"
             ]
@@ -857,9 +864,10 @@
             "country": "Saudi Arabia",
             "home": "Al-Leewa",
             "away": "Ohod",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Juninho 66'(H)",
                 "Unknown 26'(H)"
             ]
         },
@@ -880,7 +888,7 @@
             "home": "Al-Rayyan",
             "away": "Bisha",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -909,9 +917,11 @@
             "country": "Saudi Arabia",
             "home": "Al-Mahmal",
             "away": "Al-Asyah",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 28'(H)"
+            ]
         },
         {
             "start_time": "12:25",
@@ -1013,7 +1023,7 @@
             "home": "Gunners FC",
             "away": "Mbeya Kwanza FC",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 11'(A)"
             ]
@@ -1025,7 +1035,7 @@
             "home": "Kiluvya FC",
             "away": "Hausang FC",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 37'(A)",
                 "Unknown 34'(H)"
@@ -1037,8 +1047,8 @@
             "country": "Thailand",
             "home": "Thap Luang United FC",
             "away": "Chiangrai United",
-            "score": "0 - 0",
-            "minute": "2nd extra",
+            "score": "3 - 3",
+            "minute": "Penalties",
             "scorers": []
         },
         {
@@ -1048,7 +1058,7 @@
             "home": "Khonkaen United U19",
             "away": "Kanchanaburi Power FC",
             "score": "0 - 0",
-            "minute": "1st extra",
+            "minute": "2nd extra",
             "scorers": []
         },
         {
@@ -1070,7 +1080,7 @@
             "home": "AS Manzel Jemil",
             "away": "Js Manouba",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1080,7 +1090,7 @@
             "home": "AS Oued Ellil",
             "away": "ES Beni Khalled",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 18'(H)"
             ]
@@ -1092,7 +1102,7 @@
             "home": "CS Manzel Bouzelfa",
             "away": "Grombalia Sports",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1102,7 +1112,7 @@
             "home": "ES Rades",
             "away": "SS Zarzouna",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1112,7 +1122,7 @@
             "home": "FS Ras Jebel",
             "away": "US Kelibia",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1122,7 +1132,7 @@
             "home": "AS Mhamdia",
             "away": "Olympique du Kef",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 17'(A)"
             ]
@@ -1134,7 +1144,7 @@
             "home": "Bir Mchergua Sport",
             "away": "ES Krib",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1144,7 +1154,7 @@
             "home": "CS Tabarka",
             "away": "CS Hajeb Laayoun",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1154,7 +1164,7 @@
             "home": "ES Fahs",
             "away": "Thala Sport",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1164,7 +1174,7 @@
             "home": "ES Feriana",
             "away": "C S Dahmeni",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1174,7 +1184,7 @@
             "home": "US Sbeitla",
             "away": "Club Medjazi",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1206,7 +1216,7 @@
             "home": "ES Djerba",
             "away": "US Ajim Djerba",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1225,7 +1235,7 @@
             "country": "Turkey Amateur",
             "home": "Ba\u011flarba\u015f\u0131 SK",
             "away": "\u00c7anak\u00e7aspor",
-            "score": "3 - 0",
+            "score": "4 - 0",
             "minute": "Started",
             "scorers": [
                 "Unknown 50'(H)",
@@ -1295,9 +1305,12 @@
             "country": "Turkey Amateur",
             "home": "Anadolu \u00dcsk\u00fcdarspor",
             "away": "Kuzguncukspor",
-            "score": "0 - 1",
+            "score": "2 - 2",
             "minute": "Started",
             "scorers": [
+                "Unknown 62'(H)",
+                "Unknown 56'(H)",
+                "Unknown 45'(A)",
                 "Unknown 6'(A)"
             ]
         },
@@ -1307,9 +1320,11 @@
             "country": "Turkey Amateur",
             "home": "Beylikd\u00fcz\u00fc Kuzeyin Kaplanlar\u0131 SK",
             "away": "Alibeyk\u00f6yspor",
-            "score": "1 - 2",
+            "score": "1 - 4",
             "minute": "Started",
             "scorers": [
+                "Unknown 80'(A)",
+                "Unknown 78'(A)",
                 "Unknown 45'(A)",
                 "Unknown 23'(A)",
                 "Unknown 8'(H)"
@@ -1321,9 +1336,10 @@
             "country": "Turkey Amateur",
             "home": "\u0130stanbul Bafra",
             "away": "Ortak\u00f6y SK",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "Started",
             "scorers": [
+                "Unknown 39'(H)",
                 "Unknown 15'(A)"
             ]
         },
@@ -1333,9 +1349,11 @@
             "country": "Turkey Amateur",
             "home": "Sultangazispor",
             "away": "K\u00fc\u00e7\u00fckk\u00f6yspor",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 50'(H)"
+            ]
         },
         {
             "start_time": "12:00",
@@ -1343,9 +1361,11 @@
             "country": "Turkey Amateur",
             "home": "Pa\u015fabah\u00e7e",
             "away": "Cevizlispor",
-            "score": "2 - 0",
+            "score": "4 - 0",
             "minute": "Started",
             "scorers": [
+                "Unknown 69'(H)",
+                "Unknown 45'(H)",
                 "Unknown 28'(H)",
                 "Unknown 24'(H)"
             ]
@@ -1356,9 +1376,10 @@
             "country": "Turkey Amateur",
             "home": "Karam\u00fcrsel Ere\u011flispor",
             "away": "\u0130hsaniyespor",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "Started",
             "scorers": [
+                "Unknown 56'(H)",
                 "Unknown 4'(H)"
             ]
         },
@@ -1368,9 +1389,11 @@
             "country": "Turkey Amateur",
             "home": "Bornova 1881 Spor",
             "away": "Bornova Futbol A.\u015e.",
-            "score": "1 - 0",
+            "score": "2 - 1",
             "minute": "Started",
             "scorers": [
+                "Unknown 63'(H)",
+                "Unknown 57'(A)",
                 "Unknown 34'(H)"
             ]
         },
@@ -1380,9 +1403,10 @@
             "country": "Turkey Amateur",
             "home": "Bornova Ye\u015filovaspor",
             "away": "Bornova Belediyespor",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "Started",
             "scorers": [
+                "Cemre \u00d6mero\u011flu 41'(H)",
                 "Ali Bu\u011fra G\u00f6zlemeci 20'(A)"
             ]
         },
@@ -1392,9 +1416,15 @@
             "country": "Turkey Amateur",
             "home": "Bayrakl\u0131 1954 Futbol Kul\u00fcb\u00fc",
             "away": "\u0130ki\u00e7e\u015fmelikspor",
-            "score": "4 - 1",
+            "score": "10 - 1",
             "minute": "Started",
             "scorers": [
+                "Unknown 84'(H)",
+                "Unknown 80'(H)",
+                "Unknown 79'(H)",
+                "Unknown 75'(H)",
+                "Unknown 65'(H)",
+                "Unknown 47'(H)",
                 "Unknown 45'(H)",
                 "Unknown 43'(H)",
                 "Unknown 28'(H)",
@@ -1408,9 +1438,10 @@
             "country": "Turkey Amateur",
             "home": "\u00c7amdibi \u0130dman Yurdu",
             "away": "Ege \u00dcniversitesi SK",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "Started",
             "scorers": [
+                "Unknown 77'(A)",
                 "Unknown 44'(A)",
                 "Unknown 20'(H)"
             ]
@@ -1421,9 +1452,13 @@
             "country": "Turkey Amateur",
             "home": "\u015eirinyerspor",
             "away": "Karaba\u011flar Ye\u015filyurt FK",
-            "score": "0 - 0",
+            "score": "0 - 3",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 30'(A)",
+                "Unknown 27'(A)",
+                "Unknown 24'(A)"
+            ]
         },
         {
             "start_time": "12:00",
@@ -1431,9 +1466,11 @@
             "country": "Turkey Amateur",
             "home": "Sakin\u015fehir Seferihisarspor",
             "away": "G\u00fczelbah\u00e7e Futbol SK",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 66'(A)"
+            ]
         },
         {
             "start_time": "12:00",
@@ -1441,9 +1478,10 @@
             "country": "Turkey Amateur",
             "home": "\u00c7otanakspor",
             "away": "Odunlukspor",
-            "score": "0 - 3",
+            "score": "0 - 4",
             "minute": "Started",
             "scorers": [
+                "Unknown 68'(A)",
                 "Unknown 36'(A)",
                 "Unknown 32'(A)",
                 "Unknown 18'(A)"
@@ -1458,6 +1496,7 @@
             "score": "1 - 1",
             "minute": "Started",
             "scorers": [
+                "Unknown 69'(A)",
                 "Unknown 43'(A)",
                 "Unknown 10'(H)"
             ]
@@ -1468,9 +1507,10 @@
             "country": "Turkey Amateur",
             "home": "Eski\u015fehir Sa\u011fl\u0131kspor",
             "away": "Eski\u015fehir Demirspor",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "Started",
             "scorers": [
+                "Unknown 43'(H)",
                 "Unknown 22'(A)"
             ]
         },
@@ -1480,9 +1520,12 @@
             "country": "Turkey Amateur",
             "home": "Mersin Galataspor",
             "away": "Mersin Karacailyasspor",
-            "score": "0 - 0",
+            "score": "0 - 2",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 28'(A)",
+                "Unknown 4'(A)"
+            ]
         },
         {
             "start_time": "12:00",
