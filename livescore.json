@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-27 14:45:54 UTC"
+        "updated": "2025-12-27 14:55:32 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Lecce",
             "away": "Como",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Nico Paz 20'(A)"
             ]
@@ -23,8 +23,9 @@
             "home": "Torino",
             "away": "Cagliari",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
+                "Matteo Prati 45'(A)",
                 "Nikola Vla\u0161i\u0107 27'(H)"
             ]
         },
@@ -35,7 +36,7 @@
             "home": "Lusitano Gin\u00e1sio Clube",
             "away": "AD Fafe",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -45,7 +46,7 @@
             "home": "Carrarese",
             "away": "Mantova",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -55,7 +56,7 @@
             "home": "Catanzaro",
             "away": "Cesena",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Pietro Iemmello 26'(H)"
             ]
@@ -67,7 +68,7 @@
             "home": "Empoli",
             "away": "Frosinone",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Marco Nasti 24'(H)",
                 "Antonio Raimondo 16'(A)"
@@ -80,7 +81,7 @@
             "home": "Juve Stabia",
             "away": "S\u00fcdtirol",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Fabio Maistro 19'(H)"
             ]
@@ -92,7 +93,7 @@
             "home": "Sampdoria",
             "away": "Reggiana",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Francesco Conti 26'(H)",
                 "Manolo Portanova 14'(A)"
@@ -105,7 +106,7 @@
             "home": "Venezia",
             "away": "Virtus Entella",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "John Yeboah 16'(H)"
             ]
@@ -116,9 +117,10 @@
             "country": "Turkey",
             "home": "Vanspor FK",
             "away": "Hatayspor",
-            "score": "3 - 0",
+            "score": "4 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Muhammed \u00c7oksu 90'(H)",
                 "Medeni Bingol 67'(H)",
                 "Emir Bars 45'(H)",
                 "Iv\u00e1n C\u00e9dric 40'(H)"
@@ -138,28 +140,26 @@
             ]
         },
         {
+            "start_time": "14:50",
+            "league": "Saudi Pro League",
+            "country": "Saudi Arabia",
+            "home": "Al-Nassr",
+            "away": "Al-Okhdood",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "14:30",
             "league": "Stars League",
             "country": "Qatar",
             "home": "Al-Shahaniya",
             "away": "Al-Gharafa",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
+                "Mohamed Sayyar 22'(H)",
                 "Mohamed Sayyar 4'(H)"
-            ]
-        },
-        {
-            "start_time": "13:00",
-            "league": "Ligue 1",
-            "country": "Algeria",
-            "home": "Olympique Akbou",
-            "away": "USM Alger",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Ahmed Khaldi 78'(A)",
-                "Mohamed Amine Gherbi 69'(H)"
             ]
         },
         {
@@ -194,9 +194,11 @@
             "country": "Algeria",
             "home": "CRB Adrar",
             "away": "JS Tixeraine",
-            "score": "1 - 3",
+            "score": "3 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 89'(H)",
+                "Unknown 85'(H)",
                 "Unknown 66'(H)",
                 "Unknown 59'(A)",
                 "Unknown 51'(A)",
@@ -209,27 +211,12 @@
             "country": "Algeria",
             "home": "CR Temouchent",
             "away": "JSM Tiaret",
-            "score": "2 - 0",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 87'(A)",
                 "Unknown 71'(H)",
                 "Unknown 8'(H)"
-            ]
-        },
-        {
-            "start_time": "13:00",
-            "league": "Ligue 2, Centre-West",
-            "country": "Algeria",
-            "home": "ESM Kolea",
-            "away": "WA Tlemcen",
-            "score": "3 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 85'(A)",
-                "Unknown 58'(A)",
-                "Unknown 36'(H)",
-                "Unknown 31'(H)",
-                "Unknown 7'(H)"
             ]
         },
         {
@@ -261,9 +248,10 @@
             "country": "Algeria",
             "home": "USM El-Harrach",
             "away": "GC Mascara",
-            "score": "3 - 0",
+            "score": "3 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 80'(A)",
                 "Unknown 46'(H)",
                 "Unknown 28'(H)",
                 "Unknown 8'(H)"
@@ -288,7 +276,7 @@
             "home": "Getafe S.C.",
             "away": "F\u00e9nix F.C.",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -341,9 +329,11 @@
             "country": "Egypt",
             "home": "Modern Sport FC",
             "away": "Canal SC",
-            "score": "0 - 0",
-            "minute": "1st extra",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd extra",
+            "scorers": [
+                "Mohamed Desouki 105'(H)"
+            ]
         },
         {
             "start_time": "12:30",
@@ -397,7 +387,7 @@
             "score": "1 - 1",
             "minute": "Started",
             "scorers": [
-                "Unknown 19'(A)",
+                "Unknown -1'(A)",
                 "Unknown 10'(H)"
             ]
         },
@@ -421,7 +411,7 @@
             "home": "Forest Row FC",
             "away": "Guernsey",
             "score": "3 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 44'(H)",
                 "Unknown 40'(H)",
@@ -430,13 +420,23 @@
             ]
         },
         {
+            "start_time": "15:00",
+            "league": "Southern Combination League Premier Division",
+            "country": "England Amateur",
+            "home": "Seaford Town FC",
+            "away": "Eastbourne United",
+            "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
             "start_time": "14:00",
             "league": "Essex Senior League",
             "country": "England Amateur",
             "home": "Benfleet FC",
             "away": "Hullbridge Sports FC",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Sonny Hartman 7'(H)",
                 "Sonny Hartman 4'(H)"
@@ -449,7 +449,7 @@
             "home": "Sporting Bengal United",
             "away": "Soul Tower Hamlets",
             "score": "0 - 2",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Shomari Barnwell 39'(A)",
                 "Shomari Barnwell 26'(A)"
@@ -462,7 +462,7 @@
             "home": "West Essex FC",
             "away": "Athletic Newham FC",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 3'(H)"
             ]
@@ -648,9 +648,11 @@
             "country": "Eswatini",
             "home": "Mbabane Swallows",
             "away": "Manzini Sea Birds",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown -1'(A)"
+            ]
         },
         {
             "start_time": "13:00",
@@ -675,26 +677,6 @@
             "scorers": []
         },
         {
-            "start_time": "13:00",
-            "league": "State Cup",
-            "country": "Israel",
-            "home": "Maccabi Ahi Nazareth",
-            "away": "Maccabi Haifa",
-            "score": "1 - 8",
-            "minute": "2nd half",
-            "scorers": [
-                "Hamza Mawasi 79'(H)",
-                "Unknown 72'(A)",
-                "Kenji Gorr\u00e9 53'(A)",
-                "Guy Melamed 30'(A)",
-                "Unknown 25'(A)",
-                "Guy Melamed 24'(A)",
-                "Dolev Haziza 17'(A)",
-                "Dolev Haziza 6'(A)",
-                "Ayi Silva Kangani 1'(A)"
-            ]
-        },
-        {
             "start_time": "14:00",
             "league": "U19 National League Division 2",
             "country": "Israel",
@@ -712,9 +694,11 @@
             "country": "Israel",
             "home": "Hapoel Rishon Letzion U19",
             "away": "Hapoel Ironi Kiryat Shmona U19",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 18'(H)"
+            ]
         },
         {
             "start_time": "14:30",
@@ -742,20 +726,10 @@
             "country": "Israel",
             "home": "Hapoel Tel Aviv U19",
             "away": "Ashdod FC U19",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "Jordan Shield Cup",
-            "country": "Jordan",
-            "home": "Ramtha SC",
-            "away": "Al Hussein Irbid",
             "score": "1 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": [
-                "Mohammad Al-Baytar\u00a0 61'(H)"
+                "Unknown 17'(H)"
             ]
         },
         {
@@ -765,7 +739,7 @@
             "home": "Al Orthodoxi",
             "away": "Etihad Club",
             "score": "0 - 3",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 38'(A)",
                 "Unknown 35'(A)",
@@ -779,7 +753,7 @@
             "home": "Nejmeh SC",
             "away": "Sagesse",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Hassan Kourani 19'(H)"
             ]
@@ -808,22 +782,6 @@
             "minute": "2nd half",
             "scorers": [
                 "Yusuf Lawal 31'(H)"
-            ]
-        },
-        {
-            "start_time": "12:30",
-            "league": "Malawi Super League",
-            "country": "Malawi",
-            "home": "Songwe Border United FC",
-            "away": "Civil Sporting",
-            "score": "0 - 5",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 70'(A)",
-                "Unknown 67'(A)",
-                "Unknown 53'(A)",
-                "Unknown 38'(A)",
-                "Unknown 24'(A)"
             ]
         },
         {
@@ -933,82 +891,11 @@
             "home": "Al Wahda SC",
             "away": "Oman Club SC",
             "score": "1 - 1",
-            "minute": "Awaiting extra time",
+            "minute": "1st extra",
             "scorers": [
                 "Unknown 74'(H)",
                 "Mohamed Al Maashari 71'(A)"
             ]
-        },
-        {
-            "start_time": "13:00",
-            "league": "National League",
-            "country": "Rwanda",
-            "home": "Kiyovu SC",
-            "away": "Amagaju",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "12:20",
-            "league": "Second Division League - Group 1",
-            "country": "Saudi Arabia",
-            "home": "\u200fTouik",
-            "away": "Al-Shoulla",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Franck Elie Kwame Mawuena 49'(H)",
-                "Unknown 27'(A)"
-            ]
-        },
-        {
-            "start_time": "12:45",
-            "league": "Second Division League - Group 2",
-            "country": "Saudi Arabia",
-            "home": "Hetten",
-            "away": "Wej",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Ally Niyonzima 90'(H)",
-                "Unknown 54'(A)",
-                "Unknown 47'(H)"
-            ]
-        },
-        {
-            "start_time": "12:20",
-            "league": "Third Division League - Group A",
-            "country": "Saudi Arabia",
-            "home": "Al-Eetemad",
-            "away": "Al-Qaisumah",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 75'(H)"
-            ]
-        },
-        {
-            "start_time": "12:20",
-            "league": "Third Division League - Group A",
-            "country": "Saudi Arabia",
-            "home": "Al-Mahmal",
-            "away": "Al-Asyah",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 28'(H)"
-            ]
-        },
-        {
-            "start_time": "12:25",
-            "league": "Third Division League - Group A",
-            "country": "Saudi Arabia",
-            "home": "Sajir",
-            "away": "Munief SC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
         },
         {
             "start_time": "12:45",
@@ -1016,26 +903,6 @@
             "country": "Saudi Arabia",
             "home": "Baish Club",
             "away": "Al-Alamin",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "12:20",
-            "league": "Third Division League - Group B",
-            "country": "Saudi Arabia",
-            "home": "Al-Muzahmiyah",
-            "away": "Al-Fao",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "12:25",
-            "league": "Third Division League - Group B",
-            "country": "Saudi Arabia",
-            "home": "Al-Hilaliyah",
-            "away": "Al-Bateen",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -1059,7 +926,7 @@
             "home": "Brechin City FC",
             "away": "Banks O'Dee FC",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 14'(A)",
                 "Unknown 8'(H)"
@@ -1071,9 +938,11 @@
             "country": "Tanzania",
             "home": "Geita Gold FC",
             "away": "Kengold FC",
-            "score": "1 - 1",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 87'(A)",
+                "Unknown 84'(H)",
                 "Unknown 6'(A)",
                 "Unknown 4'(H)"
             ]
@@ -1093,20 +962,6 @@
             ]
         },
         {
-            "start_time": "13:00",
-            "league": "Championship",
-            "country": "Tanzania",
-            "home": "Kiluvya FC",
-            "away": "Hausang FC",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 49'(A)",
-                "Unknown 37'(A)",
-                "Unknown 34'(H)"
-            ]
-        },
-        {
             "start_time": "16:15",
             "league": "PBZ Premier League",
             "country": "Tanzania",
@@ -1115,28 +970,6 @@
             "score": "0 - 0",
             "minute": "2nd half",
             "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "Tunisian Amateur League - Level 1, Group 1",
-            "country": "Tunisia",
-            "home": "AS Manzel Jemil",
-            "away": "Js Manouba",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "Tunisian Amateur League - Level 1, Group 1",
-            "country": "Tunisia",
-            "home": "AS Oued Ellil",
-            "away": "ES Beni Khalled",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 18'(H)"
-            ]
         },
         {
             "start_time": "13:00",
@@ -1154,16 +987,6 @@
             "country": "Tunisia",
             "home": "ES Rades",
             "away": "SS Zarzouna",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "Tunisian Amateur League - Level 1, Group 1",
-            "country": "Tunisia",
-            "home": "FS Ras Jebel",
-            "away": "US Kelibia",
             "score": "0 - 0",
             "minute": "2nd half",
             "scorers": []
@@ -1217,41 +1040,8 @@
             "start_time": "13:00",
             "league": "Tunisian Amateur League - Level 1, Group 2",
             "country": "Tunisia",
-            "home": "ES Feriana",
-            "away": "C S Dahmeni",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 42'(A)",
-                "Unknown 24'(A)"
-            ]
-        },
-        {
-            "start_time": "13:00",
-            "league": "Tunisian Amateur League - Level 1, Group 2",
-            "country": "Tunisia",
-            "home": "US Sbeitla",
-            "away": "Club Medjazi",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "Tunisian Amateur League - Level 1, Group 2",
-            "country": "Tunisia",
             "home": "US Seliana",
             "away": "CS Makthar",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "Tunisian Amateur League - Level 1, Group 4",
-            "country": "Tunisia",
-            "home": "ES Djerba",
-            "away": "US Ajim Djerba",
             "score": "0 - 0",
             "minute": "2nd half",
             "scorers": []
@@ -1561,9 +1351,11 @@
             "country": "Wales",
             "home": "Caernarfon Town",
             "away": "Colwyn Bay",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Nathan Peate 16'(A)"
+            ]
         },
         {
             "start_time": "14:00",
@@ -1572,7 +1364,7 @@
             "home": "Gresford Athletic",
             "away": "Brickfield Rangers",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1582,7 +1374,7 @@
             "home": "Guilsfield Athletic",
             "away": "Penrhyncoch",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 29'(A)"
             ]
@@ -1594,7 +1386,7 @@
             "home": "Newport City FC",
             "away": "Cwmbran Celtic",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 39'(A)",
                 "Rhys Kavanagh 24'(H)"
