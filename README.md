@@ -3,19 +3,21 @@
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 11:30 | Italy | Parma vs Fiorentina | **0 - 0** | `1st half` | --- |
-| 11:30 | Italy | Spezia vs Pescara | **0 - 0** | `1st half` | --- |
-| 10:30 | Turkey | Sarıyer vs Bodrum FK | **0 - 0** | `2nd half` | --- |
-| 10:30 | Turkey | Sivasspor vs Bandırmaspor | **0 - 0** | `Halftime` | --- |
-| 11:30 | Bangladesh | Bashundhara Kings vs Abahani Limited Dhaka | **1 - 0** | `1st half` | Rakib Hossain 5'(H) |
+| 11:30 | Italy | Spezia vs Pescara | **1 - 0** | `1st half` | Giuseppe Di Serio 8'(H) |
+| 10:30 | Turkey | Sarıyer vs Bodrum FK | **1 - 0** | `2nd half` | Axel Urie 51'(H) |
+| 10:30 | Turkey | Sivasspor vs Bandırmaspor | **0 - 0** | `2nd half` | --- |
+| 11:00 | Algeria | CA Bordj Bou Arreridj U20 vs USM Khenchela U20 | **0 - 0** | `1st half` | --- |
+| 11:30 | Bangladesh | Bashundhara Kings vs Abahani Limited Dhaka | **2 - 0** | `1st half` | Rakib Hossain 5'(H) |
 | 11:00 | Cambodia | Boeung Ket FC vs Svay Rieng FC | **0 - 0** | `1st half` | --- |
 | 11:00 | Cambodia | Phnom Penh Crown vs Tiffy Army FC | **2 - 0** | `1st half` | Chhin Vennin 21'(H), Moses Dyer 15'(H) |
 | 11:30 | Eswatini | Amawele FC vs Young Buffaloes FC | **0 - 0** | `Started` | --- |
 | 11:00 | Iran | Mes Shahr Babak vs Naft Gachsaran | **0 - 0** | `1st half` | --- |
-| 11:30 | Iran | Palayesh Naft Bandar Abbas FC vs Saipa | **0 - 0** | `1st half` | --- |
+| 11:30 | Iran | Palayesh Naft Bandar Abbas FC vs Saipa | **1 - 0** | `1st half` | Unknown 10'(H) |
+| 11:30 | Iran | Pars Jonoubi Jam vs Beasat Kermanshah FC | **0 - 0** | `1st half` | --- |
 | 10:45 | Israel | Maccabi Ahva Shaab vs Hapoel Bnei Bi'ina | **1 - 2** | `Halftime` | Unknown 21'(A), Unknown 20'(H), Unknown 15'(A) |
-| 10:00 | Israel | Hapoel Haifa U19 vs Hapoel Petach Tikva U19 | **0 - 1** | `2nd half` | Unknown 44'(A) |
-| 10:00 | Israel | Hapoel Nir Ramat Hasharon U19 vs Hapoel Acre U19 | **5 - 5** | `2nd half` | Unknown 75'(A), Unknown 74'(A), Unknown 73'(A), Unknown 67'(H), Unknown 58'(H), Unknown 45'(H), Unknown 36'(H), Unknown 24'(A), Unknown 21'(A), Unknown 17'(H) |
-| 10:00 | Israel | Maccabi Petach Tikva U19 vs Bnei Yehuda U19 | **1 - 2** | `2nd half` | Unknown 35'(A), Unknown 18'(H), Unknown 7'(A) |
+| 10:00 | Israel | Hapoel Haifa U19 vs Hapoel Petach Tikva U19 | **0 - 3** | `2nd half` | Unknown 90'(A), Unknown 84'(A), Unknown 44'(A) |
+| 10:00 | Israel | Hapoel Nir Ramat Hasharon U19 vs Hapoel Acre U19 | **5 - 6** | `2nd half` | Unknown 83'(A), Unknown 75'(A), Unknown 74'(A), Unknown 73'(A), Unknown 67'(H), Unknown 58'(H), Unknown 45'(H), Unknown 36'(H), Unknown 24'(A), Unknown 21'(A), Unknown 17'(H) |
+| 10:00 | Israel | Maccabi Petach Tikva U19 vs Bnei Yehuda U19 | **2 - 2** | `2nd half` | Unknown 84'(H), Unknown 35'(A), Unknown 18'(H), Unknown 7'(A) |
 | 10:00 | Morocco Amateur | AAN Nouaceur vs US Bouskoura | **0 - 0** | `Started` | --- |
 | 10:00 | Morocco Amateur | AC Casablanca vs Chabab Essoukhour | **0 - 0** | `Started` | --- |
 | 10:00 | Morocco Amateur | AE Assawda vs CR Sidi Moumen | **0 - 0** | `Started` | --- |
@@ -67,16 +69,18 @@
 | 11:00 | Turkey Amateur | İvrindi Belediyespor vs Bigadiç Etiborspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Manyas Belediyespor vs Bandırma 17 Eylülspor | **1 - 1** | `Started` | Unknown 24'(A), Unknown 11'(H) |
 | 11:00 | Turkey Amateur | Tatlıpınarspor vs Gönen Belediyespor | **1 - 2** | `Started` | Unknown 26'(A), Unknown 6'(H), Unknown 5'(A) |
-| 11:00 | Turkey Amateur | Termal Belediyespor vs Altınova Belediyespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Ayturanspor vs Tokat Yeşilyurt Belediyespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Turhal Gençlerbirliği vs Topçamspor | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Termal Belediyespor vs Altınova Belediyespor | **1 - 2** | `Started` | Unknown 21'(A), Unknown 19'(H), Unknown 10'(A) |
+| 11:00 | Turkey Amateur | Ayturanspor vs Tokat Yeşilyurt Belediyespor | **0 - 1** | `Started` | Unknown 21'(A) |
+| 11:00 | Turkey Amateur | Turhal Gençlerbirliği vs Topçamspor | **0 - 1** | `Started` | Unknown 6'(A) |
 | 10:00 | Turkey Amateur | Anadolu Baturspor vs Kurtalan Kültürspor | **1 - 1** | `Started` | Unknown 34'(H), Unknown 26'(A) |
 | 10:00 | Turkey Amateur | Kayabağlar BGS vs Pervari Belediyegücü | **3 - 2** | `Started` | Unknown 40'(H), Unknown 29'(A), Unknown 16'(A), Unknown 15'(H), Unknown 5'(H) |
+| 10:00 | Turkey Amateur | Başkale Gençlikspor vs İlvanspor | **0 - 0** | `Started` | --- |
+| 10:00 | Turkey Amateur | Gevaşspor vs Sardurspor | **1 - 0** | `Started` | Unknown 28'(H), Unknown 7'(H), Unknown 5'(H) |
 | 10:00 | Turkey Amateur | 1308 Osmaneli Bld. vs Bilecik Karaköyspor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Kürespor vs Bilecik Bozüyük Spor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Pazaryerispor vs Edebalispor | **0 - 0** | `Started` | --- |
-| 09:30 | Turkey Amateur | Kastamonu Özel İdare Köy Hizmetlerispor vs Kastamonu Ormanspor | **0 - 0** | `Started` | --- |
 | 10:30 | Turkey Amateur | Hanönü Belediyespor vs Pınarbaşıspor | **0 - 0** | `Started` | --- |
+| 10:00 | Turkey Amateur | Adıyaman Uğurspor vs Adıyamangücü | **1 - 1** | `Started` | Unknown 76'(A), Unknown 11'(H) |
 | 10:00 | Turkey Amateur | Sorgun Gençlikspor vs Çayıralan Esnafspor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Yozgat SHÇEK SK vs Yerköy Bağlarbaşı Köselispor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Yozgat Yerköyspor vs Çandırspor | **0 - 0** | `Started` | --- |
@@ -85,9 +89,10 @@
 | 11:00 | Turkey Amateur | Toprakkale Gençlerbirliği vs Osmaniye İdman Yurdu | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Artvin Kemalpaşaspor vs Yeşil Artvinspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Dunaysırspor vs Derikspor | **0 - 0** | `Started` | --- |
+| 10:30 | Turkey Amateur | Kayakalespor vs Tuzluca Esnafspor | **7 - 0** | `Started` | Unknown 40'(H), Unknown 39'(H), Unknown 32'(H), Unknown 21'(H), Unknown 17'(H), Unknown 12'(H), Unknown 7'(H) |
 | 10:00 | Turkey Amateur | Varto Sazlıcaspor vs Öz Hasköyspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Cizre Belediyespor vs 2023 Gülyazı SK | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Kilis İdman Yurdu vs Aslan Gençlikspor | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Kilis İdman Yurdu vs Aslan Gençlikspor | **4 - 1** | `Started` | Unknown 42'(H), Unknown 36'(H), Unknown 35'(H), Unknown 32'(A), Unknown 13'(H) |
 | 10:00 | Turkey Amateur | Susuz Gençlik vs Sarıkamış Spor Lisesi | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Büyükçekmece Gençorduspor vs Akalanspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Gümüşyaka SK vs Güzelcespor | **0 - 0** | `Started` | --- |
