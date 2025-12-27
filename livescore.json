@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-27 11:07:56 UTC"
+        "updated": "2025-12-27 11:26:34 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Sar\u0131yer",
             "away": "Bodrum FK",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -21,20 +21,8 @@
             "home": "Sivasspor",
             "away": "Band\u0131rmaspor",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
-        },
-        {
-            "start_time": "09:00",
-            "league": "Championnat National Feminin",
-            "country": "Algeria",
-            "home": "CF Akbou",
-            "away": "Jf Khroub",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 48'(H)"
-            ]
         },
         {
             "start_time": "11:00",
@@ -52,9 +40,12 @@
             "country": "Cambodia",
             "home": "Phnom Penh Crown",
             "away": "Tiffy Army FC",
-            "score": "0 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Chhin Vennin 21'(H)",
+                "Moses Dyer 15'(H)"
+            ]
         },
         {
             "start_time": "11:00",
@@ -72,9 +63,10 @@
             "country": "Israel",
             "home": "Maccabi Ahva Shaab",
             "away": "Hapoel Bnei Bi'ina",
-            "score": "0 - 1",
+            "score": "1 - 2",
             "minute": "1st half",
             "scorers": [
+                "Unknown 21'(A)",
                 "Unknown 20'(H)",
                 "Unknown 15'(A)"
             ]
@@ -97,9 +89,10 @@
             "country": "Israel",
             "home": "Hapoel Nir Ramat Hasharon U19",
             "away": "Hapoel Acre U19",
-            "score": "3 - 2",
+            "score": "4 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 58'(H)",
                 "Unknown 45'(H)",
                 "Unknown 36'(H)",
                 "Unknown 24'(A)",
@@ -114,7 +107,7 @@
             "home": "Maccabi Petach Tikva U19",
             "away": "Bnei Yehuda U19",
             "score": "1 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 35'(A)",
                 "Unknown 18'(H)",
@@ -187,6 +180,18 @@
             "country": "Syria",
             "home": "Al-Horiyah",
             "away": "Al-Shouleh",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 7'(H)"
+            ]
+        },
+        {
+            "start_time": "11:00",
+            "league": "Syrian Premier League",
+            "country": "Syria",
+            "home": "Al-Jaish SC",
+            "away": "Al Taliya",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -207,9 +212,12 @@
             "country": "Thailand",
             "home": "Nongbua Pitchaya",
             "away": "Chonburi FC",
-            "score": "0 - 0",
+            "score": "1 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 21'(A)",
+                "Unknown 16'(H)"
+            ]
         },
         {
             "start_time": "11:00",
@@ -399,16 +407,6 @@
             "country": "Turkey Amateur",
             "home": "Arifiye Do\u011fanspor",
             "away": "Harmanl\u0131kspor",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "11:00",
-            "league": "Sakarya S\u00fcper Amat\u00f6r Ligi, Group B",
-            "country": "Turkey Amateur",
-            "home": "\u00c7ayba\u015f\u0131 Bekirpa\u015faspor",
-            "away": "Karasu Aziziyespor",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -713,16 +711,6 @@
             "scorers": []
         },
         {
-            "start_time": "09:00",
-            "league": "Mardin 1. Amat\u00f6r Ligi",
-            "country": "Turkey Amateur",
-            "home": "K\u0131z\u0131ltepe Ba\u015fakspor",
-            "away": "K\u0131z\u0131ltepe \u0130dman Yurdu",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "11:00",
             "league": "Mardin 1. Amat\u00f6r Ligi",
             "country": "Turkey Amateur",
@@ -838,16 +826,6 @@
             "country": "Turkey Amateur",
             "home": "Alt\u0131ny\u0131ld\u0131zspor",
             "away": "\u0130stanbul Mustafakemalpa\u015fa SK",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "09:00",
-            "league": "\u0130stanbul 1. Amat\u00f6r Ligi, Group 5",
-            "country": "Turkey Amateur",
-            "home": "Emirefendispor",
-            "away": "Ta\u015fl\u0131tarlaspor",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -1250,16 +1228,6 @@
             "country": "Turkey Amateur",
             "home": "Bi\u015fekspor",
             "away": "Sar\u0131kaya Belediyespor",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "11:00",
-            "league": "Yozgat S\u00fcper Amat\u00f6r Ligi",
-            "country": "Turkey Amateur",
-            "home": "Yozgat Esnafspor",
-            "away": "Kale Ak\u0131nc\u0131larspor",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
