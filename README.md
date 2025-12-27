@@ -2,36 +2,27 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 17:30 | Africa | Uganda vs Tanzania | **0 - 0** | `1st half` | --- |
-| 17:30 | England | Chelsea vs Aston Villa | **0 - 0** | `1st half` | --- |
-| 17:00 | Italy | Udinese vs Lazio | **0 - 0** | `Halftime` | --- |
-| 17:15 | Belgium | KV Mechelen vs FCV Dender | **1 - 0** | `1st half` | Thérence Koudou 8'(H) |
-| 17:45 | Scotland | Aberdeen vs Dundee United | **0 - 0** | `1st half` | --- |
-| 16:15 | Italy | Palermo vs Padova | **1 - 0** | `2nd half` | Joel Pohjanpalo 38'(H) |
-| 16:00 | Turkey | Pendikspor vs Esenler Erokspor | **0 - 0** | `2nd half` | --- |
-| 17:30 | Saudi Arabia | Al-Ittihad vs Al-Shabab | **1 - 0** | `1st half` | Ahmed Al-Ghamdi 16'(H) |
-| 16:00 | Algeria | JS Kabylie vs ASO Chlef | **2 - 1** | `2nd half` | Unknown 51'(H), Unknown 18'(A), Unknown 15'(H) |
-| 15:00 | Egypt | Tala'ea El-Gaish vs Ismailia Electricity Club | **1 - 1** | `Penalties` | Abdallah Maradona 89'(A), Mohamed Atef 30'(H) |
-| 16:00 | Gambia | BST Galaxy vs Hawks FC | **2 - 0** | `2nd half` | Unknown 64'(H), Unknown 47'(H) |
-| 16:00 | Gambia | Greater Tomorrow FC vs Steve Biko FC | **0 - 0** | `2nd half` | --- |
+| 17:30 | Africa | Uganda vs Tanzania | **0 - 0** | `Halftime` | --- |
+| 17:30 | England | Chelsea vs Aston Villa | **1 - 0** | `Halftime` | João Pedro 37'(H) |
+| 17:00 | Italy | Udinese vs Lazio | **0 - 0** | `2nd half` | --- |
+| 18:00 | Portugal | Famalicão vs CF Estrela Amadora | **1 - 1** | `1st half` | Kikas 10'(A), Sorriso 8'(H) |
+| 17:15 | Belgium | KV Mechelen vs FCV Dender | **1 - 0** | `Halftime` | Thérence Koudou 8'(H) |
+| 17:45 | Scotland | Aberdeen vs Dundee United | **0 - 1** | `1st half` | Amar Fatah 30'(A) |
+| 17:30 | Saudi Arabia | Al-Ittihad vs Al-Shabab | **1 - 0** | `Halftime` | Ahmed Al-Ghamdi 16'(H) |
+| 18:00 | England Amateur | FC Isle of Man vs Stockport Town FC | **0 - 2** | `1st half` | Unknown 13'(A), Unknown 10'(A) |
+| 18:00 | Israel | Hapoel Be'er Sheva vs FC Sderot | **1 - 0** | `1st half` | Unknown 6'(H) |
 | 16:15 | Israel | Hapoel Marmorek Rehovot U19 vs Gadna Tel Aviv Yehuda U19 | **0 - 0** | `2nd half` | --- |
-| 17:00 | Israel | Maccabi Ahi Nazareth U19 vs SC Neve Yosef U19 | **0 - 3** | `Halftime` | Unknown 35'(A), Unknown 21'(A), Unknown 9'(A) |
-| 16:00 | Liberia | LPRC Oilers FC vs Jubilee FC | **2 - 1** | `2nd half` | Unknown 48'(H), Unknown 38'(A), Unknown 32'(H) |
-| 17:00 | Libya | Al Ittihad SC vs Abelashhar SC | **1 - 0** | `1st half` | Ahmed Al Bizi 8'(H) |
-| 16:00 | Maldives | New Radiant SC vs Buru SC | **1 - 0** | `Started` | Unknown 90'(H) |
-| 16:00 | Mali | Stade Malien vs Derby Academie | **3 - 0** | `2nd half` | Ousmane Coulibaly 45'(H), Haman Mandjan 31'(H), Haman Mandjan 15'(H) |
-| 16:00 | Mauritania | Police vs FC Nouadhibou | **1 - 1** | `2nd half` | Unknown 59'(H), Abdallahi Mahmoud 43'(A) |
+| 17:00 | Israel | Maccabi Ahi Nazareth U19 vs SC Neve Yosef U19 | **0 - 4** | `2nd half` | Unknown 55'(A), Unknown 35'(A), Unknown 21'(A), Unknown 9'(A) |
+| 16:00 | Liberia | LPRC Oilers FC vs Jubilee FC | **3 - 1** | `2nd half` | Unknown 76'(H), Unknown 48'(H), Unknown 38'(A), Unknown 32'(H) |
+| 17:00 | Libya | Al Ittihad SC vs Abelashhar SC | **1 - 0** | `2nd half` | Ahmed Al Bizi 8'(H) |
+| 16:00 | Maldives | New Radiant SC vs Buru SC | **1 - 0** | `Started` | Unknown 25'(H) |
+| 18:00 | Mali | AS Bakaridjan vs AS Real Bamako | **0 - 0** | `1st half` | --- |
 | 15:00 | Niger | AS Garde Nationale Nigérienne vs US Gendarmerie Nationale | **0 - 0** | `Started` | --- |
 | 15:00 | Niger | JS Tahoua vs Tagour Provincial Club | **0 - 0** | `Started` | --- |
-| 16:30 | Rwanda | Rayon Sports FC vs Etincelles FC | **1 - 0** | `2nd half` | Asman Ndikumana 50'(H) |
+| 18:00 | Portugal Amateur | Atlético Arcos vs ACR Arcozelo | **0 - 0** | `Started` | --- |
+| 16:30 | Rwanda | Rayon Sports FC vs Etincelles FC | **1 - 1** | `2nd half` | Unknown 68'(A), Asman Ndikumana 50'(H) |
 | 15:00 | Scotland Amateur | Cowdenbeath vs Albion Rovers | **1 - 0** | `2nd half` | --- |
 | 15:00 | Scotland Amateur | Gala Fairydean Rovers FC vs Berwick Rangers | **1 - 2** | `2nd half` | --- |
 | 15:00 | Scotland Amateur | University of Stirling FC vs Celtic B U21 | **1 - 1** | `2nd half` | --- |
-| 16:15 | Sierra Leone | Abacha City FC vs SLIFA Mount Aureol FC | **1 - 4** | `2nd half` | Unknown 74'(A), Unknown 67'(H), Unknown 45'(A), Unknown 44'(A), Unknown 39'(A) |
-| 16:15 | Sierra Leone | Kamboi Eagles FC vs Luawa FC | **0 - 1** | `2nd half` | Unknown 73'(A) |
-| 16:15 | Sierra Leone | Mighty Blackpool FC vs Wusum Stars FC | **1 - 1** | `2nd half` | Unknown 13'(H), Unknown 10'(A) |
-| 16:15 | Sierra Leone | Bo Rangers FC vs Old Edwardians FC | **0 - 0** | `2nd half` | --- |
-| 15:30 | Turkey Amateur | Dudulluspor vs Kartaltepe | **1 - 1** | `Started` | Unknown 44'(H), Unknown 39'(A) |
-| 16:00 | Turkey Amateur | Fener Gençlikspor vs Kahramanmaraş Kurtuluşspor | **2 - 1** | `Started` | Unknown 81'(H), Unknown 21'(A), Unknown 8'(H) |
+| 16:15 | Sierra Leone | Kamboi Eagles FC vs Luawa FC | **1 - 1** | `2nd half` | Unknown 89'(H), Unknown 73'(A) |
 | 17:00 | United Arab Emirates | Modern Sport FC Dubai vs Dubai City FC II | **0 - 0** | `Started` | --- |
-| 15:45 | United Arab Emirates | Shabab Al-Ahli Dubai vs Al-Sharjah | **2 - 3** | `2nd half` | Ousmane Camara 78'(A), Breno Cascardo 37'(H), Luan Pereira 29'(A), Caio 26'(A), Federico Cartabia 3'(H) |
