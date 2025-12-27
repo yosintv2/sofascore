@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-27 18:21:14 UTC"
+        "updated": "2025-12-27 18:46:50 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Uganda",
             "away": "Tanzania",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -21,7 +21,7 @@
             "home": "Chelsea",
             "away": "Aston Villa",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Jo\u00e3o Pedro 37'(H)"
             ]
@@ -32,9 +32,11 @@
             "country": "Italy",
             "home": "Udinese",
             "away": "Lazio",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Mat\u00edas Vecino 80'(A)"
+            ]
         },
         {
             "start_time": "18:00",
@@ -42,11 +44,13 @@
             "country": "Portugal",
             "home": "Famalic\u00e3o",
             "away": "CF Estrela Amadora",
-            "score": "1 - 1",
+            "score": "2 - 2",
             "minute": "1st half",
             "scorers": [
+                "Sorriso 27'(H)",
+                "Jovane Cabral 24'(A)",
                 "Kikas 10'(A)",
-                "Sorriso 8'(H)"
+                "Luan Patrick 8'(H)"
             ]
         },
         {
@@ -55,9 +59,10 @@
             "country": "Belgium",
             "home": "KV Mechelen",
             "away": "FCV Dender",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "1 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "David To\u0161evski 61'(A)",
                 "Th\u00e9rence Koudou 8'(H)"
             ]
         },
@@ -68,10 +73,20 @@
             "home": "Aberdeen",
             "away": "Dundee United",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Amar Fatah 30'(A)"
             ]
+        },
+        {
+            "start_time": "18:30",
+            "league": "Serie B",
+            "country": "Italy",
+            "home": "Bari",
+            "away": "US Avellino 1912",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "17:30",
@@ -80,7 +95,7 @@
             "home": "Al-Ittihad",
             "away": "Al-Shabab",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Ahmed Al-Ghamdi 16'(H)"
             ]
@@ -91,9 +106,10 @@
             "country": "England Amateur",
             "home": "FC Isle of Man",
             "away": "Stockport Town FC",
-            "score": "0 - 2",
+            "score": "0 - 3",
             "minute": "1st half",
             "scorers": [
+                "Unknown 20'(A)",
                 "Unknown 13'(A)",
                 "Unknown 10'(A)"
             ]
@@ -107,17 +123,29 @@
             "score": "1 - 0",
             "minute": "1st half",
             "scorers": [
-                "Unknown 6'(H)"
+                "Mohammad Kanaan 6'(H)"
             ]
         },
         {
-            "start_time": "16:15",
-            "league": "U19 National League Division 2",
+            "start_time": "18:30",
+            "league": "State Cup",
             "country": "Israel",
-            "home": "Hapoel Marmorek Rehovot U19",
-            "away": "Gadna Tel Aviv Yehuda U19",
+            "home": "Ironi Dorot Tiberias",
+            "away": "Beitar Jerusalem",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 13'(H)"
+            ]
+        },
+        {
+            "start_time": "18:30",
+            "league": "Liga Bet North A",
+            "country": "Israel",
+            "home": "Bnei Maghar",
+            "away": "Hapoel Kaukab",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -136,42 +164,17 @@
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "LFA First Division",
-            "country": "Liberia",
-            "home": "LPRC Oilers FC",
-            "away": "Jubilee FC",
-            "score": "3 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 76'(H)",
-                "Unknown 48'(H)",
-                "Unknown 38'(A)",
-                "Unknown 32'(H)"
-            ]
-        },
-        {
             "start_time": "17:00",
             "league": "Premier League, Group 2",
             "country": "Libya",
             "home": "Al Ittihad SC",
             "away": "Abelashhar SC",
-            "score": "1 - 0",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Taher Ben Amer 65'(H)",
+                "Rami Al Taleb 57'(A)",
                 "Ahmed Al Bizi 8'(H)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Dhivehi Premier League",
-            "country": "Maldives",
-            "home": "New Radiant SC",
-            "away": "Buru SC",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 25'(H)"
             ]
         },
         {
@@ -181,27 +184,7 @@
             "home": "AS Bakaridjan",
             "away": "AS Real Bamako",
             "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "Super Ligue",
-            "country": "Niger",
-            "home": "AS Garde Nationale Nig\u00e9rienne",
-            "away": "US Gendarmerie Nationale",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "Super Ligue",
-            "country": "Niger",
-            "home": "JS Tahoua",
-            "away": "Tagour Provincial Club",
-            "score": "0 - 0",
-            "minute": "Started",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -210,21 +193,10 @@
             "country": "Portugal Amateur",
             "home": "Atl\u00e9tico Arcos",
             "away": "ACR Arcozelo",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:30",
-            "league": "National League",
-            "country": "Rwanda",
-            "home": "Rayon Sports FC",
-            "away": "Etincelles FC",
-            "score": "1 - 1",
-            "minute": "2nd half",
             "scorers": [
-                "Unknown 68'(A)",
-                "Asman Ndikumana 50'(H)"
+                "Unknown 29'(H)"
             ]
         },
         {
@@ -256,19 +228,6 @@
             "score": "1 - 1",
             "minute": "2nd half",
             "scorers": []
-        },
-        {
-            "start_time": "16:15",
-            "league": "Sierra Leone National Premier League",
-            "country": "Sierra Leone",
-            "home": "Kamboi Eagles FC",
-            "away": "Luawa FC",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 89'(H)",
-                "Unknown 73'(A)"
-            ]
         },
         {
             "start_time": "17:00",
