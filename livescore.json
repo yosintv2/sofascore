@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-28 20:36:55 UTC"
+        "updated": "2025-12-28 20:50:28 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "C\u00f4te d'Ivoire",
             "away": "Cameroon",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -21,7 +21,7 @@
             "home": "Atalanta",
             "away": "Inter",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -52,9 +52,11 @@
             "country": "Argentina Amateur",
             "home": "Club Sarmiento",
             "away": "CSDyC El Progreso",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 9'(H)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -63,7 +65,7 @@
             "home": "Palmeirinhas de Paraipaba",
             "away": "S\u00e3o Jos\u00e9 de Paraipaba",
             "score": "0 - 0",
-            "minute": "Started",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -73,7 +75,17 @@
             "home": "Santa Catalina CF",
             "away": "\u00c9lite F.C.",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "Penalties",
+            "scorers": []
+        },
+        {
+            "start_time": "20:47",
+            "league": " League Masterbol",
+            "country": "Cuba",
+            "home": "S.C M\u00f3naco",
+            "away": "S.C Munchen",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -83,7 +95,7 @@
             "home": "Maccabi Bnei Jaljulia",
             "away": "Beitar Ramat Gan",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 2'(A)"
             ]
@@ -95,7 +107,7 @@
             "home": "Harbour View FC",
             "away": "Cavalier FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -119,14 +131,28 @@
             "scorers": []
         },
         {
+            "start_time": "20:30",
+            "league": "Suriname Major League",
+            "country": "Suriname",
+            "home": "SV Notch",
+            "away": "Inter Wanica",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "20:00",
             "league": "\u015eampiyon Lig, Mavi Group",
             "country": "Turkey Amateur",
             "home": "No Cap FC",
             "away": "Bosna City",
-            "score": "1 - 0",
+            "score": "2 - 3",
             "minute": "1st half",
             "scorers": [
+                "Umut Da\u011fdagez 14'(A)",
+                "Tuncay  K\u0131z\u0131l 12'(A)",
+                "Kaan Uslu 10'(H)",
+                "Tuncay  K\u0131z\u0131l 9'(A)",
                 "Salih Akhan 5'(H)"
             ]
         }
