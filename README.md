@@ -3,5 +3,6 @@
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 06:15 | Bangladesh | Dhaka United SC vs Jatrabari KC | **0 - 2** | `Started` | Unknown 25'(A), Unknown 14'(A) |
-| 06:30 | Indonesia | Malut United FC vs Borneo FC Samarinda | **1 - 1** | `Halftime` | David Da Silva 26'(H), Juan Villa 3'(A) |
-| 07:00 | Turkey Amateur | CDM Başarı 2025 SK vs Kavaklıderespor | **0 - 0** | `Started` | --- |
+| 07:30 | Hong Kong | Gospel FC vs Wanchai Sports | **0 - 0** | `1st half` | --- |
+| 06:30 | Indonesia | Malut United FC vs Borneo FC Samarinda | **1 - 1** | `2nd half` | David Da Silva 26'(H), Juan Villa 3'(A) |
+| 07:00 | Turkey Amateur | CDM Başarı 2025 SK vs Kavaklıderespor | **1 - 1** | `Started` | Unknown 25'(H), Görkem Berke Cürebal 16'(A) |
