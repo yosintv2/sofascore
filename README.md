@@ -7,5 +7,6 @@
 | 18:00 | Albania | KF Egnatia vs Dinamo City | **1 - 2** | `2nd half` | Tiago Nani 59'(A), Dejvi Bregu 54'(A), Flamur Ruci 8'(H) |
 | 18:00 | Brazil Amateur | Barreiras vs Camboas FC | **2 - 0** | `2nd half` | Unknown 34'(H), Unknown 4'(H) |
 | 18:30 | Cuba | Santa Catalina CF vs Élite F.C. | **0 - 0** | `1st half` | --- |
+| 19:30 | Israel | Maccabi Bnei Jaljulia vs Beitar Ramat Gan | **0 - 1** | `1st half` | Unknown 2'(A) |
 | 18:00 | Portugal Amateur | ARDC Gondim-Maia vs Gens SC | **1 - 0** | `Started` | Unknown 62'(H) |
-| 19:00 | Turkey Amateur | Esenkent FC vs Cemkanlar FK | **2 - 0** | `1st half` | Mesut Yılmaz 7'(H), Emirhan Uzun 7'(H) |
+| 19:00 | Turkey Amateur | Esenkent FC vs Cemkanlar FK | **2 - 0** | `2nd half` | Mesut Yılmaz 7'(H), Emirhan Uzun 7'(H) |
