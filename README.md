@@ -2,4 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 02:00 | Japan | Toyo University vs Yamanashi Gakuin University | **1 - 0** | `2nd half` | Unknown 51'(H) |
+| 04:00 | Bangladesh | Bangladesh Boys Club vs Friends Social WO | **1 - 0** | `Started` | Unknown 6'(H) |
