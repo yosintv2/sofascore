@@ -2,12 +2,12 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 10:30 | Turkey | Keçiörengücü vs Ümraniyespor | **1 - 0** | `1st half` | Junior Fernandes 21'(H) |
-| 10:30 | Turkey | Serikspor A.Ş. vs Boluspor | **1 - 2** | `1st half` | Doğan Can Davas 35'(A), Erhan Çelenk 13'(H), Aleksandr Martynov 7'(A) |
+| 10:30 | Turkey | Keçiörengücü vs Ümraniyespor | **2 - 0** | `Halftime` | Wellington 45'(H), Junior Fernandes 21'(H) |
+| 10:30 | Turkey | Serikspor A.Ş. vs Boluspor | **1 - 2** | `Halftime` | Doğan Can Davas 35'(A), Erhan Çelenk 13'(H), Aleksandr Martynov 7'(A) |
 | 11:00 | Cambodia | Angkor Tiger vs Kirivong Soksen Chey | **0 - 0** | `1st half` | --- |
-| 11:00 | Cambodia | Nagaworld FC vs ISI Dangkor Senchey FC | **1 - 0** | `1st half` | --- |
+| 11:00 | Cambodia | Nagaworld FC vs ISI Dangkor Senchey FC | **1 - 1** | `1st half` | Yusuke Minagawa 10'(H) |
 | 11:00 | Cambodia | Visakha FC vs MOI Kompong Dewa FC | **0 - 0** | `1st half` | --- |
-| 10:00 | Ethiopia | Batu Ketema vs Yeka Sub City FC | **0 - 2** | `2nd half` | Unknown 34'(A), Unknown 7'(A) |
+| 10:00 | Ethiopia | Batu Ketema vs Yeka Sub City FC | **0 - 3** | `2nd half` | Unknown 63'(A), Unknown 34'(A), Unknown 7'(A) |
 | 10:00 | Ghana | Swift FA vs Footworks FC | **0 - 0** | `Started` | --- |
 | 10:00 | Greece Amateur | Olympiacos Koutsopodiou vs Akadhmia Podosfairou Argous | **0 - 0** | `Started` | --- |
 | 10:00 | Greece Amateur | AS Keravnos Monastirakiou vs AE Ampelokipon Dramas B | **0 - 0** | `Started` | --- |
@@ -27,17 +27,17 @@
 | 11:00 | Morocco Amateur | Ittifaq Marrakech U17 vs Kawkab Marrakech U17 | **0 - 0** | `Started` | --- |
 | 11:00 | Morocco Amateur | Olympic Dcheira U17 vs Amal Tiznit U17 | **0 - 0** | `Started` | --- |
 | 11:00 | Portugal | Académico Viseu FC vs SL Benfica B U21 | **0 - 0** | `1st half` | --- |
-| 10:00 | Thailand | Customs United vs Sukhothai | **1 - 1** | `2nd half` | Unknown 50'(H), Eito Ishimoto 28'(A) |
-| 10:00 | Thailand | Samut Sakhon City vs PT Prachuap FC | **0 - 1** | `2nd half` | Jirapan Phasukihan 45'(A) |
+| 10:00 | Thailand | Customs United vs Sukhothai | **2 - 2** | `2nd half` | Unknown 63'(A), Shunta Hasegawa 53'(H), Unknown 50'(H), Eito Ishimoto 28'(A) |
+| 10:00 | Thailand | Samut Sakhon City vs PT Prachuap FC | **0 - 2** | `2nd half` | Unknown 55'(A), Jirapan Phasukihan 45'(A) |
 | 11:00 | Thailand | Mahasarakham SBT vs Rayong FC | **0 - 0** | `1st half` | --- |
 | 11:00 | Thailand | Pattaya United vs True Bangkok United | **0 - 0** | `1st half` | --- |
-| 10:00 | Turkey | Antalya Kepezspor vs Batman Petrolspor | **0 - 2** | `2nd half` | Okan Eken 47'(A), Okan Eken 4'(A) |
-| 10:00 | Turkey | Erbaaspor vs Beyoğlu Yeni Çarşı FAŞ | **0 - 1** | `2nd half` | Arif Emre Eren 38'(A) |
-| 10:00 | Turkey | İskenderun A.Ş. vs MKE Ankaragücü | **1 - 1** | `2nd half` | Enes Sahin 46'(H), Atakan Güner 43'(A) |
-| 10:00 | Turkey | Ankara BB Fomget GS vs Hakkarigücü Spor Kulübü | **2 - 0** | `2nd half` | Unknown 33'(H), Unknown 2'(H) |
-| 10:00 | Turkey | Fatih Vatan Spor vs 1207 Antalyaspor Kadın FK | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey | Çekmeköy Bilgidoğa Spor vs Beşiktaş | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey | Galatasaray Gain vs Amed Sportif Faaliyetler | **0 - 1** | `1st half` | Unknown 9'(A) |
+| 10:00 | Turkey | Antalya Kepezspor vs Batman Petrolspor | **1 - 3** | `2nd half` | Burak Colak 55'(H), Atabey Çiçek 53'(A), Okan Eken 47'(A), Okan Eken 4'(A) |
+| 10:00 | Turkey | Erbaaspor vs Beyoğlu Yeni Çarşı FAŞ | **0 - 2** | `2nd half` | Unknown 66'(A), Arif Emre Eren 38'(A) |
+| 10:00 | Turkey | İskenderun A.Ş. vs MKE Ankaragücü | **2 - 2** | `2nd half` | Unknown 65'(A), Berat Yılmaz 52'(H), Enes Sahin 46'(H), Atakan Güner 43'(A) |
+| 10:00 | Turkey | Ankara BB Fomget GS vs Hakkarigücü Spor Kulübü | **2 - 1** | `2nd half` | Unknown 65'(A), Unknown 33'(H), Unknown 2'(H) |
+| 10:00 | Turkey | Fatih Vatan Spor vs 1207 Antalyaspor Kadın FK | **0 - 0** | `Halftime` | --- |
+| 11:00 | Turkey | Çekmeköy Bilgidoğa Spor vs Beşiktaş | **0 - 1** | `1st half` | Unknown 17'(A) |
+| 11:00 | Turkey | Galatasaray Gain vs Amed Sportif Faaliyetler | **1 - 1** | `1st half` | Unknown 10'(H), Unknown 9'(A) |
 | 11:00 | Turkey | Giresun Sanayispor vs Trabzonspor AŞ | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey | Ünye Kadın FK vs Fenerbahçe İstanbul | **0 - 0** | `1st half` | --- |
 | 09:00 | Turkey | Kocaeli Kadın FK vs Dudullu SK | **0 - 0** | `Started` | --- |
@@ -52,60 +52,61 @@
 | 09:00 | Turkey | Erzincan Gençlergücü vs Silopi Belediyesi Sportif Faaliyetler | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey | Vangücü SK vs 1955 Batman Belediye Spor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey | Avcılar Cihangirspor vs Sancaktepe Belediye Spor | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Bitlis 1916 FSK vs Batman Sason SK | **2 - 0** | `Halftime` | Unknown 13'(H), Unknown 2'(H) |
-| 10:00 | Turkey Amateur | Dersimspor vs Serhat Ardahan Spor | **0 - 0** | `Halftime` | --- |
-| 10:00 | Turkey Amateur | Hakkari Zapspor vs Doğubayazıt FK | **1 - 0** | `1st half` | Unknown 11'(H) |
-| 10:00 | Turkey Amateur | Kars 36 Spor vs İsmail Demirel Karaağaçspor | **4 - 1** | `Halftime` | Unknown 40'(H), Unknown 33'(H), Unknown 25'(H), Unknown 15'(A), Unknown 7'(H) |
+| 10:00 | Turkey Amateur | Bitlis 1916 FSK vs Batman Sason SK | **3 - 0** | `2nd half` | Unknown 58'(H), Unknown 13'(H), Unknown 2'(H) |
+| 10:00 | Turkey Amateur | Dersimspor vs Serhat Ardahan Spor | **0 - 0** | `2nd half` | --- |
+| 10:00 | Turkey Amateur | Hakkari Zapspor vs Doğubayazıt FK | **1 - 0** | `Halftime` | Unknown 11'(H) |
+| 10:00 | Turkey Amateur | Kars 36 Spor vs İsmail Demirel Karaağaçspor | **6 - 1** | `2nd half` | Unknown 58'(H), Unknown 49'(H), Unknown 40'(H), Unknown 33'(H), Unknown 25'(H), Unknown 15'(A), Unknown 7'(H) |
 | 10:00 | Turkey Amateur | Murat 2020 GSK vs Bulanık Kopspor | **2 - 0** | `Started` | Unknown 31'(H), Unknown 15'(H) |
-| 10:00 | Turkey Amateur | Nusaybin Belediyespor vs Şırnak Petrolspor | **0 - 0** | `Started` | --- |
+| 10:00 | Turkey Amateur | Nusaybin Belediyespor vs Şırnak Petrolspor | **0 - 1** | `Started` | Unknown 53'(A) |
 | 10:00 | Turkey Amateur | Battalgazi Belediyespor vs Şanlıurfa Büyükşehir Belediyespor | **1 - 1** | `2nd half` | Unknown 30'(H), Unknown 20'(A) |
 | 10:00 | Turkey Amateur | Diyarbakır Büyükşehir Belediye SK vs Onikişubat İdman Yurdu | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Onikişubatspor vs Diyarbakırspor | **1 - 0** | `2nd half` | Unknown 21'(H) |
-| 10:00 | Turkey Amateur | Siverek Belediyespor vs Viranşehir Belediye Spor | **0 - 0** | `Halftime` | --- |
+| 10:00 | Turkey Amateur | Siverek Belediyespor vs Viranşehir Belediye Spor | **0 - 0** | `2nd half` | --- |
 | 10:00 | Turkey Amateur | Ortahisar FSK vs Giresun Yeniyolspor | **1 - 0** | `Started` | Unknown 17'(H) |
 | 10:00 | Turkey Amateur | Rize Atletik 1973 SK vs Ünye 1957 SK | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Şiran Yıldızspor vs Maçka Belediyespor | **2 - 1** | `2nd half` | Unknown 26'(H), Unknown 18'(A), Unknown 13'(H) |
 | 10:00 | Turkey Amateur | Sivas Gücü Belediyespor vs Erzincangücü | **2 - 0** | `Started` | Unknown 7'(H), Unknown 4'(H) |
-| 10:00 | Turkey Amateur | Ulubey Belediyespor vs Erzurum Büyükşehir Belediyesi SK | **0 - 0** | `Halftime` | --- |
-| 11:00 | Turkey Amateur | 1930 Bafraspor vs Yeniçağa | **0 - 0** | `1st half` | --- |
+| 10:00 | Turkey Amateur | Ulubey Belediyespor vs Erzurum Büyükşehir Belediyesi SK | **0 - 0** | `2nd half` | --- |
+| 11:00 | Turkey Amateur | 1930 Bafraspor vs Yeniçağa | **0 - 1** | `1st half` | Unknown 20'(A) |
 | 11:00 | Turkey Amateur | Bartınspor vs Turhal 60 FSK | **1 - 1** | `1st half` | Unknown 9'(A), Unknown 4'(H) |
 | 11:00 | Turkey Amateur | Çankırı FK vs Sinopspor | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Çaycumaspor vs Ladik Belediyespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Eflani SK vs Sorgun Belediyespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Kırşehir Yetişen Yıldızlar vs Devrek Belediyespor | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Eflani SK vs Sorgun Belediyespor | **0 - 1** | `Started` | Unknown 20'(A) |
+| 11:00 | Turkey Amateur | Kırşehir Yetişen Yıldızlar vs Devrek Belediyespor | **1 - 1** | `Started` | Unknown 14'(A), Unknown 9'(H) |
 | 11:00 | Turkey Amateur | Merzifonspor vs Çarşambaspor | **1 - 0** | `1st half` | Unknown 8'(H) |
 | 11:00 | Turkey Amateur | Bozanspor vs Tavşanlı Tepecikspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | İznikspor vs Yalovaspor | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Keçiören Bld Bağlumspor vs Eşme Belediyespor | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Söğütspor vs Beytepe Metespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Tavşanlı Belediyespor vs Gemlikspor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Tavşanlı Linyitspor vs 2 Eylül SK | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Ceyhan 1967 FK vs Çınarlı Gençlik Spor | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey Amateur | Erdemli Belediyespor vs Bahçespor | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Tavşanlı Belediyespor vs Gemlikspor | **1 - 0** | `Started` | Unknown 12'(H) |
+| 11:00 | Turkey Amateur | Tavşanlı Linyitspor vs 2 Eylül SK | **1 - 0** | `Started` | İbrahim Zeytin 7'(H) |
+| 11:00 | Turkey Amateur | Ceyhan 1967 FK vs Çınarlı Gençlik Spor | **0 - 1** | `1st half` | Unknown 7'(A) |
+| 11:00 | Turkey Amateur | Erdemli Belediyespor vs Bahçespor | **1 - 0** | `Started` | Unknown 21'(H) |
 | 11:00 | Turkey Amateur | Hassa 1939 FK Spor Kulübü vs Anamur Belediyespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Nevşehir FK vs Adana Adaletgücü | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey Amateur | Niğde Belediyegücü vs Nizipspor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Şehitkamil Belediyespor vs Mezitli 33 SK | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | 1923 Afyonkarahisar SK vs 1922 Akşehir SK | **0 - 0** | `1st half` | --- |
+| 11:00 | Turkey Amateur | Kozanspor FK vs Samandağspor | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Nevşehir FK vs Adana Adaletgücü | **0 - 2** | `1st half` | Unknown 23'(A), Unknown 12'(A) |
+| 11:00 | Turkey Amateur | Niğde Belediyegücü vs Nizipspor | **0 - 1** | `Started` | Unknown 13'(A) |
+| 11:00 | Turkey Amateur | Şehitkamil Belediyespor vs Mezitli 33 SK | **0 - 1** | `Started` | Unknown 13'(A) |
+| 11:00 | Turkey Amateur | 1923 Afyonkarahisar SK vs 1922 Akşehir SK | **0 - 1** | `1st half` | Unknown 24'(A) |
 | 11:00 | Turkey Amateur | Denizlispor vs Bucak Belediyesi Oğuzhanspor | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Keçiborlu Belediyespor vs Yeşil Çivril Belediyespor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Konya Ereğlispor vs Kumluca Belediyespor | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey Amateur | Kulu Belediyespor vs Akkonakspor | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Kulu Belediyespor vs Akkonakspor | **1 - 0** | `Started` | Unknown 17'(H) |
 | 11:00 | Turkey Amateur | Manavgat Belediyespor vs Yatağanspor | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey Amateur | Milas FK vs Beymelek Belediyespor | **1 - 0** | `Started` | Unknown 10'(H) |
+| 11:00 | Turkey Amateur | Milas FK vs Beymelek Belediyespor | **1 - 1** | `Started` | Unknown 22'(A), Unknown 10'(H) |
 | 11:00 | Turkey Amateur | 1966 Edremitspor vs Balıkesir Büyükşehir Belediyespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Aydınspor vs Gaziemir Gençlikspor | **0 - 0** | `1st half` | --- |
+| 11:00 | Turkey Amateur | Aydınspor vs Gaziemir Gençlikspor | **0 - 2** | `1st half` | Unknown 14'(A), Unknown 9'(A) |
 | 11:00 | Turkey Amateur | Bandırma Etispor vs Kuşadasıspor | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | İzmirspor vs Akhisar 45 FSK | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Kuşadası 1923 Spor Kulübü vs Torbalıspor | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey Amateur | Nurlupınar Gençlergücüspor vs İzmir Güzeltepe Futbol Spor Kulübü | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Nurlupınar Gençlergücüspor vs İzmir Güzeltepe Futbol Spor Kulübü | **1 - 0** | `Started` | Unknown 5'(H) |
 | 11:00 | Turkey Amateur | Ödemişspor Kulübü vs Manisaspor | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Cumayeri Belediyespor vs Anadolu Hisarı İdman Yurdu | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Darıca Türkeli SK vs Maltepespor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Gülsuyu SK vs Karamürselspor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Karasuspor vs Dikilitaş SK | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Sultanbeyli Belediyespor vs Darıca 1934 Gençlerbirliği SK | **0 - 0** | `1st half` | --- |
-| 11:00 | Turkey Amateur | Tuzla Orhanlıspor vs İzlog Pamukova | **0 - 0** | `1st half` | --- |
+| 11:00 | Turkey Amateur | Karasuspor vs Dikilitaş SK | **0 - 1** | `Started` | Unknown 20'(A) |
+| 11:00 | Turkey Amateur | Sultanbeyli Belediyespor vs Darıca 1934 Gençlerbirliği SK | **1 - 2** | `1st half` | Unknown 13'(A), Unknown 8'(A), Unknown 8'(H) |
+| 11:00 | Turkey Amateur | Tuzla Orhanlıspor vs İzlog Pamukova | **1 - 0** | `1st half` | Unknown 10'(H) |
 | 11:00 | Turkey Amateur | Büyükçekmece Tepecikspor vs İFA SK | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Ergene Velimeşe Spor vs Kapaklıspor | **0 - 0** | `1st half` | --- |
 | 11:00 | Turkey Amateur | Ezinespor vs Küçükçekmece SF | **0 - 0** | `Started` | --- |
@@ -260,6 +261,7 @@
 | 11:00 | Turkey Amateur | Menteşe Yerküpe Beşpınarspor vs Karaovaspor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Dalaman Belediye Gençlikspor vs Bozburun Belediyespor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Datça Belediyespor vs Arsaspor | **0 - 0** | `Started` | --- |
+| 11:15 | Turkey Amateur | Fethiye 1923 Spor vs Selimiye Lostaspor | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Şereflikoçhisarspor vs Başkent Sportif | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Ayaşspor vs Etlikspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Elmadağgücü vs Ankara Yenidoğan | **0 - 0** | `Started` | --- |
