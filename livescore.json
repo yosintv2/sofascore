@@ -1,27 +1,25 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-28 16:52:49 UTC"
+        "updated": "2025-12-28 17:10:38 UTC"
     },
     "matches": [
-        {
-            "start_time": "15:00",
-            "league": "Africa Cup of Nations, Group E",
-            "country": "Africa",
-            "home": "Equatorial Guinea",
-            "away": "Sudan",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Sa\u00fal Coco 74'(A)"
-            ]
-        },
         {
             "start_time": "16:30",
             "league": "Premier League",
             "country": "England",
             "home": "Crystal Palace",
             "away": "Tottenham Hotspur",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "17:00",
+            "league": "Serie A",
+            "country": "Italy",
+            "home": "Bologna",
+            "away": "Sassuolo",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -58,7 +56,7 @@
             "home": "Amed Sportif Faaliyetler",
             "away": "I\u011fd\u0131r FK",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Daniel Moreno 44'(H)"
             ]
@@ -69,9 +67,11 @@
             "country": "Qatar",
             "home": "Al-Arabi SC",
             "away": "Al-Rayyan",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "R\u00f3ger Guedes 34'(A)"
+            ]
         },
         {
             "start_time": "15:45",
@@ -94,7 +94,7 @@
             "home": "Muharraq",
             "away": "Al Najma",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Arthur Rezende 27'(H)"
             ]
@@ -105,9 +105,12 @@
             "country": "Bahrain",
             "home": "Al Ahli",
             "away": "Sitra",
-            "score": "0 - 1",
+            "score": "0 - 2",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 34'(A)",
+                "Yassine Chamakhi 20'(A)"
+            ]
         },
         {
             "start_time": "16:00",
@@ -139,7 +142,7 @@
             "home": "Brikama United FC",
             "away": "Gambia Ports Authority",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 38'(A)"
             ]
@@ -151,7 +154,7 @@
             "home": "Gambian Dutch Lions",
             "away": "Falcons FC",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 11'(H)"
             ]
@@ -163,7 +166,7 @@
             "home": "Hart Academy FC",
             "away": "Fortune FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -173,64 +176,8 @@
             "home": "Samger FC",
             "away": "TMT FA",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Ghana",
-            "home": "Basake Holy Stars FC",
-            "away": "Hohoe United FC",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Simba Sylvester 70'(H)",
-                "Prince Tweneboah 37'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Ghana",
-            "home": "Berekum Chelsea",
-            "away": "Eleven Wonders",
-            "score": "3 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Samed Nasri Musah 63'(H)",
-                "Prince Anane 18'(H)",
-                "Willian Danquah 15'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Ghana",
-            "home": "Bibiani Gold Stars FC",
-            "away": "Dreams",
-            "score": "2 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Emmanuel Boateng Agyenim 79'(H)",
-                "Barimah Baah 74'(H)",
-                "Abdul Razak Salifu 21'(A)",
-                "Abdul Razak Salifu 8'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Ghana",
-            "home": "Swedru All Blacks United FC",
-            "away": "Karela United",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Malik Abubakar 70'(A)",
-                "Ayikabia Solomon Anyork Nereba 64'(H)"
-            ]
         },
         {
             "start_time": "15:00",
@@ -238,10 +185,11 @@
             "country": "Ghana",
             "home": "Young Apostles FC",
             "away": "Aduana Stars FC",
-            "score": "2 - 1",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 86'(A)",
+                "Unknown 90'(A)",
+                "Charles Gyamfi Kamara 86'(A)",
                 "Samuel Prempeh 49'(H)",
                 "Richmond Opoku 44'(H)"
             ]
@@ -252,9 +200,10 @@
             "country": "Ghana",
             "home": "Asante Kotoko SC",
             "away": "Bechem United",
-            "score": "4 - 0",
+            "score": "5 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Johnson Owusu 61'(H)",
                 "Hubert Gyau 53'(H)",
                 "Morifing Donzo 40'(H)",
                 "Ndongani Samba Gilbani 23'(H)",
@@ -293,8 +242,8 @@
                 "Unknown 76'(A)",
                 "Unknown 75'(H)",
                 "Unknown 73'(A)",
-                "Unknown -1'(A)",
-                "Unknown -1'(H)",
+                "Unknown 71'(A)",
+                "Unknown 69'(H)",
                 "Unknown 51'(H)",
                 "Unknown 22'(H)"
             ]
@@ -367,25 +316,12 @@
             "start_time": "15:00",
             "league": "Division One - Zone Three",
             "country": "Ghana",
-            "home": "Accra Great Olympics",
-            "away": "Okwawu United",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 56'(A)",
-                "Unknown 53'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Division One - Zone Three",
-            "country": "Ghana",
             "home": "Accra Lions FC",
             "away": "Hakla Sporting Club",
             "score": "0 - 3",
             "minute": "Started",
             "scorers": [
-                "Unknown -1'(A)",
+                "Unknown 90'(A)",
                 "Unknown 42'(A)",
                 "Unknown 38'(A)"
             ]
@@ -411,53 +347,13 @@
             "scorers": []
         },
         {
-            "start_time": "15:00",
-            "league": "Iraq Stars League",
-            "country": "Iraq",
-            "home": "Al-Zawraa",
-            "away": "Al Mina'a SC",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Hayder Abdulkareem 79'(H)",
-                "Hayder Abdulkareem 38'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "U19 National League Division 2",
-            "country": "Israel",
-            "home": "Maccabi Yavne Shimon U19",
-            "away": "AS Nordia Jerusalem U19",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(A)",
-                "Unknown 89'(A)",
-                "Unknown 51'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Israel U19 Premier Division",
-            "country": "Israel",
-            "home": "Hapoel Raanana U19",
-            "away": "Maccabi Herzliya U19",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 74'(A)",
-                "Unknown 60'(H)"
-            ]
-        },
-        {
             "start_time": "16:00",
             "league": "Jordan Shield Cup",
             "country": "Jordan",
             "home": "Al Faisaly SC",
             "away": "Al-Wehdat",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -467,7 +363,7 @@
             "home": "Shabab Al-Ordon",
             "away": "Al Salt",
             "score": "0 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 28'(A)",
                 "Unknown 5'(A)"
@@ -480,7 +376,7 @@
             "home": "Al Kuwait SC",
             "away": "Al Fahaheel SC",
             "score": "4 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Taha Yassine Khenissi 44'(H)",
                 "Mohammad Daham 24'(H)",
@@ -495,7 +391,7 @@
             "home": "FC Mali Coura",
             "away": "Afrique Football Elite",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 20'(H)"
             ]
@@ -507,7 +403,7 @@
             "home": "Usfas Bamako",
             "away": "AS Korofina",
             "score": "1 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 12'(H)",
                 "Unknown 9'(A)"
@@ -520,17 +416,7 @@
             "home": "AS Douanes",
             "away": "Ka\u00e9di FC",
             "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "14:30",
-            "league": "Ligue R\u00e9gionale Tanger-Tetouan-Al Hoceima, Group A",
-            "country": "Morocco Amateur",
-            "home": "Amal Fnideq",
-            "away": "Raja Moh Paco",
-            "score": "0 - 0",
-            "minute": "Started",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -569,21 +455,6 @@
             "start_time": "16:00",
             "league": "Super Ligue",
             "country": "Niger",
-            "home": "ASN Nigelec",
-            "away": "Urana FC",
-            "score": "2 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 76'(A)",
-                "Unknown 63'(H)",
-                "Unknown 22'(H)",
-                "Unknown 17'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Super Ligue",
-            "country": "Niger",
             "home": "AS UAM",
             "away": "Espoir FC",
             "score": "0 - 0",
@@ -591,92 +462,14 @@
             "scorers": []
         },
         {
-            "start_time": "15:00",
+            "start_time": "17:00",
             "league": "Premier League",
             "country": "Nigeria",
-            "home": "Bayelsa United FC",
-            "away": "El Kanemi Warriors",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 45'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Nigeria",
-            "home": "Enyimba",
-            "away": "Shooting Stars",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Edidion Ezekiel 85'(H)",
-                "Chinedu Chukwu Ufere 16'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Nigeria",
-            "home": "Kun Khalifat FC",
-            "away": "Katsina United",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Christopher Richards Ezinwa 39'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Nigeria",
-            "home": "Niger Tornadoes",
-            "away": "Barau FC",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Abdulaziz Dalhatu 35'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Nigeria",
-            "home": "Plateau United",
-            "away": "Abia Warriors",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Abubakar Taheer 68'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Nigeria",
-            "home": "Rivers United",
-            "away": "Enugu Rangers International",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "David Sholumade 53'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Premier League",
-            "country": "Nigeria",
-            "home": "Warri Wolves FC",
-            "away": "Wikki Tourists FC",
-            "score": "2 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Imamu Bala 77'(A)",
-                "Seth Mayi 57'(H)",
-                "Ezekiel Oroh 48'(H)",
-                "Imamu Bala 37'(A)"
-            ]
+            "home": "Ikorodu City",
+            "away": "Remo Stars",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "15:50",
@@ -685,7 +478,7 @@
             "home": "Al Shabab SC Oman",
             "away": "Dhofar SC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -762,9 +555,10 @@
             "country": "Portugal Amateur",
             "home": "LAAC",
             "away": "AD Ovarense",
-            "score": "0 - 1",
+            "score": "0 - 2",
             "minute": "Started",
             "scorers": [
+                "Gon\u00e7alo Semedo -1'(A)",
                 "Omojowolo Morgan 21'(A)"
             ]
         },
@@ -795,59 +589,11 @@
             "start_time": "15:00",
             "league": "A.F. Coimbra Elite",
             "country": "Portugal Amateur",
-            "home": "AD Nogueirense",
-            "away": "Tourizense",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Coimbra Elite",
-            "country": "Portugal Amateur",
             "home": "An\u00e7\u00e3 FC",
             "away": "Esperan\u00e7a AC",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Coimbra Elite",
-            "country": "Portugal Amateur",
-            "home": "CDR Penelense",
-            "away": "Carapinheirense",
-            "score": "2 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown -1'(H)",
-                "Unknown -1'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Coimbra Elite",
-            "country": "Portugal Amateur",
-            "home": "Clube Uni\u00e3o 1919",
-            "away": "Uni\u00e3o FC",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Lu\u00eds Filipe  Pereira -1'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Coimbra Elite",
-            "country": "Portugal Amateur",
-            "home": "GD Sourense",
-            "away": "AD Poiares",
-            "score": "2 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown -1'(H)",
-                "Unknown -1'(H)"
-            ]
         },
         {
             "start_time": "15:00",
@@ -861,16 +607,6 @@
         },
         {
             "start_time": "15:00",
-            "league": "A.F. Coimbra Elite",
-            "country": "Portugal Amateur",
-            "home": "Vigor Mocidade",
-            "away": "UD Tocha",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
             "league": "A.F. Coimbra Divis\u00e3o de Honra",
             "country": "Portugal Amateur",
             "home": "AC Montemorense",
@@ -878,10 +614,10 @@
             "score": "2 - 7",
             "minute": "Started",
             "scorers": [
-                "Unknown -1'(H)",
-                "Jos\u00e9 Daniel  Martins -1'(A)",
-                "Unknown -1'(H)",
-                "Tom\u00e1s  Lopes Santos -1'(A)",
+                "Unknown 90'(H)",
+                "Jos\u00e9 Daniel  Martins 90'(A)",
+                "Unknown 90'(H)",
+                "Tom\u00e1s  Lopes Santos 90'(A)",
                 "Tiago Seco 78'(A)",
                 "Jo\u00e3o Em\u00eddio  Ferreira 53'(A)",
                 "Tiago Seco 47'(A)",
@@ -940,9 +676,11 @@
             "country": "Portugal Amateur",
             "home": "ADC Almalagu\u00eas",
             "away": "FC S\u00e3o Silvestre",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown -1'(H)"
+            ]
         },
         {
             "start_time": "15:00",
@@ -953,48 +691,6 @@
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Coimbra 1\u00aa Divis\u00e3o, Serie A",
-            "country": "Portugal Amateur",
-            "home": "CO Jardim do Alva",
-            "away": "ADC S\u00e3o Pedro de Alva",
-            "score": "1 - 1",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 33'(H)",
-                "Lu\u00eds Borges 26'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Coimbra 1\u00aa Divis\u00e3o, Serie A",
-            "country": "Portugal Amateur",
-            "home": "UDR Cernache",
-            "away": "AER G\u00f3is",
-            "score": "1 - 3",
-            "minute": "Started",
-            "scorers": [
-                "Unknown -1'(A)",
-                "Vicente Dias 79'(A)",
-                "Caio Fernandes 50'(A)",
-                "Pedro Martins 21'(A)",
-                "Renato Almeida 5'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Coimbra 1\u00aa Divis\u00e3o, Serie B",
-            "country": "Portugal Amateur",
-            "home": "ADCR Pereira",
-            "away": "Juventude Arzila",
-            "score": "0 - 2",
-            "minute": "Started",
-            "scorers": [
-                "Pedro Martins 74'(A)",
-                "Lu\u00eds Alexis Cruz 23'(A)"
-            ]
         },
         {
             "start_time": "15:00",
@@ -1149,9 +845,10 @@
             "country": "Portugal Amateur",
             "home": "Aliados FC Lordelo",
             "away": "FC Pedras Rubras",
-            "score": "2 - 0",
+            "score": "2 - 1",
             "minute": "Started",
             "scorers": [
+                "Igor Sevivas 78'(A)",
                 "Guga Costa 49'(H)",
                 "Bruno Silva 43'(H)"
             ]
@@ -1174,9 +871,10 @@
             "country": "Portugal Amateur",
             "home": "CRCD Varziela 1982",
             "away": "Gondomar SC",
-            "score": "1 - 3",
+            "score": "1 - 4",
             "minute": "Started",
             "scorers": [
+                "Unknown 74'(A)",
                 "Rodrigo Malheiros 57'(A)",
                 "Unknown 26'(A)",
                 "Rodrigo Malheiros 19'(A)",
@@ -1189,9 +887,11 @@
             "country": "Portugal Amateur",
             "home": "Ermesinde SC 1936",
             "away": "FC Foz",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 45'(H)"
+            ]
         },
         {
             "start_time": "15:30",
@@ -1222,7 +922,7 @@
             "score": "2 - 1",
             "minute": "Started",
             "scorers": [
-                "Unknown 52'(H)",
+                "Unknown -1'(H)",
                 "Patrick Silva -1'(H)",
                 "Unknown -1'(A)"
             ]
@@ -1253,9 +953,11 @@
             "country": "Portugal Amateur",
             "home": "SC Arcozelo",
             "away": "AC Gervide",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 27'(H)"
+            ]
         },
         {
             "start_time": "15:30",
@@ -1300,9 +1002,10 @@
             "country": "Portugal Amateur",
             "home": "UD Valonguense",
             "away": "Uni\u00e3o Nogueirense FC",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "Started",
             "scorers": [
+                "Unknown -1'(H)",
                 "Breno Mendon\u00e7a 45'(A)"
             ]
         },
@@ -1312,9 +1015,11 @@
             "country": "Portugal Amateur",
             "home": "Atl\u00e9tico Ouriense",
             "away": "Clube Desportivo de Torres Novas",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 26'(A)"
+            ]
         },
         {
             "start_time": "15:00",
@@ -1390,38 +1095,6 @@
             "start_time": "15:00",
             "league": "A.F. Viseu Ta\u00e7a do Distrito (S\u00f3cios de M\u00e9rito)",
             "country": "Portugal Amateur",
-            "home": "ADR Tarouquense",
-            "away": "SC Penalva do Castelo",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown -1'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Viseu Ta\u00e7a do Distrito (S\u00f3cios de M\u00e9rito)",
-            "country": "Portugal Amateur",
-            "home": "ARC Sezurense",
-            "away": "SC Vale A\u00e7ores",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Viseu Ta\u00e7a do Distrito (S\u00f3cios de M\u00e9rito)",
-            "country": "Portugal Amateur",
-            "home": "Ass. Os Vouzelenses",
-            "away": "ACDR Lamelas",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Viseu Ta\u00e7a do Distrito (S\u00f3cios de M\u00e9rito)",
-            "country": "Portugal Amateur",
             "home": "CF Carregal Sal",
             "away": "CA Molelos",
             "score": "1 - 0",
@@ -1436,30 +1109,6 @@
             "country": "Portugal Amateur",
             "home": "GDCP Oliveira do Douro",
             "away": "SL Nelas",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Viseu Ta\u00e7a do Distrito (S\u00f3cios de M\u00e9rito)",
-            "country": "Portugal Amateur",
-            "home": "Nespereira FC",
-            "away": "CR Ferreira De Aves",
-            "score": "0 - 3",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 74'(A)",
-                "Unknown 38'(A)",
-                "Unknown 30'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "A.F. Viseu Ta\u00e7a do Distrito (S\u00f3cios de M\u00e9rito)",
-            "country": "Portugal Amateur",
-            "home": "Sampedrense",
-            "away": "CDR Moimenta da Beira",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -1593,9 +1242,10 @@
             "country": "Senegal",
             "home": "AS Dakar Sacr\u00e9-C\u0153ur",
             "away": "ASC Sonacos",
-            "score": "0 - 1",
+            "score": "0 - 2",
             "minute": "1st half",
             "scorers": [
+                "Unknown 37'(A)",
                 "Unknown 10'(A)"
             ]
         },
@@ -1669,81 +1319,9 @@
             "home": "Bhantal FC",
             "away": "Star Sport Academy",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 29'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "D1 Lonato",
-            "country": "Togo",
-            "home": "ASKO Kara",
-            "away": "Espoir FC Tsevie",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 61'(H)",
-                "Unknown 28'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "D1 Lonato",
-            "country": "Togo",
-            "home": "Dyto FC",
-            "away": "AS Binah",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Mibothe Kpatoumbi 76'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "D1 Lonato",
-            "country": "Togo",
-            "home": "Entente 2",
-            "away": "Tambo FC",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "D1 Lonato",
-            "country": "Togo",
-            "home": "Gbohloesu",
-            "away": "AC Semassi FC",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "D1 Lonato",
-            "country": "Togo",
-            "home": "Gomido",
-            "away": "AC Barracuda",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 31'(H)",
-                "Unknown 1'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "D1 Lonato",
-            "country": "Togo",
-            "home": "Unisport de Sokode",
-            "away": "AS Otr",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 69'(A)",
-                "Unknown 11'(H)",
-                "Unknown 3'(H)"
             ]
         },
         {
@@ -1823,7 +1401,7 @@
             "home": "Mlandege FC",
             "away": "Singida Black Stars SC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         }
     ]
