@@ -1,32 +1,19 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-28 09:47:07 UTC"
+        "updated": "2025-12-28 09:56:34 UTC"
     },
     "matches": [
-        {
-            "start_time": "08:00",
-            "league": "A-League Men",
-            "country": "Australia",
-            "home": "Melbourne City",
-            "away": "Perth Glory",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Tom Lawrence 80'(A)",
-                "Tom Lawrence 22'(A)",
-                "Tom Lawrence 10'(A)"
-            ]
-        },
         {
             "start_time": "08:30",
             "league": "Dhaka Senior Division League",
             "country": "Bangladesh",
             "home": "Nababpur KC",
             "away": "T&T Club Motijheel",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "Started",
             "scorers": [
+                "Unknown 45'(H)",
                 "Unknown 12'(H)"
             ]
         },
@@ -74,7 +61,7 @@
             "home": "Seoul Phoenix FC",
             "away": "Kedah FA",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -93,9 +80,11 @@
             "country": "Myanmar",
             "home": "Yreo FC Women",
             "away": "Shan Utd Women",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 45'(A)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -104,7 +93,7 @@
             "home": "Silver Stars",
             "away": "Chinland FC",
             "score": "0 - 3",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 30'(A)",
                 "Unknown 25'(A)",
@@ -118,7 +107,7 @@
             "home": "Yangon City FC",
             "away": "Young Boys FC",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 44'(H)",
                 "Unknown 24'(H)"
@@ -130,25 +119,12 @@
             "country": "Thailand",
             "home": "Lopburi City FC",
             "away": "Nakhon Ratchasima Mazda FC",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 90'(A)",
                 "Unknown 59'(H)",
                 "Chitsanuphong Phimpsang 42'(A)"
-            ]
-        },
-        {
-            "start_time": "08:00",
-            "league": "Thailand League Cup",
-            "country": "Thailand",
-            "home": "Uttaradit FC",
-            "away": "BG Pathum United",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Surachart Sareepim 83'(A)",
-                "Matheus Fornazari 22'(A)",
-                "Matheus Fornazari 8'(A)"
             ]
         },
         {
@@ -157,9 +133,10 @@
             "country": "Thailand",
             "home": "Satun United FC",
             "away": "Lamphun Warrior",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "0 - 2",
+            "minute": "Halftime",
             "scorers": [
+                "Witthaya Moonwong 45'(A)",
                 "Peniel Mlapa 24'(A)"
             ]
         },
@@ -170,7 +147,7 @@
             "home": "Bak\u0131rk\u00f6y Kad\u0131n Futbol SK",
             "away": "Soma Zaferspor",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 20'(H)"
             ]
@@ -291,9 +268,10 @@
             "country": "Turkey Amateur",
             "home": "Ku\u015ftepe SK",
             "away": "\u015eilespor",
-            "score": "0 - 2",
+            "score": "0 - 3",
             "minute": "Started",
             "scorers": [
+                "Unknown 44'(A)",
                 "Unknown 16'(A)",
                 "Unknown 3'(A)"
             ]
@@ -310,10 +288,40 @@
         },
         {
             "start_time": "09:00",
+            "league": "Ordu S\u00fcper Amat\u00f6r Ligi",
+            "country": "Turkey Amateur",
+            "home": "G\u00fclyal\u0131 Turnasuyuspor",
+            "away": "Ordu Eskipazarspor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
             "league": "Malatya 1. Amat\u00f6r Ligi - Group 1",
             "country": "Turkey Amateur",
             "home": "Kald\u0131r\u0131mg\u00fcc\u00fc",
             "away": "Kale Gen\u00e7lerbirli\u011fi",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Malatya 1. Amat\u00f6r Ligi - Group 1",
+            "country": "Turkey Amateur",
+            "home": "Malatya Beyda\u011f\u0131spor",
+            "away": "Malatya Galataspor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Malatya 1. Amat\u00f6r Ligi - Group 1",
+            "country": "Turkey Amateur",
+            "home": "Yaz\u0131han Belediyespor",
+            "away": "Arapgirg\u00fcc\u00fc",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -352,6 +360,16 @@
                 "Unknown 27'(A)",
                 "Unknown 15'(H)"
             ]
+        },
+        {
+            "start_time": "09:30",
+            "league": "Sivas 1. Amat\u00f6r Ligi - Group A",
+            "country": "Turkey Amateur",
+            "home": "Sivas Alt\u0131nayspor",
+            "away": "\u015eark\u0131\u015fla Belediyespor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "08:00",
