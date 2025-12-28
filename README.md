@@ -3,19 +3,16 @@
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 14:00 | England | Sunderland vs Leeds United | **1 - 0** | `1st half` | Simon Adingra 28'(H) |
-| 14:00 | Italy | Cremonese vs Napoli | **0 - 1** | `1st half` | Rasmus Højlund 13'(A) |
+| 14:00 | Italy | Cremonese vs Napoli | **0 - 2** | `Halftime` | Rasmus Højlund 45'(A), Rasmus Højlund 13'(A) |
 | 13:00 | Turkey | Erzurumspor FK vs Çorum FK | **1 - 0** | `2nd half` | Benhur Keser 52'(H) |
 | 14:30 | Qatar | Al Duhail vs Qatar SC | **0 - 0** | `1st half` | --- |
 | 14:30 | Qatar | Al-Sailiya vs Al-Wakrah | **0 - 0** | `1st half` | --- |
-| 12:50 | United Arab Emirates | Al-Wahda FC vs Khor Fakkan | **1 - 0** | `2nd half` | Omar Kharbin 22'(H) |
-| 12:50 | United Arab Emirates | Dibba Al-Fujairah vs Al Wasl | **1 - 3** | `2nd half` | Adryelson 64'(A), Nicolás Giménez 46'(A), Saymon Cabral 20'(H), Serginho 3'(A) |
-| 12:45 | World | Selangor vs Sabah FC | **1 - 0** | `2nd half` | Unknown 19'(H) |
 | 14:00 | Bolivia | Atlético Terry vs Green Condors | **0 - 0** | `Started` | --- |
-| 13:30 | Cuba | Escambray vs PSG Santa Clara | **0 - 0** | `1st half` | --- |
+| 13:30 | Cuba | Escambray vs PSG Santa Clara | **0 - 0** | `Halftime` | --- |
 | 13:00 | DR Congo | AS Malole vs FC Saint-Éloi Lupopo | **0 - 1** | `2nd half` | Unknown 10'(A) |
 | 13:00 | DR Congo | Groupe Bazano vs Blessing FC | **0 - 0** | `2nd half` | --- |
-| 14:00 | DR Congo | Daring Club Motema Pembe vs Olympique Club Renaissance du Congo | **0 - 0** | `Started` | --- |
-| 12:30 | Egypt | National Bank of Egypt vs ENPPI | **0 - 0** | `Awaiting extra time` | --- |
+| 14:00 | DR Congo | Daring Club Motema Pembe vs Olympique Club Renaissance du Congo | **0 - 0** | `1st half` | --- |
+| 12:30 | Egypt | National Bank of Egypt vs ENPPI | **0 - 1** | `1st extra` | Hamed Abdallah 99'(A) |
 | 13:00 | Eswatini | Malanti Chiefs vs Royal Leopards FC | **0 - 0** | `Started` | --- |
 | 13:00 | Eswatini | Manzini Wanderers vs Ezulwini United FC | **1 - 1** | `Started` | Unknown -1'(A), Unknown -1'(H) |
 | 13:00 | Eswatini | Sisonkhe FC vs Nsingizini Hotspur | **0 - 1** | `Started` | Unknown 20'(A) |
@@ -58,16 +55,15 @@
 | 13:00 | Morocco Amateur | Chippo FC U17 vs ASA Lanoria U17 | **0 - 0** | `Started` | --- |
 | 13:00 | Morocco Amateur | Stade Marocain U17 vs Wydad Temara U17 | **0 - 0** | `Started` | --- |
 | 14:30 | Nigeria | Kano Pillars vs Nasarawa United | **0 - 0** | `1st half` | --- |
-| 12:50 | Oman | Bahla SC vs Sur SC | **1 - 2** | `2nd half` | Unknown 67'(A), Unknown 56'(A), Unknown 29'(H) |
-| 14:00 | Portugal | Paços de Ferreira vs SC Farense | **0 - 0** | `1st half` | --- |
+| 12:50 | Oman | Bahla SC vs Sur SC | **1 - 2** | `2nd half` | Saud Al Farsi 67'(A), Unknown 56'(A), Unknown 29'(H) |
+| 14:00 | Portugal | Paços de Ferreira vs SC Farense | **0 - 0** | `Halftime` | --- |
 | 13:00 | Rwanda | Musanze vs Gorilla FC | **0 - 1** | `2nd half` | Unknown 30'(A) |
-| 12:40 | Saudi Arabia | Al-Qous vs Arar | **2 - 1** | `2nd half` | Unknown 41'(H), Unknown 33'(H), Unknown 31'(A) |
 | 12:45 | Saudi Arabia | Al-Yarmouk vs Qilwah Club | **1 - 0** | `2nd half` | Unknown 66'(H) |
 | 13:00 | Tanzania | Kagera Sugar FC vs Songea United | **1 - 2** | `2nd half` | Unknown 45'(H), Unknown 44'(A), Unknown 13'(A) |
 | 13:00 | Tanzania | TMA Stars FC vs Polisi Tanzania FC | **1 - 2** | `2nd half` | Unknown 55'(A), Unknown 50'(A), Unknown 19'(H) |
 | 13:00 | Tunisia | CF Manzel Temime vs VS Menzel Abderrahmane | **0 - 1** | `2nd half` | Unknown 14'(A) |
-| 13:00 | Tunisia | ES Tazarka vs US Djaida | **0 - 0** | `2nd half` | --- |
-| 13:00 | Tunisia | Ahly Sfaxi vs HS Karkar | **1 - 2** | `2nd half` | Unknown 75'(H), Unknown 60'(A), Unknown 51'(A) |
+| 13:00 | Tunisia | ES Tazarka vs US Djaida | **0 - 1** | `2nd half` | Unknown 35'(A) |
+| 13:00 | Tunisia | Ahly Sfaxi vs HS Karkar | **2 - 2** | `2nd half` | Unknown 79'(H), Unknown 75'(H), Unknown 60'(A), Unknown 51'(A) |
 | 13:00 | Tunisia | AS Menzel Ennour vs US Ksibet Mediouni | **2 - 1** | `2nd half` | Unknown 62'(H), Unknown 41'(H), Unknown 25'(A) |
 | 13:00 | Tunisia | CS Helalien vs FS Sahline | **0 - 0** | `2nd half` | --- |
 | 13:00 | Tunisia | ES Jemmal vs A S Teboulba | **1 - 1** | `2nd half` | Unknown 44'(H), Unknown 29'(A) |
@@ -84,6 +80,8 @@
 | 13:00 | Turkey Amateur | Bayrampaşa Tunaspor vs İstinye SK | **1 - 0** | `2nd half` | Unknown 50'(H) |
 | 12:30 | Turkey Amateur | Balatspor vs Ayazağaspor | **0 - 1** | `Started` | Unknown 16'(A) |
 | 13:00 | Turkey Amateur | Türk Hava Yolları SK vs Karacaahmet Aygenspor | **1 - 0** | `2nd half` | Unknown 5'(H) |
+| 14:00 | Turkey Amateur | Değirmenderespor vs Eşmespor | **0 - 0** | `Started` | --- |
+| 14:00 | Turkey Amateur | Turgutspor vs Derincespor A.Ş. | **0 - 0** | `Started` | --- |
 | 13:00 | Turkey Amateur | Yurtkur SK vs Pursaklar Belediyespor | **0 - 0** | `Started` | --- |
 | 12:30 | Turkey Amateur | Nilüfer Kızılcıklıspor vs Gülbahçespor | **0 - 0** | `Started` | --- |
 | 12:30 | Turkey Amateur | Bursa 1326 FK vs Tirilye SK | **0 - 0** | `Started` | --- |
@@ -99,6 +97,7 @@
 | 14:00 | Turkey Amateur | Diyarbakır Bağcılar SF vs Diyarbakır Yenişehir BSK | **0 - 0** | `Started` | --- |
 | 13:00 | Turkey Amateur | Kayseri Gaziosmanpaşa vs Döğerspor | **0 - 0** | `Started` | --- |
 | 13:00 | Turkey Amateur | Özvatan Gençlik vs Başakpınar Belediyespor | **0 - 0** | `Started` | --- |
+| 12:30 | Turkey Amateur | Kasabaspor vs Manisa Karaköyspor | **0 - 0** | `Started` | --- |
 | 12:30 | Turkey Amateur | Salihli Belediyespor vs Alaşehir Belediyespor | **0 - 0** | `Started` | --- |
 | 13:00 | Turkey Amateur | Yurtbaşı Belediyesi 23 Spor vs Elazığ Şekerspor | **0 - 0** | `Started` | --- |
 | 13:15 | Turkey Amateur | Akçeşmespor vs Marmaraereğlisi Belediyespor | **0 - 0** | `Started` | --- |
