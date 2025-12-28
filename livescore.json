@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2025-12-28 08:53:25 UTC"
+        "updated": "2025-12-28 09:13:17 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Melbourne City",
             "away": "Perth Glory",
             "score": "0 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Tom Lawrence 22'(A)",
                 "Tom Lawrence 10'(A)"
@@ -43,9 +43,11 @@
             "country": "Hong Kong",
             "home": "Gospel FC",
             "away": "Wanchai Sports",
-            "score": "1 - 1",
+            "score": "1 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 79'(A)",
+                "Unknown 72'(A)",
                 "Unknown 55'(H)",
                 "Unknown 44'(A)"
             ]
@@ -56,9 +58,12 @@
             "country": "Indonesia",
             "home": "Persebaya Surabaya",
             "away": "Persijap Jepara",
-            "score": "0 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "L\u00e9o Lelis 38'(H)",
+                "Bruno Moreira 26'(H)"
+            ]
         },
         {
             "start_time": "08:30",
@@ -66,9 +71,11 @@
             "country": "Indonesia",
             "home": "Persiku Kudus",
             "away": "Deltras FC",
-            "score": "0 - 1",
+            "score": "2 - 1",
             "minute": "1st half",
             "scorers": [
+                "Igor Henrique Da Silva Costa 38'(H)",
+                "Igor Henrique Da Silva Costa 28'(H)",
                 "Tengeg Neville Mbanwei 7'(A)"
             ]
         },
@@ -83,13 +90,55 @@
             "scorers": []
         },
         {
+            "start_time": "09:00",
+            "league": "U17 Championnat National - Groupe D",
+            "country": "Morocco Amateur",
+            "home": "JS Massira U17",
+            "away": "DH El Jadida U17",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Myanmar League Women",
+            "country": "Myanmar",
+            "home": "Yreo FC Women",
+            "away": "Shan Utd Women",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Myanmar League 2",
+            "country": "Myanmar",
+            "home": "Silver Stars",
+            "away": "Chinland FC",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 10'(A)"
+            ]
+        },
+        {
+            "start_time": "09:00",
+            "league": "Myanmar League 2",
+            "country": "Myanmar",
+            "home": "Yangon City FC",
+            "away": "Young Boys FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "08:00",
             "league": "Thailand League Cup",
             "country": "Thailand",
             "home": "Lopburi City FC",
             "away": "Nakhon Ratchasima Mazda FC",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Chitsanuphong Phimpsang 42'(A)"
             ]
@@ -101,11 +150,121 @@
             "home": "Uttaradit FC",
             "away": "BG Pathum United",
             "score": "0 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Matheus Fornazari 22'(A)",
                 "Matheus Fornazari 8'(A)"
             ]
+        },
+        {
+            "start_time": "09:00",
+            "league": "Thailand League Cup",
+            "country": "Thailand",
+            "home": "Satun United FC",
+            "away": "Lamphun Warrior",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 1.Ligi, B Grubu",
+            "country": "Turkey",
+            "home": "Bak\u0131rk\u00f6y Kad\u0131n Futbol SK",
+            "away": "Soma Zaferspor",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 1.Ligi, B Grubu",
+            "country": "Turkey",
+            "home": "Kocaeli Kad\u0131n FK",
+            "away": "Dudullu SK",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 1",
+            "country": "Turkey",
+            "home": "7 Eyl\u00fcl Gen\u00e7likspor",
+            "away": "Konya \u0130dman Yurdu",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 1",
+            "country": "Turkey",
+            "home": "Denizli Sultanlarspor",
+            "away": "Afyonkarahisar Anadolug\u00fcc\u00fc",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 1",
+            "country": "Turkey",
+            "home": "U\u015fak 64 Belediye Gen\u00e7likspor",
+            "away": "Antalya Bayku\u015f Kad\u0131nspor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 2",
+            "country": "Turkey",
+            "home": "K\u0131l\u0131\u00e7aslan Y\u0131ld\u0131zspor FK",
+            "away": "Karab\u00fck Gen\u00e7lerbirli\u011fi SK",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 2",
+            "country": "Turkey",
+            "home": "Samsun Yabanc\u0131lar Pazar\u0131 SK",
+            "away": "Karadeniz Ere\u011fli Lisesispor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 3",
+            "country": "Turkey",
+            "home": "A\u011fr\u0131 Aile Sosyal Politikalar Gen\u00e7lik",
+            "away": "Kahramanmara\u015f Anadolu SK",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 3",
+            "country": "Turkey",
+            "home": "Erzincan Gen\u00e7lerg\u00fcc\u00fc",
+            "away": "Silopi Belediyesi Sportif Faaliyetler",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Kad\u0131nlar 2. Ligi, Group 3",
+            "country": "Turkey",
+            "home": "Vang\u00fcc\u00fc SK",
+            "away": "1955 Batman Belediye Spor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "08:00",
@@ -118,20 +277,54 @@
             "scorers": []
         },
         {
-            "start_time": "07:00",
+            "start_time": "09:00",
+            "league": "\u0130stanbul S\u00fcper Amat\u00f6r Ligi - Group 4",
+            "country": "Turkey Amateur",
+            "home": "Ku\u015ftepe SK",
+            "away": "\u015eilespor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
             "league": "Ankara S\u00fcper Amat\u00f6r Ligi",
             "country": "Turkey Amateur",
-            "home": "CDM Ba\u015far\u0131 2025 SK",
-            "away": "Kavakl\u0131derespor",
-            "score": "2 - 3",
+            "home": "Ba\u015fkent Fatihspor",
+            "away": "G\u00f6lba\u015f\u0131 Belediyespor",
+            "score": "0 - 0",
             "minute": "Started",
-            "scorers": [
-                "Unknown 69'(A)",
-                "Unknown 43'(A)",
-                "Unknown 40'(H)",
-                "Unknown 25'(H)",
-                "G\u00f6rkem Berke C\u00fcrebal 16'(A)"
-            ]
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Malatya 1. Amat\u00f6r Ligi - Group 1",
+            "country": "Turkey Amateur",
+            "home": "Kald\u0131r\u0131mg\u00fcc\u00fc",
+            "away": "Kale Gen\u00e7lerbirli\u011fi",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Diyarbak\u0131r S\u00fcper Amat\u00f6r Ligi - Group 1",
+            "country": "Turkey Amateur",
+            "home": "Erganispor",
+            "away": "Diyarbak\u0131r DS\u0130",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Mersin S\u00fcper Amat\u00f6r Ligi - Group A",
+            "country": "Turkey Amateur",
+            "home": "Mersin Camspor",
+            "away": "Binevler SK",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "08:00",
@@ -157,19 +350,34 @@
             "scorers": []
         },
         {
-            "start_time": "07:00",
-            "league": "Karaman 1. Amat\u00f6r Ligi, Group A",
+            "start_time": "09:00",
+            "league": "U\u015fak 1. Amat\u00f6r Ligi",
             "country": "Turkey Amateur",
-            "home": "Yunus Emre Gen\u00e7lerbirli\u011fi",
-            "away": "Mustafa Sa\u00e7\u0131kara SK",
-            "score": "4 - 0",
+            "home": "Bozku\u015f Stadspor",
+            "away": "Asil 64 Spor",
+            "score": "0 - 0",
             "minute": "Started",
-            "scorers": [
-                "Unknown 43'(H)",
-                "Unknown 35'(H)",
-                "Unknown 23'(H)",
-                "Unknown 22'(H)"
-            ]
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "Yalova 1. Amat\u00f6r Ligi, Group A",
+            "country": "Turkey Amateur",
+            "home": "Yalova Ye\u015filovaspor",
+            "away": "Yalova \u00dcniversitesi",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "\u015eanl\u0131urfa 1. Amat\u00f6r Ligi, Group 2",
+            "country": "Turkey Amateur",
+            "home": "Kale G\u00fcc\u00fc",
+            "away": "Viran\u015fehirspor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         }
     ]
 }
