@@ -2,8 +2,6 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | World | C.D. Irapuato vs CD Guadalajara | **0 - 2** | `Halftime` | Unknown 41'(A), Roberto Alvarado 9'(A) |
-| 22:00 | Antigua and Barbuda | Potters Tigers FC vs Jennings United | **1 - 0** | `Started` | Unknown -1'(H) |
-| 23:30 | Jamaica | Waterhouse FC vs Molynes United FC | **0 - 0** | `1st half` | --- |
-| 23:00 | Suriname | Inter Moengotapoe vs SV Leo Victor | **0 - 1** | `Halftime` | Unknown 12'(A) |
-| 22:30 | Uruguay Amateur | Nacional FC de Salto vs Ferro Carril FC de Salto | **1 - 0** | `Started` | Unknown 36'(H) |
+| 00:00 | Antigua and Barbuda | All Saints United vs Garden Stars FC | **1 - 0** | `Started` | Unknown -1'(H) |
+| 23:00 | Argentina | Deportivo Luján vs Resistencia Central | **1 - 1** | `2nd half` | Unknown 13'(A), Unknown 4'(H) |
+| 23:30 | Jamaica | Waterhouse FC vs Molynes United FC | **0 - 2** | `2nd half` | Wisdom Ubani 71'(A), Nickache Murray 44'(A) |
