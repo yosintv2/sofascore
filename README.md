@@ -2,6 +2,6 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 04:00 | Bangladesh | Nofel Sporting Club vs Badda Jagorani Sangsad | **0 - 0** | `Started` | --- |
-| 03:30 | India | Skorost vs Salsette FC | **5 - 0** | `2nd half` | Unknown 56'(H), Unknown 53'(H), Unknown 45'(H), Unknown 39'(H), Unknown 12'(H) |
-| 05:00 | Indonesia | Sidosel FC vs Panipi Raya FC | **0 - 0** | `Halftime` | --- |
+| 06:15 | Bangladesh | Swadhinata KS vs Qasaituly SKP | **0 - 0** | `Started` | --- |
+| 06:00 | India Amateur | Blitz FC vs AGORC FC | **1 - 0** | `Started` | Unknown 20'(H) |
+| 05:00 | Indonesia | Sidosel FC vs Panipi Raya FC | **1 - 1** | `2nd half` | Unknown 73'(H), Unknown 69'(A) |
