@@ -2,5 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | World | Lagarto FC vs CSA | **1 - 0** | `2nd half` | Unknown 36'(H) |
-| 22:30 | World | Treze vs Acadêmica Vitória | **0 - 1** | `2nd half` | Unknown 5'(A) |
+| 00:30 | Jamaica | Arnett Gardens vs Racing United FC | **1 - 1** | `2nd half` | Unknown 75'(A), Fabian Reid 68'(H) |
