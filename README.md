@@ -3,15 +3,13 @@
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 10:00 | Ethiopia | Menge Belashangul vs Addis Ketema FC | **0 - 0** | `2nd half` | --- |
-| 09:00 | Hungary Amateur | Fővárosi Vízművek SK vs 43. sz. Építők SK | **0 - 0** | `Started` | --- |
 | 11:00 | Hungary Amateur | Csongrád-Drakszi-gép Kft vs Algyő SK | **0 - 0** | `Started` | --- |
 | 10:00 | India | Revive Fc vs Bangalore Gunners | **0 - 0** | `2nd half` | --- |
 | 10:45 | Kenya | Konza Fc vs Kitanga Fc | **1 - 0** | `1st half` | Unknown 8'(H) |
-| 09:30 | Myanmar | Mahar United vs Hantharwady United FC | **2 - 2** | `2nd half` | Patrick Ella 75'(H), Patrick Ella 57'(H), Unknown 44'(A), Unknown 32'(A) |
-| 10:00 | Turkey Amateur | Beşikdüzüspor vs Sürmenespor | **1 - 0** | `Halftime` | Unknown 7'(H) |
+| 11:30 | Turkey Amateur | Yıldızlıspor vs Araklı 1961 SK | **0 - 0** | `Started` | --- |
+| 10:00 | Turkey Amateur | Beşikdüzüspor vs Sürmenespor | **2 - 1** | `2nd half` | Unknown 59'(A), Unknown 52'(H), Unknown 7'(H) |
 | 10:00 | Turkey Amateur | Trabzon Faroz Yalıspor vs Vakfıkebir 1874 FK | **0 - 1** | `2nd half` | Unknown 42'(A) |
 | 10:00 | Turkey Amateur | Trabzon İdmanocağı vs Esiroğlu Belde GSK | **0 - 1** | `2nd half` | Unknown 13'(A) |
-| 09:00 | Turkey Amateur | Kurtköyspor vs Sancaktepe Samandıragücü | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Yeşildere Spor Kulübü vs İdealtepespor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Ağvaspor vs Üsküdar Selamsız | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Boğaziçi 1907 Spor vs Ümraniye Hekimbaşıspor | **0 - 0** | `Started` | --- |
@@ -21,4 +19,4 @@
 | 11:00 | Turkey Amateur | Göztepe Hilalspor vs Taşdelenspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Küçüksu Rasathanespor vs Esatpaşa SK | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Tuzla Anadoluspor vs Ümraniye İnkılapbirspor | **0 - 0** | `Started` | --- |
-| 10:00 | Vietnam | Luxury Ha Long U19 vs Phù Đổng Ninh Bình U19 | **0 - 0** | `2nd half` | --- |
+| 10:00 | Vietnam | Luxury Ha Long U19 vs Phù Đổng Ninh Bình U19 | **1 - 0** | `2nd half` | Unknown 72'(H) |
