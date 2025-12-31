@@ -2,20 +2,19 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 10:00 | Ethiopia | Menge Belashangul vs Addis Ketema FC | **1 - 1** | `2nd half` | Unknown 90'(A), Unknown 70'(H) |
-| 11:00 | Hungary Amateur | Csongrád-Drakszi-gép Kft vs Algyő SK | **0 - 0** | `Started` | --- |
-| 10:45 | Kenya | Konza FC vs Kitanga FC | **1 - 0** | `2nd half` | Unknown 8'(H) |
-| 11:30 | Turkey Amateur | Yıldızlıspor vs Araklı 1961 SK | **1 - 0** | `1st half` | Unknown 15'(H) |
-| 10:00 | Turkey Amateur | Beşikdüzüspor vs Sürmenespor | **2 - 1** | `2nd half` | Unknown 59'(A), Unknown 52'(H), Unknown 7'(H) |
-| 10:00 | Turkey Amateur | Trabzon Faroz Yalıspor vs Vakfıkebir 1874 FK | **0 - 2** | `2nd half` | Unknown 88'(A), Unknown 42'(A) |
-| 10:00 | Turkey Amateur | Trabzon İdmanocağı vs Esiroğlu Belde GSK | **0 - 2** | `2nd half` | Unknown 73'(A), Unknown 13'(A) |
+| 12:00 | Ethiopia | Mechal vs Ethiopia Bunna | **0 - 0** | `1st half` | --- |
+| 11:00 | Hungary Amateur | Csongrád-Drakszi-gép Kft vs Algyő SK | **0 - 1** | `Started` | Unknown 9'(A) |
+| 12:00 | Israel | Hapoel Migdal HaEmek vs MS Tira | **0 - 0** | `1st half` | --- |
+| 12:15 | Jordan | AL Hussein Irbid Reserves vs Al-Baqa'a Reserves | **1 - 0** | `1st half` | Unknown 13'(H) |
+| 12:15 | Saudi Arabia | Al Batin vs Abha | **0 - 0** | `1st half` | --- |
+| 12:15 | Saudi Arabia | Al Diriyah vs Al Jubail | **2 - 0** | `1st half` | Unknown 9'(H), Clayton Diandy 2'(H) |
+| 11:30 | Turkey Amateur | Yıldızlıspor vs Araklı 1961 SK | **1 - 1** | `Halftime` | Unknown 29'(A), Unknown 15'(H) |
 | 10:00 | Turkey Amateur | Yeşildere Spor Kulübü vs İdealtepespor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Ağvaspor vs Üsküdar Selamsız | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Ağvaspor vs Üsküdar Selamsız | **1 - 0** | `2nd half` | Unknown 57'(H) |
 | 11:00 | Turkey Amateur | Boğaziçi 1907 Spor vs Ümraniye Hekimbaşıspor | **0 - 0** | `Started` | --- |
-| 11:00 | Turkey Amateur | Fetih Kelkitspor vs Erenköy Acarspor | **0 - 0** | `Started` | --- |
+| 11:00 | Turkey Amateur | Fetih Kelkitspor vs Erenköy Acarspor | **3 - 0** | `Halftime` | Unknown 45'(H), Unknown 39'(H), Unknown 31'(H) |
 | 11:00 | Turkey Amateur | Çavuşbaşı SK vs Valide Tayfunspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Dolayobaspor vs Sancaktepespor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Göztepe Hilalspor vs Taşdelenspor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Küçüksu Rasathanespor vs Esatpaşa SK | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Tuzla Anadoluspor vs Ümraniye İnkılapbirspor | **0 - 0** | `Started` | --- |
-| 10:00 | Vietnam | Luxury Ha Long U19 vs Phù Đổng Ninh Bình U19 | **1 - 0** | `2nd half` | Unknown 72'(H) |
