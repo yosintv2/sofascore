@@ -2,6 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | World | SC Penedense vs AO Itabaiana | **2 - 0** | `2nd half` | Unknown 64'(H), Unknown 13'(H) |
-| 22:30 | World | ABC vs Campinense | **1 - 0** | `2nd half` | Jefferson Vinicius 4'(H) |
-| 23:30 | Uruguay Amateur | Ferro Carril FC de Salto vs Nacional FC de Salto | **1 - 0** | `Started` | Unknown 87'(H) |
+| 00:40 | Brazil Amateur | Estrela Mirim EC vs Dede Esmeraldas | **0 - 1** | `2nd half` | Unknown 16'(A) |
+| 00:00 | Uruguay | Estudiantes de Tacuarembó vs CA Libertad de Paso de los Toros | **0 - 0** | `Started` | --- |
+| 00:15 | Uruguay Amateur | San José Capital vs Florida Capital | **0 - 0** | `Started` | --- |
+| 23:30 | Uruguay Amateur | Ferro Carril FC de Salto vs Nacional FC de Salto | **1 - 0** | `Started` | Unknown 22'(H) |
