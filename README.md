@@ -2,5 +2,5 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 08:00 | Australia | Western Sydney Wanderers vs Macarthur FC | **0 - 0** | `1st half` | --- |
-| 07:00 | Indonesia | Sidosel FC vs Telaga Biru | **0 - 1** | `2nd half` | Unknown 44'(A) |
+| 08:00 | Australia | Western Sydney Wanderers vs Macarthur FC | **0 - 1** | `1st half` | Rafael Duran 41'(A) |
+| 07:00 | Indonesia | Sidosel FC vs Telaga Biru | **2 - 1** | `2nd half` | Unknown 74'(H), Unknown 66'(H), Unknown 44'(A) |
