@@ -2,5 +2,6 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 19:00 | Africa | Gabon vs Côte d'Ivoire | **2 - 2** | `2nd half` | Evann Guessand 84'(A), Jean-Philippe Krasso 44'(A), Denis Bouanga 21'(H), Guélor Kanga 11'(H) |
-| 19:00 | Africa | Mozambique vs Cameroon | **1 - 2** | `2nd half` | Christian Kofane 55'(A), Feliciano Jone Nenê 28'(A), Geny Catamo 23'(H) |
+| 04:00 | Australia | Auckland FC vs Newcastle Jets | **1 - 2** | `1st half` | Will Dobson 16'(A), Jesse Randall 13'(H), Lachlan Rose 7'(A) |
+| 04:00 | Bangladesh | Nofel Sporting Club vs Badda Jagorani Sangsad | **1 - 0** | `Started` | Unknown 24'(H) |
+| 03:30 | Japan | INAC Kobe Leonessa vs Sanfrecce Hiroshima Regina | **0 - 1** | `Halftime` | A Ri Song 31'(A) |
