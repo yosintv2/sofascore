@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-01 14:25:06 UTC"
+        "updated": "2026-01-01 14:43:00 UTC"
     },
     "matches": [
         {
@@ -25,7 +25,7 @@
             "home": "JSM Tiaret U20",
             "away": "FCB Frenda U20",
             "score": "3 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 33'(H)",
                 "Unknown 25'(H)",
@@ -41,6 +41,7 @@
             "score": "0 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 66'(A)",
                 "Unknown 28'(A)"
             ]
         },
@@ -60,9 +61,10 @@
             "country": "England Amateur",
             "home": "Bedworth United",
             "away": "Coventry Sphinx",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 75'(H)",
                 "Kyle Carey 26'(A)"
             ]
         },
@@ -86,7 +88,7 @@
             "home": "Sepahan S.C.",
             "away": "Esteghlal FC",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Rustam Ashurmatov 14'(H)",
                 "Jasir Asani 10'(A)"
@@ -112,6 +114,16 @@
             "away": "Al Naft SC",
             "score": "0 - 0",
             "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "14:30",
+            "league": "Premier League",
+            "country": "Kuwait",
+            "home": "Al Fahaheel SC",
+            "away": "Al Jahra SC",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -145,36 +157,45 @@
             "country": "Libya",
             "home": "Al Akhdar SC",
             "away": "Al Murooj",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Aziz Bellakhdar 59'(H)",
                 "Abdulkarim Helmi 44'(H)"
             ]
         },
         {
-            "start_time": "12:35",
-            "league": "Division 1",
-            "country": "Saudi Arabia",
-            "home": "Al Orobah",
-            "away": "Al Jandal",
-            "score": "1 - 0",
-            "minute": "2nd half",
+            "start_time": "14:30",
+            "league": "U23 Olympic League",
+            "country": "Qatar",
+            "home": "Al-Gharafa U23",
+            "away": "Al-Wakrah U23",
+            "score": "2 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Aboubacar Doumbia 68'(H)"
+                "Unknown 13'(H)",
+                "Unknown 7'(H)"
             ]
         },
         {
-            "start_time": "12:35",
-            "league": "Division 1",
-            "country": "Saudi Arabia",
-            "home": "Al Tai",
-            "away": "Al Zulfi",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Nawaf Al Qamiri 40'(H)",
-                "Keshim Al-Qahtani 35'(A)"
-            ]
+            "start_time": "14:30",
+            "league": "U23 Olympic League",
+            "country": "Qatar",
+            "home": "Al-Sadd U23",
+            "away": "Al-Sailiya U23",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "14:30",
+            "league": "U23 Olympic League",
+            "country": "Qatar",
+            "home": "Umm Salal U23",
+            "away": "Al-Rayyan U23",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "12:50",
@@ -205,9 +226,11 @@
             "country": "Wales",
             "home": "Airbus UK Broughton",
             "away": "Flint Mountain FC",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Sam Rickett 42'(H)"
+            ]
         },
         {
             "start_time": "14:00",
@@ -260,7 +283,7 @@
             "country": "Wales",
             "home": "Holywell Town",
             "away": "Holyhead Hotspur FC",
-            "score": "1 - 0",
+            "score": "1 - 1",
             "minute": "1st half",
             "scorers": [
                 "Unknown 19'(H)"
@@ -275,6 +298,18 @@
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
+        },
+        {
+            "start_time": "14:30",
+            "league": "Cymru Championship, South",
+            "country": "Wales",
+            "home": "Aberystwyth Town",
+            "away": "Carmarthen Town",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 5'(A)"
+            ]
         }
     ]
 }
