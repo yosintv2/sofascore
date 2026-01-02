@@ -1,23 +1,9 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-02 15:16:24 UTC"
+        "updated": "2026-01-02 15:38:15 UTC"
     },
     "matches": [
-        {
-            "start_time": "13:30",
-            "league": "Saudi Pro League",
-            "country": "Saudi Arabia",
-            "home": "Al-Najma SC",
-            "away": "Al-Khaleej",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Joshua King 74'(A)",
-                "Giorgos Masouras 72'(A)",
-                "L\u00e1zaro 50'(H)"
-            ]
-        },
         {
             "start_time": "14:35",
             "league": "Saudi Pro League",
@@ -25,7 +11,7 @@
             "home": "Al-Ettifaq",
             "away": "Al-Okhdood",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -34,9 +20,11 @@
             "country": "Algeria",
             "home": "AS Khroub",
             "away": "NRB Teleghma",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 71'(H)"
+            ]
         },
         {
             "start_time": "14:00",
@@ -58,9 +46,11 @@
             "country": "Algeria",
             "home": "HB Chelghoum Laid",
             "away": "MO Constantine",
-            "score": "0 - 2",
+            "score": "0 - 4",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 75'(A)",
+                "Unknown 74'(A)",
                 "Unknown 32'(A)",
                 "Unknown 20'(A)"
             ]
@@ -128,28 +118,18 @@
             ]
         },
         {
-            "start_time": "13:25",
-            "league": "Premier League",
-            "country": "Bahrain",
-            "home": "Sitra",
-            "away": "Al Shabab",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 70'(H)",
-                "Hussein Al-Qassab 26'(A)"
-            ]
-        },
-        {
             "start_time": "14:00",
             "league": "Copinha - Grupo 14",
             "country": "Brazil",
             "home": "Coritiba U20",
             "away": "Ponte Preta  U20",
-            "score": "1 - 2",
+            "score": "2 - 4",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 51'(A)",
+                "Unknown 74'(A)",
+                "Guilherme Porto Monteiro 60'(H)",
+                "Nicolas Ara\u00fajo 54'(A)",
+                "Matheus Fernando  Pinto 51'(A)",
                 "Diego Alves de Deus 48'(H)",
                 "Kaio Vitoriano Ganga 43'(A)"
             ]
@@ -167,14 +147,26 @@
             ]
         },
         {
+            "start_time": "15:30",
+            "league": "Premier League",
+            "country": "Ghana",
+            "home": "Hohoe United FC",
+            "away": "Heart of Lions",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "15:00",
             "league": "Division One - Zone Two",
             "country": "Ghana",
             "home": "Attram De Visser SA",
             "away": "West African Football Academy",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 38'(H)"
+            ]
         },
         {
             "start_time": "15:00",
@@ -184,16 +176,6 @@
             "away": "Sefwi All Stars FC",
             "score": "0 - 0",
             "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "CRFA Division Two - Zone 3",
-            "country": "Ghana",
-            "home": "Soccer Elites",
-            "away": "Mahujah SC",
-            "score": "0 - 0",
-            "minute": "Started",
             "scorers": []
         },
         {
@@ -222,35 +204,12 @@
             "country": "Jordan",
             "home": "Al Ahli Amman",
             "away": "Al Orthodoxi",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 62'(H)",
                 "Unknown 7'(A)"
             ]
-        },
-        {
-            "start_time": "13:30",
-            "league": "Premier League, Group 2",
-            "country": "Libya",
-            "home": "Abelashhar SC",
-            "away": "Shabab Al Ghar",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Yacine Belaiche 67'(A)",
-                "Mostafa Al Munir 53'(A)",
-                "Ayman Abdelrahman 50'(H)"
-            ]
-        },
-        {
-            "start_time": "13:20",
-            "league": "Sultan Cup",
-            "country": "Oman",
-            "home": "Al Nasr S.C.S.C.",
-            "away": "Sohar SC",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
         },
         {
             "start_time": "14:30",
@@ -259,7 +218,7 @@
             "home": "Al Duhail U23",
             "away": "Al-Ahli Doha U23",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -269,7 +228,7 @@
             "home": "Al Shamal SC U23",
             "away": "Al-Shahania U23",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -278,6 +237,16 @@
             "country": "Qatar",
             "home": "Qatar SC U23",
             "away": "Al-Arabi SC U23",
+            "score": "0 - 0",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "15:30",
+            "league": "Senegal FA Cup",
+            "country": "Senegal",
+            "home": "Builders FC",
+            "away": "Cayor Foot",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
