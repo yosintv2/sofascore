@@ -2,5 +2,6 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 20:00 | England | Sunderland vs Manchester City | **0 - 0** | `2nd half` | --- |
-| 20:00 | Jamaica | Treasure Beach FC vs Chapelton Maroons FC | **0 - 1** | `2nd half` | Damoi Whitfield 63'(A) |
+| 04:00 | Bangladesh | Friends Social WO vs Mohakhali Ekadosh | **0 - 0** | `Started` | --- |
+| 03:30 | India | Gokulam Kerala FC vs Garhwal United FC | **1 - 0** | `1st half` | Shilji Shaji 21'(H) |
+| 03:30 | India | Kickstart Karnataka FC vs Sribhumi | **0 - 1** | `1st half` | Yumnam Kamala Devi 12'(A) |
