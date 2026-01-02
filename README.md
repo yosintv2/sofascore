@@ -2,5 +2,5 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 21:00 | Brazil | Grêmio U20 vs Falcon-SE U20 | **3 - 0** | `2nd half` | Harlley Hanry Nascimento 47'(H), Vitor Ramon 15'(H), Adrielson Lima 13'(H) |
-| 21:30 | Brazil | Sport Recife U20 vs CA Linense U20 | **1 - 1** | `2nd half` | João Lucas Silva 57'(A), Rafael de Jesus Santana Ferreira 21'(H) |
+| 21:30 | Brazil | Sport Recife U20 vs CA Linense U20 | **2 - 1** | `2nd half` | Unknown 84'(H), João Lucas Silva 57'(A), Rafael de Jesus Santana Ferreira 21'(H) |
+| 23:00 | Suriname | Inter Wanica vs SV Transvaal | **0 - 1** | `Started` | Unknown 12'(A) |
