@@ -2,10 +2,10 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | World | São Luiz vs EC Avenida | **1 - 0** | `1st half` | Unknown 29'(H) |
+| 22:00 | World | São Luiz vs EC Avenida | **1 - 0** | `Halftime` | Unknown 29'(H) |
 | 22:00 | World | Rouet-Provence FA vs Raetia | **1 - 1** | `Started` | Unknown 78'(H), Unknown 45'(A) |
-| 22:00 | Antigua and Barbuda | Pigotts SC vs Jennings United | **0 - 0** | `Started` | --- |
-| 22:15 | Brazil | Araçatuba FC U20 vs Maricá FC U20 | **0 - 1** | `1st half` | Unknown 8'(A) |
+| 22:00 | Antigua and Barbuda | Pigotts SC vs Jennings United | **0 - 1** | `Started` | Unknown 45'(A) |
+| 22:15 | Brazil | Araçatuba FC U20 vs Maricá FC U20 | **1 - 1** | `1st half` | Unknown 34'(H), Unknown 8'(A) |
 | 22:30 | Brazil | Ceará U20 vs Olímpico EC U20 | **0 - 0** | `1st half` | --- |
 | 21:45 | Brazil | Assisense SP U20 vs Naviraiense U20 | **1 - 0** | `Halftime` | Unknown 29'(H) |
 | 21:00 | Brazil | Comercial-SP U20 vs Atlético Piauiense U20 | **1 - 2** | `2nd half` | Unknown 83'(A), Unknown 47'(H), Unknown 23'(A) |
