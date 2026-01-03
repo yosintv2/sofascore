@@ -2,4 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Suriname | Inter Wanica vs SV Transvaal | **0 - 1** | `Started` | Unknown 12'(A) |
+| 04:00 | Bangladesh | T&T Club Motijheel vs Bangladesh Boys Club | **0 - 1** | `Started` | Unknown 14'(A) |
