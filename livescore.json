@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-03 19:38:00 UTC"
+        "updated": "2026-01-03 19:47:42 UTC"
     },
     "matches": [
         {
@@ -10,6 +10,16 @@
             "country": "Africa",
             "home": "Mali",
             "away": "Tunisia",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Serie A",
+            "country": "Italy",
+            "home": "Atalanta",
+            "away": "Roma",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -33,9 +43,10 @@
             "country": "Portugal",
             "home": "Benfica",
             "away": "Estoril Praia",
-            "score": "2 - 1",
+            "score": "3 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Vangelis Pavlidis 80'(H)",
                 "Jo\u00e3o Carvalho 45'(A)",
                 "Vangelis Pavlidis 45'(H)",
                 "Vangelis Pavlidis 34'(H)"
@@ -65,7 +76,7 @@
             "home": "Amiens SC",
             "away": "Nancy",
             "score": "0 - 2",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Zakaria Fdaouch 29'(A)",
                 "Elydjah Mendy 11'(A)"
@@ -77,9 +88,11 @@
             "country": "France",
             "home": "Bastia",
             "away": "Grenoble Foot 38",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Jeremy Sebas 44'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -100,7 +113,7 @@
             "home": "Guingamp",
             "away": "US Boulogne C\u00f4te-d'Opale",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Yohan Demoncy 25'(H)",
                 "Louis Mafouta 20'(H)"
@@ -113,7 +126,7 @@
             "home": "Le Mans",
             "away": "Saint-\u00c9tienne",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -152,27 +165,11 @@
             "home": "Chile KWC",
             "away": "Netherlands KWC",
             "score": "2 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Ezequiel Luna 12'(H)",
                 "Yuya Ikeshita 7'(A)",
                 "Matias Herrera 1'(H)"
-            ]
-        },
-        {
-            "start_time": "17:45",
-            "league": "Primera Federacion, Group 1",
-            "country": "Spain",
-            "home": "Barakaldo CF",
-            "away": "Unionistas de Salamanca CF",
-            "score": "5 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Aitor Galarza 60'(H)",
-                "Iv\u00e1n Castillo 38'(H)",
-                "Iv\u00e1n Castillo 35'(H)",
-                "Victor San Bartolome Prieto 22'(H)",
-                "Saliou Mandiang 1'(H)"
             ]
         },
         {
@@ -187,20 +184,6 @@
                 "Amin Bouzaig 74'(H)",
                 "Omar Ouhdadi 68'(H)",
                 "Javi Cueto 42'(A)"
-            ]
-        },
-        {
-            "start_time": "17:45",
-            "league": "Primera Federacion, Group 2",
-            "country": "Spain",
-            "home": "Algeciras CF",
-            "away": "Sevilla Atl\u00e9tico",
-            "score": "3 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Manin Gonzaga 79'(H)",
-                "Jorge Rastrojo 45'(H)",
-                "Victor Jose Ruiz Ramos 39'(H)"
             ]
         },
         {
@@ -221,9 +204,11 @@
             "country": "Italy",
             "home": "Vis Pesaro",
             "away": "Pineto",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Gianluca Vigliotti 7'(A)"
+            ]
         },
         {
             "start_time": "19:30",
@@ -241,9 +226,10 @@
             "country": "Belgium Amateur",
             "home": "KSK Heist",
             "away": "KSK Tongeren",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
+                "Unknown 36'(H)",
                 "Unknown 24'(H)"
             ]
         },
@@ -256,7 +242,7 @@
             "score": "1 - 0",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 48'(H)"
+                "Alberto Pagnoncelli De Andrade 48'(H)"
             ]
         },
         {
@@ -270,18 +256,6 @@
             "scorers": [
                 "Murilo Camara  Saquetti Chimelo Pereira 15'(H)",
                 "Unknown 5'(H)"
-            ]
-        },
-        {
-            "start_time": "17:45",
-            "league": "Copinha - Grupo 8",
-            "country": "Brazil",
-            "home": "Corinthians U20",
-            "away": "Trindade U20",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 81'(H)"
             ]
         },
         {
@@ -332,7 +306,7 @@
             "home": "PSG Santa Clara",
             "away": "Rayo S.C.",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Norlan \u00c1lvarez 10'(A)"
             ]
@@ -477,9 +451,10 @@
             "country": "Israel",
             "home": "Ihud Bnei Baqa",
             "away": "Hapoel Or Akiva",
-            "score": "1 - 2",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 90'(H)",
                 "Unknown 45'(H)",
                 "Unknown 27'(A)",
                 "Unknown 24'(A)"
@@ -526,9 +501,11 @@
             "country": "Malta",
             "home": "Sliema Wanderers",
             "away": "Swieqi United FC",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Isaac Thomas James Davey 82'(A)"
+            ]
         },
         {
             "start_time": "18:00",
@@ -541,23 +518,6 @@
             "scorers": [
                 "Andr\u00e9 71'(A)",
                 "Santiago Mart\u00ednez 63'(A)"
-            ]
-        },
-        {
-            "start_time": "17:30",
-            "league": "Liga 3, Group B",
-            "country": "Portugal",
-            "home": "CD Mafra",
-            "away": "Caldas SC",
-            "score": "4 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Rodrigo Matos 90'(H)",
-                "Unknown 89'(A)",
-                "Stanley Iheanacho 53'(H)",
-                "Eduardo Monteiro 42'(A)",
-                "Mamor Niang 20'(H)",
-                "Marculino Ninte 2'(H)"
             ]
         },
         {
@@ -607,7 +567,7 @@
             "home": "Mat\u00edas Almeyda FC",
             "away": "FC Brownsville 2",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 45'(H)"
             ]
