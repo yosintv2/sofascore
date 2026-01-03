@@ -2,19 +2,17 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 11:30 | Italy | Como vs Udinese | **0 - 0** | `1st half` | --- |
-| 10:00 | Australia | Perth Glory vs Newcastle Jets | **1 - 0** | `2nd half` | Isobel Dalton 8'(H) |
-| 11:00 | Spain | CD Lugo vs Mérida AD | **1 - 0** | `1st half` | Nicolás Reniero 35'(H) |
+| 11:30 | Italy | Como vs Udinese | **1 - 0** | `1st half` | Lucas Da Cunha 18'(H) |
+| 11:00 | Spain | CD Lugo vs Mérida AD | **1 - 0** | `Halftime` | Nicolás Reniero 35'(H) |
 | 10:00 | Italy | Cagliari U20 vs Frosinone U20 | **3 - 0** | `2nd half` | Yael Trepy 52'(H), Paul Mendy 30'(H), Luca Tronci 19'(H) |
 | 10:00 | Italy | Genoa U20 vs Napoli U20 | **0 - 1** | `2nd half` | Christian Garofalo 52'(A) |
 | 10:00 | Italy | Juventus U20 vs Parma U20 | **0 - 0** | `2nd half` | --- |
+| 11:45 | Brazil | América-SP U20 vs CSA U20 | **0 - 0** | `1st half` | --- |
 | 11:00 | Cambodia | ISI Dangkor Senchey FC vs Angkor Tiger | **0 - 1** | `Halftime` | Abdel Kader Coulibaly 33'(A) |
-| 11:00 | Cambodia | MOI Kompong Dewa FC vs Nagaworld FC | **0 - 2** | `Halftime` | Unknown 43'(A), Lucas Venuto 3'(A) |
-| 10:00 | Ethiopia | Adama City vs Fasil Ketema | **0 - 0** | `2nd half` | --- |
+| 11:00 | Cambodia | MOI Kompong Dewa FC vs Nagaworld FC | **0 - 2** | `Halftime` | Pharunn Dy 43'(A), Lucas Venuto 3'(A) |
 | 10:00 | Ghana | Mankessim Bright Stars FC vs Apam Ahenfo FC | **0 - 1** | `Started` | Unknown -1'(A) |
-| 10:00 | Ghana | Progressive Football Academy vs Mankessiman S.A | **1 - 2** | `2nd half` | Unknown 66'(H), Unknown 37'(A), Unknown 22'(A) |
 | 11:00 | Greece Amateur | AO Agiou Louka vs AO Skyros | **0 - 0** | `Started` | --- |
-| 10:30 | Iran | Mes Sungun FC vs Mes Shahr Babak | **0 - 1** | `Halftime` | Unknown 45'(A) |
+| 10:30 | Iran | Mes Sungun FC vs Mes Shahr Babak | **0 - 1** | `2nd half` | Ali Vaziri Panah 45'(A) |
 | 10:30 | Iran | Shenavar Sazi Qeshm vs FC Ario Eslamshahr | **0 - 0** | `2nd half` | --- |
 | 11:30 | Iran | Saipa vs Navad Urmia FC | **0 - 0** | `1st half` | --- |
 | 10:30 | Iran | Arka Alborz vs Naft Masjed Soleyman | **0 - 0** | `2nd half` | --- |
@@ -25,19 +23,18 @@
 | 11:00 | Iraq | Pishasazy SC vs Peshmerga Hawler SC | **0 - 0** | `Started` | --- |
 | 11:00 | Iraq | Ranya SC vs Sherwana SC | **0 - 0** | `Started` | --- |
 | 11:00 | Iraq | Rzgari SC vs Handren SC | **0 - 0** | `Started` | --- |
-| 10:00 | Israel | Maccabi Netanya U19 vs Hapoel Raanana U19 | **1 - 0** | `2nd half` | Unknown 56'(H) |
-| 11:00 | Morocco | FUS Rabat vs AS FAR Rabat | **0 - 0** | `1st half` | --- |
+| 11:00 | Morocco | FUS Rabat vs AS FAR Rabat | **0 - 0** | `Halftime` | --- |
 | 10:00 | Morocco Amateur | CA Lissasfa vs AE Assawda | **0 - 0** | `Started` | --- |
 | 10:00 | Morocco Amateur | Chabab Essoukhour vs Wydad Oulfa | **0 - 0** | `Started` | --- |
 | 10:00 | Morocco Amateur | Club Rahal vs Dar Bayda United | **0 - 0** | `Started` | --- |
 | 10:00 | Morocco Amateur | CR Sidi Moumen vs CSE Mediouni | **0 - 0** | `Started` | --- |
 | 10:00 | Morocco Amateur | Olympique Siham vs AC Casablanca | **0 - 0** | `Started` | --- |
 | 10:00 | Morocco Amateur | US Bouskoura vs CA El Hassania | **0 - 0** | `Started` | --- |
-| 11:00 | Portugal | Feirense vs União de Leiria | **1 - 1** | `1st half` | Jordan van der Gaag 45'(A), Leandro Antunes 5'(H) |
+| 11:00 | Portugal | Feirense vs União de Leiria | **1 - 1** | `Halftime` | Jordan van der Gaag 45'(A), Leandro Antunes 5'(H) |
 | 11:45 | Spain Amateur | AD San Juan vs Beti Kozkor KE | **0 - 0** | `1st half` | --- |
-| 11:00 | Syria | Al-Shouleh vs Al-Jaish SC | **0 - 0** | `1st half` | --- |
-| 11:00 | Syria | Al-Wahda SC vs Jableh SC | **2 - 0** | `1st half` | Unknown 45'(H), Unknown 27'(H) |
-| 10:30 | Turkey Amateur | Rumeli Kavağı SK vs Beyoğlu Çukurspor | **1 - 0** | `Started` | Unknown 90'(H) |
+| 11:00 | Syria | Al-Shouleh vs Al-Jaish SC | **0 - 0** | `Halftime` | --- |
+| 11:00 | Syria | Al-Wahda SC vs Jableh SC | **2 - 0** | `Halftime` | Unknown 45'(H), Unknown 27'(H) |
+| 10:30 | Turkey Amateur | Rumeli Kavağı SK vs Beyoğlu Çukurspor | **1 - 0** | `Started` | Unknown 63'(H) |
 | 10:00 | Turkey Amateur | Kuştepe SK vs İstinye SK | **1 - 0** | `Started` | Unknown 12'(H) |
 | 10:00 | Turkey Amateur | Selimiye SK vs Acıbadem SK | **0 - 1** | `Started` | Süleyman Akça 24'(A) |
 | 11:00 | Turkey Amateur | Avcılar SK vs Şirintepe | **0 - 0** | `Started` | --- |
@@ -84,4 +81,3 @@
 | 11:00 | Turkey Amateur | Selendi Belediyespor vs Killik Belediyespor | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Uluderbentspor vs Trazlar Futbol SK | **0 - 0** | `Started` | --- |
 | 10:00 | Turkey Amateur | Boğazlıyan Şekerspor vs Bişekspor | **4 - 0** | `Started` | Unknown 13'(H), Unknown 11'(H), Unknown 6'(H), Unknown 4'(H) |
-| 10:00 | Vietnam | TT TT II Ninh Binh U19 vs Thể Công - Viettel U19 II | **2 - 3** | `2nd half` | Unknown 67'(H), Unknown 54'(A), Unknown 45'(H), Unknown 7'(A), Unknown 3'(A) |
