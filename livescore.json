@@ -1,23 +1,9 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-03 10:41:25 UTC"
+        "updated": "2026-01-03 10:52:23 UTC"
     },
     "matches": [
-        {
-            "start_time": "08:45",
-            "league": "A-League, Women",
-            "country": "Australia",
-            "home": "Brisbane Roar",
-            "away": "Wellington Phoenix",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Ava Piazza 34'(H)",
-                "Ashlyn Miller 17'(H)",
-                "Manaia Elliott 15'(A)"
-            ]
-        },
         {
             "start_time": "10:00",
             "league": "A-League, Women",
@@ -25,7 +11,7 @@
             "home": "Perth Glory",
             "away": "Newcastle Jets",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Isobel Dalton 8'(H)"
             ]
@@ -48,9 +34,10 @@
             "country": "Italy",
             "home": "Cagliari U20",
             "away": "Frosinone U20",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
+                "Paul Mendy 30'(H)",
                 "Luca Tronci 19'(H)"
             ]
         },
@@ -71,7 +58,7 @@
             "home": "Juventus U20",
             "away": "Parma U20",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -115,9 +102,11 @@
             "country": "Algeria",
             "home": "CA Batna",
             "away": "Artsf T\u00e9bessa",
-            "score": "1 - 1",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 73'(A)",
+                "Unknown 72'(H)",
                 "Unknown 50'(H)",
                 "Unknown 49'(A)"
             ]
@@ -139,7 +128,7 @@
             "home": "Adama City",
             "away": "Fasil Ketema",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -178,9 +167,10 @@
             "country": "Ghana",
             "home": "Progressive Football Academy",
             "away": "Mankessiman S.A",
-            "score": "0 - 1",
+            "score": "0 - 2",
             "minute": "1st half",
             "scorers": [
+                "Unknown 37'(A)",
                 "Unknown 22'(A)"
             ]
         },
@@ -200,6 +190,16 @@
             "country": "Iran",
             "home": "Shenavar Sazi Qeshm",
             "away": "FC Ario Eslamshahr",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "10:30",
+            "league": "2nd Division",
+            "country": "Iran",
+            "home": "Arka Alborz",
+            "away": "Naft Masjed Soleyman",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -268,9 +268,10 @@
             "country": "Israel",
             "home": "Beitar Jerusalem U19",
             "away": "Ashdod FC U19",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 84'(H)",
                 "Unknown 62'(H)"
             ]
         },
@@ -294,7 +295,7 @@
             "home": "Maccabi Netanya U19",
             "away": "Hapoel Raanana U19",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -363,9 +364,10 @@
             "country": "Myanmar",
             "home": "Shan Utd Women",
             "away": "Yangon Utd Women",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 90'(A)",
                 "Unknown 79'(A)",
                 "Unknown 2'(H)"
             ]
@@ -402,18 +404,6 @@
             ]
         },
         {
-            "start_time": "09:00",
-            "league": "Myanmar League 2",
-            "country": "Myanmar",
-            "home": "Kachin United FC",
-            "away": "Glory Goal",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 60'(A)"
-            ]
-        },
-        {
             "start_time": "10:30",
             "league": "\u0130stanbul S\u00fcper Amat\u00f6r Ligi - Group 2",
             "country": "Turkey Amateur",
@@ -429,9 +419,11 @@
             "country": "Turkey Amateur",
             "home": "Ku\u015ftepe SK",
             "away": "\u0130stinye SK",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 12'(H)"
+            ]
         },
         {
             "start_time": "10:00",
@@ -439,9 +431,11 @@
             "country": "Turkey Amateur",
             "home": "Selimiye SK",
             "away": "Ac\u0131badem SK",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 24'(A)"
+            ]
         },
         {
             "start_time": "10:00",
@@ -464,14 +458,42 @@
             "scorers": []
         },
         {
+            "start_time": "10:00",
+            "league": "Eski\u015fehir S\u00fcper Amat\u00f6r Ligi",
+            "country": "Turkey Amateur",
+            "home": "Art\u0131 Akademi SK",
+            "away": "Sivrihisarspor",
+            "score": "2 - 1",
+            "minute": "Started",
+            "scorers": [
+                "Unknown 45'(A)",
+                "Unknown 14'(H)",
+                "Unknown 7'(H)"
+            ]
+        },
+        {
+            "start_time": "10:00",
+            "league": "Eski\u015fehir S\u00fcper Amat\u00f6r Ligi",
+            "country": "Turkey Amateur",
+            "home": "K\u0131rka Boraksspor",
+            "away": "Eski\u015fehir DS\u0130 Bent",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "09:00",
             "league": "Erzurum 1. Amat\u00f6r Ligi, Group A",
             "country": "Turkey Amateur",
             "home": "Erzurum Harb-\u0130\u015f SK",
             "away": "Erzurum \u00dcniversiteli Gen\u00e7ler",
-            "score": "0 - 0",
+            "score": "0 - 3",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 90'(A)",
+                "Unknown 48'(A)",
+                "Unknown 45'(A)"
+            ]
         },
         {
             "start_time": "10:00",
@@ -489,9 +511,11 @@
             "country": "Turkey Amateur",
             "home": "\u00d6z Hask\u00f6yspor",
             "away": "Korkutspor",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 17'(A)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -619,9 +643,10 @@
             "country": "Vietnam",
             "home": "TT TT II Ninh Binh U19",
             "away": "Th\u1ec3 C\u00f4ng - Viettel U19 II",
-            "score": "0 - 2",
-            "minute": "1st half",
+            "score": "1 - 2",
+            "minute": "Halftime",
             "scorers": [
+                "Unknown 45'(H)",
                 "Unknown 7'(A)",
                 "Unknown 3'(A)"
             ]
