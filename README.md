@@ -2,4 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 02:45 | World | Atlas FC vs CD Guadalajara | **0 - 0** | `Penalties` | --- |
+| 05:00 | Japan | Aichi Toho University vs Nippon Sport Science University | **0 - 0** | `1st half` | --- |
