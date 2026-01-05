@@ -2,14 +2,16 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 07:00 | Ghana | Ngleshie Amanfro Hunters vs West City FC | **1 - 0** | `Started` | Unknown 1'(H) |
-| 07:30 | India | North 24 Parganas FC vs JHR Royal City FC | **0 - 0** | `1st half` | --- |
-| 06:00 | India Amateur | Bangalore Eagles FC vs Income Tax FC | **0 - 2** | `2nd half` | Unknown 86'(A), Unknown 64'(A) |
-| 06:00 | Indonesia | Kresna Unesa vs Persewangi Banyuwangi | **1 - 1** | `2nd half` | Unknown 47'(A), Unknown 33'(H) |
-| 06:00 | Indonesia | Nganjuk Ladang FC vs Pasuruan United | **0 - 3** | `2nd half` | Unknown 68'(A), Unknown 24'(A) |
-| 06:00 | Indonesia | Persedikab Kediri vs PS Hizbul Wathan Ponorogo | **4 - 1** | `2nd half` | Unknown 90'(H), Unknown 90'(A), Unknown 45'(H), Unknown 25'(H), Unknown 18'(H) |
-| 06:00 | Indonesia | Persekap Pasuruan vs Inter Pemuda Kediri | **0 - 2** | `2nd half` | Unknown 80'(A), Unknown 44'(A) |
-| 06:00 | Indonesia | Persinga Ngawi vs PSBI Blitar | **2 - 1** | `2nd half` | Unknown 68'(H), Unknown 58'(A), Unknown 30'(H) |
-| 06:00 | Indonesia | PS Mojokerto Putra vs PSID Jombang | **2 - 1** | `2nd half` | Unknown 82'(A), Unknown 72'(H), Unknown 56'(H) |
-| 06:00 | Indonesia | Putrajaya Kabupaten Pasuruan vs Perseta 1970 | **2 - 7** | `2nd half` | Unknown 90'(H), Unknown 87'(H), Unknown 85'(A), Unknown 83'(A), Unknown 80'(A), Unknown 69'(A), Unknown 61'(A), Unknown 31'(A), Unknown 19'(A) |
-| 07:00 | Indonesia | Sidosel FC vs Persidago Gorontalo | **1 - 0** | `Halftime` | Unknown 43'(H) |
+| 08:00 | Australia | Macarthur FC vs Auckland FC | **0 - 0** | `1st half` | --- |
+| 07:00 | Ghana | Ngleshie Amanfro Hunters vs West City FC | **0 - 1** | `1st half` | Unknown 35'(A) |
+| 07:30 | India | North 24 Parganas FC vs JHR Royal City FC | **0 - 1** | `1st half` | Unknown 21'(A) |
+| 08:00 | India Amateur | Blitz FC vs Rail Wheel Factory FC | **0 - 1** | `1st half` | Unknown 8'(A) |
+| 08:00 | Indonesia | Persikota Tangerang vs PSGC Ciamis | **0 - 1** | `1st half` | Unknown 12'(A) |
+| 08:00 | Indonesia | Waanal Brothers FC vs Persebata Lembata | **0 - 0** | `1st half` | --- |
+| 07:00 | Indonesia | Sidosel FC vs Persidago Gorontalo | **1 - 0** | `2nd half` | Unknown 42'(H) |
+| 07:30 | Indonesia | Perseba Bangkalan vs Baruna Nusantara | **1 - 0** | `1st half` | Unknown 3'(H) |
+| 08:00 | Indonesia | Akor FC Jombang vs Persida Sidoarjo | **0 - 1** | `1st half` | Unknown 8'(A) |
+| 08:00 | Indonesia | Persema Malang vs Perseta Tulungagung | **0 - 0** | `1st half` | --- |
+| 08:00 | Indonesia | Persepon Ponorogo vs Persenga Nganjuk | **0 - 1** | `1st half` | Unknown 19'(A) |
+| 08:00 | Indonesia | Persikoba Batu vs Malang United | **0 - 0** | `1st half` | --- |
+| 08:00 | Indonesia | Simo Putra FC vs Persid Jember | **0 - 0** | `1st half` | --- |
