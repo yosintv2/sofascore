@@ -1,20 +1,19 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-06 12:17:54 UTC"
+        "updated": "2026-01-06 13:08:02 UTC"
     },
     "matches": [
         {
-            "start_time": "10:30",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "VfL Wolfsburg",
-            "away": "CF Estrela Amadora",
-            "score": "1 - 1",
-            "minute": "2nd half",
+            "start_time": "13:00",
+            "league": "Pro League",
+            "country": "United Arab Emirates",
+            "home": "Al-Nasr Dubai",
+            "away": "Al-Sharjah",
+            "score": "1 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Mattias Svanberg 31'(H)",
-                "Leandro Antonetti 14'(A)"
+                "Kevin Agudelo 7'(H)"
             ]
         },
         {
@@ -23,6 +22,41 @@
             "country": "World",
             "home": "Alemannia Aachen",
             "away": "FC Carl Zeiss Jena",
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Niklas Castelle 34'(H)"
+            ]
+        },
+        {
+            "start_time": "12:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "FC Winterthur",
+            "away": "1. FC Magdeburg",
+            "score": "1 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 37'(H)",
+                "Rayan Ghrieb 31'(A)"
+            ]
+        },
+        {
+            "start_time": "12:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Gaziantep FK",
+            "away": "FC Petrolul Ploie\u0219ti",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "12:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "SG Dynamo Dresden",
+            "away": "FC Aarau",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -34,7 +68,7 @@
             "home": "Vietnam U23",
             "away": "Jordan U23",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Nguy\u1ec5n Hi\u1ec3u Minh 43'(H)",
                 "Nguy\u1ec5n \u0110\u00ecnh B\u1eafc 15'(H)"
@@ -46,9 +80,13 @@
             "country": "Algeria",
             "home": "ALS Batna",
             "away": "Jf Khroub",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "0 - 5",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 55'(A)",
+                "Unknown 49'(A)",
+                "Unknown 48'(A)",
+                "Unknown 32'(A)",
                 "Unknown 5'(A)"
             ]
         },
@@ -66,27 +104,12 @@
             "start_time": "11:00",
             "league": "Championnat National Feminin",
             "country": "Algeria",
-            "home": "CF Akbou",
-            "away": "FC Bejaia",
-            "score": "5 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 51'(H)",
-                "Unknown 27'(H)",
-                "Unknown 19'(H)",
-                "Unknown 15'(H)",
-                "Unknown 5'(H)"
-            ]
-        },
-        {
-            "start_time": "11:00",
-            "league": "Championnat National Feminin",
-            "country": "Algeria",
             "home": "FC Constantine",
             "away": "JS Kabylie",
-            "score": "0 - 2",
+            "score": "0 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 78'(A)",
                 "Unknown 38'(A)",
                 "Unknown 10'(A)"
             ]
@@ -98,6 +121,50 @@
             "home": "Am\u00e9rica-SP U20",
             "away": "Internacional de Limeira U20",
             "score": "0 - 0",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "12:30",
+            "league": "Second Division Group B",
+            "country": "Egypt",
+            "home": "El Raja",
+            "away": "Horse Owners Club",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "12:30",
+            "league": "Premier League, Women",
+            "country": "Egypt",
+            "home": "FC Masar",
+            "away": "Modern Sport FC Women",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 28'(A)"
+            ]
+        },
+        {
+            "start_time": "12:30",
+            "league": "Ethiopian Higher League",
+            "country": "Ethiopia",
+            "home": "Sululta Ketema",
+            "away": "Bishoftu Ketema",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 30'(A)"
+            ]
+        },
+        {
+            "start_time": "13:00",
+            "league": "Greece Cup, Playoffs",
+            "country": "Greece",
+            "home": "Aris Thessaloniki",
+            "away": "GFS Panetolikos",
+            "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
@@ -108,7 +175,7 @@
             "home": "AO Trachonon Alimou",
             "away": "APO Fostiras Tavrou",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -118,7 +185,17 @@
             "home": "AS Sourmenon",
             "away": "AO Chaidariou",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "12:00",
+            "league": "EPS Athens Cup Last 32",
+            "country": "Greece Amateur",
+            "home": "PAO Rouf",
+            "away": "AO Diana Ilioupolis",
+            "score": "0 - 0",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -127,23 +204,10 @@
             "country": "Greece Amateur",
             "home": "PO Psychikou",
             "away": "AO Ilysiakos",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "10:00",
-            "league": "Bangalore B Division",
-            "country": "India",
-            "home": "Karnataka Sporting",
-            "away": "Revive FC",
-            "score": "2 - 2",
+            "score": "0 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 45'(H)",
-                "Unknown 45'(H)",
-                "Unknown 23'(A)",
-                "Unknown 18'(A)"
+                "Unknown 28'(A)"
             ]
         },
         {
@@ -152,7 +216,7 @@
             "country": "India Amateur",
             "home": "Maharashtra Oranje FC",
             "away": "Selebrity FC",
-            "score": "5 - 0",
+            "score": "9 - 0",
             "minute": "2nd half",
             "scorers": [
                 "Unknown 69'(H)",
@@ -168,9 +232,11 @@
             "country": "Iraq",
             "home": "Al Jolan SC",
             "away": "Peshmerga Sulaymaniya SC",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 61'(H)"
+            ]
         },
         {
             "start_time": "12:15",
@@ -178,6 +244,19 @@
             "country": "Israel",
             "home": "Hapoel Tirat Hacarmel",
             "away": "Maccabi Nujeidat Ahmad",
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 45'(H)",
+                "Unknown 25'(A)"
+            ]
+        },
+        {
+            "start_time": "13:00",
+            "league": "Liga Alef North",
+            "country": "Israel",
+            "home": "Hapoel Ironi Arraba",
+            "away": "Hapoel Migdal HaEmek",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -188,31 +267,67 @@
             "country": "Jordan",
             "home": "Shabab Al Ordun Reserves",
             "away": "Al-Jazeera Jordan Reserves",
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 47'(A)"
+            ]
+        },
+        {
+            "start_time": "13:00",
+            "league": "Premier League",
+            "country": "Kenya",
+            "home": "Kariobangi Sharks",
+            "away": "Gor Mahia FC",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "11:00",
-            "league": "Dhivehi Premier League",
-            "country": "Maldives",
-            "home": "Odi SC",
-            "away": "New Radiant SC",
-            "score": "1 - 0",
-            "minute": "Started",
+            "start_time": "13:00",
+            "league": "Premier League, Group 3",
+            "country": "Libya",
+            "home": "Al Borouq FC",
+            "away": "Al Taawon Ajdabiya SC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "12:55",
+            "league": "Omani League",
+            "country": "Oman",
+            "home": "Al Khaboora SC",
+            "away": "Samail SC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "12:35",
+            "league": "Division 1",
+            "country": "Saudi Arabia",
+            "home": "Al Bukayriyah",
+            "away": "Al Batin",
+            "score": "1 - 1",
+            "minute": "1st half",
             "scorers": [
-                "Unknown -1'(H)"
+                "Khaled Al-Khathalan 15'(A)",
+                "Jonathan Moya 13'(H)"
             ]
         },
         {
-            "start_time": "11:00",
-            "league": "U23 Championship, Championship Round",
-            "country": "Portugal",
-            "home": "Acad\u00e9mico Viseu U23",
-            "away": "Torreense U23",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
+            "start_time": "12:35",
+            "league": "Division 1",
+            "country": "Saudi Arabia",
+            "home": "Al Jabalin",
+            "away": "Al Faisaly",
+            "score": "1 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Morato 25'(A)",
+                "Jo\u00e3o Novais 23'(H)"
+            ]
         },
         {
             "start_time": "11:30",
@@ -220,9 +335,11 @@
             "country": "Singapore",
             "home": "Albirex Niigata (S) Reserve",
             "away": "Balestier Khalsa II",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 28'(H)"
+            ]
         },
         {
             "start_time": "11:30",
@@ -230,23 +347,11 @@
             "country": "Singapore",
             "home": "Tampines Rovers II",
             "away": "Geylang International II",
-            "score": "1 - 0",
-            "minute": "1st half",
-            "scorers": [
-                "Unknown 17'(H)"
-            ]
-        },
-        {
-            "start_time": "11:00",
-            "league": "Tercera Federaci\u00f3n, Group 18",
-            "country": "Spain Amateur",
-            "home": "CD Sonseca",
-            "away": "Villarrubia CF",
-            "score": "0 - 2",
+            "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
-                "\u00c1lex Jim\u00e9nez 48'(A)",
-                "Mois\u00e9s Eboko 44'(A)"
+                "Unknown 53'(A)",
+                "Unknown 17'(H)"
             ]
         },
         {
@@ -256,21 +361,38 @@
             "home": "Sakarya Demirspor",
             "away": "Kuzulukspor",
             "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "13:00",
+            "league": "Sakarya S\u00fcper Amat\u00f6r Ligi, Group A",
+            "country": "Turkey Amateur",
+            "home": "Ak\u00e7ayspor",
+            "away": "Geyvespor",
+            "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "11:00",
-            "league": "Sakarya 1. Amat\u00f6r Ligi - Group 4",
-            "country": "Turkey Amateur",
-            "home": "Hac\u0131mercanspor",
-            "away": "Tarakl\u0131spor",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 40'(A)",
-                "Unknown 30'(A)"
-            ]
+            "start_time": "13:00",
+            "league": "Premier League",
+            "country": "Uganda",
+            "home": "Buhimba United Saints",
+            "away": "Maroons",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "13:00",
+            "league": "Premier League",
+            "country": "Uganda",
+            "home": "Police FC",
+            "away": "Kampala City",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         }
     ]
 }
