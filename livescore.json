@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-08 15:26:39 UTC"
+        "updated": "2026-01-08 15:49:58 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Al-Hilal",
             "away": "Al-Hazem",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Sergej Milinkovi\u0107-Savi\u0107 29'(H)"
             ]
@@ -23,7 +23,17 @@
             "home": "Al-Shahaniya",
             "away": "Al Duhail",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "15:45",
+            "league": "Pro League",
+            "country": "United Arab Emirates",
+            "home": "Al-Dhafra",
+            "away": "Al-Ain",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -33,7 +43,7 @@
             "home": "Club Brugge KV",
             "away": "SK Sturm Graz",
             "score": "2 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Christos Tzolis 42'(H)",
                 "Belmin Beganovi\u0107 23'(A)",
@@ -48,10 +58,10 @@
             "home": "Preu\u00dfen M\u00fcnster",
             "away": "Oud-Heverlee Leuven",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 26'(H)",
-                "Unknown 7'(H)"
+                "Lars Lokotsch 26'(H)",
+                "Jorrit Hendrix 7'(H)"
             ]
         },
         {
@@ -71,7 +81,7 @@
             "home": "Olympiakos Nicosia",
             "away": "Omonia Aradippou",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Stefanos Charalampous 18'(H)"
             ]
@@ -87,16 +97,6 @@
             "scorers": []
         },
         {
-            "start_time": "13:00",
-            "league": "CRFA Division Two - Zone 1",
-            "country": "Ghana",
-            "home": "Cape Coast Metro Youth",
-            "away": "Super Rainbow FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "15:00",
             "league": "CRFA Division Two - Zone 1",
             "country": "Ghana",
@@ -107,31 +107,11 @@
             "scorers": []
         },
         {
-            "start_time": "13:00",
-            "league": "CRFA Division Two - Zone 3",
-            "country": "Ghana",
-            "home": "Nsoroma Eleven",
-            "away": "Soccer Elites",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "15:00",
             "league": "CRFA Division Two - Zone 3",
             "country": "Ghana",
             "home": "Ekumfi Royals FC",
             "away": "Mankessim Bright Stars FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "CRFA Division Two - Zone 4",
-            "country": "Ghana",
-            "home": "Debolase Young Stars FC",
-            "away": "Apata Kofi FC",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -155,19 +135,6 @@
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
-        },
-        {
-            "start_time": "13:00",
-            "league": "CRFA Division Two - Zone 5",
-            "country": "Ghana",
-            "home": "Gap Soccer Academy",
-            "away": "Kingdom FC",
-            "score": "1 - 1",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 12'(A)",
-                "Unknown 6'(H)"
-            ]
         },
         {
             "start_time": "14:00",
@@ -196,20 +163,10 @@
             "home": "Al Mosul SC",
             "away": "Erbil SC",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Sherzod Temirov 22'(A)"
             ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Liga Al, Women",
-            "country": "Israel",
-            "home": "Hapoel Raanana",
-            "away": "WFC Ramat Hasharon",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
         },
         {
             "start_time": "15:05",
@@ -227,9 +184,11 @@
             "country": "Israel",
             "home": "MS Kiryat Gat",
             "away": "Hapoel Jerusalem",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 27'(A)"
+            ]
         },
         {
             "start_time": "15:15",
@@ -237,9 +196,11 @@
             "country": "Israel",
             "home": "Maccabi Hadera",
             "away": "Maccabi Holon FC",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 18'(H)"
+            ]
         },
         {
             "start_time": "14:00",
@@ -247,9 +208,10 @@
             "country": "Israel",
             "home": "Hapoel Tel Aviv U19",
             "away": "Hapoel Hod Hasharon U19",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 78'(H)",
                 "Unknown 45'(H)"
             ]
         },
@@ -261,16 +223,6 @@
             "away": "Gallipoli",
             "score": "0 - 0",
             "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "13:30",
-            "league": "Premier League, Group 2",
-            "country": "Libya",
-            "home": "Elettihad Almisraty SC",
-            "away": "Al Majd Tripoli SCS",
-            "score": "0 - 0",
-            "minute": "2nd half",
             "scorers": []
         },
         {
