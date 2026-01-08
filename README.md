@@ -6,8 +6,10 @@
 | 22:00 | Brazil | Carlos Renaux SC vs Concórdia AC | **0 - 1** | `2nd half` | William Gustavo Alves de Jesus 32'(A) |
 | 22:00 | Brazil | AD Iguatu vs Maranguape | **2 - 0** | `2nd half` | Tiaguinho Silva 38'(H), Victor Salvador 33'(H) |
 | 22:00 | Brazil | Cascavel vs Azuriz Futebol Clube | **0 - 0** | `2nd half` | --- |
-| 22:15 | Brazil | Falcon-SE U20 vs Galvez U20 | **0 - 0** | `Halftime` | --- |
+| 23:30 | Brazil | Clube Andraus Brasil vs Athletico | **0 - 0** | `1st half` | --- |
+| 22:15 | Brazil | Falcon-SE U20 vs Galvez U20 | **1 - 0** | `2nd half` | Unknown 52'(H) |
+| 23:30 | Brazil | Mirassol U20 vs Sport Recife U20 | **0 - 0** | `1st half` | --- |
 | 21:45 | Brazil | Sfera FC U20 vs Água Santa U20 | **1 - 3** | `2nd half` | Nicolas Viana da Cruz 42'(A), Unknown 37'(A), Unknown 29'(A), Lucca Gentil 19'(H) |
-| 22:30 | Brazil | Palmeiras U20 vs Batalhão FC U20 | **4 - 0** | `1st half` | Rafael Barbosa Coutinho 35'(H), Unknown 28'(H), Victor Gabriel Leite dos Santos 21'(H), Sorriso 19'(H) |
+| 22:30 | Brazil | Palmeiras U20 vs Batalhão FC U20 | **5 - 0** | `Halftime` | Unknown 41'(H), Rafael Barbosa Coutinho 35'(H), Unknown 28'(H), Victor Gabriel Leite dos Santos 21'(H), Sorriso 19'(H) |
 | 22:00 | Brazil Amateur | Palmeiras U17 vs Salto FC U17 | **2 - 0** | `2nd half` | João Paulo de Mendonça 36'(H), Murilo Minato 3'(H) |
 | 22:00 | Saint Kitts and Nevis | Molineaux F.C. vs Rivers of Living Water FC | **1 - 0** | `Started` | Unknown 21'(H) |
