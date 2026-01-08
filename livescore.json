@@ -1,9 +1,19 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-08 14:00:17 UTC"
+        "updated": "2026-01-08 14:34:47 UTC"
     },
     "matches": [
+        {
+            "start_time": "14:30",
+            "league": "Stars League",
+            "country": "Qatar",
+            "home": "Al-Shahaniya",
+            "away": "Al Duhail",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
         {
             "start_time": "13:00",
             "league": "Pro League",
@@ -11,7 +21,7 @@
             "home": "Al-Jazira",
             "away": "Ajman",
             "score": "3 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Nabil Fekir 36'(H)",
                 "Nabil Fekir 33'(H)",
@@ -24,9 +34,11 @@
             "country": "United Arab Emirates",
             "home": "Dibba Al-Fujairah",
             "away": "Khor Fakkan",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Saymon Cabral 57'(H)"
+            ]
         },
         {
             "start_time": "12:00",
@@ -34,28 +46,14 @@
             "country": "World",
             "home": "SC Paderborn 07",
             "away": "RC Sporting Charleroi",
-            "score": "2 - 1",
+            "score": "3 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Stefano Marino 90'(H)",
+                "Unknown 90'(A)",
                 "Steffen Tigges 66'(H)",
                 "Nick B\u00e4tzner 44'(H)",
                 "Lewin Blum 9'(A)"
-            ]
-        },
-        {
-            "start_time": "12:30",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "Bonner SC",
-            "away": "SC Verl",
-            "score": "0 - 5",
-            "minute": "2nd half",
-            "scorers": [
-                "Alessio Besio 76'(A)",
-                "Julian Stark 72'(A)",
-                "Martin Ens 67'(A)",
-                "Alessio Besio 55'(A)",
-                "Fynn Otto 40'(A)"
             ]
         },
         {
@@ -64,9 +62,11 @@
             "country": "World",
             "home": "\u00c7aykur Rizespor",
             "away": "Gen\u00e7lerbirli\u011fi",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 75'(A)",
+                "Dilhan Demir 52'(A)",
                 "Halil Dervi\u015fo\u011flu 11'(H)"
             ]
         },
@@ -77,7 +77,17 @@
             "home": "Dukla Praha",
             "away": "Kisv\u00e1rda FC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "14:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Club Brugge KV",
+            "away": "SK Sturm Graz",
+            "score": "0 - 1",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -86,9 +96,11 @@
             "country": "World",
             "home": "HNK Vukovar 1991",
             "away": "FK Arsimi 1973",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 42'(H)"
+            ]
         },
         {
             "start_time": "13:30",
@@ -96,9 +108,10 @@
             "country": "World",
             "home": "OKS Odra Opole",
             "away": "FK Vele\u017e Mostar",
-            "score": "2 - 0",
-            "minute": "1st half",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Ivan \u0160ari\u0107 40'(A)",
                 "Edo Vehabovi\u0107 8'(H)",
                 "Konrad Nowak 6'(H)"
             ]
@@ -119,10 +132,11 @@
             "country": "Algeria",
             "home": "ES Ben Aknoun",
             "away": "Olympique Akbou",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 45'(A)",
+                "Fateh Talah 52'(H)",
+                "Mohamed Amine Gherbi 45'(A)",
                 "Chemseddine Lakehal 33'(H)"
             ]
         },
@@ -133,7 +147,7 @@
             "home": "MC El Bayadh",
             "away": "ES Mostaganem",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -143,7 +157,7 @@
             "home": "CS Manika",
             "away": "US Tshinkunku",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -152,21 +166,12 @@
             "country": "Egypt",
             "home": "Haras El Hodoud",
             "away": "Smouha",
-            "score": "1 - 0",
-            "minute": "2nd half",
+            "score": "1 - 1",
+            "minute": "Awaiting extra time",
             "scorers": [
+                "Pape Badji 85'(A)",
                 "Mohamed Hamdy Zaki 5'(H)"
             ]
-        },
-        {
-            "start_time": "12:30",
-            "league": "Egyptian Second Division A",
-            "country": "Egypt",
-            "home": "Asyut Petroleum",
-            "away": "Tanta",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
         },
         {
             "start_time": "12:30",
@@ -187,9 +192,10 @@
             "country": "Egypt",
             "home": "La Viena FC",
             "away": "FC Masar",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 70'(A)",
                 "Egbemba Michael 44'(H)",
                 "Mohamed Hambozo 14'(A)"
             ]
@@ -200,10 +206,12 @@
             "country": "Egypt",
             "home": "Raya SC",
             "away": "El-Entag El-Harby",
-            "score": "0 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 56'(A)"
+                "Unknown 88'(A)",
+                "Unknown 80'(H)",
+                "Alaa Shaaban 56'(A)"
             ]
         },
         {
@@ -226,9 +234,11 @@
             "country": "Egypt",
             "home": "WE Sports Club",
             "away": "Canal SC",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 90'(A)"
+            ]
         },
         {
             "start_time": "13:00",
@@ -237,7 +247,7 @@
             "home": "Sidama Bunna FC",
             "away": "Arba Minch",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -247,7 +257,7 @@
             "home": "Welwalu Adigrat",
             "away": "Adama City",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 21'(H)"
             ]
@@ -283,26 +293,17 @@
             "scorers": []
         },
         {
-            "start_time": "12:00",
-            "league": "CRFA Division Two - Zone 5",
-            "country": "Ghana",
-            "home": "New Star Academy",
-            "away": "Saba Football Academy",
-            "score": "0 - 1",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 45'(A)"
-            ]
-        },
-        {
             "start_time": "13:00",
             "league": "CRFA Division Two - Zone 5",
             "country": "Ghana",
             "home": "Gap Soccer Academy",
             "away": "Kingdom FC",
-            "score": "0 - 0",
+            "score": "1 - 1",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 12'(A)",
+                "Unknown 6'(H)"
+            ]
         },
         {
             "start_time": "14:00",
@@ -315,22 +316,14 @@
             "scorers": []
         },
         {
-            "start_time": "12:00",
+            "start_time": "14:30",
             "league": "Iraq Stars League",
             "country": "Iraq",
-            "home": "Al-Qasim SC",
-            "away": "Al-Shorta",
-            "score": "1 - 6",
-            "minute": "2nd half",
-            "scorers": [
-                "Ahmed Farhan 88'(A)",
-                "Dominique Mendy 72'(A)",
-                "Leonel Ateba 69'(A)",
-                "Leonel Ateba 65'(A)",
-                "Ahmed Farhan 45'(A)",
-                "Mahmoud Al Mawas 10'(A)",
-                "Mohammed Ali Attiya 4'(H)"
-            ]
+            "home": "Al Mosul SC",
+            "away": "Erbil SC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "12:00",
@@ -339,7 +332,7 @@
             "home": "Bnei Sakhnin U19",
             "away": "Hapoel Acre U19",
             "score": "3 - 3",
-            "minute": "Awaiting extra time",
+            "minute": "2nd extra",
             "scorers": [
                 "Unknown 85'(A)",
                 "Unknown 71'(H)",
@@ -348,6 +341,16 @@
                 "Unknown 12'(H)",
                 "Unknown 9'(H)"
             ]
+        },
+        {
+            "start_time": "14:00",
+            "league": "U19 State Cup",
+            "country": "Israel",
+            "home": "Hapoel Tel Aviv U19",
+            "away": "Hapoel Hod Hasharon U19",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "13:30",
@@ -366,20 +369,19 @@
             "home": "Elettihad Almisraty SC",
             "away": "Al Majd Tripoli SCS",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
-            "start_time": "12:30",
-            "league": "Premier League, Group 4",
-            "country": "Libya",
-            "home": "Andalus FC",
-            "away": "Khaleej Sirte SC",
-            "score": "0 - 2",
-            "minute": "2nd half",
+            "start_time": "14:10",
+            "league": "Omani League",
+            "country": "Oman",
+            "home": "Oman Club SC",
+            "away": "Bahla SC",
+            "score": "1 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 71'(A)",
-                "Elyas Ben Husain 32'(A)"
+                "Unknown 6'(H)"
             ]
         },
         {
@@ -388,22 +390,11 @@
             "country": "Rwanda",
             "home": "Al-Hilal Omdurman",
             "away": "Etincelles FC",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "2 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 69'(H)",
                 "Kindness Cole 18'(H)"
-            ]
-        },
-        {
-            "start_time": "12:00",
-            "league": "Kad\u0131nlar U17 Ligi, Group 8",
-            "country": "Turkey",
-            "home": "G\u00f6lc\u00fck \u0130dmanoca\u011f\u0131 Kad\u0131n FK U17",
-            "away": "Kocaeli Kad\u0131n FK U17",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 45'(H)"
             ]
         },
         {
@@ -412,9 +403,10 @@
             "country": "Uganda",
             "home": "Kiyinda Boys FC",
             "away": "Kaaro Karungi",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 57'(A)",
                 "Unknown 20'(A)",
                 "Unknown 14'(H)"
             ]
@@ -425,9 +417,12 @@
             "country": "United Arab Emirates",
             "home": "AL Wasl U23",
             "away": "AL Ittihad Kalba U23",
-            "score": "0 - 2",
-            "minute": "Halftime",
+            "score": "2 - 3",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 68'(H)",
+                "Unknown 57'(H)",
+                "Unknown 55'(A)",
                 "Unknown 28'(A)",
                 "Unknown 19'(A)"
             ]
@@ -438,9 +433,10 @@
             "country": "United Arab Emirates",
             "home": "Shabab AL Ahli Dubai Club U23",
             "away": "Al Bataeh U23",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 58'(A)",
                 "Unknown 40'(H)",
                 "Unknown 2'(A)"
             ]
@@ -451,9 +447,11 @@
             "country": "United Arab Emirates",
             "home": "Al-Sharjah U19",
             "away": "Al Rams U19",
-            "score": "1 - 1",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 73'(H)",
+                "Unknown 66'(A)",
                 "Unknown 26'(A)",
                 "Unknown 16'(H)"
             ]
