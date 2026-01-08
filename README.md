@@ -2,5 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 00:30 | Guadeloupe | AS Gosier vs L'UNAR | **0 - 0** | `Started` | --- |
-| 01:00 | Honduras | CD Olimpia vs CD Marathon | **1 - 0** | `2nd half` | José Mario Pinto 55'(H) |
+| 04:00 | Bangladesh | Dhaka United SC vs Somaj Kollayan KS Mugda | **1 - 1** | `Started` | Unknown -1'(H), Unknown -1'(A) |
