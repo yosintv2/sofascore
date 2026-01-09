@@ -2,12 +2,10 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | Brazil | Carlos Renaux SC vs Concórdia AC | **0 - 1** | `2nd half` | William Gustavo Alves de Jesus 32'(A) |
-| 22:00 | Brazil | Cascavel vs Azuriz Futebol Clube | **0 - 0** | `2nd half` | --- |
-| 23:30 | Brazil | Clube Andraus Brasil vs Athletico | **0 - 0** | `1st half` | --- |
-| 22:15 | Brazil | Falcon-SE U20 vs Galvez U20 | **2 - 0** | `2nd half` | Unknown 52'(H) |
-| 23:30 | Brazil | Mirassol U20 vs Sport Recife U20 | **0 - 1** | `1st half` | Unknown 13'(A) |
-| 22:30 | Brazil | Palmeiras U20 vs Batalhão FC U20 | **6 - 0** | `2nd half` | Sorriso 58'(H), Unknown 41'(H), Rafael Barbosa Coutinho 35'(H), Unknown 28'(H), Victor Gabriel Leite dos Santos 21'(H), Sorriso 19'(H) |
-| 22:00 | Brazil Amateur | Palmeiras U17 vs Salto FC U17 | **4 - 0** | `2nd half` | Juan Francisco da Silva Félix 76'(H), Lucas Gabriel Oliveira 69'(H), João Paulo de Mendonça 36'(H), Murilo Minato 3'(H) |
-| 22:00 | Saint Kitts and Nevis | Molineaux F.C. vs Rivers of Living Water FC | **1 - 0** | `Started` | Unknown 21'(H) |
+| 00:30 | Aruba | SV Atlantico Deportivo vs ASV River Plate | **0 - 0** | `1st half` | --- |
+| 23:30 | Brazil | Clube Andraus Brasil vs Athletico | **1 - 2** | `2nd half` | Caio Cezar 81'(H), Bruninho Braga Ramos 55'(A), Chiqueti 45'(A) |
+| 00:30 | Brazil | Votuporanguense U20 vs Grêmio U20 | **0 - 1** | `1st half` | Unknown 33'(A) |
+| 23:30 | Brazil | Mirassol U20 vs Sport Recife U20 | **0 - 3** | `2nd half` | Unknown 56'(A), Unknown 45'(A), Unknown 13'(A) |
+| 00:30 | Brazil Amateur | Grêmio U17 vs São José-RS U17 | **1 - 2** | `Halftime` | Lucas Barros 40'(H), Unknown 35'(A), Nycollas Silva da Rosa 9'(A) |
+| 00:00 | Saint Kitts and Nevis | Garden Hotspurs vs Conaree Fireball International FC | **0 - 1** | `Started` | Unknown 61'(A) |
 | 23:45 | Uruguay Amateur | Lavalleja Capital vs Canelones Interior | **0 - 0** | `Started` | --- |
