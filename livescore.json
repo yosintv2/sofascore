@@ -1,18 +1,45 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-09 11:26:00 UTC"
+        "updated": "2026-01-09 11:40:57 UTC"
     },
     "matches": [
+        {
+            "start_time": "11:30",
+            "league": "1. Lig",
+            "country": "Turkey",
+            "home": "Vanspor FK",
+            "away": "Boluspor",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
         {
             "start_time": "11:00",
             "league": "A-League, Women",
             "country": "Australia",
             "home": "Perth Glory",
             "away": "Western Sydney Wanderers",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Emma Tovar 29'(H)"
+            ]
+        },
+        {
+            "start_time": "09:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "FC Lugano",
+            "away": "Viktoria Plze\u0148",
+            "score": "2 - 2",
+            "minute": "2nd half",
+            "scorers": [
+                "Claudio Cassano 86'(H)",
+                "Adam Kadlec 74'(A)",
+                "Kevin Behrens 51'(H)",
+                "Daniel Va\u0161ul\u00edn 23'(A)"
+            ]
         },
         {
             "start_time": "10:00",
@@ -34,13 +61,23 @@
             "home": "KRC Genk",
             "away": "Di\u00f3sgy\u0151ri VTK",
             "score": "1 - 3",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Bence Babos 44'(A)",
                 "Bence Babos 37'(A)",
                 "Hyun-gyu Oh 26'(H)",
                 "M\u00e1t\u00e9 Sajb\u00e1n 23'(A)"
             ]
+        },
+        {
+            "start_time": "11:00",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Arminia Bielefeld",
+            "away": "F.C. Hansa Rostock",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "11:00",
@@ -56,11 +93,22 @@
             "start_time": "11:00",
             "league": "Club Friendly Games",
             "country": "World",
+            "home": "FCV Dender",
+            "away": "K. Beerschot V.A.",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "11:00",
+            "league": "Club Friendly Games",
+            "country": "World",
             "home": "Legia Warszawa",
             "away": "Pogo\u0144 Grodzisk Mazowiecki",
-            "score": "1 - 0",
+            "score": "1 - 1",
             "minute": "1st half",
             "scorers": [
+                "Rafa\u0142 Adamski 29'(A)",
                 "Radovan Pankov 7'(H)"
             ]
         },
@@ -82,9 +130,11 @@
             "country": "World",
             "home": "Pusk\u00e1s Akad\u00e9mia",
             "away": "Lommel SK",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 31'(H)"
+            ]
         },
         {
             "start_time": "11:00",
@@ -137,7 +187,7 @@
             "home": "Swift FA",
             "away": "Footworks FC",
             "score": "1 - 2",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 37'(H)",
                 "Unknown 18'(A)",
@@ -150,24 +200,14 @@
             "country": "India",
             "home": "Pillanna Garden",
             "away": "Vijaynagar FC",
-            "score": "1 - 2",
+            "score": "2 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 67'(A)",
+                "Unknown 60'(H)",
                 "Unknown 55'(A)",
                 "Unknown 49'(A)",
                 "Unknown 20'(H)"
-            ]
-        },
-        {
-            "start_time": "09:30",
-            "league": "Indonesia Liga 4",
-            "country": "Indonesia",
-            "home": "Persida Sidoarjo",
-            "away": "PSBI Blitar",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 36'(H)"
             ]
         },
         {
@@ -189,7 +229,7 @@
             "home": "FC Jerusalem",
             "away": "Hapoel Azor",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 22'(H)"
             ]
@@ -201,7 +241,7 @@
             "home": "Shimshon Paztal Tel Aviv",
             "away": "Maccabi Ironi Ashdod",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 45'(A)"
             ]
@@ -213,7 +253,7 @@
             "home": "Maccabi Kiiryat Gat",
             "away": "AS Nordia Jerusalem",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 15'(H)"
             ]
@@ -225,7 +265,7 @@
             "home": "FC Tzeirey Tira",
             "away": "Hapoel Marmorek",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -235,7 +275,7 @@
             "home": "Tzeirey Um El Fahem",
             "away": "Hapoel Um El Fahem",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -250,6 +290,16 @@
                 "Unknown 21'(A)",
                 "Unknown 3'(A)"
             ]
+        },
+        {
+            "start_time": "11:30",
+            "league": "Liga Alef North",
+            "country": "Israel",
+            "home": "Hapoel Ironi Baqa al-Gharbiye",
+            "away": "Hapoel Ironi Arraba",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "10:00",
@@ -280,11 +330,62 @@
             "country": "Israel",
             "home": "Ironi Beit Dagan",
             "away": "AS Holon Mor",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "1st half",
             "scorers": [
+                "Unknown 27'(H)",
                 "Unknown 4'(A)"
             ]
+        },
+        {
+            "start_time": "11:30",
+            "league": "Liga Bet South A",
+            "country": "Israel",
+            "home": "Hapoel Kafr Qasim Shouaa",
+            "away": "MS Bnei Jaffa Ortodoxim",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Liga Bet North A",
+            "country": "Israel",
+            "home": "Beitar Haifa Yaacov",
+            "away": "Hapoel Bney Arara",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Liga Bet North A",
+            "country": "Israel",
+            "home": "Hapoel Bnei Ein Mahil",
+            "away": "Hapoel Deir Hanna Husam",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "11:25",
+            "league": "Second Division League - Group 2",
+            "country": "Saudi Arabia",
+            "home": "Al-Leewa",
+            "away": "Al-Qous",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Syrian Premier League",
+            "country": "Syria",
+            "home": "Khan Shaykhun SC",
+            "away": "Taliya SC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "10:30",
@@ -293,7 +394,7 @@
             "home": "Yomraspor",
             "away": "Be\u015fikd\u00fcz\u00fc Ye\u015filk\u00f6y",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 36'(H)"
             ]
@@ -314,7 +415,7 @@
             "country": "Turkey Amateur",
             "home": "Ma\u015fukluspor",
             "away": "Kumluspor",
-            "score": "0 - 1",
+            "score": "0 - 2",
             "minute": "1st half",
             "scorers": [
                 "Unknown 24'(A)",
