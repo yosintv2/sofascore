@@ -1,30 +1,20 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-10 21:35:57 UTC"
+        "updated": "2026-01-10 21:46:08 UTC"
     },
     "matches": [
-        {
-            "start_time": "19:45",
-            "league": "Serie A",
-            "country": "Italy",
-            "home": "Atalanta",
-            "away": "Torino",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Charles De Ketelaere 13'(H)"
-            ]
-        },
         {
             "start_time": "20:00",
             "league": "LaLiga",
             "country": "Spain",
             "home": "Valencia",
             "away": "Elche",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Grady Diangana 75'(A)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -57,9 +47,10 @@
             "country": "Spain",
             "home": "Real Racing Club",
             "away": "Real Zaragoza",
-            "score": "0 - 3",
+            "score": "1 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Gustavo Puerta 82'(H)",
                 "Kenan Kodro 54'(A)",
                 "Kenan Kodro 21'(A)",
                 "Kenan Kodro 4'(A)"
@@ -87,6 +78,18 @@
                 "Unknown 75'(H)",
                 "Unknown 66'(A)",
                 "Unknown 44'(A)"
+            ]
+        },
+        {
+            "start_time": "21:00",
+            "league": "Kings World Cup Nations, Group D",
+            "country": "World",
+            "home": "Spain KWC",
+            "away": "Qatar KWC",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Mame Cheikh Diop 1'(A)"
             ]
         },
         {
@@ -120,7 +123,27 @@
             "country": "Argentina Amateur",
             "home": "Defensores Puerto Vilelas",
             "away": "8 de Diciembre",
-            "score": "1 - 1",
+            "score": "2 - 1",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "21:00",
+            "league": "Torneo Regional Amateur, Regi\u00f3n Litoral Norte - Playoffs",
+            "country": "Argentina Amateur",
+            "home": "Deportivo Fontana",
+            "away": "Sportivo Cultural",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "21:00",
+            "league": "Torneo Regional Amateur, Regi\u00f3n Cuyo - Playoffs",
+            "country": "Argentina Amateur",
+            "home": "Fundaci\u00f3n Amigos Por El Deporte",
+            "away": "Argentino Mendoza",
+            "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
@@ -140,9 +163,11 @@
             "country": "Brazil",
             "home": "Porto Sport Club",
             "away": "Jacuipense",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "William 9'(A)"
+            ]
         },
         {
             "start_time": "21:15",
@@ -150,9 +175,11 @@
             "country": "Brazil",
             "home": "Jataiense",
             "away": "CRAC",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 29'(A)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -195,7 +222,9 @@
             "away": "Pouso Alegre FC",
             "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Alexandre Pena 6'(A)"
+            ]
         },
         {
             "start_time": "21:30",
@@ -223,9 +252,11 @@
             "country": "Brazil",
             "home": "Gr\u00eamio Prudente",
             "away": "Ituano",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 41'(H)"
+            ]
         },
         {
             "start_time": "21:00",
@@ -296,9 +327,11 @@
             "country": "Brazil",
             "home": "Real Soccer U20",
             "away": "S\u00e3o Paulo U20",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 14'(A)"
+            ]
         },
         {
             "start_time": "19:45",
@@ -306,8 +339,20 @@
             "country": "Brazil",
             "home": "\u00c1guia de Marab\u00e1 U20",
             "away": "Estrela de Mar\u00e7o U20",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
+            "scorers": [
+                "Unknown 90'(H)"
+            ]
+        },
+        {
+            "start_time": "21:45",
+            "league": "Copinha - Grupo 29",
+            "country": "Brazil",
+            "home": "Uni\u00e3o Rondon\u00f3polis U20",
+            "away": "Quinho FC U20",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -320,19 +365,6 @@
             "minute": "Halftime",
             "scorers": [
                 "Leinier Mena 37'(A)"
-            ]
-        },
-        {
-            "start_time": "19:30",
-            "league": "Liga Dominicana de F\u00fatbol - Liguilla",
-            "country": "Dominican Republic",
-            "home": "Salcedo FC",
-            "away": "Moca FC",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 74'(A)",
-                "Unknown 19'(A)"
             ]
         },
         {
@@ -351,6 +383,18 @@
             "country": "Mexico",
             "home": "Cordob\u00e9s F.C.",
             "away": "Club Deportivo de F\u00fatbol Zit\u00e1cuaro",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 4'(A)"
+            ]
+        },
+        {
+            "start_time": "21:30",
+            "league": "Liga Premier Serie A, Group 2",
+            "country": "Mexico",
+            "home": "Halcones F.C.",
+            "away": "Club Calor",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -432,16 +476,6 @@
             "country": "Spain Amateur",
             "home": "SD Lengokoak",
             "away": "CF Tolosa B",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "19:10",
-            "league": "Tercera Catalana - Grupo 9",
-            "country": "Spain Amateur",
-            "home": "Congr\u00e9s CE",
-            "away": "Azul y Oro",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
