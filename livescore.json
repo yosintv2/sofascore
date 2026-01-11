@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-11 09:11:40 UTC"
+        "updated": "2026-01-11 09:33:49 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,11 @@
             "country": "World",
             "home": "GKS Katowice",
             "away": "FC Petrolul Ploie\u0219ti",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Borja Gal\u00e1n 43'(H)"
+            ]
         },
         {
             "start_time": "08:30",
@@ -20,9 +22,11 @@
             "country": "Bangladesh",
             "home": "Arambagh Football Academy",
             "away": "Mohakhali Ekadosh",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown -1'(A)"
+            ]
         },
         {
             "start_time": "08:00",
@@ -30,9 +34,10 @@
             "country": "Brunei",
             "home": "Indera SC",
             "away": "Kota Ranger FC",
-            "score": "1 - 0",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 61'(H)",
                 "Unknown 48'(A)",
                 "Unknown 27'(H)"
             ]
@@ -82,6 +87,16 @@
             "scorers": []
         },
         {
+            "start_time": "09:30",
+            "league": "C EPS Anatolikis Attikis",
+            "country": "Greece Amateur",
+            "home": "Kyanous Astir Varis B",
+            "away": "PAO Kalivion",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "09:00",
             "league": "A2 EPS Argolidas - Group 1",
             "country": "Greece Amateur",
@@ -112,11 +127,31 @@
             "scorers": []
         },
         {
+            "start_time": "09:30",
+            "league": "A2 EPS Argolidas - Group 2",
+            "country": "Greece Amateur",
+            "home": "Anagennisi Ag. Andrianou",
+            "away": "Aristeionas Lygouriou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "09:00",
             "league": "A EPS Athens - Group 2",
             "country": "Greece Amateur",
             "home": "AS Sourmenon",
             "away": "GS Apollon Smyrnis",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Athens - Group 1",
+            "country": "Greece Amateur",
+            "home": "PO Agiou Thoma Goudi",
+            "away": "Fostiras Kaisarianis FC",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -132,16 +167,6 @@
             "scorers": []
         },
         {
-            "start_time": "07:00",
-            "league": "C EPS Athens - Group 1",
-            "country": "Greece Amateur",
-            "home": "Thriamvos Athinon",
-            "away": "Platon Athinon",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "09:00",
             "league": "C EPS Athens - Group 1",
             "country": "Greece Amateur",
@@ -152,6 +177,16 @@
             "scorers": [
                 "Unknown -1'(A)"
             ]
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Chalkidikis - Voreios ",
+            "country": "Greece Amateur",
+            "home": "MO Apollon Arneas",
+            "away": "Thiella Metaggitsiou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "09:00",
@@ -204,14 +239,86 @@
             "scorers": []
         },
         {
+            "start_time": "09:00",
+            "league": "C EPS Evoias - Central 2",
+            "country": "Greece Amateur",
+            "home": "AS Agioi Anargyroi Chalkidas",
+            "away": "SF Olympiacos Chalkidos",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Evoias - Central 2",
+            "country": "Greece Amateur",
+            "home": "Pandokaikos 1968",
+            "away": "Anapodos Chalkidas",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Evoias - North",
+            "country": "Greece Amateur",
+            "home": "AO Oreon",
+            "away": "AO Aris Agias Annas",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Evoias - North",
+            "country": "Greece Amateur",
+            "home": "PS Anagennisi Istiaias",
+            "away": "OPA Loutron Aidipsou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "C EPS Evoias - North",
+            "country": "Greece Amateur",
+            "home": "PAO Lichadas",
+            "away": "AO Doxa Prokopiou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Evoias - South",
+            "country": "Greece Amateur",
+            "home": "AE Artemis Agiou Georgiou",
+            "away": "FS Tamynaikos Aliveriou B",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "C EPS Evoias - South",
+            "country": "Greece Amateur",
+            "home": "Aris Agiou Ioanni",
+            "away": "AS Romaikos",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "08:30",
             "league": "B EPS Kavalas Group A",
             "country": "Greece Amateur",
             "home": "Vyronas Kavalas B",
             "away": "Aspida Polystylou",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 37'(H)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -219,9 +326,11 @@
             "country": "Greece Amateur",
             "home": "Keravnos Eleftheron",
             "away": "AMS PAOK Agiou Andrea",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Kyriakos Sakkopoulos -1'(H)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -229,6 +338,56 @@
             "country": "Greece Amateur",
             "home": "Elpides AE Kozanis",
             "away": "Anagennisi Argilou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Larissa - Group 1",
+            "country": "Greece Amateur",
+            "home": "AO Aiantas Kallitheas 2023",
+            "away": "AO Dolichis 1977",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Larissa - Group 1",
+            "country": "Greece Amateur",
+            "home": "A.O Sykeas 1977",
+            "away": "P.S Chyreatikos Domenikou 1979",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Larissa - Group 1",
+            "country": "Greece Amateur",
+            "home": "Doxa Argiropouliou 1935",
+            "away": "AO Ampeloniakos",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Larissa - Group 2",
+            "country": "Greece Amateur",
+            "home": "AO Diogenis Larissa",
+            "away": "Aetos Amygdaleas 1970",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "A EPS Makedonias - Group 1",
+            "country": "Greece Amateur",
+            "home": "AE Ampelokipoi",
+            "away": "AS Ionikos Ionias",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -245,10 +404,140 @@
         },
         {
             "start_time": "09:00",
+            "league": "A EPS Makedonias - Group 1",
+            "country": "Greece Amateur",
+            "home": "Makedonikos B",
+            "away": "APO Asteras Ampelokipon",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "A EPS Makedonias - Group 2",
+            "country": "Greece Amateur",
+            "home": "MAS Nea Genea Asvestochoriou",
+            "away": "APS Doxa Agiou Pavlou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Makedonias - Group 1",
+            "country": "Greece Amateur",
+            "home": "AS Odysseas Kordeliou",
+            "away": "APS Astrapi Dendropotamou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Makedonias - Group 2",
+            "country": "Greece Amateur",
+            "home": "APO Aris Kavalariou",
+            "away": "AS Doxa Perivolakiou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
             "league": "B EPS Makedonias - Group 2",
             "country": "Greece Amateur",
             "home": "APS Ethnikos Meteoron",
             "away": "Ethnikos Asteras Neapolis Sykeon",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Makedonias - Group 2",
+            "country": "Greece Amateur",
+            "home": "ASAK Akadimia Protathliton Peukon",
+            "away": "AMO Niki Efkarpias B",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Makedonias - Group 2",
+            "country": "Greece Amateur",
+            "home": "MAS Niki Irakliou",
+            "away": "AO Ellispontos Krithias",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Makedonias - Group 3",
+            "country": "Greece Amateur",
+            "home": "APO Astrapi Neapolis",
+            "away": "APS Astrapi Meseou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Makedonias - Group 3",
+            "country": "Greece Amateur",
+            "home": "Kanonierides",
+            "away": "AS Makedones Evaggelistrias",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Makedonias - Group 3",
+            "country": "Greece Amateur",
+            "home": "MAS Doxa Pentalofou",
+            "away": "PAE Akrites Sykeon B",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Makedonias - Group 3",
+            "country": "Greece Amateur",
+            "home": "MGS Meliteas",
+            "away": "PAS Ioannis Papafis",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "08:45",
+            "league": "B EPS Makedonias - Group 4",
+            "country": "Greece Amateur",
+            "home": "MAS Argonaftis Kalamarias",
+            "away": "AO Skiouroi",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Makedonias - Group 4",
+            "country": "Greece Amateur",
+            "home": "AMPS Doxa Trilofou",
+            "away": "APS Kissos Chortiatis",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "07:30",
+            "league": "C EPS Makedonias - Group 2",
+            "country": "Greece Amateur",
+            "home": "APO Finikas Polichnis B",
+            "away": "Ajax Stars Thessaloniki",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -264,14 +553,146 @@
             "scorers": []
         },
         {
+            "start_time": "09:00",
+            "league": "C EPS Makedonias - Group 3",
+            "country": "Greece Amateur",
+            "home": "M.A.S. Digenis Monolofou",
+            "away": "AMS Megas Alexandros Melissochoriou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "C EPS Makedonias - Group 5",
+            "country": "Greece Amateur",
+            "home": "AMS Nestor Ossas",
+            "away": "APS Megas Alexandros",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "C EPS Makedonias - Group 5",
+            "country": "Greece Amateur",
+            "home": "AS Stivou",
+            "away": "Panathinaikos Vrasnon",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Pellas - Group 1",
+            "country": "Greece Amateur",
+            "home": "PAS Atromitos Lakkas 2025",
+            "away": "PAS Panedessaikos B",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "C EPS Piraeus - Group 2",
+            "country": "Greece Amateur",
+            "home": "Athinaiki Agiou Dimitriou",
+            "away": "Neo Ikonio B",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Trikalon - Group A",
+            "country": "Greece Amateur",
+            "home": "AE Farkadonas",
+            "away": "A.O. Axilleas Baras 1978",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Trikalon - Group A",
+            "country": "Greece Amateur",
+            "home": "AO Petrotou",
+            "away": "FC Agion Apostolon",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "B EPS Trikalon - Group A",
+            "country": "Greece Amateur",
+            "home": "AO Thyella Megalochoriou",
+            "away": "A.O. Saragion",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Voiotias - Group 2",
+            "country": "Greece Amateur",
+            "home": "AO Doxa Mourikiou",
+            "away": "Ionikos Asteras Thivas",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Voiotias - Group 2",
+            "country": "Greece Amateur",
+            "home": "A.O. Epameinondas Lefktron",
+            "away": "AES Eleonas",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Voiotias - Group 2",
+            "country": "Greece Amateur",
+            "home": "Apollon Neoxorakiou",
+            "away": "AO Elikonas Domvrainas",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Voiotias - Group 2",
+            "country": "Greece Amateur",
+            "home": "AS Pamvagiakos",
+            "away": "AO Melissoxori",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:30",
+            "league": "B EPS Voiotias - Group 2",
+            "country": "Greece Amateur",
+            "home": "A.S. Thyella  Xironomis",
+            "away": "AE Dilesiou",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "08:30",
             "league": "Premier League",
             "country": "Hong Kong",
             "home": "Hong Kong FC",
             "away": "Kitchee SC",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "1 - 2",
+            "minute": "Halftime",
             "scorers": [
+                "Enzo Dietrich 45'(H)",
+                "Yumemi Kanda 45'(A)",
                 "Adrian Revilla 5'(A)"
             ]
         },
@@ -281,9 +702,10 @@
             "country": "Hong Kong",
             "home": "Lucky Mile",
             "away": "Central & Western",
-            "score": "0 - 4",
+            "score": "0 - 5",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 88'(A)",
                 "Unknown 62'(A)",
                 "Unknown 54'(A)",
                 "Unknown 50'(A)",
@@ -333,26 +755,12 @@
             "start_time": "07:30",
             "league": "Division 3",
             "country": "Hong Kong",
-            "home": "Orion FC",
-            "away": "Qi Yi FC",
-            "score": "1 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 62'(A)",
-                "Unknown 55'(A)",
-                "Unknown 27'(H)",
-                "Unknown 7'(A)"
-            ]
-        },
-        {
-            "start_time": "07:30",
-            "league": "Division 3",
-            "country": "Hong Kong",
             "home": "Ornament",
             "away": "Ravia SA",
-            "score": "3 - 2",
+            "score": "3 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 83'(A)",
                 "Unknown 66'(A)",
                 "Unknown 62'(A)",
                 "Unknown 24'(H)",
@@ -361,7 +769,7 @@
             ]
         },
         {
-            "start_time": "10:30",
+            "start_time": "08:00",
             "league": "Bengal Super League",
             "country": "India",
             "home": "Sundarban Bengal Auto FC",
@@ -377,7 +785,7 @@
             "home": "Arema FC",
             "away": "Persik Kediri",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -387,7 +795,7 @@
             "home": "Persib Bandung",
             "away": "Persija Jakarta",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Beckham Putra Nugraha 5'(H)"
             ]
@@ -398,9 +806,10 @@
             "country": "Indonesia",
             "home": "Semen Padang FC",
             "away": "Persis Solo",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "1 - 1",
+            "minute": "Halftime",
             "scorers": [
+                "Zanadin Fariz 45'(A)",
                 "Irsyad Maulana 36'(H)"
             ]
         },
@@ -411,9 +820,9 @@
             "home": "PSMS Medan",
             "away": "Adhyaksa FC",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 9'(H)"
+                "Risman Ariyanto Maring 9'(H)"
             ]
         },
         {
@@ -423,7 +832,7 @@
             "home": "Persela Lamongan",
             "away": "PS Barito Putera",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -435,6 +844,7 @@
             "score": "1 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 72'(A)",
                 "Unknown 17'(H)"
             ]
         },
@@ -444,9 +854,11 @@
             "country": "Indonesia",
             "home": "Persebi Boyolali",
             "away": "Mahesa Jenar Muda",
-            "score": "2 - 0",
+            "score": "4 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 69'(H)",
+                "Unknown 56'(H)",
                 "Unknown 38'(H)",
                 "Unknown 18'(H)"
             ]
@@ -481,9 +893,10 @@
             "country": "Indonesia",
             "home": "Safin Pati",
             "away": "Persiharjo Sukoharjo",
-            "score": "0 - 4",
+            "score": "0 - 5",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 74'(A)",
                 "Unknown 45'(A)",
                 "Unknown 26'(A)",
                 "Unknown 23'(A)",
@@ -496,10 +909,11 @@
             "country": "Kenya",
             "home": "Kibera Black Stars",
             "away": "Luanda Villa",
-            "score": "0 - 1",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 12'(A)"
+                "Unknown 51'(H)",
+                "Victor Barack 12'(A)"
             ]
         },
         {
@@ -508,9 +922,11 @@
             "country": "Kenya",
             "home": "Trinity Starlets FC",
             "away": "Gideon Starlet",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 2'(H)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -518,10 +934,11 @@
             "country": "Malaysia",
             "home": "Penang",
             "away": "Melaka FC",
-            "score": "3 - 0",
+            "score": "4 - 0",
             "minute": "1st half",
             "scorers": [
-                "Unknown 11'(H)",
+                "Dylan Wenzel-Halls 14'(H)",
+                "Dylan Wenzel-Halls 11'(H)",
                 "Stefano Brundo 9'(H)",
                 "Stefano Brundo 4'(H)"
             ]
@@ -552,10 +969,12 @@
             "country": "Myanmar",
             "home": "Thitsar Arman FC",
             "away": "Hantharwady United FC",
-            "score": "1 - 0",
+            "score": "1 - 2",
             "minute": "1st half",
             "scorers": [
-                "Unknown 3'(H)"
+                "Unknown 26'(A)",
+                "Unknown 16'(A)",
+                "Aung Pyae Sone 3'(H)"
             ]
         },
         {
@@ -564,9 +983,11 @@
             "country": "Myanmar",
             "home": "Young Lionesses",
             "away": "Ispe FC",
-            "score": "0 - 1",
+            "score": "0 - 3",
             "minute": "1st half",
             "scorers": [
+                "Unknown 31'(A)",
+                "Unknown 27'(A)",
                 "Unknown 7'(A)"
             ]
         },
@@ -576,9 +997,11 @@
             "country": "Nigeria",
             "home": "Real Sapphire Fc",
             "away": "Sporting Lagos FA",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Adams Opeyemi Ismail 8'(H)"
+            ]
         },
         {
             "start_time": "08:00",
@@ -596,8 +1019,21 @@
             "country": "South Africa",
             "home": "Sekhukhune United Reserves U23",
             "away": "Mamelodi Sundowns Reserves U23",
-            "score": "0 - 0",
+            "score": "1 - 1",
             "minute": "2nd half",
+            "scorers": [
+                "Unknown 64'(A)",
+                "Unknown 56'(H)"
+            ]
+        },
+        {
+            "start_time": "09:30",
+            "league": "Tercera Federaci\u00f3n Femenina, Grupo 4",
+            "country": "Spain Amateur",
+            "home": "Oiartzun KE",
+            "away": "Arratia CD",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -646,7 +1082,7 @@
             "country": "Thailand",
             "home": "Raj Pracha",
             "away": "VRN Muangnont FC",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
             "scorers": []
         },
@@ -661,14 +1097,26 @@
             "scorers": []
         },
         {
+            "start_time": "09:00",
+            "league": "Thai League 3",
+            "country": "Thailand",
+            "home": "Wiang Sa Surat Thani City",
+            "away": "Chumphon FC",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "08:00",
             "league": "Kad\u0131nlar 1.Ligi, A Grubu",
             "country": "Turkey",
             "home": "Kayseri Kad\u0131n FK",
             "away": "Hatay Defne 1994 Spor",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown -1'(H)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -753,6 +1201,16 @@
             "scorers": []
         },
         {
+            "start_time": "08:00",
+            "league": "\u0130stanbul 1. Amat\u00f6r Ligi, Group 6",
+            "country": "Turkey Amateur",
+            "home": "Pazari\u00e7i K\u00f6pr\u00fcl\u00fc SK",
+            "away": "Tepeba\u011f K\u00fclt\u00fcrspor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "09:00",
             "league": "\u0130stanbul 1. Amat\u00f6r Ligi, Group 12",
             "country": "Turkey Amateur",
@@ -773,31 +1231,11 @@
             "scorers": []
         },
         {
-            "start_time": "07:00",
-            "league": "Ankara 1. Amat\u00f6r Ligi, Group 2",
-            "country": "Turkey Amateur",
-            "home": "M\u00fclkiyespor",
-            "away": "Etlikspor",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "09:00",
             "league": "Ankara 1. Amat\u00f6r Ligi, Group 2",
             "country": "Turkey Amateur",
             "home": "Ankara GSM",
             "away": "Tar\u0131m Kredi SK",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "07:00",
-            "league": "Ankara 1. Amat\u00f6r Ligi, Group 3",
-            "country": "Turkey Amateur",
-            "home": "G\u00f6lba\u015f\u0131 Moganspor",
-            "away": "Ankara DS\u0130 Spor",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -828,6 +1266,16 @@
             "country": "Turkey Amateur",
             "home": "Solfasolspor",
             "away": "1881 Selanikspor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "09:00",
+            "league": "\u015eanl\u0131urfa 1. Amat\u00f6r Ligi, Group 1",
+            "country": "Turkey Amateur",
+            "home": "Gen\u00e7 Karake\u00e7ililerspor",
+            "away": "\u015eanl\u0131urfa Kar\u015f\u0131yaka",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
