@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-11 06:56:36 UTC"
+        "updated": "2026-01-11 07:21:23 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Melbourne City",
             "away": "Newcastle Jets",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -20,9 +20,11 @@
             "country": "Australia",
             "home": "Melbourne Victory",
             "away": "Brisbane Roar",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Daisy Brown 56'(A)"
+            ]
         },
         {
             "start_time": "06:00",
@@ -31,7 +33,7 @@
             "home": "Olympic FC",
             "away": "Yeronga Eagles FC",
             "score": "2 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 45'(H)",
                 "Unknown 15'(H)"
@@ -43,12 +45,13 @@
             "country": "Hong Kong",
             "home": "Citizen AA",
             "away": "Kwun Tong",
-            "score": "4 - 0",
+            "score": "5 - 0",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 68'(H)",
-                "Unknown 25'(H)",
-                "Unknown 23'(H)",
+                "Unknown 83'(H)",
+                "Unknown 67'(H)",
+                "Unknown 24'(H)",
+                "Unknown 17'(H)",
                 "Unknown 2'(H)"
             ]
         },
@@ -69,14 +72,25 @@
             ]
         },
         {
+            "start_time": "07:00",
+            "league": "1. Division",
+            "country": "Hong Kong",
+            "home": "Resources Capital FC",
+            "away": "Bright Cerulean FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "05:30",
             "league": "Division 3",
             "country": "Hong Kong",
             "home": "Konter",
             "away": "St Joseph's",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 84'(A)",
                 "Unknown 40'(H)",
                 "Unknown 34'(A)"
             ]
@@ -95,26 +109,16 @@
             ]
         },
         {
-            "start_time": "05:50",
-            "league": "Liga Topskor U17, Group B",
-            "country": "Indonesia",
-            "home": "Brazillian SS LFA U17",
-            "away": "Bogor City U17",
+            "start_time": "07:00",
+            "league": "Division 3",
+            "country": "Hong Kong",
+            "home": "Chandler Lambert",
+            "away": "Wui Hong SC",
             "score": "0 - 1",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": [
-                "Raka Satrya Nur Arifin 7'(A)"
+                "Unknown 11'(A)"
             ]
-        },
-        {
-            "start_time": "05:20",
-            "league": "Liga Topskor U17, Group C",
-            "country": "Indonesia",
-            "home": "Cibinong Poetra U17",
-            "away": "Binna Banua U17",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
         },
         {
             "start_time": "06:37",
@@ -123,43 +127,37 @@
             "home": "Serang City U17",
             "away": "Persija SS Bekasi U17",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
-            "start_time": "05:50",
-            "league": "Liga Topskor U14, LTS2, Group Skor, First Round",
-            "country": "Indonesia",
-            "home": "Royal Indonesia U14",
-            "away": "Jawara U14",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Rezy Danendra Jos A 42'(H)",
-                "Issei Hayashi 32'(H)",
-                "Raffasya Akmal Windra 25'(A)"
-            ]
-        },
-        {
-            "start_time": "05:50",
-            "league": "Liga Topskor U14, LTS2, Group 3, First Round",
-            "country": "Indonesia",
-            "home": "Jakarta City FC U14",
-            "away": "Mustikajaya FA U14",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Mohammad Januar Aryon Pratama 3'(A)"
-            ]
-        },
-        {
-            "start_time": "05:50",
-            "league": "Liga Topskor U15, LTS2, Top, First Round",
-            "country": "Indonesia",
-            "home": "Raga Negeri U15",
-            "away": "Bandung Pro United U15",
+            "start_time": "07:00",
+            "league": "Ankara 1. Amat\u00f6r Ligi, Group 2",
+            "country": "Turkey Amateur",
+            "home": "M\u00fclkiyespor",
+            "away": "Etlikspor",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "07:00",
+            "league": "Ankara 1. Amat\u00f6r Ligi, Group 3",
+            "country": "Turkey Amateur",
+            "home": "G\u00f6lba\u015f\u0131 Moganspor",
+            "away": "Ankara DS\u0130 Spor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "07:00",
+            "league": "Ankara 1. Amat\u00f6r Ligi, Group 4",
+            "country": "Turkey Amateur",
+            "home": "Ba\u015fkent Alsancakspor",
+            "away": "Eserspor",
+            "score": "0 - 0",
+            "minute": "Started",
             "scorers": []
         }
     ]
