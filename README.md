@@ -2,24 +2,21 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:07 | Mexico | CD Guadalajara vs CF Pachuca | **2 - 0** | `Halftime` | Daniel Aguirre 45'(H), Armando González 17'(H) |
-| 23:30 | Brazil | Portuguesa vs Palmeiras | **0 - 0** | `1st half` | --- |
-| 22:00 | Antigua and Barbuda | Villa Lions FC vs Ottos Rangers FC | **1 - 0** | `Started` | Unknown -1'(H) |
-| 22:30 | Brazil | Amazonas FC vs São Raimundo-AM | **2 - 0** | `2nd half` | William Barbio 39'(H), Unknown 22'(H) |
-| 22:30 | Brazil | Gama vs Real Brasília FC | **1 - 0** | `2nd half` | Unknown 56'(H) |
-| 22:30 | Brazil | Barra FC vs Joinville | **1 - 0** | `2nd half` | Pablo 39'(H) |
-| 22:00 | Brazil | Quixadá vs Maracanã | **1 - 0** | `2nd half` | Marlon 70'(H) |
-| 22:30 | Brazil | Imperatriz vs Sampaio Corrêa | **1 - 1** | `2nd half` | Unknown 37'(H), Eric Carral 2'(A) |
-| 22:00 | Brazil | Luverdense vs Cuiabá | **1 - 0** | `2nd half` | Unknown 57'(H) |
-| 23:30 | Brazil | União Recreativa dos Trabalhadores vs North Esporte Clube | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | Sertãozinho vs Taubaté | **0 - 0** | `2nd half` | --- |
-| 23:00 | Curacao | CSD Barber vs Inter Willemstad | **3 - 1** | `Halftime` | Unknown 43'(H), Unknown 40'(H), Unknown 26'(H), Unknown 22'(A) |
-| 22:00 | Dominican Republic | Cibao FC vs Delfines del Este FC | **1 - 0** | `2nd half` | Unknown 32'(H) |
-| 00:00 | Indonesia | Asiop U17 vs FFF Academy | **0 - 0** | `Started` | --- |
-| 00:00 | Indonesia | Erlangga U15 vs CS Private U15 | **0 - 0** | `1st half` | --- |
-| 23:06 | Mexico | FC Juárez vs Club León | **1 - 0** | `Halftime` | Karime Abud 19'(H) |
-| 22:00 | Mexico | Artesanos Metepec F.C. vs Aguacateros C.D. Uruapan | **1 - 0** | `2nd half` | Unknown 4'(H) |
-| 22:00 | Saint Kitts and Nevis | Newtown United FC vs Cayon FC | **3 - 1** | `2nd half` | Unknown 68'(H), Unknown 64'(A), Unknown 57'(H), Unknown 45'(H) |
-| 23:00 | Suriname | Inter Moengotapoe vs SV Transvaal | **2 - 0** | `Halftime` | Unknown 33'(H), Unknown 25'(H) |
-| 23:30 | Turks and Caicos Islands | Provo United SC vs Beaches FC | **0 - 0** | `Started` | --- |
-| 22:30 | USA Amateur | FC America CFL Spurs vs Miami United | **0 - 1** | `2nd half` | Unknown 27'(A) |
+| 01:00 | Mexico | Club León vs Cruz Azul | **2 - 0** | `2nd half` | Bryan Colula 50'(H), Ismael Díaz 45'(H) |
+| 01:00 | Mexico | Santos Laguna vs Club Necaxa | **1 - 2** | `2nd half` | Lucas Di Yorio 28'(H), Tomás Badaloni 14'(A), Agustín Oliveros 4'(A) |
+| 02:00 | Australia | Wellington Phoenix vs Adelaide United | **0 - 1** | `1st half` | Ryan White 14'(A) |
+| 00:30 | Aruba | Brazil Juniors vs SV Dakota | **0 - 2** | `Started` | Unknown 67'(A), Daniel Briceño 52'(A) |
+| 01:15 | Curacao | RKSV Scherpenheuvel vs CRKSV Jong Holland | **0 - 0** | `2nd half` | --- |
+| 02:20 | Indonesia | RMD U17 vs Pakuan City U17 | **0 - 0** | `1st half` | --- |
+| 02:00 | Indonesia | Mastabe FA U13 vs Elzeds FC U13 | **0 - 5** | `Halftime` | Darrel Gibran Mahendra 24'(A), Lionel Danesh Kichiro 23'(A), Darrel Gibran Mahendra 19'(A), Galang Fitriansyah Supraedin 15'(A), Lionel Danesh Kichiro 8'(A) |
+| 02:00 | Indonesia | Mavericks U13 vs Khenzi United U13 | **0 - 2** | `1st half` | Unknown 16'(A), Rizki Padilah 7'(A) |
+| 02:20 | Indonesia | Asiop Biru U14 vs Djakarta Warriors U14 | **0 - 1** | `1st half` | Fandi Herwinsyah 9'(A) |
+| 02:20 | Indonesia | CS Private U14 vs Putra Sejati U14 | **0 - 1** | `1st half` | Zafran Alaric Syakieb 13'(A) |
+| 02:20 | Indonesia | Amdesta U15 vs Khenzi United U15 | **0 - 1** | `1st half` | Unknown 15'(A) |
+| 01:00 | Mexico | Cancún FC vs Dorados de Sinaloa | **2 - 1** | `2nd half` | Jaime Alvarez 66'(A), Francisco Melendre 56'(H), Sebastián Cervantes 27'(H) |
+| 01:00 | Mexico | Club Atlético Morelia vs Correcaminos UAT | **0 - 0** | `2nd half` | --- |
+| 01:00 | Mexico | Tepatitlán FC vs Atlante FC | **0 - 1** | `2nd half` | Samuel González 2'(A) |
+| 01:00 | Mexico | Lobos ULMX vs Universidad Autónoma de Tamaulipas | **0 - 1** | `2nd half` | Unknown 29'(A) |
+| 01:00 | Mexico | Jaguares F.C. vs Heroes de Zaci FC | **1 - 0** | `2nd half` | Unknown 7'(H) |
+| 01:30 | Turks and Caicos Islands | Academy Eagles vs Teachers FC | **0 - 0** | `Started` | --- |
+| 00:45 | Uruguay Amateur | Paysandú Capital vs Rivera Capital | **0 - 1** | `2nd half` | Unknown 26'(A) |
