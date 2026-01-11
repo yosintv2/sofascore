@@ -2,11 +2,10 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 08:30 | World | GKS Katowice vs FC Petrolul Ploiești | **3 - 0** | `2nd half` | Unknown 63'(H), Eman Marković 51'(H), Borja Galán 43'(H) |
-| 09:30 | World | FK Železiarne Podbrezová vs FK Pohronie | **1 - 0** | `1st half` | Unknown 3'(H) |
+| 08:30 | World | GKS Katowice vs FC Petrolul Ploiești | **3 - 0** | `2nd half` | Adam Zreľák 63'(H), Eman Marković 51'(H), Borja Galán 43'(H) |
+| 09:30 | World | FK Železiarne Podbrezová vs FK Pohronie | **1 - 0** | `1st half` | Jakub Rehak 3'(H) |
 | 08:30 | Bangladesh | Arambagh Football Academy vs Mohakhali Ekadosh | **0 - 1** | `Started` | Unknown -1'(A) |
-| 08:00 | Brunei | Indera SC vs Kota Ranger FC | **2 - 1** | `2nd half` | Unknown 61'(H), Unknown 48'(A), Unknown 27'(H) |
-| 08:00 | Cyprus | Olympiakos Nicosia vs Lakatamia FC | **0 - 4** | `2nd half` | Unknown 77'(A), Unknown 48'(A), Unknown 19'(A), Unknown 14'(A) |
+| 08:00 | Brunei | Indera SC vs Kota Ranger FC | **2 - 2** | `2nd half` | Unknown 85'(A), Unknown 61'(H), Unknown 48'(A), Unknown 27'(H) |
 | 09:00 | Ghana | Soccer Elites vs Legionary Soccer Academy | **0 - 0** | `Started` | --- |
 | 09:00 | Ghana | Senya Wonders vs Gomoa Sports For Change | **0 - 0** | `Started` | --- |
 | 09:00 | Ghana | Micky FC vs Sunyani Simple Winners FC | **0 - 0** | `Started` | --- |
@@ -15,7 +14,8 @@
 | 09:00 | Greece Amateur | A.O. Xonika 2015 vs Nikh Naypliou | **0 - 0** | `Started` | --- |
 | 09:00 | Greece Amateur | Erasinos Kefalariou vs Thyella Limnon | **0 - 0** | `Started` | --- |
 | 09:30 | Greece Amateur | Anagennisi Ag. Andrianou vs Aristeionas Lygouriou | **0 - 0** | `Started` | --- |
-| 09:00 | Greece Amateur | AS Sourmenon vs GS Apollon Smyrnis | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | APE Agia Eleousa vs OF Cholargou | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | AS Sourmenon vs GS Apollon Smyrnis | **0 - 1** | `Started` | Christos Faros 42'(A) |
 | 09:30 | Greece Amateur | PO Agiou Thoma Goudi vs Fostiras Kaisarianis FC | **0 - 0** | `Started` | --- |
 | 09:00 | Greece Amateur | APO Nea Smyrni vs AO Kipoupolis | **0 - 0** | `Started` | --- |
 | 09:00 | Greece Amateur | AO Haidariou B vs PAO Atromitos Chalandriou | **0 - 1** | `Started` | Unknown -1'(A) |
@@ -71,40 +71,34 @@
 | 09:30 | Greece Amateur | AS Pamvagiakos vs AO Melissoxori | **0 - 0** | `Started` | --- |
 | 09:30 | Greece Amateur | A.S. Thyella  Xironomis vs AE Dilesiou | **0 - 0** | `Started` | --- |
 | 08:30 | Hong Kong | Hong Kong FC vs Kitchee SC | **1 - 2** | `2nd half` | Enzo Dietrich 45'(H), Yumemi Kanda 45'(A), Adrian Revilla 5'(A) |
-| 09:30 | Hong Kong | South China vs Yuen Long District SA | **0 - 1** | `1st half` | Unknown 3'(A) |
-| 07:30 | Hong Kong | Adv. Double Flower vs Tuen Mun FC | **1 - 2** | `2nd half` | Unknown 69'(A), Unknown 36'(A), Unknown 20'(H) |
+| 09:30 | Hong Kong | South China vs Yuen Long District SA | **1 - 1** | `1st half` | Unknown 17'(H), Unknown 3'(A) |
 | 07:30 | Hong Kong | Ling Yui Orion vs Qi Yi FC | **0 - 1** | `Halftime` | Unknown 7'(A) |
 | 09:30 | Hong Kong | Islands vs Tsun Tat Kwok Keung | **0 - 0** | `1st half` | --- |
-| 08:00 | India | Sundarban Bengal Auto FC vs JHR Royal City FC | **0 - 0** | `2nd half` | --- |
 | 08:30 | Indonesia | Arema FC vs Persik Kediri | **0 - 0** | `2nd half` | --- |
 | 08:30 | Indonesia | Persib Bandung vs Persija Jakarta | **1 - 0** | `2nd half` | Beckham Putra Nugraha 5'(H) |
 | 08:30 | Indonesia | Semen Padang FC vs Persis Solo | **1 - 2** | `2nd half` | Kodai Tanaka 50'(A), Zanadin Fariz 45'(A), Irsyad Maulana 36'(H) |
 | 08:30 | Indonesia | PSMS Medan vs Adhyaksa FC | **1 - 0** | `2nd half` | Risman Ariyanto Maring 9'(H) |
 | 08:30 | Indonesia | Persela Lamongan vs PS Barito Putera | **0 - 0** | `2nd half` | --- |
-| 08:00 | Indonesia | PSDS Deli Serdang vs Nusantara Lampung FC | **1 - 0** | `2nd half` | Unknown 72'(A), Unknown 17'(H) |
-| 08:00 | Indonesia | Persebi Boyolali vs Mahesa Jenar Muda | **5 - 0** | `2nd half` | Unknown 76'(H), Unknown 69'(H), Unknown 56'(H), Unknown 38'(H), Unknown 18'(H) |
-| 08:00 | Indonesia | Persibas Banyumas vs Persibangga Purbalingga | **1 - 0** | `2nd half` | Unknown 36'(H) |
-| 08:00 | Indonesia | PSIW Wonosobo vs Slawi United | **2 - 1** | `2nd half` | Unknown 83'(A), Unknown 78'(H), Unknown 35'(H) |
-| 08:00 | Indonesia | Safin Pati vs Persiharjo Sukoharjo | **0 - 5** | `2nd half` | Unknown 74'(A), Unknown 45'(A), Unknown 26'(A), Unknown 23'(A), Unknown 17'(A) |
+| 08:00 | Indonesia | PSIW Wonosobo vs Slawi United | **3 - 1** | `2nd half` | Unknown 89'(H), Unknown 83'(A), Unknown 78'(H), Unknown 35'(H) |
 | 08:00 | Kenya | Kibera Black Stars vs Luanda Villa | **2 - 1** | `2nd half` | Unknown 51'(H), Victor Barack 12'(A) |
-| 09:00 | Kenya | Trinity Starlets FC vs Gideon Starlet | **1 - 0** | `1st half` | Unknown 2'(H) |
-| 09:00 | Malaysia | Penang vs Melaka FC | **4 - 0** | `1st half` | Dylan Wenzel-Halls 14'(H), Dylan Wenzel-Halls 11'(H), Stefano Brundo 9'(H), Stefano Brundo 4'(H) |
+| 09:00 | Kenya | Trinity Starlets FC vs Gideon Starlet | **1 - 0** | `Halftime` | Unknown 2'(H) |
+| 09:00 | Malaysia | Penang vs Melaka FC | **4 - 0** | `Halftime` | Dylan Wenzel-Halls 14'(H), Dylan Wenzel-Halls 11'(H), Stefano Brundo 9'(H), Stefano Brundo 4'(H) |
 | 08:45 | Malaysia | Immigration FC II vs Manjung City FC | **0 - 0** | `1st half` | --- |
-| 09:00 | Myanmar | Shan United vs Dagon Port FC | **0 - 0** | `1st half` | --- |
-| 09:00 | Myanmar | Thitsar Arman FC vs Hantharwady United FC | **1 - 2** | `1st half` | Unknown 26'(A), Unknown 16'(A), Aung Pyae Sone 3'(H) |
-| 09:00 | Myanmar | Young Lionesses vs Ispe FC | **0 - 3** | `1st half` | Unknown 31'(A), Unknown 27'(A), Unknown 7'(A) |
+| 09:00 | Myanmar | Shan United vs Dagon Port FC | **0 - 0** | `Halftime` | --- |
+| 09:00 | Myanmar | Thitsar Arman FC vs Hantharwady United FC | **1 - 2** | `Halftime` | Unknown 26'(A), Unknown 16'(A), Aung Pyae Sone 3'(H) |
+| 09:00 | Myanmar | Young Lionesses vs Ispe FC | **0 - 3** | `Halftime` | Unknown 31'(A), Unknown 27'(A), Unknown 7'(A) |
 | 09:00 | Nigeria | Real Sapphire Fc vs Sporting Lagos FA | **1 - 0** | `1st half` | Adams Opeyemi Ismail 8'(H) |
-| 09:30 | Nigeria | Iganmu FC vs Atlantic Business FC | **0 - 1** | `1st half` | Onyekachi Clement 8'(A) |
+| 09:30 | Nigeria | Iganmu FC vs Atlantic Business FC | **0 - 2** | `1st half` | Donald Godwin 16'(A), Donald Godwin 8'(A) |
 | 08:00 | South Africa | Marumo Gallants Reserves U23 vs Magesi FC Reserves U23 | **0 - 0** | `2nd half` | --- |
 | 08:00 | South Africa | Sekhukhune United Reserves U23 vs Mamelodi Sundowns Reserves U23 | **1 - 1** | `2nd half` | Unknown 64'(A), Unknown 56'(H) |
 | 09:30 | Spain Amateur | Oiartzun KE vs Arratia CD | **1 - 0** | `1st half` | Unknown 6'(H) |
-| 09:00 | Thailand | Maejo United FC vs Nakhon Mae Sot United FC | **0 - 0** | `1st half` | --- |
-| 09:00 | Thailand | Marines Eureka vs ACDC FC | **0 - 1** | `1st half` | Unknown 45'(A) |
-| 09:00 | Thailand | Muang Loei United vs Ubon Kruanapat FC | **0 - 0** | `1st half` | --- |
-| 09:00 | Thailand | North Bangkok University FC vs Royal Thai Air Force | **0 - 1** | `1st half` | --- |
-| 09:00 | Thailand | Raj Pracha vs VRN Muangnont FC | **0 - 1** | `1st half` | --- |
-| 09:00 | Thailand | Udon United vs Surin Khongcheemool FC | **0 - 0** | `1st half` | --- |
-| 09:00 | Thailand | Wiang Sa Surat Thani City vs Chumphon FC | **2 - 0** | `1st half` | --- |
+| 09:00 | Thailand | Maejo United FC vs Nakhon Mae Sot United FC | **0 - 0** | `Halftime` | --- |
+| 09:00 | Thailand | Marines Eureka vs ACDC FC | **0 - 1** | `Halftime` | Unknown 45'(A) |
+| 09:00 | Thailand | Muang Loei United vs Ubon Kruanapat FC | **0 - 0** | `Halftime` | --- |
+| 09:00 | Thailand | North Bangkok University FC vs Royal Thai Air Force | **0 - 1** | `Halftime` | --- |
+| 09:00 | Thailand | Raj Pracha vs VRN Muangnont FC | **0 - 1** | `Halftime` | --- |
+| 09:00 | Thailand | Udon United vs Surin Khongcheemool FC | **0 - 0** | `Halftime` | --- |
+| 09:00 | Thailand | Wiang Sa Surat Thani City vs Chumphon FC | **2 - 0** | `Halftime` | --- |
 | 08:00 | Turkey | Kayseri Kadın FK vs Hatay Defne 1994 Spor | **1 - 0** | `Started` | Unknown -1'(H) |
 | 09:00 | Turkey | Genç Ülküm SK vs Gaziantep Asya Spor | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey | Kocaeli Kadın FK vs Soma Zaferspor | **0 - 0** | `Started` | --- |
