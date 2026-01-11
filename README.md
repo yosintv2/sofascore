@@ -19,11 +19,9 @@
 | 21:00 | Brazil | Criciúma vs Avaí | **2 - 1** | `2nd half` | Talisson 86'(A), César Martins 67'(H), Gabriel Pereira Simples 3'(H) |
 | 22:30 | Brazil | Brusque vs Carlos Renaux SC | **0 - 0** | `1st half` | --- |
 | 21:00 | Brazil | Ferroviário vs Fortaleza | **0 - 0** | `2nd half` | --- |
-| 21:00 | Brazil | Internacional vs Novo Hamburgo | **2 - 1** | `2nd half` | Diego Coser 86'(H), João Marcus 61'(H), Allison 8'(A) |
-| 22:00 | Brazil | EC São José vs Inter de Santa Maria | **0 - 0** | `1st half` | --- |
-| 21:00 | Brazil | Atlético Mineiro vs Betim Futebol | **1 - 1** | `2nd half` | Diego Jardel 47'(A), Reinier 22'(H) |
+| 22:00 | Brazil | EC São José vs Inter de Santa Maria | **0 - 0** | `Halftime` | --- |
 | 22:30 | Brazil | América Mineiro vs Athletic Club | **1 - 0** | `1st half` | Eduardo Person 3'(H) |
-| 21:00 | Brazil | Santa Cruz vs Decisão Goiana | **3 - 0** | `2nd half` | Mateus Rodrigues 34'(H), Diego Quirino 22'(H), Renato 18'(H) |
+| 21:30 | Brazil | Galo Maringá vs Cascavel | **0 - 0** | `2nd half` | --- |
 | 22:00 | Brazil Amateur | Internacional U17 vs São José-RS U17 | **2 - 0** | `Started` | Alexandre Pablo Sousa Dos Santos 38'(H), Everaldo Fabio Narciso Ponciano 24'(H) |
 | 22:00 | Cayman Islands | Elite SC vs Tigers FC | **0 - 0** | `Started` | --- |
 | 22:00 | Cayman Islands | Future SC vs Sunset FC | **0 - 0** | `Started` | --- |
@@ -32,8 +30,8 @@
 | 20:45 | French Guiana | AS Saint-Laurent vs AFC Alawone | **0 - 0** | `Started` | --- |
 | 20:00 | Haiti | Juventus des Cayes vs Racing Club Haïtien | **1 - 1** | `2nd half` | Unknown 88'(H), Unknown 78'(A) |
 | 12:00 | Ireland | Ballymun United vs Malahide United | **0 - 0** | `Halftime` | --- |
-| 22:00 | Jamaica | Molynes United FC vs Treasure Beach FC | **1 - 2** | `1st half` | Unknown 45'(A), Unknown 19'(H), Unknown 7'(A) |
+| 22:00 | Jamaica | Molynes United FC vs Treasure Beach FC | **1 - 2** | `Halftime` | Unknown 45'(A), Unknown 19'(H), Unknown 7'(A) |
 | 21:30 | Mexico | Real Apodaca F.C. vs Club de Ciervos F.C. | **1 - 0** | `2nd half` | Unknown 31'(H) |
-| 22:00 | Mexico | Neza FC vs Tapachula Soconusco F.C. | **1 - 1** | `1st half` | Unknown 39'(H), Unknown 4'(A) |
-| 22:00 | Saint Kitts and Nevis | Conaree FC vs Sandy Point FC | **0 - 0** | `1st half` | --- |
+| 22:00 | Mexico | Neza FC vs Tapachula Soconusco F.C. | **1 - 1** | `Halftime` | Unknown 39'(H), Unknown 4'(A) |
+| 22:00 | Saint Kitts and Nevis | Conaree FC vs Sandy Point FC | **1 - 0** | `Halftime` | Unknown 45'(H) |
 | 20:30 | Suriname | SV Leo Victor vs SV Robinhood | **0 - 2** | `2nd half` | Unknown 90'(A), Unknown 75'(A) |
