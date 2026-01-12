@@ -1,46 +1,31 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-12 19:27:26 UTC"
+        "updated": "2026-01-12 19:42:21 UTC"
     },
     "matches": [
+        {
+            "start_time": "19:30",
+            "league": "LaLiga 2",
+            "country": "Spain",
+            "home": "Huesca",
+            "away": "C\u00f3rdoba",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Iker \u00c1lvarez 7'(H)"
+            ]
+        },
         {
             "start_time": "19:00",
             "league": "Eerste Divisie",
             "country": "Netherlands",
             "home": "Jong AZ Alkmaar",
             "away": "Jong Ajax",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "17:30",
-            "league": "Saudi Pro League",
-            "country": "Saudi Arabia",
-            "home": "Al-Ettifaq",
-            "away": "Al-Khaleej",
-            "score": "1 - 2",
-            "minute": "2nd half",
             "scorers": [
-                "Jack Hendry 86'(A)",
-                "Kostas Fortounis 45'(A)",
-                "Moussa Demb\u00e9l\u00e9 1'(H)"
-            ]
-        },
-        {
-            "start_time": "17:30",
-            "league": "Saudi Pro League",
-            "country": "Saudi Arabia",
-            "home": "Al-Hilal",
-            "away": "Al-Nassr",
-            "score": "3 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "R\u00faben Neves 90'(H)",
-                "Mohamed Kanno 81'(H)",
-                "Salem Al-Dawsari 57'(H)",
-                "Cristiano Ronaldo 42'(A)"
+                "Billy van Duijl 34'(A)"
             ]
         },
         {
@@ -49,9 +34,10 @@
             "country": "England",
             "home": "AFC Wimbledon",
             "away": "West Ham U21",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
+                "Callum Maycock 40'(H)",
                 "Alistair Smith 3'(H)"
             ]
         },
@@ -61,6 +47,26 @@
             "country": "England",
             "home": "Sheffield United Women",
             "away": "Crystal Palace",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "19:30",
+            "league": "Serie C, Group C",
+            "country": "Italy",
+            "home": "Giugliano",
+            "away": "AZ Picerno",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "19:30",
+            "league": "Serie C, Group C",
+            "country": "Italy",
+            "home": "Salernitana",
+            "away": "Cosenza",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -83,9 +89,10 @@
             "country": "Brazil",
             "home": "Atl\u00e9tico Piauiense U20",
             "away": "Bahia U20",
-            "score": "1 - 2",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 66'(H)",
                 "Unknown 46'(A)",
                 "Unknown 15'(A)",
                 "Unknown 5'(H)"
@@ -97,9 +104,10 @@
             "country": "Brazil",
             "home": "Atl\u00e9tico Alagoinhas U20",
             "away": "Gr\u00eamio U20",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 53'(A)",
                 "Unknown 41'(H)",
                 "Fellipe Daniel Magalh\u00e3es Brunhara 14'(A)"
             ]
@@ -120,9 +128,13 @@
             "country": "Cuba",
             "home": "Rinc\u00f3n Caliente",
             "away": "Managuaco",
-            "score": "0 - 0",
+            "score": "3 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown -1'(H)",
+                "Unknown 56'(H)",
+                "Unknown 50'(H)"
+            ]
         },
         {
             "start_time": "18:00",
@@ -140,9 +152,11 @@
             "country": "England Amateur",
             "home": "Blackburn U21",
             "away": "Nottingham Forest U21",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Fuad Smith 32'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -160,21 +174,12 @@
             "country": "England Amateur",
             "home": "Preston North End U21",
             "away": "Ipswich Town U21",
-            "score": "0 - 1",
+            "score": "0 - 2",
             "minute": "1st half",
             "scorers": [
+                "Leon Ayinde 33'(A)",
                 "James Mauge 20'(A)"
             ]
-        },
-        {
-            "start_time": "17:00",
-            "league": "A EPS Achaias Group 2",
-            "country": "Greece Amateur",
-            "home": "APS Patrai",
-            "away": "AS Niki Proastiou",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
         },
         {
             "start_time": "16:30",
@@ -187,26 +192,17 @@
             "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "Senegal Ligue 2",
-            "country": "Senegal",
-            "home": "Teranga SC",
-            "away": "ASC Niarry Tally",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 36'(H)"
-            ]
-        },
-        {
             "start_time": "19:00",
             "league": "Pozitif Lig, Playoffs",
             "country": "Turkey Amateur",
             "home": "FC Goat",
             "away": "Pa\u015fa Spor",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Onur G\u00fcrb\u00fcz 21'(H)",
+                "R\u0131fat Kaya 20'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -214,9 +210,11 @@
             "country": "Turkey Amateur",
             "home": "Tutal Spor",
             "away": "Gen\u00e7lerg\u00fcc\u00fc",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "0 - 3",
+            "minute": "2nd half",
             "scorers": [
+                "Halil \u0130brahim Garip 32'(A)",
+                "\u015eahin Tutal 29'(A)",
                 "Burak Garip 13'(A)"
             ]
         }
