@@ -2,9 +2,11 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 00:00 | World | Cerro Largo vs Atlético Tucumán | **0 - 0** | `1st half` | --- |
-| 23:00 | World | Saudi Arabia KWC vs Brazil KWC | **0 - 5** | `2nd half` | Lipão Pinheiro 21'(A), Lipão Pinheiro 15'(A), Leleti' Garcia 5'(A), Leleti' Garcia 3'(A), Victor Hugo Da Silva 1'(A) |
-| 22:00 | Brazil | Votuporanguense U20 vs Chapecoense U20 | **0 - 2** | `2nd half` | Gleidson Lima dos Santos 17'(A), Kássio da Silva de Jesus 6'(A) |
-| 23:00 | Brazil | XV de Jaú U20 vs Athletic Club U20 | **1 - 0** | `Halftime` | Unknown 3'(H) |
-| 23:30 | Brazil | Atlética Francana U20 vs Ponte Preta  U20 | **0 - 0** | `1st half` | --- |
-| 23:00 | Uruguay Amateur | Canelones Interior vs San Jose Interior | **0 - 1** | `Started` | Unknown 77'(A) |
+| 00:30 | Argentina Amateur | Villa Belgrano vs Club Rivadavia de Lincoln | **1 - 0** | `2nd half` | Unknown 24'(H) |
+| 00:30 | Aruba | Sporting Aruba vs SV Deportivo Nacional Palm Beach | **1 - 3** | `2nd half` | Unknown 67'(A), Unknown 58'(A), Unknown 40'(H), Unknown 36'(A) |
+| 00:00 | Brazil | América-RN U20 vs Sport Recife U20 | **3 - 4** | `Penalties` | Unknown 88'(A), Caio Assis Sales 67'(H) |
+| 00:20 | Brazil | Guarani U20 vs Corinthians U20 | **2 - 0** | `2nd half` | Unknown 88'(H), Unknown 37'(H) |
+| 00:30 | Jamaica | Arnett Gardens vs Harbour View FC | **2 - 0** | `2nd half` | Fabian Reid 37'(H), Fabian Reid 14'(H) |
+| 01:00 | Mexico | Mazatlán FC vs Santos Laguna | **1 - 1** | `2nd half` | Vivian Obianujunwa Ikechukwu 44'(A), Guadalupe Sánchez 5'(H) |
+| 00:30 | Uruguay | Peñarol vs Central Español | **0 - 0** | `2nd half` | --- |
+| 00:45 | Uruguay Amateur | Florida Capital vs San José Capital | **2 - 3** | `Started` | Franco Zanoni 45'(A), Facundo Spinelli 45'(H), Unknown 42'(H), Franco Zanoni 31'(A), Franco Zanoni 15'(A) |
