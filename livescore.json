@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-14 15:44:51 UTC"
+        "updated": "2026-01-14 15:58:39 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "\u0130stanbulspor",
             "away": "Trabzonspor",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Ernest Mu\u00e7i 41'(A)",
                 "Mario Krstovski 29'(H)"
@@ -23,36 +23,22 @@
             "country": "Saudi Arabia",
             "home": "Al-Qadsiah",
             "away": "Al-Fayha",
+            "score": "2 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Juli\u00e1n Qui\u00f1ones 53'(H)",
+                "Juli\u00e1n Qui\u00f1ones 47'(H)"
+            ]
+        },
+        {
+            "start_time": "15:45",
+            "league": "Pro League",
+            "country": "United Arab Emirates",
+            "home": "Al-Sharjah",
+            "away": "Al Bataeh",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "1st half",
             "scorers": []
-        },
-        {
-            "start_time": "14:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "1. FC Lokomotive Leipzig",
-            "away": "SC Rot-Wei\u00df Oberhausen",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Eric Gueye 16'(A)",
-                "Filip Kusi\u0107 15'(H)"
-            ]
-        },
-        {
-            "start_time": "14:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "GKS Katowice",
-            "away": "FK Jablonec",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 61'(A)",
-                "Unknown 56'(A)",
-                "Filip Nov\u00e1k 20'(A)"
-            ]
         },
         {
             "start_time": "14:00",
@@ -65,33 +51,6 @@
             "scorers": [
                 "Filip Krovinovi\u0107 25'(H)",
                 "Michele \u0160ego 2'(H)"
-            ]
-        },
-        {
-            "start_time": "14:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "NK Maribor",
-            "away": "FK Vojvodina",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Marko Mladenovi\u0107 54'(A)",
-                "Jan Repas 34'(H)"
-            ]
-        },
-        {
-            "start_time": "14:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "N\u0160 Mura",
-            "away": "FK Partizan",
-            "score": "3 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Hamza Ljukovac 45'(H)",
-                "Dario Vizinger 43'(H)",
-                "Edvin Krupi\u0107 14'(H)"
             ]
         },
         {
@@ -114,9 +73,11 @@
             "country": "World",
             "home": "MKS Korona Kielce",
             "away": "CSKA Sofia",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Mariusz St\u0119pi\u0144ski 61'(H)"
+            ]
         },
         {
             "start_time": "15:00",
@@ -125,7 +86,7 @@
             "home": "Radomiak Radom",
             "away": "LGC Moncarapachense",
             "score": "4 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Vasco Lopes 39'(H)",
                 "Capita 33'(H)",
@@ -140,7 +101,7 @@
             "home": "SK Sturm Graz",
             "away": "FC K\u00f8benhavn",
             "score": "2 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Maurice Malone 19'(H)",
                 "Viktor Bjarki Dadason 16'(A)",
@@ -154,7 +115,7 @@
             "home": "Portugal U17",
             "away": "Germany U17",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 25'(A)"
             ]
@@ -170,13 +131,23 @@
             "scorers": []
         },
         {
+            "start_time": "16:00",
+            "league": "GFF First Division",
+            "country": "Gambia",
+            "home": "Gambia Ports Authority",
+            "away": "Real De Banjul",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "15:00",
             "league": "Greece Cup, Playoffs",
             "country": "Greece",
             "home": "AEK Athens",
             "away": "OFI Crete",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -227,16 +198,6 @@
             ]
         },
         {
-            "start_time": "13:00",
-            "league": "EPS Piraeus Cup",
-            "country": "Greece Amateur",
-            "home": "AO Proodeftiki Neolaia",
-            "away": "OFPF Ethnikos",
-            "score": "0 - 0",
-            "minute": "Penalties",
-            "scorers": []
-        },
-        {
             "start_time": "13:30",
             "league": "EPS Rethymnou Cup - Qualifiers, Group 2",
             "country": "Greece Amateur",
@@ -277,6 +238,7 @@
             "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Alaa Saad 54'(A)",
                 "Nassim Sioud 38'(H)",
                 "Ridha Fadhil 21'(H)",
                 "Sajjad Jabbar 12'(A)"
@@ -415,16 +377,14 @@
             ]
         },
         {
-            "start_time": "13:30",
-            "league": "Premier League, Group 1",
-            "country": "Libya",
-            "home": "Al Khums SC",
-            "away": "Libyan Stadium",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Aly Soumah 68'(H)"
-            ]
+            "start_time": "15:45",
+            "league": "Premier League",
+            "country": "Kuwait",
+            "home": "Al Salmiya SC",
+            "away": "Al Nasr SC Kuwait",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "15:00",
@@ -433,7 +393,7 @@
             "home": "Club America U21",
             "away": "Atletico San Luis U21",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 22'(A)",
                 "Unknown 20'(H)"
@@ -446,7 +406,7 @@
             "home": "Deportivo Toluca FC U21",
             "away": "Santos Laguna U21",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 2'(H)"
             ]
@@ -458,7 +418,7 @@
             "home": "Queretaro U21",
             "away": "Club Tijuana U21",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 14'(H)"
             ]
@@ -470,21 +430,9 @@
             "home": "AS Police Niamey",
             "away": "Tagour Provincial Club",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 43'(H)"
-            ]
-        },
-        {
-            "start_time": "14:00",
-            "league": "Premier League",
-            "country": "Nigeria",
-            "home": "El Kanemi Warriors",
-            "away": "Bayelsa United FC",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Daddy Abdulrahman 19'(H)"
             ]
         },
         {
@@ -493,9 +441,10 @@
             "country": "Nigeria",
             "home": "Barau FC",
             "away": "Niger Tornadoes",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 60'(H)",
                 "Uche Moses 25'(H)"
             ]
         },
@@ -506,7 +455,7 @@
             "home": "Abia Warriors",
             "away": "Plateau United",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Chukwuemeka Obioma 29'(H)",
                 "Gafar Saka 8'(A)"
@@ -519,7 +468,7 @@
             "home": "Enugu Rangers International",
             "away": "Rivers United",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -528,9 +477,11 @@
             "country": "Nigeria",
             "home": "Kwara United",
             "away": "Bendel Insurance FC",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Emmanuel Akpan 37'(A)"
+            ]
         },
         {
             "start_time": "15:00",
@@ -549,7 +500,7 @@
             "home": "Remo Stars",
             "away": "Ikorodu City",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -559,7 +510,7 @@
             "home": "Shooting Stars",
             "away": "Enyimba",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Lucky Emmanuel 17'(H)"
             ]
@@ -571,7 +522,7 @@
             "home": "Wikki Tourists FC",
             "away": "Warri Wolves FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -593,7 +544,7 @@
             "home": "Abia Angels FC",
             "away": "FC Robo",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 25'(A)"
             ]
@@ -605,7 +556,7 @@
             "home": "Bayelsa Queen FC",
             "away": "Rivers Angels",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 32'(H)",
                 "Unknown 26'(H)"
@@ -617,9 +568,10 @@
             "country": "Nigeria",
             "home": "Heartland Queens FC",
             "away": "Ibom Angels FC",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
+                "Unknown 45'(H)",
                 "Unknown 27'(H)"
             ]
         },
@@ -640,7 +592,7 @@
             "home": "Sunshine Queens",
             "away": "Remo Stars Women",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -650,7 +602,7 @@
             "home": "UD Leiria U23",
             "away": "Estrela Amadora U23",
             "score": "0 - 2",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 40'(A)",
                 "Unknown 9'(A)"
@@ -663,7 +615,7 @@
             "home": "Vizela U23",
             "away": "Gil Vicente U23",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 8'(H)"
             ]
@@ -675,7 +627,7 @@
             "home": "SC Braga",
             "away": "Benfica",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Cristina Mart\u00edn-Prieto 29'(A)",
                 "Malu Schmidt 18'(H)"
@@ -687,9 +639,11 @@
             "country": "Portugal",
             "home": "Valadares Gaia",
             "away": "Mar\u00edtimo",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "3 - 0",
+            "minute": "Halftime",
             "scorers": [
+                "Unknown 45'(H)",
+                "Unknown 31'(H)",
                 "Unknown 21'(H)"
             ]
         },
@@ -700,9 +654,9 @@
             "home": "Racing Power Football Club",
             "away": "Rio Ave FC",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 35'(A)"
+                "Beatriz Conduto 35'(A)"
             ]
         },
         {
