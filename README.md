@@ -2,14 +2,11 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Mexico | Club Puebla vs Mazatlán FC | **2 - 0** | `Halftime` | Edgar Guerra 12'(H), Esteban Lozano 2'(H) |
-| 23:00 | Barbados | Pride of Gall Hill SSC vs St. Andrew Lions | **1 - 0** | `Halftime` | Unknown 44'(H) |
-| 22:15 | Brazil | Jacuipense vs Vitória | **0 - 0** | `2nd half` | --- |
-| 22:00 | Brazil | Rio Branco-ES vs Serra FC | **0 - 0** | `2nd half` | --- |
-| 23:00 | Brazil | Chapada FC vs Mixto | **0 - 1** | `Halftime` | Unknown 41'(A) |
-| 23:00 | Brazil | Maringá FC vs Coritiba | **0 - 0** | `Halftime` | --- |
-| 23:00 | Brazil | Acadêmica Vitória vs AD Jaguar | **1 - 1** | `Halftime` | Pedro Maycon 14'(H), Paulo Miranda 10'(A) |
-| 22:00 | Brazil | Audax-SP U20 vs Santo André U20 | **0 - 1** | `2nd half` | Unknown 34'(A) |
-| 22:30 | Brazil | Palmeiras U20 vs Vitória U20 | **1 - 1** | `2nd half` | Hiago Fernandes da Costa 61'(A), Victor Gabriel Leite dos Santos 6'(H) |
-| 23:30 | Brazil | São Paulo U20 vs Portuguesa U20 | **0 - 0** | `1st half` | --- |
-| 23:00 | Costa Rica | Municipal Pérez Zeledón vs San Carlos | **2 - 1** | `Halftime` | Máximo Pereira 29'(H), Máximo Pereira 16'(H), Jeikel Venegas 14'(A) |
+| 01:00 | Mexico | Club Necaxa vs CF Monterrey | **0 - 2** | `2nd half` | Iker Fimbres 31'(A), Germán Berterame 15'(A) |
+| 01:06 | Mexico | CF Pachuca vs Club León | **1 - 0** | `2nd half` | Oussama Idrissi 45'(H) |
+| 01:00 | Barbados | Wotton FC vs Ellerton FC | **1 - 1** | `2nd half` | Unknown 63'(H), Unknown 23'(A) |
+| 00:30 | Brazil | Desportiva Ferroviária vs Rio Branco de Venda Nova | **3 - 1** | `2nd half` | Tiago Cardoso Moura 70'(H), Unknown 37'(H), Unknown 18'(H), Diego Augusto 14'(A) |
+| 00:45 | Brazil | Botafogo U20 vs São José EC U20 | **3 - 0** | `2nd half` | Unknown 79'(H), Unknown 71'(H), Unknown 3'(H) |
+| 02:00 | Costa Rica | Deportivo Saprissa vs Puntarenas FC | **0 - 0** | `1st half` | --- |
+| 00:30 | Guadeloupe | ASC Carénage vs Club Sport | **1 - 0** | `Started` | Unknown -1'(H) |
+| 00:30 | Uruguay | Nacional vs Deportivo Maldonado | **0 - 0** | `2nd half` | --- |
