@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-14 17:36:46 UTC"
+        "updated": "2026-01-14 17:54:30 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Senegal",
             "away": "Egypt",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -45,6 +45,16 @@
             "scorers": []
         },
         {
+            "start_time": "17:45",
+            "league": "KNVB beker",
+            "country": "Netherlands",
+            "home": "FC Den Bosch",
+            "away": "PSV Eindhoven",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "17:30",
             "league": "Saudi Pro League",
             "country": "Saudi Arabia",
@@ -68,19 +78,6 @@
             ]
         },
         {
-            "start_time": "15:45",
-            "league": "Pro League",
-            "country": "United Arab Emirates",
-            "home": "Al-Sharjah",
-            "away": "Al Bataeh",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Mohammed Jumaa 61'(A)",
-                "Anatole Bertrand Abang 46'(A)"
-            ]
-        },
-        {
             "start_time": "16:30",
             "league": "Club Friendly Games",
             "country": "World",
@@ -101,10 +98,24 @@
             "country": "World",
             "home": "SC Wiedenbr\u00fcck",
             "away": "Arminia Bielefeld II",
-            "score": "0 - 1",
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Saban Kaptan 41'(H)",
+                "Unknown 5'(A)"
+            ]
+        },
+        {
+            "start_time": "17:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "ZFC Meuselwitz",
+            "away": "Einheit Rudolstadt",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
-                "Unknown 5'(A)"
+                "Andy Trubenbach 13'(H)",
+                "Felix Pilger 5'(H)"
             ]
         },
         {
@@ -114,7 +125,7 @@
             "home": "Ternana",
             "away": "Potenza Calcio",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -123,10 +134,11 @@
             "country": "Albania",
             "home": "AF Elbasani",
             "away": "Flamurtari FC",
-            "score": "1 - 0",
+            "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 73'(H)"
+                "Aldrit Oshafi 80'(A)",
+                "Ibrahima Sory Diallo 73'(H)"
             ]
         },
         {
@@ -194,22 +206,13 @@
             "country": "Cyprus",
             "home": "Omonia Nicosia",
             "away": "AEK Larnaca",
-            "score": "2 - 0",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Waldo Rubio Mar\u00edn 79'(A)",
                 "Muamer Tankovi\u0107 26'(H)",
                 "Ryan Mmaee 10'(H)"
             ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "GFF First Division",
-            "country": "Gambia",
-            "home": "Gambia Ports Authority",
-            "away": "Real De Banjul",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
         },
         {
             "start_time": "16:00",
@@ -269,7 +272,7 @@
             "score": "1 - 0",
             "minute": "Started",
             "scorers": [
-                "Vasileios Fouliras 27'(H)"
+                "Vasileios Fouliras 87'(H)"
             ]
         },
         {
@@ -298,9 +301,11 @@
             "country": "Israel",
             "home": "Hapoel Ironi Kiryat Shmona",
             "away": "Beitar Jerusalem",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Yarin Levi 39'(A)"
+            ]
         },
         {
             "start_time": "17:30",
@@ -313,26 +318,13 @@
             "scorers": []
         },
         {
-            "start_time": "15:45",
-            "league": "Premier League",
-            "country": "Kuwait",
-            "home": "Al Salmiya SC",
-            "away": "Al Nasr SC Kuwait",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Youssef Al Enezan 83'(H)",
-                "Fawaz Al Embailesh 41'(A)"
-            ]
-        },
-        {
             "start_time": "16:30",
             "league": "Premier League, Group 1",
             "country": "Libya",
             "home": "Swehly SC",
             "away": "Al Madina Tripoli SC",
             "score": "1 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Abdulmoneim Akasha 45'(H)",
                 "Alassane Diao 29'(A)"
@@ -413,9 +405,11 @@
             "country": "Spain Amateur",
             "home": "CD Llosetense",
             "away": "Inter Ibiza CD",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 61'(H)"
+            ]
         },
         {
             "start_time": "16:30",
@@ -424,7 +418,7 @@
             "home": "CD Mensajero",
             "away": "CD Uni\u00f3n Sur Yaiza",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Vianney 45'(H)"
             ]
