@@ -2,40 +2,33 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Mexico | Cruz Azul vs Atlas FC | **2 - 0** | `Halftime` | José Paradela 28'(H), Gabriel Fernández 8'(H) |
-| 22:00 | Brazil | EC Primavera vs Mirassol | **3 - 1** | `2nd half` | Paulo Baya 57'(H), André Luis 31'(A), Ligger 16'(H), Gabriel Poveda 5'(H) |
-| 22:30 | Brazil | Palmeiras vs Santos | **1 - 0** | `2nd half` | Allan 40'(H) |
-| 20:00 | World | Deportes Concepción vs Coquimbo Unido | **1 - 0** | `1st half` | Aldrix Jara 16'(H) |
-| 22:00 | World | Boca Juniors vs Millonarios | **0 - 0** | `2nd half` | --- |
-| 23:00 | Brazil | Cruzeiro-AL U23 vs ASA | **0 - 3** | `Halftime` | Sammuel 33'(A), Keliton 19'(A), Alex Bruno Da Costa Lima 5'(A) |
-| 23:00 | Brazil | CSA vs SC Penedense | **1 - 0** | `Halftime` | Ciel 31'(H) |
-| 22:15 | Brazil | Bahia de Feira vs Bahia | **0 - 2** | `2nd half` | Dell 41'(A), Rezende 17'(A) |
-| 22:00 | Brazil | Vitória-ES vs Vilavelhense | **1 - 0** | `2nd half` | Unknown 60'(H) |
-| 22:00 | Brazil | Fluminense vs Madureira | **2 - 1** | `2nd half` | John Kennedy 75'(H), Marcão 42'(A), Rubén Lezcano 40'(H) |
-| 22:00 | Brazil | AD Iguatu vs Tirol/CEFAT | **0 - 0** | `2nd half` | --- |
-| 22:00 | Brazil | Inter de Santa Maria vs São Luiz | **0 - 0** | `2nd half` | --- |
-| 22:00 | Brazil | Novo Hamburgo vs Juventude | **1 - 1** | `2nd half` | Luam 82'(H), Gabriel Taliari 31'(A) |
-| 23:30 | Brazil | Anápolis vs Centro-Oeste | **0 - 0** | `1st half` | --- |
-| 23:40 | Brazil | Vila Nova FC vs Anapolina | **1 - 0** | `1st half` | Unknown 8'(H) |
-| 22:30 | Brazil | ITZ Sport vs Moto Club | **1 - 1** | `2nd half` | Kaká 22'(H), Jean 13'(A) |
-| 22:30 | Brazil | Maranhão AC vs Tuntum EC | **2 - 0** | `2nd half` | Vagalume 35'(H) |
-| 22:30 | Brazil | Sampaio Corrêa vs IAPE | **0 - 0** | `2nd half` | --- |
-| 22:30 | Brazil | União Rondonópolis vs Nova Mutum | **1 - 0** | `2nd half` | Unknown 47'(H) |
-| 23:00 | Brazil | Sport Sinop vs Primavera AC | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | Athletic Club vs União Recreativa dos Trabalhadores | **0 - 1** | `2nd half` | Cesinha 73'(A) |
-| 22:30 | Brazil | North Esporte Clube vs Atlético Mineiro | **1 - 0** | `2nd half` | Gustavo Ermel 45'(H) |
-| 22:00 | Brazil | Galo Maringá vs Foz do Iguaçu | **3 - 0** | `2nd half` | Eriky Flávio Nascimento Vieira 88'(H), Eriky Flávio Nascimento Vieira 70'(H), Iruan Lima Soares 55'(H) |
-| 23:00 | Brazil | Azuriz Futebol Clube vs Londrina Esporte Clube | **0 - 2** | `Halftime` | Iago Teles 41'(A), Bruno Santos 18'(A) |
-| 23:30 | Brazil | Athletico vs Operário-PR | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | Cascavel vs Clube Andraus Brasil | **1 - 1** | `Halftime` | --- |
-| 22:00 | Brazil | Água Santa vs CA Linense | **2 - 1** | `2nd half` | Unknown 78'(H), Unknown 31'(H), Unknown 4'(A) |
-| 23:00 | Brazil | EC Santo André vs Monte Azul | **0 - 2** | `1st half` | Wallace 27'(A), Wallace 2'(A) |
-| 23:00 | Brazil | Ferroviária vs Juventus-SP | **2 - 0** | `Halftime` | Thiago Lopes 10'(H), Fábio Soares 5'(H) |
-| 23:00 | Brazil | Inter de Limeira vs EC São Bento | **2 - 0** | `Halftime` | Unknown 43'(H), Unknown 22'(H) |
-| 23:00 | Brazil | Taubaté vs Osasco Sporting | **1 - 1** | `Halftime` | Unknown 26'(A), Unknown 13'(H) |
-| 23:00 | Brazil | XV de Piracicaba vs Sertãozinho | **1 - 2** | `Halftime` | Unknown 33'(A), Unknown 21'(H), Unknown 6'(A) |
-| 23:30 | Brazil | São José EC vs Grêmio Prudente | **1 - 0** | `1st half` | Rodrigo Bezerra Carioca 4'(H) |
-| 22:30 | Brazil | Potyguar Seridoense vs Santa Cruz-RN | **0 - 1** | `2nd half` | Unknown 62'(A) |
-| 23:00 | Brazil | ACD Potiguar vs ABC | **0 - 0** | `Halftime` | --- |
-| 22:30 | Brazil | Botafogo-SP U20 vs Guanabara City U20 | **0 - 0** | `2nd half` | --- |
-| 22:00 | Uruguay | Montevideo City Torque vs Cerro Largo | **2 - 3** | `2nd half` | Ezequiel Rodríguez 45'(H), Bruno Hernandez 28'(A), Axel Pandiani 11'(A), Tomas Shaw 7'(H), Axel Pandiani 7'(A) |
+| 01:00 | Mexico | Querétaro FC vs Club Tijuana | **0 - 0** | `1st half` | --- |
+| 01:05 | Mexico | Club América vs Atlético San Luis | **0 - 0** | `1st half` | --- |
+| 00:00 | Brazil | Ponte Preta vs AE Velo Clube | **0 - 1** | `Halftime` | Marcelo 28'(A) |
+| 00:00 | World | San Lorenzo vs Cúcuta Deportivo | **0 - 0** | `2nd half` | --- |
+| 00:30 | Aruba | ASV River Plate vs SV La Fama Savaneta | **1 - 0** | `Started` | Unknown -1'(H) |
+| 00:30 | Brazil | Atlético Alagoinhas vs Barcelona de Ilhéus | **0 - 0** | `1st half` | --- |
+| 00:30 | Brazil | Porto Vitória vs Capixaba SC | **0 - 0** | `1st half` | --- |
+| 00:30 | Brazil | Bangu Atlético Clube vs Flamengo | **2 - 1** | `1st half` | Guilherme Gomes 19'(A), Garrinsha Estinphile 12'(H), Patryck Ferreira 4'(H) |
+| 00:30 | Brazil | Avaí vs Carlos Renaux SC | **0 - 0** | `1st half` | --- |
+| 00:30 | Brazil | Brusque vs Figueirense | **1 - 0** | `1st half` | Unknown 18'(H) |
+| 00:30 | Brazil | Ceará vs Maranguape | **0 - 0** | `1st half` | --- |
+| 00:30 | Brazil | Caxias vs EC Avenida | **1 - 0** | `1st half` | Jeam 13'(H) |
+| 00:30 | Brazil | Grêmio vs EC São José | **0 - 0** | `1st half` | --- |
+| 23:30 | Brazil | Anápolis vs Centro-Oeste | **1 - 1** | `2nd half` | Unknown 76'(A), Unknown 72'(H) |
+| 23:40 | Brazil | Vila Nova FC vs Anapolina | **2 - 1** | `2nd half` | Unknown 58'(A), Willian Formiga 44'(H), Emerson Urso 8'(H) |
+| 00:30 | Brazil | Cuiabá vs Operário-MT | **0 - 0** | `1st half` | --- |
+| 00:00 | Brazil | Pouso Alegre FC vs Itabirito FC | **2 - 0** | `Halftime` | Marcelo Cauã de Aguiar Alves 45'(H), Pedro Arthur 31'(H) |
+| 00:30 | Brazil | Tombense vs Cruzeiro | **0 - 2** | `1st half` | Japa 25'(A), Kaique Kenji 10'(A) |
+| 23:30 | Brazil | Athletico vs Operário-PR | **1 - 0** | `2nd half` | Bruninho Braga Ramos 66'(H) |
+| 23:30 | Brazil | São José EC vs Grêmio Prudente | **2 - 1** | `2nd half` | Jonatha Carlos 45'(A), Clessione 36'(H), Rodrigo Bezerra Carioca 4'(H) |
+| 00:30 | Brazil | Sport Recife vs Retrô | **1 - 0** | `1st half` | Micael de Barros Viturino 14'(H) |
+| 00:15 | Brazil | Ferroviária U20 vs Santos U20 | **0 - 3** | `Halftime` | Unknown 34'(A), Pedro Assis 23'(A), Mateus Xavier de Sousa 13'(A) |
+| 00:30 | Brazil | XV de Jaú U20 vs Guarani U20 | **1 - 0** | `1st half` | Juan Isaza Osorio 9'(H) |
+| 00:30 | Brazil Amateur | Grêmio U17 vs Salto FC U17 | **0 - 0** | `1st half` | --- |
+| 01:00 | Costa Rica | Sporting FC vs Herediano | **0 - 0** | `1st half` | --- |
+| 00:30 | Guadeloupe | AS Gosier vs L'Etoile de Morne-à-L'eau | **0 - 0** | `Started` | --- |
+| 00:30 | Guadeloupe | Cerfa FC vs Dynamo Le Moule | **0 - 0** | `Started` | --- |
+| 00:30 | Guadeloupe | USR vs Granite FC | **0 - 0** | `Started` | --- |
+| 00:00 | Turks and Caicos Islands | Flamingo FC vs Academy Eagles | **0 - 0** | `Started` | --- |
+| 00:30 | Uruguay | Racing de Montevideo vs Cerro | **0 - 0** | `1st half` | --- |
