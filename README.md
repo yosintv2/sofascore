@@ -2,5 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 01:00 | Costa Rica | Sporting FC vs Herediano | **0 - 2** | `2nd half` | Haxzel Quirós 39'(A), Keyner Brown 7'(A) |
-| 02:00 | Costa Rica | CS Cartaginés vs Guadalupe FC | **0 - 1** | `Halftime` | Suhander Zuniga 45'(A) |
+| 03:06 | Mexico | Tigres UANL vs Pumas UNAM | **0 - 1** | `Halftime` | Robert Morales 23'(A) |
+| 03:10 | Mexico | CD Toluca vs Santos Laguna | **0 - 1** | `Halftime` | Francisco Villalba 21'(A) |
+| 04:00 | Bangladesh | Bangladesh Boys Club vs Siddiquebazar Dhaka JSC | **0 - 0** | `Started` | --- |
+| 02:00 | Costa Rica | CS Cartaginés vs Guadalupe FC | **2 - 1** | `2nd half` | Johan Venegas 76'(H), Diego González Hernández 52'(H), Suhander Zuniga 45'(A) |
