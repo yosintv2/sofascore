@@ -2,20 +2,16 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 07:00 | World | Persikota Sungai Penuh vs Persibri Batanghari | **0 - 1** | `2nd half` | Unknown 23'(A) |
-| 08:00 | World | LASK vs FC CSKA 1948 Sofia | **2 - 1** | `2nd half` | Unknown 82'(A), Lukas Kačavenda 39'(H), Unknown 37'(H) |
-| 08:00 | World | XM Fico Tây Ninh vs Đông Á Thanh Hóa | **3 - 3** | `2nd half` | --- |
-| 09:00 | World | Diamond Harbour FC U21 vs Victoria Sporting Club U21 | **1 - 0** | `Halftime` | Unknown 34'(H) |
-| 09:00 | World | Kota Jambi FC vs Sarolangun | **2 - 0** | `Halftime` | Unknown 45'(H), Unknown 45'(H) |
-| 09:30 | World | Arda Kardzhali vs OFC Levski Karlovo | **0 - 0** | `1st half` | --- |
-| 09:00 | World | Ntopwa vs Ascent Academy | **0 - 0** | `1st half` | --- |
+| 10:00 | Turkey | Erzurumspor FK vs Çaykur Rizespor | **0 - 0** | `1st half` | --- |
+| 09:00 | World | Diamond Harbour FC U21 vs Victoria Sporting Club U21 | **2 - 0** | `2nd half` | Unknown 49'(H), Unknown 34'(H) |
+| 09:00 | World | Kota Jambi FC vs Sarolangun | **2 - 0** | `2nd half` | Unknown 45'(H), Unknown 45'(H) |
+| 09:30 | World | Arda Kardzhali vs OFC Levski Karlovo | **1 - 0** | `1st half` | Unknown 23'(H) |
+| 10:00 | World | FK Pardubice vs Vysočina Jihlava | **0 - 0** | `1st half` | --- |
+| 09:00 | World | Ntopwa vs Ascent Academy | **0 - 0** | `2nd half` | --- |
 | 08:30 | Bangladesh | Dhaka United SC vs Swadhinata KS | **0 - 0** | `Started` | --- |
-| 09:30 | Czech Republic | MFK Chrudim vs FC Hradec Kralove B | **1 - 0** | `1st half` | Unknown 20'(H) |
-| 08:00 | Indonesia | Batavia FC vs PSDS Deli Serdang | **4 - 1** | `2nd half` | Unknown 61'(H), Unknown 52'(H), Unknown 29'(H), Unknown 22'(A), Ikhsan Marzuki 12'(H) |
-| 08:00 | Indonesia | Persikutim United vs Persinab Sang Maestro | **1 - 0** | `2nd half` | Unknown 86'(H) |
-| 07:15 | Indonesia | Putra Plaosan Martapura vs Barabai | **0 - 0** | `2nd half` | --- |
-| 08:00 | Indonesia | Persigubin Bintang Kejora vs Bima Sakti | **3 - 1** | `2nd half` | Unknown 90'(H), Unknown 63'(A), Unknown 55'(H), Unknown 41'(H) |
-| 09:00 | Indonesia | PSC Young Abadi vs WGroup | **0 - 1** | `Halftime` | Unknown 39'(A) |
+| 09:30 | Czech Republic | MFK Chrudim vs FC Hradec Kralove B | **2 - 1** | `Halftime` | Unknown 38'(H), Vojtech Baloun 32'(A), Unknown 20'(H) |
+| 10:00 | Greece Amateur | AS Diagoras Vatiou vs AKS Iraklis Maritson | **0 - 0** | `Started` | --- |
+| 09:00 | Indonesia | PSC Young Abadi vs WGroup | **0 - 1** | `2nd half` | Unknown 39'(A) |
 | 08:30 | Philippines | Far Eastern Tamaraws vs UP Fighting Maroons | **0 - 1** | `2nd half` | Unknown 19'(A) |
-| 08:20 | Thailand | Thammasat University vs Songkhla Rajabhat University | **4 - 0** | `2nd half` | Unknown 75'(H), Unknown 58'(H), Unknown 45'(H), Unknown 7'(H) |
-| 08:45 | Thailand | Nakhon Ratchasima College vs Bangkok Thonburi University | **0 - 0** | `2nd half` | --- |
+| 08:20 | Thailand | Thammasat University vs Songkhla Rajabhat University | **5 - 0** | `2nd half` | Unknown 90'(H), Unknown 75'(H), Unknown 58'(H), Unknown 45'(H), Unknown 7'(H) |
+| 08:45 | Thailand | Nakhon Ratchasima College vs Bangkok Thonburi University | **0 - 1** | `2nd half` | Unknown 75'(A) |
