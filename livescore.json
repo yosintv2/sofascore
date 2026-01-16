@@ -1,9 +1,29 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-16 17:24:27 UTC"
+        "updated": "2026-01-16 17:46:18 UTC"
     },
     "matches": [
+        {
+            "start_time": "17:30",
+            "league": "2. Bundesliga",
+            "country": "Germany",
+            "home": "Eintracht Braunschweig",
+            "away": "1. FC Magdeburg",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "17:30",
+            "league": "2. Bundesliga",
+            "country": "Germany",
+            "home": "Fortuna D\u00fcsseldorf",
+            "away": "Arminia Bielefeld",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
         {
             "start_time": "17:00",
             "league": "1. Lig",
@@ -18,13 +38,23 @@
             ]
         },
         {
+            "start_time": "17:30",
+            "league": "Saudi Pro League",
+            "country": "Saudi Arabia",
+            "home": "Al-Ittihad",
+            "away": "Al-Ettifaq",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "16:30",
             "league": "Stars League",
             "country": "Qatar",
             "home": "Al-Sadd",
             "away": "Al-Ahli Doha",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -44,24 +74,16 @@
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "FK Frydek Mistek",
-            "away": "BKS Sparta Katowice",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
             "start_time": "16:30",
             "league": "Club Friendly Games",
             "country": "World",
             "home": "FC Marchfeld Donauauen",
             "away": "SV Schwechat",
-            "score": "2 - 1",
+            "score": "4 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 56'(H)",
+                "Unknown 52'(H)",
                 "Unknown 41'(H)",
                 "Unknown 13'(H)",
                 "Unknown 11'(A)"
@@ -86,9 +108,11 @@
             "country": "World",
             "home": "Rapid Wien II",
             "away": "SV Donau",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 33'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -96,9 +120,11 @@
             "country": "World",
             "home": "SC Weiz",
             "away": "SV Tillmitsch",
-            "score": "1 - 0",
+            "score": "3 - 0",
             "minute": "1st half",
             "scorers": [
+                "Unknown 38'(H)",
+                "Unknown 29'(H)",
                 "Unknown 20'(H)"
             ]
         },
@@ -109,7 +135,7 @@
             "home": "USV Weindorf St. Anna am Aigen",
             "away": "SV Lebring",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 7'(A)"
             ]
@@ -120,6 +146,29 @@
             "country": "World",
             "home": "Young Violets Austria Wien",
             "away": "Wiener Neust\u00e4dter SC",
+            "score": "2 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 42'(H)",
+                "Unknown 34'(H)"
+            ]
+        },
+        {
+            "start_time": "17:15",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "SV Wacker Burghausen",
+            "away": "FC Hertha Wels",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "17:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Favoritner AC",
+            "away": "USV Halbturn",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -144,9 +193,10 @@
             "country": "Asia",
             "home": "Vietnam U23",
             "away": "United Arab Emirates U23",
-            "score": "2 - 2",
-            "minute": "2nd half",
+            "score": "3 - 2",
+            "minute": "1st extra",
             "scorers": [
+                "Unknown 101'(H)",
                 "Saif Al Menhali 68'(A)",
                 "Nguy\u1ec5n \u0110\u00ecnh B\u1eafc 63'(H)",
                 "Junior Ndiaye 42'(A)",
@@ -159,9 +209,10 @@
             "country": "Algeria",
             "home": "CS Constantine",
             "away": "ES S\u00e9tif",
-            "score": "1 - 1",
-            "minute": "1st extra",
+            "score": "2 - 1",
+            "minute": "2nd extra",
             "scorers": [
+                "Oualaa Moundhir Bouzekri 111'(H)",
                 "Brahim Dib 45'(H)",
                 "Kamel Hamidi 19'(A)"
             ]
@@ -172,9 +223,10 @@
             "country": "Bahrain",
             "home": "Busaiteen",
             "away": "Al Ittifaq",
-            "score": "0 - 3",
+            "score": "0 - 4",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 71'(A)",
                 "Unknown 42'(A)",
                 "Unknown 23'(A)",
                 "Unknown 21'(A)"
@@ -186,9 +238,11 @@
             "country": "Bahrain",
             "home": "East Riffa",
             "away": "Al Hala",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 86'(A)"
+            ]
         },
         {
             "start_time": "16:00",
@@ -206,9 +260,12 @@
             "country": "Cyprus",
             "home": "Doxa Katokopias",
             "away": "Karmiotissa Polemidion",
-            "score": "0 - 0",
+            "score": "1 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 40'(H)",
+                "Luizinho Guedes 27'(A)"
+            ]
         },
         {
             "start_time": "16:00",
@@ -223,60 +280,18 @@
             ]
         },
         {
-            "start_time": "14:00",
-            "league": "Ligue 1 - Groupe B",
-            "country": "DR Congo",
-            "home": "Daring Club Motema Pembe",
-            "away": "Bukavu Dawa",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 27'(A)",
-                "Unknown 8'(H)"
-            ]
-        },
-        {
             "start_time": "16:00",
             "league": "GFF First Division",
             "country": "Gambia",
             "home": "Team Rhino FC",
             "away": "Hart Academy FC",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 77'(A)",
                 "Unknown 49'(A)",
                 "Unknown 35'(H)"
             ]
-        },
-        {
-            "start_time": "15:30",
-            "league": "Premier League",
-            "country": "Ghana",
-            "home": "Accra Hearts of Oak",
-            "away": "Dreams",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "CRFA Division Two - Zone 1",
-            "country": "Ghana",
-            "home": "Black Emancipation FC",
-            "away": "SGLM Development",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "CRFA Division Two - Zone 2",
-            "country": "Ghana",
-            "home": "Akwaboso Young Madrid",
-            "away": "West Babianiha Royals FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
         },
         {
             "start_time": "16:30",
@@ -285,7 +300,7 @@
             "home": "Al Shomooa SC",
             "away": "Al Tersana Tripoli",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -294,10 +309,11 @@
             "country": "Libya",
             "home": "Al Majd Tripoli SCS",
             "away": "Ittihad Gharyan SC",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
-                "Unknown -1'(H)"
+                "Mouad Al Sharif 19'(H)",
+                "Mouad Al Sharif 18'(H)"
             ]
         },
         {
@@ -309,7 +325,7 @@
             "score": "0 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 49'(A)"
+                "Nouhoum Cisse 49'(A)"
             ]
         },
         {
@@ -327,14 +343,26 @@
             ]
         },
         {
+            "start_time": "17:30",
+            "league": "Premier League, Closing Round",
+            "country": "Malta",
+            "home": "Sliema Wanderers",
+            "away": "Zabbar Saint Patrick FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "17:00",
             "league": "BOV Amateur League I",
             "country": "Malta",
             "home": "Victoria Hotspurs FC",
             "away": "Mellie\u0127a SC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Rondinely Roberto 25'(H)"
+            ]
         },
         {
             "start_time": "16:00",
@@ -342,9 +370,10 @@
             "country": "Mexico",
             "home": "Correcaminos III",
             "away": "Real San Cosme",
-            "score": "3 - 1",
+            "score": "3 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 78'(A)",
                 "Unknown 57'(A)",
                 "Unknown 37'(H)",
                 "Unknown 36'(H)",
@@ -368,7 +397,7 @@
             "home": "H\u00e9roes de Zaci FC II",
             "away": "Ciervos FC II",
             "score": "4 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 31'(H)",
                 "Unknown 22'(H)",
@@ -382,9 +411,10 @@
             "country": "Mexico",
             "home": "Aztecas AMF Soccer",
             "away": "Ocean\u00eda FC",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
             "scorers": [
+                "Unknown 40'(H)",
                 "Unknown 4'(H)"
             ]
         },
@@ -437,7 +467,7 @@
             "home": "Star Sport Academy",
             "away": "Bai Bureh Warriors FC",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 6'(H)"
             ]
@@ -448,9 +478,11 @@
             "country": "Tanzania",
             "home": "Dodoma Jiji FC",
             "away": "Singida Black Stars SC",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 84'(H)"
+            ]
         },
         {
             "start_time": "16:00",
@@ -458,9 +490,10 @@
             "country": "Turkey Amateur",
             "home": "Diyartepespor",
             "away": "Diyarbak\u0131r Sanayi Sitesi",
-            "score": "4 - 2",
+            "score": "4 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 70'(A)",
                 "Unknown 57'(H)",
                 "Unknown 51'(A)",
                 "Unknown 44'(H)",
@@ -505,16 +538,6 @@
             ]
         },
         {
-            "start_time": "15:00",
-            "league": "UAE 3rd Division",
-            "country": "United Arab Emirates",
-            "home": "Liver Sport FC",
-            "away": "Olympic FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "16:00",
             "league": "UAE 3rd Division",
             "country": "United Arab Emirates",
@@ -530,9 +553,11 @@
             "country": "United Arab Emirates",
             "home": "Modern Sport FC Dubai",
             "away": "United Sport FC",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 43'(H)"
+            ]
         },
         {
             "start_time": "17:00",
