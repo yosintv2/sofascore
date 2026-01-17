@@ -3,100 +3,114 @@
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 17:30 | England | Nottingham Forest vs Arsenal | **0 - 0** | `2nd half` | --- |
-| 17:30 | Spain | Osasuna vs Real Oviedo | **1 - 2** | `2nd half` | Ante Budimir 45'(H), Federico Viñas 40'(A) |
-| 17:30 | Germany | RB Leipzig vs FC Bayern München | **1 - 1** | `2nd half` | Serge Gnabry 50'(A), Rômulo 20'(H) |
-| 18:00 | France | Toulouse vs Nice | **2 - 0** | `Halftime` | Frank Magri 45'(H), Santiago Hidalgo 7'(H) |
-| 18:00 | Portugal | AVS - Futebol SAD vs FC Arouca | **0 - 1** | `Halftime` | Ivan Barbero 42'(A) |
-| 18:00 | Portugal | FC Alverca vs Moreirense | **0 - 0** | `Halftime` | --- |
-| 17:45 | Netherlands | PEC Zwolle vs AZ Alkmaar | **2 - 0** | `2nd half` | Anselmo Garcia McNulty 26'(H), Shola Shoretire 7'(H) |
-| 17:00 | Turkey | Galatasaray vs Gaziantep FK | **1 - 1** | `2nd half` | Barış Alper Yılmaz 84'(H), Mohamed Bayo 73'(A) |
-| 17:15 | Belgium | KVC Westerlo vs Cercle Brugge | **0 - 2** | `2nd half` | Oluwaseun Adewumi 39'(A), Emin Bayram 6'(A) |
-| 17:30 | England | Swansea City vs Birmingham City | **1 - 0** | `2nd half` | Žan Vipotnik 21'(H) |
-| 17:30 | Spain | Real Zaragoza vs Real Sociedad B U21 | **0 - 0** | `2nd half` | --- |
-| 18:30 | Italy | Bari vs Juve Stabia | **0 - 0** | `1st half` | --- |
-| 17:30 | Israel | Bnei Sakhnin vs Maccabi Netanya | **1 - 1** | `2nd half` | Alon Azugi 49'(H), Luccas Paraizo Feitosa 45'(A) |
-| 17:30 | Saudi Arabia | Al-Nassr vs Al-Shabab | **2 - 2** | `2nd half` | Carlos Junior 53'(A), Mohamed Simakan 31'(A), Kingsley Coman 8'(H), Saad Yaslam Balobaid 2'(H) |
-| 18:00 | Romania | FC Rapid București vs FC Metaloglobus București | **0 - 0** | `Halftime` | --- |
-| 17:30 | Spain | SD Eibar vs Madrid CFF | **1 - 2** | `2nd half` | Kamilla Melgård 69'(A), Emilie Nautnes 49'(A), Carmen Álvarez 23'(H) |
+| 17:30 | Spain | Osasuna vs Real Oviedo | **2 - 2** | `2nd half` | Ante Budimir 75'(H), Alberto Reina 68'(A), Ante Budimir 45'(H), Federico Viñas 40'(A) |
+| 17:30 | Germany | RB Leipzig vs FC Bayern München | **1 - 5** | `2nd half` | Michael Olise 88'(A), Aleksandar Pavlović 85'(A), Jonathan Tah 82'(A), Harry Kane 67'(A), Serge Gnabry 50'(A), Rômulo 20'(H) |
+| 18:00 | France | Toulouse vs Nice | **3 - 1** | `2nd half` | Santiago Hidalgo 55'(H), Elye Wahi 49'(A), Frank Magri 45'(H), Santiago Hidalgo 7'(H) |
+| 18:00 | Portugal | AVS - Futebol SAD vs FC Arouca | **0 - 1** | `2nd half` | Ivan Barbero 42'(A) |
+| 18:00 | Portugal | FC Alverca vs Moreirense | **0 - 0** | `2nd half` | --- |
+| 17:45 | Netherlands | PEC Zwolle vs AZ Alkmaar | **2 - 1** | `2nd half` | Peer Koopmeiners 74'(A), Anselmo Garcia McNulty 26'(H), Shola Shoretire 7'(H) |
+| 19:00 | Netherlands | Excelsior vs SC Telstar | **0 - 0** | `1st half` | --- |
+| 19:00 | Netherlands | Fortuna Sittard vs PSV Eindhoven | **1 - 1** | `1st half` | Kaj Sierhuis 12'(H), Paul Wanner 8'(A) |
+| 17:30 | England | Swansea City vs Birmingham City | **1 - 1** | `2nd half` | Patrick Roberts 72'(A), Žan Vipotnik 21'(H) |
+| 17:30 | Spain | Real Zaragoza vs Real Sociedad B U21 | **1 - 1** | `2nd half` | Paul Akouokou 88'(H), Gorka  Carrera Zarranz 74'(A) |
+| 19:00 | Brazil | EC Primavera vs Grêmio Novorizontino | **1 - 0** | `1st half` | Gabriel Poveda 10'(H) |
+| 18:30 | Italy | Bari vs Juve Stabia | **0 - 1** | `Halftime` | Leonardo Candellone 37'(A) |
+| 17:30 | Israel | Bnei Sakhnin vs Maccabi Netanya | **2 - 1** | `2nd half` | Mustafa Yusef 84'(H), Alon Azugi 49'(H), Luccas Paraizo Feitosa 45'(A) |
+| 17:30 | Saudi Arabia | Al-Nassr vs Al-Shabab | **3 - 2** | `2nd half` | Abdulrahman Ghareeb 76'(H), Carlos Junior 53'(A), Mohamed Simakan 31'(A), Kingsley Coman 8'(H), Saad Yaslam Balobaid 2'(H) |
+| 18:00 | Romania | FC Rapid București vs FC Metaloglobus București | **0 - 0** | `2nd half` | --- |
+| 19:00 | Belgium | KAS Eupen vs SK Beveren | **0 - 1** | `1st half` | Lennart Mertens 17'(A) |
+| 19:00 | Belgium | Patro Eisden Maasmechelen vs KV Kortrijk | **0 - 0** | `1st half` | --- |
+| 19:00 | Belgium | RFC Liège vs Royal Francs Borains | **1 - 0** | `1st half` | Simon Paulet 15'(H) |
+| 17:30 | Spain | SD Eibar vs Madrid CFF | **1 - 3** | `2nd half` | Emilie Nautnes 77'(A), Kamilla Melgård 69'(A), Emilie Nautnes 49'(A), Carmen Álvarez 23'(H) |
 | 17:00 | World | FC Hegelmann vs BE1 NFA | **3 - 1** | `2nd half` | Artem Shchedryi 45'(H), Abdel Kader Njoya 44'(H), Abdel Kader Njoya 42'(H), Unknown 32'(A) |
-| 17:30 | England | York City vs Southend United | **0 - 1** | `2nd half` | Harry Cardwell 31'(A) |
-| 17:30 | Spain | CF Talavera vs Celta Vigo B | **1 - 0** | `2nd half` | Isaiah Navarro 24'(H) |
-| 17:30 | Spain | Zamora CF vs CD Tenerife | **0 - 1** | `Halftime` | Carlos Ramos 17'(A) |
-| 17:30 | Spain | AD Alcorcón vs Antequera | **1 - 0** | `2nd half` | Pol Domingo 40'(H) |
-| 17:15 | Spain | Barcelona Atlètic vs CE Andratx | **4 - 0** | `2nd half` | Abdul Aziz Issah 79'(H), Dani Rodríguez 54'(H), Álvaro Cortés 45'(H), Joaquin Delgado 25'(H) |
-| 17:30 | Spain | CF Fuenlabrada vs CD Coria | **0 - 0** | `2nd half` | --- |
-| 18:00 | Spain | Dinamo Guadalajara vs FC Badalona B | **0 - 1** | `Halftime` | Unknown 11'(A) |
-| 17:30 | Spain | Real Betis B vs CD Juan Grande | **2 - 0** | `2nd half` | Unknown 51'(H), Unknown 24'(H) |
-| 17:10 | Spain | FC Barcelona B vs CE Europa | **5 - 0** | `2nd half` | Unknown 70'(H), Unknown 62'(H), Unknown 58'(H), Unknown 43'(H), Unknown 10'(H) |
-| 17:00 | France | Dinan Léhon FC vs US Saint-Malo | **1 - 1** | `Halftime` | Damani Touré 72'(H), Alexandre Leroyer 61'(A) |
-| 17:00 | France | Les Herbiers vs Bordeaux | **2 - 1** | `2nd half` | Unknown 90'(A), Sony Butrot 34'(H), Noah Adekalom 29'(H) |
-| 17:00 | France | SC Locminé vs Stade Poitevin Football Club | **3 - 0** | `2nd half` | Unknown 90'(H), Georges Gopé-Fénépej 26'(H), Exauce NGassaki 3'(H) |
-| 18:00 | France | Aviron Bayonnais FC vs Chateaubriant | **1 - 0** | `Halftime` | Alexis Giacomini 12'(H) |
-| 18:00 | France | FC Montlouis vs Olympique Saumur | **0 - 1** | `Halftime` | Emmanuel Bourgaud 2'(A) |
-| 17:00 | France | AS Cannes vs FC Rousset Svo | **3 - 0** | `2nd half` | Unknown 90'(H), Chafik Abbas 51'(H), Maxime Blanc 38'(H) |
-| 17:00 | France | Istres Football Club vs Nîmes Olympique | **2 - 0** | `2nd half` | Esteban Marre 90'(H), Aymane Nassiri 16'(H) |
-| 17:30 | France | Hyères FC vs US Lusitanos Saint-Maur | **0 - 1** | `2nd half` | Sayon Keita 61'(A) |
-| 17:00 | France | US Orleans U19 vs Quevilly - Rouen Métropole U19 | **0 - 0** | `2nd half` | --- |
-| 18:30 | Andorra | Inter Club d'Escaldes vs UE Santa Coloma | **1 - 0** | `1st half` | Unknown 9'(H) |
-| 18:00 | Belgium | SV Zulte Waregem A vs Oud-Heverlee Leuven | **0 - 2** | `Halftime` | Unknown 45'(A), Unknown 20'(A) |
-| 18:30 | Belgium | KAA Gent Ladies vs Anderlecht | **0 - 1** | `1st half` | Unknown 11'(A) |
-| 18:30 | Belgium Amateur | KFC Dessel Sport vs KSV Roeselare | **0 - 1** | `1st half` | Unknown 22'(A) |
-| 18:00 | Belgium Amateur | SL16 Football Campus U23 vs RSC Habay | **1 - 1** | `Halftime` | Unknown 45'(A), Unknown 26'(H) |
-| 18:30 | Belgium Amateur | Sporting Charleroi U23 vs RFC Meux | **1 - 0** | `1st half` | Unknown 25'(H) |
+| 17:30 | England | York City vs Southend United | **1 - 1** | `2nd half` | Ollie Pearce 87'(H), Harry Cardwell 31'(A) |
+| 17:30 | Spain | CF Talavera vs Celta Vigo B | **1 - 1** | `2nd half` | Unknown 89'(A), Isaiah Navarro 24'(H) |
+| 17:30 | Spain | Zamora CF vs CD Tenerife | **0 - 1** | `2nd half` | Carlos Ramos 17'(A) |
+| 17:30 | Spain | AD Alcorcón vs Antequera | **1 - 1** | `2nd half` | Marcelo dos Santos 74'(A), Pol Domingo 40'(H) |
+| 17:30 | Spain | CF Fuenlabrada vs CD Coria | **1 - 2** | `2nd half` | Unknown 90'(H), Adrián Pérez 87'(A), Unknown 85'(A) |
+| 18:00 | Spain | Dinamo Guadalajara vs FC Badalona B | **0 - 1** | `2nd half` | Unknown 11'(A) |
+| 17:30 | Spain | Real Betis B vs CD Juan Grande | **3 - 1** | `2nd half` | Unknown 88'(H), Unknown 79'(A), Unknown 51'(H), Unknown 24'(H) |
+| 18:00 | France | Aviron Bayonnais FC vs Chateaubriant | **1 - 0** | `2nd half` | Alexis Giacomini 12'(H) |
+| 18:00 | France | FC Montlouis vs Olympique Saumur | **0 - 1** | `2nd half` | Emmanuel Bourgaud 2'(A) |
+| 17:30 | France | Hyères FC vs US Lusitanos Saint-Maur | **0 - 2** | `2nd half` | Younes Zennouhi 87'(A), Sayon Keita 61'(A) |
+| 18:30 | Andorra | Inter Club d'Escaldes vs UE Santa Coloma | **2 - 0** | `Halftime` | Unknown 39'(H), Unknown 9'(H) |
+| 18:00 | Belgium | SV Zulte Waregem A vs Oud-Heverlee Leuven | **0 - 4** | `2nd half` | Unknown 56'(A), Unknown 54'(A), Kadhiya De Ceuster 45'(A), Kadhiya De Ceuster 20'(A) |
+| 18:30 | Belgium | KAA Gent Ladies vs Anderlecht | **0 - 1** | `Halftime` | Unknown 11'(A) |
+| 18:30 | Belgium Amateur | KFC Dessel Sport vs KSV Roeselare | **2 - 3** | `Halftime` | Unknown 39'(H), Unknown 35'(A), Unknown 30'(A), Unknown 29'(H), Unknown 22'(A) |
+| 19:00 | Belgium Amateur | Hoogstraten VV vs KFC Houtvenne | **0 - 1** | `1st half` | Unknown 6'(A) |
+| 19:00 | Belgium Amateur | KVV Thes Sport Tessenderlo vs KVK Ninove | **0 - 0** | `1st half` | --- |
+| 19:00 | Belgium Amateur | KVV Zelzate vs K Lyra-Lierse | **0 - 0** | `1st half` | --- |
+| 18:00 | Belgium Amateur | SL16 Football Campus U23 vs RSC Habay | **2 - 1** | `2nd half` | Unknown 58'(H), Unknown 45'(A), Unknown 26'(H) |
+| 18:30 | Belgium Amateur | Sporting Charleroi U23 vs RFC Meux | **2 - 0** | `Halftime` | Unknown 45'(H), Unknown 25'(H) |
 | 18:30 | Belgium Amateur | Union Saint Gilloise B U23 vs Royal Racing Club Stockay-Warfusée | **2 - 0** | `1st half` | Unknown 15'(H), Unknown 9'(H) |
-| 18:00 | Belgium Amateur | Standard Liège Reserve vs RSC Habay-la-Neuve | **1 - 1** | `Halftime` | Unknown 45'(A), Unknown 31'(H) |
+| 19:00 | Belgium Amateur | RAEC Mons vs Union Namur | **2 - 0** | `1st half` | Unknown 4'(H), Unknown 3'(H) |
+| 19:00 | Belgium Amateur | Royal Excelsior Virton vs Royale Union Tubize-Braine | **2 - 0** | `1st half` | Unknown 11'(H), Unknown 4'(H) |
+| 18:00 | Belgium Amateur | Standard Liège Reserve vs RSC Habay-la-Neuve | **2 - 1** | `2nd half` | Unknown 58'(H), Unknown 45'(A), Unknown 31'(H) |
 | 17:30 | Belgium Amateur | K. Sassport Boezinge vs KWSC Lauwe | **0 - 0** | `Started` | --- |
+| 19:00 | Belgium Amateur | Tempo Overijse vs Fenixx Beigem Humbeek | **0 - 0** | `Started` | --- |
 | 18:30 | Belgium Amateur | FC De Kempen TL vs HRS Haasdonk | **0 - 0** | `Started` | --- |
 | 18:30 | Belgium Amateur | K. Achel VV vs KFC Zwarte Leeuw | **0 - 0** | `Started` | --- |
+| 19:00 | Belgium Amateur | Esperanza Pelt FC vs EWS Schoonbeek-Beverst | **0 - 0** | `Started` | --- |
+| 19:00 | Belgium Amateur | KVC Lille United vs FC Wezel Sport | **0 - 0** | `Started` | --- |
+| 19:00 | Belgium Amateur | KVC Wilrijk vs KFC Turnhout | **0 - 0** | `Started` | --- |
+| 19:00 | Belgium Amateur | KVV Zepperen-Brustem vs KFC Sint Lenaarts | **0 - 0** | `Started` | --- |
+| 19:00 | Belgium Amateur | SC City Pirates Antwerpen vs ASV Geel | **0 - 0** | `Started` | --- |
 | 18:00 | Belgium Amateur | KEVC Beselare vs KSK Vlamertinge | **0 - 0** | `Started` | --- |
 | 18:00 | Belgium Amateur | KFC Lendelede Sport vs K Racing Waregem B | **0 - 0** | `Started` | --- |
 | 18:00 | Belgium Amateur | KFC Meulebeke vs FC Dadizele Sport | **0 - 0** | `Started` | --- |
 | 18:00 | Belgium Amateur | V.V. Emelgem-Kachtem vs SC Zonnebeke | **0 - 0** | `Started` | --- |
 | 18:30 | Belgium Amateur | SV Ingelmunster vs KSK Beveren-Leie | **0 - 0** | `Started` | --- |
-| 18:00 | Brazil | Real Brasília FC vs Brasiliense | **0 - 0** | `Halftime` | --- |
-| 18:30 | Brazil | Centro-Oeste vs Jataiense | **0 - 1** | `1st half` | Maurício Maranhão 9'(A) |
-| 18:15 | Brazil | Dorense FC vs América-SE | **0 - 0** | `1st half` | --- |
-| 17:30 | Brazil | Ibrachina U20 vs Internacional U20 | **1 - 1** | `2nd half` | Nathan Yuri Santos Pereira 53'(H) |
-| 18:00 | Brazil | Litoral Norte U20 vs Vitória U20 | **1 - 2** | `Halftime` | Unknown 45'(H), Unknown 24'(A), Unknown 8'(A) |
-| 18:00 | Cuba | Sakenaf Deportivo vs Valencia S.C. | **1 - 0** | `1st half` | Kossi Fo-Mé Meleneoutepe 11'(H) |
-| 17:00 | Cyprus | Olympiakos Nicosia vs Pafos FC | **2 - 0** | `2nd half` | Jean Felipe 79'(H), Stefanos Charalampous 72'(H) |
-| 18:00 | Egypt | Ismaily vs Wadi Degla | **1 - 0** | `Halftime` | Anwar Abdelsalam 34'(H) |
-| 18:00 | Egypt | Modern Sport FC vs El Gouna FC | **0 - 1** | `Halftime` | Marwan Mohsen 23'(A) |
+| 19:00 | Brazil | ASA vs CSA | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | Bahia vs Galícia | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Real Brasília FC vs Brasiliense | **0 - 0** | `2nd half` | --- |
+| 19:00 | Brazil | Brasília vs Gama | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | Vitória-ES vs Porto Vitória | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | Novo Hamburgo vs EC São José | **0 - 0** | `1st half` | --- |
+| 18:30 | Brazil | Centro-Oeste vs Jataiense | **0 - 2** | `Halftime` | Assis 45'(A), Maurício Maranhão 9'(A) |
+| 19:00 | Brazil | Anápolis vs Vila Nova FC | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | North Esporte Clube vs Betim Futebol | **1 - 1** | `1st half` | Tiago Marques 7'(H), Maycon 4'(A) |
+| 19:00 | Brazil | Athletico vs Coritiba | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | Água Santa vs EC São Bento | **2 - 0** | `1st half` | Antônio Gabriel 10'(H), Vitão 6'(H) |
+| 19:00 | Brazil | Inter de Limeira vs Taubaté | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | Decisão Goiana vs AD Jaguar | **1 - 0** | `1st half` | Bambam 14'(H) |
+| 19:00 | Brazil | AA Oeirense vs Atlético Piauiense | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | ABC vs Santa Cruz-RN | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | Quinho FC vs ACD Potiguar | **0 - 0** | `1st half` | --- |
+| 18:15 | Brazil | Dorense FC vs América-SE | **0 - 0** | `Halftime` | --- |
+| 19:00 | Brazil | Sergipe vs AA Guarany | **1 - 0** | `1st half` | Marlon 6'(H) |
+| 19:00 | Brazil | Capital FC vs Araguaína | **0 - 0** | `1st half` | --- |
+| 19:00 | Brazil | Gurupi EC vs Palmas FR | **0 - 0** | `1st half` | --- |
+| 17:30 | Brazil | Ibrachina U20 vs Internacional U20 | **2 - 1** | `2nd half` | Luiz Fernando Rodrigues Pedrosa 72'(H), João Vitor Miranda da Silva 64'(A), Nathan Yuri Santos Pereira 53'(H) |
+| 18:00 | Brazil | Litoral Norte U20 vs Vitória U20 | **1 - 2** | `2nd half` | Unknown 45'(H), Unknown 24'(A), Unknown 8'(A) |
+| 19:00 | Costa Rica | Uruguay de Coronado vs AD Aserrí | **0 - 0** | `1st half` | --- |
+| 18:00 | Cuba | Sakenaf Deportivo vs Valencia S.C. | **3 - 1** | `2nd half` | Carlos Daniel Sierra 72'(A), Daviel Emil Rojas 67'(H), Manuel Palomino 65'(A), Rubén Adinson Machado 46'(H), Kossi Fo-Mé Meleneoutepe 11'(H) |
+| 18:00 | Egypt | Ismaily vs Wadi Degla | **1 - 1** | `2nd half` | Seif Teka 54'(A), Anwar Abdelsalam 34'(H) |
+| 18:00 | Egypt | Modern Sport FC vs El Gouna FC | **0 - 1** | `2nd half` | Marwan Mohsen 23'(A) |
 | 17:00 | France Amateur | Blagnac vs Lege Capferret US | **1 - 1** | `2nd half` | Unknown 75'(A), Unknown 64'(H) |
-| 17:00 | France Amateur | US Castanet vs SAG Cestas | **3 - 0** | `2nd half` | Unknown 54'(H), Unknown 11'(H), Unknown 6'(H) |
-| 18:00 | France Amateur | Bassin d'Arcachon vs Toulouse 2 | **1 - 1** | `Halftime` | Unknown 45'(A), Unknown 37'(H) |
+| 17:00 | France Amateur | US Castanet vs SAG Cestas | **4 - 0** | `2nd half` | Unknown 73'(H), Unknown 54'(H), Unknown 11'(H), Unknown 6'(H) |
+| 18:00 | France Amateur | Bassin d'Arcachon vs Toulouse 2 | **1 - 1** | `2nd half` | Unknown 45'(A), Unknown 37'(H) |
 | 18:00 | France Amateur | FC Albères Argelès vs RCO Agde | **0 - 0** | `Started` | --- |
-| 18:00 | France Amateur | Genêts Anglet vs Canet en Roussillon | **1 - 1** | `Started` | Unknown 14'(A), Unknown 10'(H) |
-| 18:00 | France Amateur | Pau FC 2 vs Colomiers | **0 - 0** | `Started` | --- |
+| 18:00 | France Amateur | Genêts Anglet vs Canet en Roussillon | **1 - 1** | `Started` | Unknown 13'(A), Unknown 12'(H) |
+| 18:00 | France Amateur | Pau FC 2 vs Colomiers | **0 - 1** | `Started` | Unknown 16'(A) |
 | 17:00 | France Amateur | FC Challans vs US St. Philbert de Grandlieu | **3 - 2** | `Started` | Unknown 90'(H), Jordan Cuvier 68'(H), Unknown 58'(A), Unknown 46'(A), Valentin Rémy 32'(H) |
-| 17:00 | France Amateur | La Chataigneraie vs Angers II | **3 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown 59'(H) |
 | 17:00 | France Amateur | Le Poiré-sur-Vie vs Nantes II | **1 - 0** | `Started` | Rodney Mayela 87'(H) |
-| 17:00 | France Amateur | Les Sables Vendee Foot vs USSA Vertou | **1 - 0** | `Started` | Unknown 37'(H) |
-| 17:00 | France Amateur | Union Foot de Touraine vs LB Châteauroux B | **2 - 0** | `Started` | Unknown 13'(H), Sosa Maluvunu 9'(H) |
 | 16:00 | France Amateur | Stade Rennais FC 2 vs Stade Lavallois 2 | **1 - 2** | `2nd half` | Unknown 79'(H), Unknown 54'(A), Unknown 49'(A) |
-| 17:00 | France Amateur | Lannion FC vs Stade Brestois 29 2 | **2 - 0** | `Started` | Romain Le Méhauté 48'(H), Junior Vidot 6'(H) |
-| 17:00 | France Amateur | OC Cesson-Sévigné vs US Fougeres | **6 - 0** | `Started` | Unknown 67'(H), Unknown 52'(H), Unknown 41'(H), Unknown 26'(H), Unknown 25'(H), Unknown 17'(H) |
-| 17:00 | France Amateur | PD Ergue Gaberic vs EA Guingamp II | **0 - 0** | `Started` | --- |
-| 17:00 | France Amateur | Pontivy GSI vs AF Virois | **0 - 0** | `Started` | --- |
-| 17:00 | France Amateur | US Alençon vs AS Vitré | **0 - 0** | `Started` | --- |
 | 17:00 | France Amateur | AS Saint-Ouen L'Aumône vs FC Versailles II | **0 - 0** | `Started` | --- |
-| 17:00 | France Amateur | Caen II vs Bretigny FCS | **3 - 1** | `2nd half` | Unknown 90'(H), Unknown 89'(A), Unknown 74'(H), Unknown 15'(H) |
-| 17:00 | France Amateur | C'Chartres Football vs ESA Linas-Montlhéry | **0 - 3** | `Started` | Unknown 56'(A), Unknown 38'(A), Unknown 5'(A) |
 | 17:00 | France Amateur | Racing Club de France vs Bastia 2 | **0 - 0** | `2nd half` | --- |
-| 17:00 | France Amateur | SU Dives Cabourg vs AS Trouville-Deauville-Villers | **1 - 0** | `Started` | Aurélien Thoris 38'(H) |
+| 17:00 | France Amateur | SU Dives Cabourg vs AS Trouville-Deauville-Villers | **1 - 1** | `Started` | Unknown 61'(A), Aurélien Thoris 38'(H) |
 | 17:30 | France Amateur | Le Havre Caucriauville Sportif vs FCM Aubervilliers | **0 - 0** | `1st half` | --- |
 | 17:00 | France Amateur | LOSC Lille 2 vs Neuilly Marne SFC | **6 - 0** | `2nd half` | Unknown 86'(H), Unknown 71'(H), Unknown 69'(H), Unknown 61'(H), Unknown 31'(H), Unknown 17'(H) |
 | 17:00 | France Amateur | US Pays de Cassel vs Jeanne d'Arc Drancy | **1 - 0** | `Halftime` | Benjamin Verite 36'(H) |
 | 17:30 | France Amateur | US Le Pays Du Valois vs Amiens SC 2 | **1 - 0** | `Started` | Unknown -1'(H) |
+| 19:00 | France Amateur | Croix Iris CF vs Balagne | **0 - 0** | `1st half` | --- |
 | 17:00 | France Amateur | US Ivry vs ES Thaon | **0 - 0** | `1st half` | --- |
-| 17:00 | France Amateur | FC Chamalieres vs Dijon 2 | **1 - 1** | `Started` | Unknown 31'(H), Unknown 21'(A) |
-| 17:00 | France Amateur | Mâcon 71 vs AS Saint-Étienne 2 | **0 - 1** | `Started` | Unknown -1'(A) |
+| 17:00 | France Amateur | FC Chamalieres vs Dijon 2 | **2 - 1** | `Started` | Benjamin Aulagnier 58'(H), Unknown 31'(H), Unknown 21'(A) |
+| 17:00 | France Amateur | Mâcon 71 vs AS Saint-Étienne 2 | **2 - 1** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown -1'(A) |
 | 17:30 | France Amateur | Moulins Yzeure vs US Feurs | **0 - 0** | `Started` | --- |
 | 17:00 | France Amateur | FC Bourgoin Jallieu vs ET.S. Fosséenne | **0 - 0** | `1st half` | --- |
 | 17:00 | France Amateur | Lyon-La Duchère vs Olympique Lyonnais 2 | **2 - 3** | `2nd half` | Unknown 81'(H), Unknown 67'(A), Unknown 55'(H), Unknown 51'(A), Unknown 17'(A) |
-| 17:30 | France Amateur | Olympique Alès vs Montpellier HSC II | **0 - 0** | `Started` | --- |
-| 17:30 | France Amateur | Epernay vs Cormontreuil FC | **1 - 0** | `Started` | Jordan Mansouri -1'(H) |
-| 17:30 | France Amateur | CS Sedan vs FC Saint-Meziery | **0 - 0** | `Started` | --- |
+| 17:30 | France Amateur | Epernay vs Cormontreuil FC | **1 - 0** | `Started` | Jordan Mansouri 73'(H) |
+| 17:30 | France Amateur | CS Sedan vs FC Saint-Meziery | **1 - 0** | `Started` | Unknown 71'(H) |
 | 18:00 | France Amateur | APM Metz FC vs Schiltigheim | **0 - 0** | `Started` | --- |
 | 17:00 | France Amateur | US Tourcoing FC vs FC Bondues | **0 - 0** | `1st half` | --- |
 | 17:00 | France Amateur | Pacy Menilles Racing Club vs CA Lisieux Foot. Pays d'Auge | **0 - 0** | `Started` | --- |
@@ -124,39 +138,35 @@
 | 18:00 | France Amateur | Arin Luzien vs FC Biganos | **0 - 0** | `Started` | --- |
 | 18:00 | France Amateur | ES Boulazac vs SA Mérignac | **0 - 0** | `Started` | --- |
 | 18:00 | France Amateur | FC St Médard en Jalles vs FC Marmande 47 | **2 - 1** | `Started` | Unknown -1'(H), Unknown -1'(A), Unknown -1'(H) |
-| 18:00 | France Amateur | Villenave vs St Paul Lès Dax Sports | **0 - 0** | `Started` | --- |
+| 18:00 | France Amateur | Villenave vs St Paul Lès Dax Sports | **1 - 2** | `Started` | Unknown -1'(H), Unknown 19'(A), Unknown 9'(A) |
 | 17:00 | France Amateur | Avant Garde Plouvorn vs Stade Plabennecois | **0 - 0** | `Started` | --- |
 | 18:45 | French Guiana | ASC Ouest vs Academy FC | **0 - 0** | `Started` | --- |
 | 18:45 | French Guiana | FC Charvein vs AJS Kourou | **0 - 0** | `Started` | --- |
-| 18:30 | Gibraltar | FC Hound Dogs vs FC Bruno's Magpies | **0 - 1** | `1st half` | Samuel Benítez 18'(A) |
-| 16:30 | Greece Amateur | AE Asteras Tsoukaleikon vs GPS Acheos Saravaliou | **0 - 0** | `Started` | --- |
+| 18:30 | Gibraltar | FC Hound Dogs vs FC Bruno's Magpies | **0 - 3** | `Halftime` | Samuel Benítez 29'(A), Julian Del Rio 27'(A), Dylan Borge 18'(A) |
 | 18:00 | Greece Amateur | AS Posidon Karpathou vs AO Anagennisi Asfendiou | **0 - 0** | `Started` | --- |
 | 16:00 | Greece Amateur | APS Vyronas Kavalas vs AMS Vrasidas Neas Peramou | **2 - 0** | `2nd half` | Savvas Toumanidis 49'(H), Giorgos Xatzistaurou 23'(H) |
-| 16:30 | Greece Amateur | Ano Lechonia vs Fthiotides Thives Agchialos | **0 - 0** | `Started` | --- |
-| 16:30 | Greece Amateur | Aek Patron vs PO Aftonomi | **0 - 0** | `Started` | --- |
 | 18:45 | Israel | Shimshon Paztal Tel Aviv vs AS Nordia Jerusalem | **0 - 0** | `1st half` | --- |
-| 18:00 | Israel | Hakoach Amidar Ramat Gan vs Beitar Ramat Gan | **0 - 0** | `Halftime` | --- |
-| 18:30 | Israel | Ihud Tzeirey Abu Gosh FC vs Hapoel Segev Shalom | **1 - 0** | `1st half` | Unknown 1'(H) |
-| 18:00 | Israel | Ihud Bnei Baqa vs Hapoel Ramot Menashe Megido | **1 - 0** | `Halftime` | Unknown 32'(H) |
+| 18:00 | Israel | Hakoach Amidar Ramat Gan vs Beitar Ramat Gan | **0 - 0** | `2nd half` | --- |
+| 18:30 | Israel | Ihud Tzeirey Abu Gosh FC vs Hapoel Segev Shalom | **1 - 1** | `1st half` | Unknown 35'(A), Unknown 1'(H) |
+| 18:00 | Israel | Ihud Bnei Baqa vs Hapoel Ramot Menashe Megido | **2 - 0** | `2nd half` | Unknown 52'(H), Unknown 32'(H) |
 | 17:00 | Italy Amateur | Real San Martino Valle Caudina vs Alta Hirpinia Sport | **0 - 0** | `Started` | --- |
-| 18:00 | Malta | Vittoriosa Stars vs Birzebbuga St. Peters FC | **0 - 1** | `Halftime` | Unknown 23'(A) |
-| 18:00 | Malta | Zebbug Rangers FC vs Melita FC | **0 - 1** | `Halftime` | Eric Mensah 20'(A) |
+| 18:00 | Malta | Vittoriosa Stars vs Birzebbuga St. Peters FC | **0 - 1** | `2nd half` | Unknown 23'(A) |
+| 18:00 | Malta | Zebbug Rangers FC vs Melita FC | **1 - 2** | `2nd half` | Unknown 59'(H), Karl Mohnani 57'(A), Eric Mensah 20'(A) |
 | 16:30 | Malta | Dingli Swallows FC vs Mdina Knights FC | **1 - 0** | `2nd half` | Ronaldinho Nathaniel Daley 21'(H) |
-| 18:00 | Mexico | Xalisco FC vs CAR Toros | **1 - 0** | `Halftime` | Unknown 14'(H) |
-| 17:00 | Mexico | Leones Negros UdeG Premier vs Los Cabos United | **2 - 0** | `2nd half` | Unknown 56'(H), Unknown 27'(H) |
+| 18:00 | Mexico | Xalisco FC vs CAR Toros | **1 - 0** | `2nd half` | Unknown 14'(H) |
 | 17:30 | Mexico | Chivas Guadalajara U19 vs Querétaro Gallos Blancos U19 | **1 - 0** | `2nd half` | Unknown 37'(H) |
-| 17:30 | Mexico | Cruz Azul U19 vs Club Puebla U19 | **0 - 0** | `2nd half` | --- |
+| 17:30 | Mexico | Cruz Azul U19 vs Club Puebla U19 | **0 - 2** | `2nd half` | Unknown 84'(A), Unknown 70'(A) |
 | 17:30 | Mexico | Necaxa U19 vs Atlas U19 | **0 - 1** | `2nd half` | Unknown 8'(A) |
 | 17:30 | Mexico | Tigres UANL U19 vs Toluca U19 | **1 - 0** | `2nd half` | Unknown 31'(H) |
-| 18:00 | Netherlands Amateur | RBC Roosendaal vs VVSB Noordwijkerhout | **0 - 0** | `Halftime` | --- |
+| 18:00 | Netherlands Amateur | RBC Roosendaal vs VVSB Noordwijkerhout | **0 - 0** | `2nd half` | --- |
 | 17:00 | Netherlands Amateur | MASV Arnhem vs VV Achilles Veen | **0 - 0** | `Started` | --- |
 | 17:00 | Netherlands Amateur | VV KHC Kampen vs DOS Kampen | **0 - 0** | `Started` | --- |
 | 17:00 | Netherlands Amateur | SV Bon Boys vs VV den Ham | **3 - 0** | `Started` | Unknown 35'(H), Unknown 18'(H), Unknown 17'(H) |
 | 17:00 | Netherlands Amateur | WVV Winschoten vs Heerenveense Boys | **0 - 0** | `Started` | --- |
-| 16:30 | Netherlands Amateur | Sparta Rotterdam vs Jong PSV Eindhoven | **0 - 2** | `Started` | Unknown 90'(A), Unknown 58'(A) |
 | 17:30 | Netherlands Amateur | FC Groningen vs De Graafschap | **0 - 2** | `Started` | Unknown 11'(A), Unknown 3'(A) |
-| 15:00 | Niger | Olympic Niamey vs JS Tahoua | **0 - 0** | `2nd half` | --- |
-| 18:00 | Portugal | SL Benfica B U21 vs Chaves | **0 - 0** | `Halftime` | --- |
+| 18:00 | Portugal | SL Benfica B U21 vs Chaves | **0 - 0** | `2nd half` | --- |
+| 19:00 | Portugal | Varzim SC vs AD Sanjoanense | **0 - 0** | `1st half` | --- |
+| 19:00 | Portugal | Beitar Petah Tikva vs Hapoel Mahane Yehuda | **0 - 0** | `1st half` | --- |
 | 18:00 | Portugal Amateur | Guia FC vs GDR Alvorense | **0 - 0** | `Started` | --- |
 | 18:00 | Portugal Amateur | Portimonense SC B vs Lusitano FC VRSA | **0 - 0** | `Started` | --- |
 | 18:00 | Portugal Amateur | Sport Faro e Benfica vs GD Lagoa B | **0 - 0** | `Started` | --- |
@@ -164,28 +174,21 @@
 | 18:00 | Portugal Amateur | ARDC Mentes do Desporto Parchal vs 4 ao Cubo ADO Olhão | **0 - 0** | `Started` | --- |
 | 18:00 | Portugal Amateur | JD Monchiquense vs Padernense Clube | **0 - 0** | `Started` | --- |
 | 18:00 | Portugal Amateur | JS Campinense vs ED Bensafrim | **0 - 0** | `Started` | --- |
+| 19:00 | Portugal Amateur | GCD Silva Escura vs AR Nogueira | **0 - 0** | `Started` | --- |
 | 17:00 | Portugal Amateur | SC Duas Igrejas vs CD Juventude da Portelinha | **0 - 0** | `Started` | --- |
 | 18:00 | Portugal Amateur | FC Vilar vs CRAC Sousela | **0 - 0** | `Started` | --- |
 | 18:30 | Portugal Amateur | CR Grandolense vs CD Cova da Piedade | **0 - 0** | `Started` | --- |
 | 18:30 | Portugal Amateur | GD Amarelejense B vs CCDRCP Quintos | **0 - 0** | `Started` | --- |
-| 16:30 | Portugal Amateur | GDR S. Francisco da Serra vs GC Sines | **0 - 0** | `Started` | --- |
 | 18:30 | Portugal Amateur | CCD Bairro da Conceição U18 vs Moura AC U18 | **0 - 0** | `Started` | --- |
 | 18:30 | Portugal Amateur | CD Beja U18 vs SC Mineiro Aljustrelense U18 | **0 - 0** | `Started` | --- |
 | 18:30 | Portugal Amateur | SC Cuba U18 vs CD Praia Milfontes U18 | **0 - 0** | `Started` | --- |
 | 18:30 | Portugal Amateur | SC Ferreirense U18 vs SC Odemirense U18 | **0 - 0** | `Started` | --- |
-| 17:00 | Saudi Arabia | Eastern Flames FC vs Al-Ula FC | **0 - 7** | `Started` | Raghad Saleh 87'(A), Rose Bella 85'(A), Melisa Hasanbegović 57'(A), Nawras Al-Khaldi 50'(A), Safa Zedadka 48'(A), Rose Bella 5'(A), Rahaf Tariq 2'(A) |
-| 17:00 | Spain Amateur | SD Revilla vs Centro Deportivo Bezana | **2 - 2** | `2nd half` | Unknown 79'(H), Unknown 61'(A), Unknown 54'(H), Unknown 36'(A) |
-| 18:00 | Spain Amateur | CF Vimenor vs Castro FC | **3 - 0** | `Halftime` | Unknown 24'(H), Juan Carlos Campos 22'(H), Juan Carlos Campos 17'(H) |
-| 17:15 | Spain Amateur | SD Deusto vs Deportivo Alavés C | **0 - 0** | `2nd half` | --- |
-| 17:00 | Spain Amateur | Tenerife C vs UD Lanzarote | **2 - 0** | `2nd half` | Unknown 63'(H), Unknown 55'(H) |
+| 18:00 | Spain Amateur | CF Vimenor vs Castro FC | **3 - 0** | `2nd half` | Unknown 24'(H), Juan Carlos Campos 22'(H), Juan Carlos Campos 17'(H) |
 | 17:30 | Spain Amateur | CD Unión Sur Yaiza vs Las Palmas C | **0 - 1** | `2nd half` | Unknown 67'(A) |
-| 17:30 | Spain Amateur | CD Oberena vs SD Alsasua | **3 - 1** | `2nd half` | Unknown 68'(H), Unknown 57'(H), Unknown 55'(A), Unknown 34'(H) |
-| 17:30 | Spain Amateur | CP Calasancio vs CD Calahorra | **0 - 1** | `2nd half` | Unknown 45'(A) |
-| 18:15 | Spain Amateur | Real Sociedad U19 B vs CD Laudio U19 | **0 - 0** | `1st half` | --- |
-| 16:30 | Spain Amateur | CD Loja vs Pizarra Atlético CF | **0 - 0** | `Started` | --- |
-| 17:00 | Spain Amateur | CD Laudio vs AD San Viator | **0 - 1** | `Started` | Unknown 62'(A) |
+| 17:30 | Spain Amateur | CD Oberena vs SD Alsasua | **3 - 2** | `2nd half` | Unknown 74'(A), Unknown 68'(H), Unknown 57'(H), Unknown 55'(A), Unknown 34'(H) |
+| 17:30 | Spain Amateur | CP Calasancio vs CD Calahorra | **2 - 1** | `2nd half` | Unknown 76'(H), Unknown 70'(H), Unknown 45'(A) |
+| 18:15 | Spain Amateur | Real Sociedad U19 B vs CD Laudio U19 | **0 - 0** | `Halftime` | --- |
 | 17:00 | Spain Amateur | Ipar Arriaga Gazteiz vs Salvatierra  SD | **1 - 7** | `2nd half` | Unknown 88'(A), Unknown 73'(A), Unknown 56'(A), Unknown 54'(H), Unknown 52'(A), Unknown 31'(A), Unknown 12'(A), Unknown 5'(A) |
-| 16:45 | Spain Amateur | C.D. Calasanz de Soria vs C.D. San José | **0 - 0** | `Started` | --- |
 | 17:15 | Spain Amateur | Capiscol C.F. vs C.D. Villamuriel | **0 - 0** | `Started` | --- |
 | 17:30 | Spain Amateur | Victoria C.F. vs C.D. Béjar Industrial Fibritel | **2 - 1** | `2nd half` | Unknown 36'(A), Unknown 29'(H), Unknown 18'(H) |
 | 17:00 | Spain Amateur | Monells AE vs Marca de L'Ham | **0 - 0** | `Started` | --- |
@@ -195,12 +198,8 @@
 | 17:30 | Spain Amateur | Les Preses CF vs Sant Privat D'En Bas | **0 - 0** | `Started` | --- |
 | 17:45 | Spain Amateur | Olímpic La Garriga vs Sant Quirze Besora | **0 - 0** | `Started` | --- |
 | 18:30 | Spain Amateur | CF Parets B vs La Torreta | **0 - 0** | `Started` | --- |
-| 16:30 | Spain Amateur | Atlètic Masnou vs Pla D'en Boet | **0 - 0** | `Started` | --- |
-| 16:30 | Spain Amateur | La Llantia vs Tiana | **0 - 0** | `Started` | --- |
-| 16:30 | Spain Amateur | Mataronesa vs CD Masnou | **0 - 0** | `Started` | --- |
 | 18:00 | Spain Amateur | Alella CF vs Fundació Esportiva Montgat | **0 - 0** | `Started` | --- |
 | 18:00 | Spain Amateur | Arenys de Mar vs Vilassar Dalt-Giatsu | **0 - 0** | `Started` | --- |
-| 16:30 | Spain Amateur | Escola Pia Terrassa vs Planadeu-Roureda | **0 - 0** | `Started` | --- |
 | 18:15 | Spain Amateur | Escuela F. Base Ripollet vs Llorençà | **0 - 0** | `Started` | --- |
 | 17:00 | Spain Amateur | Fruitosenc vs Sant Salvador Cercs | **0 - 0** | `Started` | --- |
 | 17:30 | Spain Amateur | Can Trias vs Aristoi FA | **0 - 0** | `Started` | --- |
@@ -210,7 +209,7 @@
 | 17:00 | Spain Amateur | Can Vidalet B vs CFA Espluguenc | **0 - 0** | `Started` | --- |
 | 17:00 | Spain Amateur | Fontsanta Fatjo vs At. Hospitalense | **0 - 0** | `Started` | --- |
 | 17:15 | Spain Amateur | Sant Just Desvern vs Fundacio Atlètic Sant Just | **0 - 0** | `Started` | --- |
-| 16:45 | Spain Amateur | PUD Málaga vs Vista Alegre B | **0 - 0** | `Started` | --- |
+| 19:00 | Spain Amateur | Santboià FC B vs PB Anguera B | **0 - 0** | `Started` | --- |
 | 17:00 | Spain Amateur | CF Molins de Rei vs Mirasol-Baco Unión | **0 - 0** | `Started` | --- |
 | 17:00 | Spain Amateur | Marianao Poblet B vs Juan XXIII | **0 - 0** | `Started` | --- |
 | 17:00 | Spain Amateur | PB Sant Vicenç Horts vs La Palma Cervelló | **0 - 0** | `Started` | --- |
@@ -218,8 +217,6 @@
 | 17:30 | Spain Amateur | Atlètic Incresa vs Sant Vicenç Dels Horts B | **0 - 0** | `Started` | --- |
 | 18:30 | Spain Amateur | UE Rubí B vs UE Castellbisbal | **0 - 0** | `Started` | --- |
 | 17:00 | Spain Amateur | Ateneu Igualadí vs Riudebitlles | **0 - 0** | `Started` | --- |
-| 16:30 | Spain Amateur | CF L'Arboç vs Calafell | **0 - 0** | `Started` | --- |
-| 16:30 | Spain Amateur | Vendrell vs Vallmoll | **0 - 0** | `Started` | --- |
 | 17:30 | Spain Amateur | Atletic Bellvei vs La Riera | **0 - 0** | `Started` | --- |
 | 17:40 | Spain Amateur | Valls B vs Salou B | **0 - 0** | `Started` | --- |
 | 17:15 | Spain Amateur | Mas Pellicer vs CD Hospitalet de l'Infant | **0 - 0** | `Started` | --- |
@@ -227,5 +224,4 @@
 | 18:00 | Spain Amateur | CD Morell vs UD España Canonja | **0 - 0** | `Started` | --- |
 | 18:45 | Spain Amateur | CE Santes Creus vs Costa Daurada | **0 - 0** | `Started` | --- |
 | 17:00 | Turkey Amateur | Kuzguncuk 1979 FSK vs Pendik Doğanspor | **1 - 0** | `Started` | Unknown 30'(H) |
-| 16:30 | Turkey Amateur | İncirlikspor vs Kanal Ufukspor | **0 - 0** | `Started` | --- |
 | 17:30 | Wales | Flint Mountain FC vs Mold Alex FC | **2 - 1** | `2nd half` | Unknown 33'(H), Unknown 16'(A), Unknown 8'(H) |
