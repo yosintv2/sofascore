@@ -2,39 +2,21 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 01:30 | Colombia | Fortaleza FC vs Alianza Valledupar FC | **0 - 0** | `1st half` | --- |
-| 00:00 | World | Montevideo Wanderers vs CA Independiente | **0 - 2** | `2nd half` | Gabriel Ávalos 69'(A), Gabriel Ávalos 47'(A) |
-| 00:45 | Argentina Amateur | Unión Villa Krause vs Fundación Amigos Por El Deporte | **1 - 0** | `1st half` | --- |
-| 00:30 | Aruba | SV Caiquetio vs San Nicolas FC | **3 - 1** | `2nd half` | Unknown 52'(H), Unknown 30'(H), Unknown 17'(A), Unknown 14'(H) |
-| 00:30 | Brazil | Cruzeiro U20 vs Santos U20 | **1 - 0** | `2nd half` | Unknown 47'(H) |
-| 00:30 | Brazil Amateur | Grêmio U17 vs Internacional U17 | **0 - 3** | `2nd half` | Alexandre Pablo Sousa Dos Santos 27'(A), Fabricio Zechmeister Do Prado 17'(A), Fabricio Zechmeister Do Prado 12'(A) |
-| 23:45 | Brazil Amateur | Galo de Ouro vs Vilarreal do São João | **2 - 1** | `2nd half` | Unknown 68'(H), Unknown 28'(A), Unknown 3'(H) |
-| 00:30 | Brazil Amateur | Palmeiras U15 vs Nacional U15 | **0 - 0** | `2nd half` | --- |
-| 00:00 | Curacao | Inter Willemstad vs Atletiko Saliña | **1 - 1** | `2nd half` | Unknown 48'(H), Unknown 47'(A) |
-| 00:30 | Guadeloupe | CS Moulien vs Stade Lamentinois | **0 - 0** | `Started` | --- |
-| 00:30 | Guadeloupe | Red Star vs ASC Carénage | **0 - 0** | `Started` | --- |
-| 00:30 | Guadeloupe | Rapid Club vs US Grand-Bourg | **0 - 0** | `Started` | --- |
-| 01:00 | Indonesia | FFF Academy vs Bogor City U17 | **0 - 5** | `2nd half` | Rama Purwa Bagaskara 25'(A), Rama Purwa Bagaskara 21'(A), Muhammad Zidane 19'(A), Zhofar Rizki Watibrahim 18'(A), Muhammad Zidane 10'(A) |
-| 01:10 | Indonesia | Diklat ISA U17 vs PSF Academy U17 | **0 - 0** | `1st half` | --- |
-| 00:00 | Indonesia | Persija SS U13 vs Mastabe FA U13 | **2 - 1** | `2nd half` | Radit Saputra 56'(H), Radit Saputra 54'(H), Teuku Rachmadin Rauf 12'(A) |
-| 01:01 | Indonesia | Grand Young Kid U13 vs Youth Tiger SS U13 | **0 - 0** | `2nd half` | --- |
-| 01:00 | Indonesia | Jawara Cilegon U13 vs Prakasa U13 | **1 - 1** | `2nd half` | Muhammad Al Qutbi Arkan 21'(A), Althaf Farel Azwan 18'(H) |
-| 00:00 | Indonesia | M Private U14 vs Mastabe FA U14 | **0 - 6** | `2nd half` | Ignatio Oscar Victory Devander 45'(A), Gibraltar Attaya Fauzi 34'(A), Nekta Ranu Khairan 31'(A), Satria Naufal  Fadhillah 20'(A), Gibraltar Attaya Fauzi 19'(A), Angga Tyan Nugraha 8'(A) |
-| 01:10 | Indonesia | Asad Purwakarta U14 vs Salfas Soccer U14 | **0 - 0** | `Halftime` | --- |
-| 01:10 | Indonesia | Jakarta City FC U14 vs Aqua Haier U14 | **0 - 1** | `1st half` | Akhdan Arief Athaya 6'(A) |
-| 00:50 | Indonesia | Satria Sanggeni FA U15 vs Erlangga U15 | **0 - 2** | `2nd half` | Rafa Gabrio Guiza 26'(A), Zidan Febriano Zain 21'(A) |
-| 01:10 | Indonesia | HRC FA U16 vs Garuda Jaya U16 | **0 - 0** | `1st half` | --- |
-| 01:10 | Indonesia | G Sky U16 vs Gagak Muda U16 | **1 - 0** | `1st half` | Aldo Anshari Ramadhan 23'(H) |
-| 01:00 | Mexico | Alebrijes de Oaxaca vs Club Atlético Morelia | **0 - 2** | `1st half` | Ruben Del Campo 4'(A), Gael Denirán Moreno Esquivel 2'(A) |
-| 01:00 | Mexico | Correcaminos UAT vs Club Atletico La Paz | **0 - 1** | `1st half` | Edgar Alaffita 8'(A) |
-| 00:00 | Mexico | Pumas UNAM vs Mazatlán FC | **3 - 0** | `2nd half` | Angelina Hix 50'(H), Angelina Hix 44'(H), Julissa Dávila 41'(H) |
-| 01:00 | Mexico | Atlas vs Tijuana | **0 - 0** | `1st half` | --- |
-| 01:00 | Mexico | FC Juárez vs Atlético de San Luis | **0 - 0** | `1st half` | --- |
-| 01:00 | Mexico | Heroes de Zaci FC vs Pioneros de Cancún | **0 - 1** | `1st half` | Unknown 21'(A) |
-| 01:30 | Panama | Veraguas United FC vs CD Universitario | **0 - 1** | `1st half` | Unknown 2'(A) |
-| 01:00 | Panama | San Francisco FC B vs Udelas FC | **2 - 0** | `1st half` | Unknown 29'(H), Unknown 18'(H) |
-| 00:00 | Portugal Amateur | GRC Canicense vs CF Carvalheiro | **0 - 0** | `Started` | --- |
-| 00:00 | Portugal Amateur | Marítimo B vs AD Porto da Cruz | **0 - 0** | `Started` | --- |
-| 00:00 | Portugal Amateur | Sporting Clube Madeira vs AD Machico B | **0 - 0** | `Started` | --- |
-| 00:00 | Saint Kitts and Nevis | Garden Hotspurs vs Rivers of Living Water FC | **0 - 0** | `Started` | --- |
-| 00:00 | Trinidad and Tobago | Police FC vs Prisons FC | **1 - 1** | `2nd half` | Unknown 48'(A), Unknown 23'(H) |
+| 03:00 | Mexico | Mazatlán FC vs CF Monterrey | **0 - 0** | `1st half` | --- |
+| 01:30 | Colombia | Fortaleza FC vs Alianza Valledupar FC | **1 - 0** | `2nd half` | --- |
+| 02:00 | Oceania | Vanuatu United FC vs Bula FC | **1 - 1** | `Halftime` | Unknown 29'(A), Unknown 21'(H) |
+| 02:00 | Costa Rica | AD Cofutpa vs Deportivo Upala FC | **0 - 1** | `Halftime` | Unknown 7'(A) |
+| 02:10 | Indonesia | Ricky Nelson U17 vs Young Tiger U17 | **0 - 1** | `2nd half` | I wayan Danendra Raditya 2'(A) |
+| 02:20 | Indonesia | Villa 2000 U17 vs Cibinong Poetra U17 | **2 - 1** | `2nd half` | Unknown 33'(A), Maaliki  Al Hakim 25'(H), Muhamad  Rayhan 22'(H) |
+| 03:00 | Indonesia | Tajimalela FA U13 vs Assa Pro U13 | **0 - 0** | `1st half` | --- |
+| 03:00 | Indonesia | Cibinong Raya U13 vs RMD U13 | **0 - 0** | `1st half` | --- |
+| 03:00 | Indonesia | Newland FA U13 vs Nawasena FC U13 | **0 - 0** | `1st half` | --- |
+| 02:20 | Indonesia | Samurai United U14 vs Alaska Cikempong U14 | **1 - 1** | `2nd half` | Dhiyaulhaq Danish Tajuddin Farizka 35'(H), Muhammad Toriq A. Rahaguna 21'(A) |
+| 02:20 | Indonesia | DFN FC U14 vs RDC Pratama U14 | **1 - 1** | `2nd half` | Alvaro Rafa Raqilla 38'(A), Muhammad Andriansyah Zeiya Nasution 11'(H) |
+| 03:10 | Indonesia | CS Private U15 vs Mustikajaya FA U15 | **0 - 0** | `Started` | --- |
+| 02:20 | Indonesia | Jawara U16 vs NZFA U16 | **0 - 1** | `2nd half` | Khiar Ramadhan 21'(A) |
+| 02:20 | Indonesia | Telesandi U16 vs Asiop Biru U16 | **2 - 0** | `2nd half` | Syafaat Putra Ramadhan 20'(H), Daffa Baihaqi Alfarabi 11'(H) |
+| 03:00 | Mexico | Dorados de Sinaloa vs Mineros de Zacatecas | **0 - 0** | `1st half` | --- |
+| 03:06 | Mexico | Club León vs Tigres UANL | **0 - 0** | `1st half` | --- |
+| 02:00 | Mexico | Alacranes de Durango vs Tecos FC | **1 - 1** | `2nd half` | Jared Torres 45'(H), Unknown 37'(A) |
+| 01:30 | Panama | Veraguas United FC vs CD Universitario | **1 - 2** | `2nd half` | Unknown 76'(A), Carlos Rivera 45'(H), Rolando Rodriguez 2'(A) |
