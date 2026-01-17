@@ -2,50 +2,51 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 08:35 | Australia | Adelaide United vs Melbourne Victory | **1 - 0** | `Halftime` | Craig Goodwin 6'(H) |
-| 08:00 | World | Dukla Praha vs LNZ Cherkasy | **0 - 2** | `2nd half` | Shota Nonikashvili 45'(A), Hennadii Pasich 44'(A) |
-| 08:00 | World | FSV Zwickau vs Nasaf Qarshi | **5 - 1** | `2nd half` | Jonas Dittrich 65'(H), Unknown 63'(H), Unknown 54'(A), Veron Dobruna 45'(H), Cemal Sezer 43'(H), Cemal Sezer 20'(H) |
-| 09:00 | World | FC Zlín B vs 1. FC Slovácko B | **3 - 2** | `1st half` | Unknown 21'(H), Unknown 20'(A), Unknown 15'(H), Unknown 5'(A), Unknown 1'(H) |
+| 08:35 | Australia | Adelaide United vs Melbourne Victory | **1 - 0** | `2nd half` | Craig Goodwin 6'(H) |
+| 08:00 | World | Dukla Praha vs LNZ Cherkasy | **1 - 2** | `2nd half` | Unknown 72'(H), Shota Nonikashvili 45'(A), Hennadii Pasich 44'(A) |
+| 08:00 | World | FSV Zwickau vs Nasaf Qarshi | **6 - 1** | `2nd half` | Cemal Sezer 79'(H), Jonas Dittrich 65'(H), Unknown 63'(H), Unknown 54'(A), Veron Dobruna 45'(H), Cemal Sezer 43'(H), Cemal Sezer 20'(H) |
+| 09:00 | World | FC Zlín B vs 1. FC Slovácko B | **4 - 2** | `1st half` | Unknown 36'(H), Unknown 21'(H), Unknown 20'(A), Unknown 15'(H), Unknown 5'(A), Unknown 1'(H) |
 | 09:00 | World | FK Neratovice-Byškovice vs Bohemians Praha 1905 B | **1 - 0** | `1st half` | Unknown 14'(H) |
-| 09:00 | World | MFK Tatran Liptovský Mikuláš vs FK Poprad | **0 - 0** | `1st half` | --- |
+| 09:00 | World | MFK Tatran Liptovský Mikuláš vs FK Poprad | **2 - 0** | `1st half` | Unknown 40'(H), Unknown 29'(H) |
 | 09:00 | World | SK Slavia Praha B vs Arsenal Česká Lípa | **2 - 1** | `1st half` | Unknown 22'(H), Unknown 7'(H), Unknown 5'(A) |
 | 09:00 | World | SK Sparta Kolín vs Dukla Praha B | **0 - 1** | `1st half` | Unknown 21'(A) |
-| 09:00 | World | Slavia Karlovy Vary vs Sokol Hostouň | **0 - 1** | `1st half` | Unknown 10'(A) |
-| 09:00 | World | Slezský FC Opava vs TJ Unie Hlubina | **0 - 0** | `1st half` | --- |
-| 09:00 | World | Sparta Praha B U21 vs SK Motorlet Praha | **0 - 0** | `1st half` | --- |
-| 09:00 | World | Świt Skolwin Szczecin vs LKS Wybrzeze Rewalskie Rewal | **0 - 0** | `1st half` | --- |
+| 09:00 | World | Slavia Karlovy Vary vs Sokol Hostouň | **0 - 2** | `1st half` | Unknown 35'(A), Unknown 10'(A) |
+| 09:00 | World | Slezský FC Opava vs TJ Unie Hlubina | **1 - 0** | `1st half` | Unknown 37'(H) |
+| 09:00 | World | Sparta Praha B U21 vs SK Motorlet Praha | **0 - 0** | `Halftime` | --- |
+| 09:00 | World | Świt Skolwin Szczecin vs LKS Wybrzeze Rewalskie Rewal | **0 - 1** | `1st half` | Unknown 39'(A) |
 | 09:30 | World | HNK Gorica vs Zalaegerszegi TE | **0 - 0** | `1st half` | --- |
+| 09:30 | World | ML Vitebsk vs BATE Borisov | **0 - 0** | `1st half` | --- |
 | 09:00 | Algeria | Paradou U20 vs CR Belouizdad U20 | **0 - 0** | `1st half` | --- |
-| 08:30 | Bangladesh | Siraj Smirit Sangsad SC vs Suddopuskorini Jubo SC | **0 - 1** | `Halftime` | Unknown 9'(A) |
+| 08:30 | Bangladesh | Siraj Smirit Sangsad SC vs Suddopuskorini Jubo SC | **0 - 3** | `2nd half` | Unknown 50'(A), Unknown 47'(A), Unknown 9'(A) |
 | 08:45 | Bangladesh | Gazipur Kings FC vs Baniarchala FC | **0 - 0** | `Started` | --- |
 | 09:30 | Bulgaria Amateur | FC Aksakovo Aksakovo vs FC Fratria II Varna | **0 - 0** | `Started` | --- |
-| 08:30 | Cambodia | Kirivong Soksen Chey vs Nagaworld FC | **0 - 2** | `Halftime` | Vann Tailamey 45'(A), Yusuke Minagawa 21'(A) |
+| 08:30 | Cambodia | Kirivong Soksen Chey vs Nagaworld FC | **1 - 2** | `2nd half` | Unknown 55'(H), Vann Tailamey 45'(A), Yusuke Minagawa 21'(A) |
 | 09:00 | Ghana | Nader Ahali Rovers vs Cape Coast Metro Youth | **0 - 0** | `Started` | --- |
 | 09:00 | Hungary Amateur | Debreceni EAC vs Hajdúnánás FK | **0 - 0** | `Started` | --- |
-| 08:30 | Indonesia | Adhyaksa FC vs Sumsel United FC | **1 - 0** | `Halftime` | Adilson Silva 7'(H) |
-| 08:30 | Indonesia | Persikad Depok vs Garudayaksa FC | **0 - 1** | `Halftime` | Feby Eka Putra 28'(A) |
-| 08:30 | Indonesia | PS Barito Putera vs Persipura Jayapura | **0 - 1** | `Halftime` | Matheus Silva 31'(A) |
+| 08:30 | Indonesia | Adhyaksa FC vs Sumsel United FC | **1 - 0** | `2nd half` | Adilson Silva 7'(H) |
+| 08:30 | Indonesia | Persikad Depok vs Garudayaksa FC | **0 - 1** | `2nd half` | Feby Eka Putra 28'(A) |
+| 08:30 | Indonesia | PS Barito Putera vs Persipura Jayapura | **0 - 1** | `2nd half` | Matheus Silva 31'(A) |
 | 08:00 | Indonesia | Persikota Tangerang vs Pekanbaru FC | **1 - 2** | `2nd half` | Unknown 65'(A), Unknown 52'(H), Unknown 48'(A) |
 | 08:00 | Indonesia | Gresik United FC vs Persiba Bantul | **0 - 0** | `2nd half` | --- |
 | 08:00 | Indonesia | Bhayangkara U20 vs Semen Padang U20 | **1 - 0** | `2nd half` | Unknown 55'(H) |
 | 08:00 | Indonesia | Persebaya Surabaya U20 vs PSM Makassar U20 | **1 - 0** | `2nd half` | Unknown 38'(H) |
 | 14:00 | Italy Amateur | Giugliano U19 vs Trapani U19 | **0 - 0** | `1st half` | --- |
 | 09:00 | Malaysia | Immigration FC vs Negeri Sembilan | **0 - 0** | `1st half` | --- |
-| 08:45 | Malaysia | ATM FA vs Immigration FC II | **1 - 0** | `1st half` | Unknown 21'(H) |
-| 08:45 | Malaysia | Armed Forces FC vs Imigresen FC | **1 - 0** | `1st half` | Unknown 25'(H) |
+| 08:45 | Malaysia | ATM FA vs Immigration FC II | **1 - 0** | `Halftime` | Unknown 21'(H) |
 | 09:00 | Myanmar | Ayeyawady United vs Yangon United | **0 - 1** | `1st half` | Unknown 33'(A) |
-| 09:00 | Myanmar | Shan United vs Thitsar Arman FC | **3 - 0** | `1st half` | Unknown 32'(H), Unknown 24'(H), Unknown 22'(H) |
+| 09:00 | Myanmar | Shan United vs Thitsar Arman FC | **3 - 0** | `1st half` | Unknown 32'(H), Ye Yint Aung II 24'(H), Myat Kaung Khant 22'(H) |
 | 09:30 | Myanmar | Ispe FC vs Yadanarbon FC | **0 - 0** | `1st half` | --- |
-| 09:00 | Myanmar | Ispe FC vs Yreo FC Women | **1 - 0** | `1st half` | Unknown 19'(H) |
+| 09:00 | Myanmar | Ispe FC vs Yreo FC Women | **2 - 0** | `1st half` | Unknown 42'(H), Unknown 19'(H) |
+| 09:45 | Philippines | Maharlika Manila FC vs Kaya-Iloilo | **0 - 0** | `1st half` | --- |
 | 09:00 | Poland Amateur | Stal II Rzeszów vs LKS Stal Łańcut | **0 - 0** | `Started` | --- |
 | 09:00 | Russia Amateur | Trud Voronezh vs SSHOR SSH №15 Voronezh | **0 - 0** | `Started` | --- |
 | 08:00 | South Africa | Magesi FC Reserves U23 vs Amazulu Reserves U23 | **1 - 2** | `2nd half` | Unknown 49'(H), Unknown 30'(A), Unknown 19'(A) |
 | 09:00 | Thailand | Muang Loei United vs Surin City FC | **1 - 1** | `1st half` | Unknown 28'(H), Unknown 8'(A) |
 | 09:00 | Thailand | North Bangkok University FC vs Futera United FC | **2 - 0** | `1st half` | Unknown 27'(H), Unknown 22'(H) |
-| 09:00 | Thailand | Prime Bangkok FC vs Pathumthani University FC | **1 - 0** | `1st half` | Unknown 9'(H) |
-| 09:00 | Thailand | Royal Thai Air Force vs Ang Thong FC | **2 - 1** | `1st half` | Unknown 31'(H), Unknown 27'(A), Unknown 3'(H) |
+| 09:00 | Thailand | Prime Bangkok FC vs Pathumthani University FC | **2 - 0** | `1st half` | Unknown 40'(H), Unknown 9'(H) |
+| 09:00 | Thailand | Royal Thai Air Force vs Ang Thong FC | **2 - 2** | `1st half` | Unknown 39'(A), Unknown 31'(H), Unknown 27'(A), Unknown 3'(H) |
 | 09:00 | Thailand | Samut Sakhon City vs Raj Pracha | **0 - 0** | `1st half` | --- |
-| 09:00 | Thailand | Wiang Sa Surat Thani City vs Yala FC | **1 - 0** | `1st half` | Unknown 17'(H) |
+| 09:00 | Thailand | Wiang Sa Surat Thani City vs Yala FC | **1 - 1** | `1st half` | Unknown 35'(A), Unknown 17'(H) |
 | 09:00 | Turkey | Büyükçekmece Karadeniz İdman Ocağı U17 vs Büyük Yoncalıspor U17 | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey | Esenyurt Armada U17 vs Kapaklı Kartalspor U17 | **0 - 0** | `Started` | --- |
 | 08:00 | Turkey | Yeni Levent Konaklarspor U17 vs Bakırköy 1923 Spor U17 | **0 - 0** | `Started` | --- |
@@ -106,4 +107,4 @@
 | 09:00 | Turkey Amateur | Dış Mahalle Yıldırımspor vs Anadolu 45 Spor | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey Amateur | Karadeniz Ereğli Göztepe vs Ereğli Demirspor | **0 - 0** | `Started` | --- |
 | 09:00 | Turkey Amateur | Kızıltepe 2018 Spor vs Kızıltepe Spor Lisesi | **0 - 0** | `Started` | --- |
-| 08:30 | Vietnam | Than Khoáng Sản Việt Nam U19 vs Hồ Chí Minh U19 | **0 - 2** | `2nd half` | Unknown 45'(A), Unknown 43'(A) |
+| 08:30 | Vietnam | Than Khoáng Sản Việt Nam U19 vs Hồ Chí Minh U19 | **0 - 4** | `2nd half` | Unknown 55'(A), Unknown 50'(A), Unknown 45'(A), Unknown 43'(A) |
