@@ -2,22 +2,36 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 06:30 | Australia | Canberra United vs Wellington Phoenix | **0 - 0** | `2nd half` | --- |
-| 06:30 | World | Al Ittifaq FC vs NK Varaždin | **1 - 4** | `2nd half` | --- |
-| 07:10 | World | Gold Coast Knights vs Brisbane Knights | **0 - 0** | `1st half` | --- |
-| 07:15 | World | Brisbane Knights vs Gold Coast Knights | **0 - 0** | `1st half` | --- |
-| 06:00 | Oceania | Auckland FC Reserves vs South Island United FC | **3 - 0** | `2nd half` | Unknown 89'(H), Unknown 84'(H), Unknown 32'(H) |
-| 06:15 | Bangladesh | Farashganj SC vs Bangladesh Army | **0 - 0** | `2nd half` | --- |
-| 07:00 | Chinese Taipei | AC Taipei vs Hualien | **0 - 0** | `Halftime` | --- |
-| 07:00 | Hong Kong | Golik North District vs Kowloon City | **0 - 1** | `Halftime` | Kayron Ramos 5'(A) |
-| 07:00 | Hong Kong | Tai Po vs Lee Man FC | **0 - 2** | `Halftime` | Noah Baffoe 25'(A), Noah Baffoe 1'(A) |
-| 07:30 | India | JHR Royal City FC vs FC Medinipur | **0 - 0** | `1st half` | --- |
-| 07:00 | Indonesia | Wahana FC vs EBR United | **0 - 1** | `2nd half` | Unknown 25'(A) |
-| 06:50 | Indonesia | PS Putra Nusantara U17 vs Raga Negeri U17 | **0 - 0** | `2nd half` | --- |
-| 07:00 | Indonesia | Arema FC U20 vs Persik Kediri U20 | **0 - 1** | `Halftime` | Unknown 16'(A) |
-| 07:00 | Indonesia | Bali United U20 vs Malut United FC U20 | **2 - 1** | `Halftime` | Unknown 17'(H), Unknown 12'(A), Unknown 6'(H) |
-| 07:00 | Indonesia | Borneo FC U20 vs Persis Solo U20 | **0 - 0** | `Halftime` | --- |
-| 07:00 | Philippines | Valenzuela PB-Mendiola FC vs Tuloy FC | **0 - 2** | `Halftime` | Unknown 45'(A), Unknown 45'(A) |
-| 07:00 | South Africa | Chippa United FC Reserves U23 vs Stellenbosch FC Reserves U23 | **0 - 0** | `1st half` | --- |
+| 07:15 | World | Brisbane Knights vs Gold Coast Knights | **0 - 1** | `Halftime` | Unknown 37'(A) |
+| 08:00 | World | Dukla Praha vs LNZ Cherkasy | **0 - 0** | `1st half` | --- |
+| 08:30 | Bangladesh | Siraj Smirit Sangsad SC vs Suddopuskorini Jubo SC | **0 - 0** | `1st half` | --- |
+| 08:30 | Cambodia | Kirivong Soksen Chey vs Nagaworld FC | **0 - 0** | `1st half` | --- |
+| 07:00 | Chinese Taipei | AC Taipei vs Hualien | **0 - 0** | `2nd half` | --- |
+| 07:00 | Hong Kong | Golik North District vs Kowloon City | **1 - 1** | `2nd half` | Samuel Granada 57'(H), Kayron Ramos 5'(A) |
+| 07:00 | Hong Kong | Tai Po vs Lee Man FC | **1 - 4** | `2nd half` | Siu-Kwan Philip Chan 58'(H), Mikael Severo 55'(A), Noah Baffoe 50'(A), Noah Baffoe 25'(A), Noah Baffoe 1'(A) |
+| 07:30 | India | JHR Royal City FC vs FC Medinipur | **3 - 1** | `1st half` | Unknown 45'(A), Unknown 29'(H), Unknown 26'(H), Unknown 22'(H) |
+| 08:30 | Indonesia | Adhyaksa FC vs Sumsel United FC | **0 - 0** | `1st half` | --- |
+| 08:30 | Indonesia | Persikad Depok vs Garudayaksa FC | **0 - 0** | `1st half` | --- |
+| 08:30 | Indonesia | PS Barito Putera vs Persipura Jayapura | **0 - 0** | `1st half` | --- |
+| 08:00 | Indonesia | Persikota Tangerang vs Pekanbaru FC | **0 - 0** | `1st half` | --- |
+| 08:00 | Indonesia | Gresik United FC vs Persiba Bantul | **0 - 0** | `1st half` | --- |
+| 07:00 | Indonesia | Arema FC U20 vs Persik Kediri U20 | **0 - 1** | `2nd half` | Unknown 16'(A) |
+| 07:00 | Indonesia | Bali United U20 vs Malut United FC U20 | **2 - 1** | `2nd half` | Unknown 17'(H), Unknown 12'(A), Unknown 6'(H) |
+| 07:00 | Indonesia | Borneo FC U20 vs Persis Solo U20 | **0 - 0** | `2nd half` | --- |
+| 08:00 | Indonesia | Bhayangkara U20 vs Semen Padang U20 | **0 - 0** | `1st half` | --- |
+| 08:00 | Indonesia | Persebaya Surabaya U20 vs PSM Makassar U20 | **0 - 0** | `1st half` | --- |
+| 07:00 | Philippines | Valenzuela PB-Mendiola FC vs Tuloy FC | **0 - 3** | `2nd half` | Harry Nuñez 50'(A), Unknown 45'(A), Unknown 45'(A) |
+| 07:00 | South Africa | Chippa United FC Reserves U23 vs Stellenbosch FC Reserves U23 | **0 - 0** | `2nd half` | --- |
+| 08:00 | South Africa | Magesi FC Reserves U23 vs Amazulu Reserves U23 | **0 - 2** | `1st half` | Unknown 30'(A), Unknown 19'(A) |
+| 08:00 | South Africa | TS Galaxy FC Reserves U23 vs Richards Bay FC Reserves U23 | **1 - 0** | `1st half` | Unknown 34'(H) |
+| 08:00 | Turkey | Yeni Levent Konaklarspor U17 vs Bakırköy 1923 Spor U17 | **0 - 0** | `Started` | --- |
+| 08:00 | Turkey | Pendik Güvenspor U17 vs Sarıyer Belediyespor U17 | **0 - 0** | `Started` | --- |
+| 08:00 | Turkey | Bigaspor U17 vs Arslancaspor U17 | **0 - 0** | `Started` | --- |
 | 07:00 | Turkey | Pursaklar Belediyespor U17 vs Referansspor U17 | **0 - 0** | `Started` | --- |
-| 07:30 | Vietnam | Đồng Tháp U19 vs SHB Đà Nẵng U19 | **0 - 0** | `1st half` | --- |
+| 08:00 | Turkey | Adana İdmanyurduspor U17 vs Adanagücü U17 | **0 - 0** | `Started` | --- |
+| 08:00 | Turkey Amateur | Tatvanspor vs Tatvan Gençlerbirliği | **0 - 0** | `Started` | --- |
+| 08:00 | Turkey Amateur | Iğdırspor 1952 vs Iğdır Atatürk Mahallesi | **0 - 0** | `Started` | --- |
+| 08:00 | Turkey Amateur | Çatalca Öznakkaş SK vs Ortaköy Silivri SK | **0 - 0** | `Started` | --- |
+| 08:30 | Turkey Amateur | Çapaspor vs Şişli Yaylaspor | **0 - 0** | `Started` | --- |
+| 07:30 | Vietnam | Đồng Tháp U19 vs SHB Đà Nẵng U19 | **0 - 1** | `2nd half` | Unknown 32'(A) |
+| 08:30 | Vietnam | Than Khoáng Sản Việt Nam U19 vs Hồ Chí Minh U19 | **0 - 0** | `1st half` | --- |
