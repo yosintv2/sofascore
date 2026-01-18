@@ -2,36 +2,46 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Mexico | Club Necaxa vs Atlas FC | **0 - 1** | `Halftime` | Arturo González 43'(A) |
-| 23:07 | Mexico | CD Guadalajara vs Querétaro FC | **1 - 0** | `Halftime` | Armando González 35'(H) |
-| 23:30 | Brazil | Palmeiras vs Mirassol | **0 - 0** | `1st half` | --- |
-| 23:20 | Colombia | Atlético Nacional vs Boyacá Chicó FC | **0 - 0** | `1st half` | --- |
-| 23:00 | World | San Lorenzo vs Cerro Porteño | **0 - 0** | `Halftime` | --- |
-| 23:00 | World | Chile KWC vs Brazil KWC | **1 - 3** | `1st half` | Ignacio Herrera 8'(H), Matheus Dedo 8'(A), Lipão Pinheiro 5'(A), Leleti' Garcia 2'(A) |
-| 22:00 | Brazil | ADESG vs Humaitá | **1 - 1** | `2nd half` | Unknown 57'(H), Aldair 45'(A) |
-| 22:00 | Brazil | Vilavelhense vs Rio Branco-ES | **1 - 4** | `2nd half` | Breno Melo 68'(A), Unknown 53'(H), Brandao 49'(A), Zé Mateus 45'(A), Breno Melo 23'(A) |
-| 22:30 | Brazil | Barra FC vs Brusque | **0 - 1** | `2nd half` | Luizão 26'(A) |
-| 22:00 | Brazil | Maranguape vs Floresta | **0 - 3** | `2nd half` | Cedric 90'(A), Eduardo 36'(A), João Victor 29'(A) |
-| 22:30 | Brazil | ITZ Sport vs Imperatriz | **0 - 0** | `2nd half` | --- |
-| 23:00 | Brazil | Sport Sinop vs Operário-MT | **0 - 0** | `Halftime` | --- |
-| 23:30 | Brazil | União Recreativa dos Trabalhadores vs Pouso Alegre FC | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | São José EC vs Juventus-SP | **0 - 1** | `2nd half` | Elkin Muñoz 7'(A) |
-| 22:00 | Brazil | Sertãozinho vs Votuporanguense | **0 - 0** | `2nd half` | --- |
-| 23:00 | Costa Rica | Inter San Carlos vs AD Sarchi | **0 - 1** | `Halftime` | Unknown 25'(A) |
-| 22:00 | Dominican Republic | Moca FC vs Cibao FC | **1 - 0** | `2nd half` | Unknown 90'(H) |
-| 23:00 | France Amateur | US Andaine vs AV De Messei | **5 - 2** | `Started` | Unknown 89'(H), Unknown 77'(A), Unknown 65'(H), Unknown 55'(A), Unknown 52'(H), Unknown 42'(H), Unknown 25'(H) |
-| 23:45 | Indonesia | Newland FA U14 vs Nawasena FC U14 | **1 - 0** | `1st half` | Fakhri Kaisanur Saleh 3'(H) |
-| 23:45 | Indonesia | Fifa Farmel U15 vs Mastabe FA U15 | **0 - 0** | `1st half` | --- |
-| 23:00 | Mexico | Tlaxcala FC vs Cancún FC | **0 - 0** | `Halftime` | --- |
-| 23:00 | Mexico | Club América vs Necaxa | **3 - 0** | `Halftime` | Kiana Palacios 29'(H), Angelique Saldivar 28'(H), Gabriela García 18'(H) |
-| 22:00 | Mexico | Alebrijes CDMX vs Zapata FC | **0 - 2** | `2nd half` | Unknown 61'(A), Unknown 46'(A) |
-| 22:00 | Mexico | Fut-Car vs Santa Ana del Conde FC | **3 - 0** | `2nd half` | Unknown 90'(H), Unknown 31'(H), Unknown 26'(H) |
-| 23:00 | Mexico | Sporting Canamy vs Real Apodaca F.C. | **1 - 2** | `Halftime` | Unknown 37'(A), Unknown 19'(H), Unknown 11'(A) |
-| 22:00 | Mexico | Inter Playa del Carmen vs Jaguares F.C. | **3 - 3** | `2nd half` | Unknown 79'(A), Unknown 76'(H), Unknown 59'(A), Unknown 43'(A), Unknown 26'(H), Unknown 4'(H) |
-| 23:00 | Mexico | Tapachula Soconusco F.C. vs Deportiva Venados | **2 - 2** | `Halftime` | Unknown 32'(H), Unknown 14'(A), Unknown 6'(A), Unknown 4'(H) |
-| 23:45 | Mexico | Club Tijuana U21 vs Atletico San Luis U21 | **0 - 0** | `1st half` | --- |
-| 23:00 | Nicaragua | Real Madriz vs Real Estelí | **0 - 1** | `1st half` | Unknown 27'(A) |
-| 23:15 | Panama | San Francisco FC vs Cocle FC | **0 - 0** | `1st half` | --- |
-| 22:00 | Saint Kitts and Nevis | St .Peter's FC vs Newtown United FC | **0 - 1** | `2nd half` | Unknown 40'(A) |
-| 23:00 | Suriname | SV Notch vs SV Robinhood | **0 - 0** | `Halftime` | --- |
-| 23:00 | Uruguay | Nacional vs Cerro Largo | **1 - 0** | `Halftime` | Agustin Dos Santos 33'(H) |
+| 01:00 | Mexico | Tigres UANL vs CD Toluca | **0 - 0** | `Halftime` | --- |
+| 01:30 | Colombia | Atlético Bucaramanga vs Millonarios | **0 - 0** | `1st half` | --- |
+| 01:15 | World | Peñarol vs River Plate | **0 - 0** | `Halftime` | --- |
+| 00:30 | Brazil | Volta Redonda Futebol Clube vs Flamengo | **2 - 0** | `2nd half` | Rafael Castro 51'(H), Marcos Vinicius 17'(H) |
+| 02:00 | Costa Rica | Herediano vs Deportivo Saprissa | **0 - 0** | `1st half` | --- |
+| 01:00 | El Salvador | CD FAS vs Isidro Metapan | **1 - 1** | `Halftime` | Unknown 37'(H), Unknown 31'(A) |
+| 01:00 | El Salvador | CD Luis Ángel Firpo vs CD Municipal Limeño | **1 - 0** | `2nd half` | Cristian Gil 5'(H) |
+| 01:00 | Greece Amateur | AS Megas Alexandros Pelargou vs Megas Alexandros Florinas | **0 - 0** | `Started` | --- |
+| 01:00 | Guatemala | Deportivo Gomerano vs Juventud Copalera | **1 - 0** | `2nd half` | Unknown 45'(H) |
+| 02:00 | Guatemala | Quiché FC vs Deportivo San Pedro | **0 - 0** | `1st half` | --- |
+| 01:00 | Guatemala | CSD Chiquimulilla vs San Benito FC | **1 - 1** | `Halftime` | Unknown 32'(A), Unknown 29'(H) |
+| 00:55 | Indonesia | Semen Padang U17 vs Steelford United U17 | **3 - 0** | `2nd half` | Prabu Javier Putrana Buana 45'(H), Ahmad Fadil Saragih 33'(H), Muhammad Alwi Erlangga Mufti 25'(H) |
+| 02:00 | Indonesia | Diklat ISA U13 vs Bina Taruna U13 | **0 - 0** | `1st half` | --- |
+| 00:55 | Indonesia | biMBA AIUEO U14 vs Padurenan SS U14 | **0 - 1** | `2nd half` | Muhammad Rizky Aiedil Adha 50'(A) |
+| 01:10 | Indonesia | Sulcata Racing U14 vs Asiop Biru U14 | **0 - 0** | `1st half` | --- |
+| 00:50 | Indonesia | Newland FA U15 vs Binna Banua U15 | **1 - 1** | `2nd half` | Fadliasyah Alghifari 34'(H), Gazendra Prayata 23'(A) |
+| 01:00 | Indonesia | Abinaya SS U15 vs Ocean Stars U15 | **2 - 1** | `2nd half` | Yusuf Listiyanto 57'(H), Unknown 51'(A), Deivanz Rizky  Almukti 11'(H) |
+| 01:00 | Indonesia | Hamka 23 U15 vs Batalyon FA U15 | **1 - 2** | `2nd half` | Muhammad Alden Boby 52'(H), Naymar  Ichwan 17'(A), Fauzan  Syahputra 7'(A) |
+| 01:10 | Indonesia | Stoni Rajawali U16 vs Akademi Purwakarta U16 | **1 - 2** | `2nd half` | Afriz Afriansyah 37'(H), Mahesa Firmansyah 8'(A), Abdi  Malik 5'(A) |
+| 01:00 | Mexico | C.D. Irapuato vs Leones Negros | **1 - 1** | `2nd half` | Robert Castellanos 20'(H), Denilson Munoz 4'(A) |
+| 01:06 | Mexico | Querétaro vs Monterrey | **0 - 1** | `Halftime` | Unknown 37'(A) |
+| 01:00 | Mexico | Artesanos Bajos De Chila vs Pro Training Camp FC | **2 - 1** | `2nd half` | Unknown 33'(H), Unknown 3'(A), Unknown 2'(H) |
+| 02:00 | Mexico | Caballeros de Cordoba vs Club Deportivo Águila Azteca | **0 - 0** | `1st half` | --- |
+| 01:00 | Mexico | Reboceros de La Piedad vs Tritones Vallarta M.F.C. | **0 - 2** | `Halftime` | Unknown 36'(A), Unknown 29'(A) |
+| 01:00 | Mexico | Club Calor vs Cordobés F.C. | **2 - 0** | `Halftime` | Unknown 45'(H), Unknown 32'(H) |
+| 01:00 | Mexico | Celaya FC vs Cañoneros F.C. | **2 - 0** | `Halftime` | Unknown 36'(H), Unknown 22'(H) |
+| 01:00 | Mexico | Racing de Veracruz vs Neza FC | **2 - 1** | `Halftime` | Unknown 23'(H), Unknown 13'(H), Unknown 7'(A) |
+| 01:00 | Nicaragua | Deportivo Ocotal vs Tigres de Chinandega | **1 - 0** | `Halftime` | Unknown 2'(H) |
+| 01:30 | Panama | CD Plaza Amador vs Sporting San Miguelito | **0 - 1** | `1st half` | Joel Barría 18'(A) |
+| 23:00 | Suriname | SV Notch vs SV Robinhood | **0 - 0** | `2nd half` | --- |
+| 00:30 | Uruguay Amateur | Tacuarembo Capital vs Salto Capital | **1 - 1** | `2nd half` | Mateo Fernández 65'(H), Junior Gastón Rodríguez Rodríguez 11'(A) |
+| 00:45 | Uruguay Amateur | Paysandú Capital vs Artigas Capital | **2 - 0** | `2nd half` | --- |
+| 00:15 | Uruguay Amateur | Soriano Capital vs Rio Negro Interior | **2 - 0** | `2nd half` | Unknown 83'(A), Bruno Bauhoffer 51'(H), Walter Domínguez 28'(H) |
+| 01:00 | Uruguay Amateur | Rio Negro Capital vs Soriano Interior | **0 - 0** | `2nd half` | --- |
+| 00:45 | Uruguay Amateur | Salto Interior vs Artigas Interior | **0 - 1** | `2nd half` | Unknown 34'(A) |
+| 01:00 | Uruguay Amateur | Paysandú Interior vs Rivera Interior | **0 - 0** | `Started` | --- |
+| 01:00 | Uruguay Amateur | Florida Capital vs Canelones Capital | **1 - 1** | `Halftime` | Unknown 45'(A), Unknown 13'(H) |
+| 00:45 | Uruguay Amateur | Durazno Capital vs Tacuarembo Interior | **1 - 0** | `Started` | Mauro Olivera -1'(H) |
+| 01:00 | Uruguay Amateur | Treinta y Tres Capital vs Canelones Interior | **1 - 1** | `2nd half` | Unknown 45'(H), Agustín Alonso García 45'(A) |
+| 00:15 | Uruguay Amateur | Lavalleja Interior vs Lavalleja Capital | **1 - 2** | `2nd half` | Unknown 74'(H), Unknown 70'(A), Eduardo Chocho 19'(A) |
+| 00:45 | Uruguay Amateur | Maldonado Interior vs Treinta y Tres Interior | **3 - 0** | `2nd half` | Unknown 42'(H), Unknown 36'(H), Unknown 23'(H) |
+| 00:15 | Uruguay Amateur | Cerro Largo Capital vs Rocha Capital | **2 - 1** | `2nd half` | Unknown 16'(A), Unknown 14'(H), Unknown 6'(H) |
+| 01:00 | Uruguay Amateur | Colonia Capital vs Colonia Interior | **1 - 0** | `2nd half` | Unknown 45'(H) |
