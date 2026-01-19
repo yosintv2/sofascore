@@ -2,12 +2,10 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 21:00 | Colombia | Cúcuta Deportivo vs Once Caldas | **1 - 2** | `2nd half` | Dayro Moreno 87'(A), Dayro Moreno 62'(A), Jaime Peralta 35'(H) |
-| 22:30 | Brazil | Criciúma vs Concórdia AC | **2 - 0** | `1st half` | Diego Gonçalves 9'(H) |
-| 21:30 | Brazil | Palmeiras U20 vs Ibrachina U20 | **1 - 0** | `2nd half` | Unknown 6'(H) |
-| 22:00 | Jamaica | Molynes United FC vs Tivoli Gardens | **1 - 1** | `Halftime` | Unknown 7'(A), Unknown 5'(H) |
+| 23:00 | World | Deportivo La Guaira vs Academia Puerto Cabello | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | Criciúma vs Concórdia AC | **3 - 0** | `Halftime` | Jhonata Robert 44'(H), Nicolas 16'(H), Diego Gonçalves 9'(H) |
+| 21:30 | Brazil | Palmeiras U20 vs Ibrachina U20 | **1 - 2** | `2nd half` | Kauan Christhian Ribeiro Silva 64'(A), Unknown 57'(A), Unknown 6'(H) |
+| 23:00 | Costa Rica | CD Escorpiones Belen vs AD Carmelita | **0 - 0** | `1st half` | --- |
+| 22:00 | Jamaica | Molynes United FC vs Tivoli Gardens | **3 - 1** | `2nd half` | Unknown 55'(H), Unknown 52'(H), Unknown 7'(A), Unknown 5'(H) |
 | 22:00 | Portugal Amateur | Centro Ciclista de Gondomar vs Juventude Pedrouços FC | **0 - 0** | `Started` | --- |
 | 21:00 | Portugal Amateur | AEISEL vs AAUAL | **0 - 0** | `Started` | --- |
-| 18:00 | Turkey Amateur | Akşemsettin FC vs Koçak FK | **2 - 9** | `Started` | Unknown 90'(A), Unknown 90'(A), Unknown 90'(A), Ömercan Laçin 90'(A), Cemil Arslan 90'(A), Ömercan Laçin 90'(A), Unknown 74'(H), Harun İpek 74'(H), Unknown 73'(A), Umut Burak 73'(A), Unknown 73'(A) |
-| 19:00 | Turkey Amateur | Ataköyspor vs Kınalıkoç Spor | **0 - 0** | `Started` | --- |
-| 20:00 | Turkey Amateur | Real Drivers vs Boys Of Gümrük | **1 - 0** | `Started` | Unknown 67'(H) |
