@@ -2,10 +2,10 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 21:00 | Colombia | Cúcuta Deportivo vs Once Caldas | **1 - 1** | `2nd half` | Dayro Moreno 62'(A), Jaime Peralta 35'(H) |
-| 22:30 | Brazil | Criciúma vs Concórdia AC | **1 - 0** | `1st half` | Diego Gonçalves 9'(H) |
+| 21:00 | Colombia | Cúcuta Deportivo vs Once Caldas | **1 - 2** | `2nd half` | Dayro Moreno 87'(A), Dayro Moreno 62'(A), Jaime Peralta 35'(H) |
+| 22:30 | Brazil | Criciúma vs Concórdia AC | **2 - 0** | `1st half` | Diego Gonçalves 9'(H) |
 | 21:30 | Brazil | Palmeiras U20 vs Ibrachina U20 | **1 - 0** | `2nd half` | Unknown 6'(H) |
-| 22:00 | Jamaica | Molynes United FC vs Tivoli Gardens | **1 - 1** | `1st half` | Unknown 7'(A), Unknown 5'(H) |
+| 22:00 | Jamaica | Molynes United FC vs Tivoli Gardens | **1 - 1** | `Halftime` | Unknown 7'(A), Unknown 5'(H) |
 | 22:00 | Portugal Amateur | Centro Ciclista de Gondomar vs Juventude Pedrouços FC | **0 - 0** | `Started` | --- |
 | 21:00 | Portugal Amateur | AEISEL vs AAUAL | **0 - 0** | `Started` | --- |
 | 18:00 | Turkey Amateur | Akşemsettin FC vs Koçak FK | **2 - 9** | `Started` | Unknown 90'(A), Unknown 90'(A), Unknown 90'(A), Ömercan Laçin 90'(A), Cemil Arslan 90'(A), Ömercan Laçin 90'(A), Unknown 74'(H), Harun İpek 74'(H), Unknown 73'(A), Umut Burak 73'(A), Unknown 73'(A) |
