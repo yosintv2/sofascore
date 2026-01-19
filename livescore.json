@@ -1,9 +1,19 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-19 17:13:44 UTC"
+        "updated": "2026-01-19 17:41:31 UTC"
     },
     "matches": [
+        {
+            "start_time": "17:30",
+            "league": "Serie A",
+            "country": "Italy",
+            "home": "Cremonese",
+            "away": "Hellas Verona",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
         {
             "start_time": "17:00",
             "league": "Trendyol S\u00fcper Lig",
@@ -20,9 +30,11 @@
             "country": "Turkey",
             "home": "G\u00f6ztepe",
             "away": "\u00c7aykur Rizespor",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Novatus Miroshi 39'(H)"
+            ]
         },
         {
             "start_time": "16:00",
@@ -30,9 +42,10 @@
             "country": "Greece",
             "home": "GFS Panetolikos",
             "away": "APO Levadiakos",
-            "score": "0 - 3",
+            "score": "1 - 3",
             "minute": "2nd half",
             "scorers": [
+                "B\u00e9ni Nkololo 63'(H)",
                 "Panagiotis Liagas 45'(A)",
                 "Guillermo Balzi 10'(A)",
                 "Giannis Kosti 3'(A)"
@@ -49,20 +62,24 @@
             "scorers": []
         },
         {
-            "start_time": "15:45",
-            "league": "Pro League",
-            "country": "United Arab Emirates",
-            "home": "Shabab Al-Ahli Dubai",
-            "away": "Dibba Al-Fujairah",
-            "score": "5 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Thiago 58'(H)",
-                "Saeid Ezatolahi 51'(H)",
-                "Kauan Santos 44'(H)",
-                "Mohammad Juma 33'(H)",
-                "Mateus\u00e3o 15'(H)"
-            ]
+            "start_time": "17:30",
+            "league": "Premier League",
+            "country": "Israel",
+            "home": "Hapoel Ironi Kiryat Shmona",
+            "away": "Hapoel Haifa",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "17:30",
+            "league": "Premiership",
+            "country": "South Africa",
+            "home": "Mamelodi Sundowns",
+            "away": "ORBIT College FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "16:00",
@@ -83,9 +100,10 @@
             "country": "Albania",
             "home": "FK Partizani",
             "away": "KF Teuta Durr\u00ebs",
-            "score": "1 - 0",
+            "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Artan Jazxhi 80'(A)",
                 "Rrok Toma 31'(H)"
             ]
         },
@@ -95,9 +113,10 @@
             "country": "Bahrain",
             "home": "Umm Al Hassam U21",
             "away": "Sitra Club U21",
-            "score": "2 - 1",
+            "score": "3 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 90'(H)",
                 "Unknown 45'(H)",
                 "Unknown 45'(A)",
                 "Unknown 24'(H)"
@@ -110,7 +129,7 @@
             "home": "Al-Shabab Manama U21",
             "away": "Al-Muharraq U21",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 10'(A)"
             ]
@@ -152,7 +171,7 @@
             "home": "BST Galaxy",
             "away": "Samger FC",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 29'(A)"
             ]
@@ -163,42 +182,12 @@
             "country": "Gambia",
             "home": "Gambia Ports Authority",
             "away": "Fortune FC",
-            "score": "1 - 0",
+            "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 73'(A)",
                 "Unknown 26'(H)"
             ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "CRFA Division Two - Zone 1",
-            "country": "Ghana",
-            "home": "Real Academical FC",
-            "away": "Cape Coast Shooting Stars",
-            "score": "6 - 4",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Unknown 90'(H)",
-                "Unknown 86'(H)",
-                "Unknown 81'(A)",
-                "Unknown 75'(A)",
-                "Unknown 50'(H)",
-                "Unknown 45'(H)",
-                "Unknown 24'(A)",
-                "Unknown 17'(H)",
-                "Unknown 17'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "ARFA Division Two, Zone 4",
-            "country": "Ghana",
-            "home": "Soccer 4 Souls FC",
-            "away": "Midcity FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
         },
         {
             "start_time": "16:30",
@@ -224,10 +213,13 @@
             "country": "Israel",
             "home": "Hapoel Kfar Saba",
             "away": "Hapoel Afula",
-            "score": "1 - 0",
+            "score": "2 - 2",
             "minute": "1st half",
             "scorers": [
-                "Unknown 7'(H)"
+                "Julio C\u00e9sar 33'(H)",
+                "Unknown 23'(A)",
+                "Kule Mbombo 21'(A)",
+                "Niv Tubul 7'(H)"
             ]
         },
         {
@@ -236,9 +228,11 @@
             "country": "Israel",
             "home": "Hapoel Kfar Shelem",
             "away": "Hapoel Raanana",
-            "score": "1 - 0",
+            "score": "2 - 1",
             "minute": "1st half",
             "scorers": [
+                "Unknown 33'(H)",
+                "Omer David Dahan 25'(A)",
                 "Unknown 5'(H)"
             ]
         },
@@ -258,9 +252,12 @@
             "country": "Kuwait",
             "home": "Al Arabi SC Kuwait",
             "away": "Al Fahaheel SC",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "2 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 61'(H)",
+                "Unknown 51'(H)"
+            ]
         },
         {
             "start_time": "16:00",
@@ -268,53 +265,12 @@
             "country": "Mauritania",
             "home": "Ways FC",
             "away": "Olympique De Sebkha",
-            "score": "0 - 1",
+            "score": "0 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 65'(A)",
+                "Unknown 49'(A)",
                 "Unknown 26'(A)"
-            ]
-        },
-        {
-            "start_time": "15:30",
-            "league": "U23 Championship, Championship Round",
-            "country": "Portugal",
-            "home": "Leix\u00f5es SC U23",
-            "away": "SC Braga U23",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Kiton Ekoli 63'(A)",
-                "Miguel Rajani 17'(H)"
-            ]
-        },
-        {
-            "start_time": "15:30",
-            "league": "QSL Cup",
-            "country": "Qatar",
-            "home": "Al-Arabi SC",
-            "away": "Al-Sadd",
-            "score": "5 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 76'(H)",
-                "Unknown 34'(H)",
-                "Unknown 23'(H)",
-                "Unknown 19'(H)",
-                "Unknown 4'(H)"
-            ]
-        },
-        {
-            "start_time": "15:30",
-            "league": "QSL Cup",
-            "country": "Qatar",
-            "home": "Al-Sailiya",
-            "away": "Al-Ahli Doha",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 75'(H)",
-                "Unknown 57'(A)",
-                "Unknown 48'(H)"
             ]
         },
         {
@@ -324,7 +280,7 @@
             "home": "Abacha City FC",
             "away": "Mighty Blackpool FC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
