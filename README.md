@@ -2,34 +2,37 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 17:45 | Europe | Bodø/Glimt vs Manchester City | **0 - 0** | `1st half` | --- |
-| 17:45 | Netherlands | De Treffers vs NEC Nijmegen | **0 - 1** | `1st half` | Başar Önal 3'(A) |
-| 17:30 | Saudi Arabia | Al-Ahli vs Al-Khaleej | **0 - 1** | `1st half` | Giorgos Masouras 19'(A) |
-| 17:30 | Saudi Arabia | Al-Fateh vs Al-Kholood | **0 - 2** | `1st half` | Muhammad Sawan 19'(A), Ramiro Enrique 12'(A) |
-| 17:30 | South Africa | Kaizer Chiefs vs Lamontville Golden Arrows | **0 - 0** | `1st half` | --- |
-| 17:30 | South Africa | Sekhukhune United vs Stellenbosch | **0 - 0** | `1st half` | --- |
-| 16:30 | World | Kapfenberger SV vs SC Weiz | **1 - 0** | `2nd half` | Unknown 4'(H) |
-| 16:30 | World | Middelfart vs Naesby | **0 - 0** | `2nd half` | --- |
-| 17:00 | World | BSG Chemie Leipzig vs Union Sandersdorf | **1 - 0** | `Halftime` | --- |
-| 17:00 | World | MFK Tatran Liptovský Mikuláš vs MŠK Námestovo | **5 - 1** | `2nd half` | Unknown 46'(H), Unknown 27'(H), Unknown 26'(H), Unknown 14'(H), Unknown 9'(A), Unknown 4'(H) |
-| 17:15 | World | SV SMB Pachern vs FC Gleisdorf 09 | **0 - 4** | `1st half` | Unknown 42'(A), Unknown 23'(A), Andre Dirnberger 21'(A), Andre Dirnberger 5'(A) |
-| 17:30 | World | Oedt vs SKU Amstetten | **0 - 0** | `1st half` | --- |
-| 17:30 | World | SV Dinamo Helfort vs SV Leobendorf | **1 - 0** | `1st half` | Unknown 27'(H) |
-| 17:30 | World | ZFC Meuselwitz vs SSC Weissenfels | **1 - 0** | `1st half` | Unknown 15'(H) |
-| 17:00 | Italy | Milan vs Fiorentina | **0 - 1** | `Halftime` | Emilie Woldvik 10'(A) |
-| 17:00 | Italy | Inter U20 vs Monza U20 | **1 - 1** | `Halftime` | Jamal Iddrissou 36'(H), Lorenzo Colonnese 2'(A) |
-| 16:00 | Bulgaria Amateur | FC Lyulin Sofia vs FC Levski-Rakovski Sofia | **5 - 0** | `Started` | Unknown 82'(H), Unknown 82'(H), Konstantin Pepiev 82'(H), Decho Shishmanov 82'(H), Krum Stanev 82'(H) |
-| 16:00 | Gambia | Hart Academy FC vs Bombada FC | **0 - 1** | `2nd half` | Unknown 39'(A) |
-| 16:00 | Gambia | Hawks FC vs Steve Biko FC | **1 - 0** | `2nd half` | Unknown 46'(H) |
-| 17:30 | Israel | Ironi Nesher U19 vs SC Kiryat Yam U19 | **0 - 1** | `1st half` | Unknown 21'(A) |
-| 16:30 | Israel | Hapoel Nir Ramat Hasharon U19 vs Ashdod FC U19 | **0 - 0** | `2nd half` | --- |
-| 16:30 | Libya | Al Dahra Tripoli FC vs Al Ahli Tripoli | **0 - 1** | `2nd half` | Ezzeddine Al Mariami 6'(A) |
-| 16:30 | Libya | Assabah SC vs Al Khums SC | **0 - 1** | `2nd half` | Mohammed Al Debbar 57'(A) |
-| 16:00 | Mauritania | Star Arafat vs AS Armee | **2 - 2** | `2nd half` | Unknown 65'(A), Unknown 56'(A), Unknown 54'(H), Unknown 37'(H) |
-| 16:15 | Oman | Al Seeb SC vs Al Nahda SC | **1 - 0** | `2nd half` | Marwan Mubarak 45'(H) |
+| 17:45 | Europe | Bodø/Glimt vs Manchester City | **3 - 1** | `2nd half` | Rayan Cherki 60'(A), Jens Petter Hauge 58'(H), Kasper Høgh 24'(H), Kasper Høgh 22'(H) |
+| 17:45 | Netherlands | De Treffers vs NEC Nijmegen | **1 - 1** | `2nd half` | Willem den Dekker 50'(H), Başar Önal 3'(A) |
+| 17:30 | Saudi Arabia | Al-Ahli vs Al-Khaleej | **2 - 1** | `2nd half` | Ivan Toney 67'(H), Ivan Toney 59'(H), Giorgos Masouras 19'(A) |
+| 17:30 | Saudi Arabia | Al-Fateh vs Al-Kholood | **2 - 4** | `2nd half` | Abdulrahman Al Dosari 71'(A), John Buckley 57'(H), Hattan Bahebri 55'(A), Zaydou Youssouf 45'(H), Muhammad Sawan 19'(A), Ramiro Enrique 12'(A) |
+| 17:30 | South Africa | Kaizer Chiefs vs Lamontville Golden Arrows | **1 - 0** | `2nd half` | Aden McCarthy 39'(H) |
+| 17:30 | South Africa | Sekhukhune United vs Stellenbosch | **0 - 1** | `2nd half` | Tshegofatso Mabasa 32'(A) |
+| 17:30 | World | Oedt vs SKU Amstetten | **3 - 1** | `2nd half` | Unknown 84'(A), Unknown 74'(H), Unknown 43'(H), Unknown 39'(H) |
+| 17:30 | World | SV Dinamo Helfort vs SV Leobendorf | **1 - 1** | `2nd half` | Unknown 57'(A), Unknown 27'(H) |
+| 17:30 | World | ZFC Meuselwitz vs SSC Weissenfels | **3 - 3** | `2nd half` | Unknown 57'(H), Unknown 56'(A), Unknown 54'(A), Unknown 39'(A), Unknown 28'(H), Unknown 15'(H) |
+| 18:00 | World | Niendorfer TSV vs FC Altona 93 | **1 - 1** | `2nd half` | Unknown 15'(A), Lennart Konstantin Henry  Merkle 10'(H) |
+| 18:00 | World | SG Union Klosterfelde vs Berliner FC Dynamo | **1 - 2** | `2nd half` | Irfan Brando 42'(H), Rufat Dadashov 22'(A), Amiro Amadou 14'(A) |
+| 18:00 | World | SV Fellbach 1890 vs TSG Backnang | **2 - 2** | `Halftime` | --- |
+| 18:00 | World | Young Boys U21 vs FC Prishtina Bern | **3 - 1** | `2nd half` | Unknown 39'(H), Unknown 36'(H), Unknown 17'(H), Unknown 9'(A) |
+| 18:30 | World | Eintracht Norderstedt vs TuRa Harksheide | **1 - 0** | `1st half` | Unknown 4'(H) |
+| 18:30 | World | Siegburger SV 04 vs SG Finnentrop | **1 - 1** | `1st half` | Unknown 13'(H), Unknown 2'(A) |
+| 19:00 | World | Everton U21 vs RB Leipzig U21 | **1 - 0** | `1st half` | Unknown 3'(H) |
+| 19:00 | World | Manchester City U21 vs AS Monaco U21 | **0 - 0** | `1st half` | --- |
+| 19:00 | World | Manchester United U21 vs Sporting CP B U21 | **0 - 0** | `1st half` | --- |
+| 19:00 | England | Fleetwood Town U18 vs Aston Villa U18 | **0 - 0** | `1st half` | --- |
+| 18:15 | Spain | Real Madrid vs Club Atlético de Madrid | **3 - 0** | `1st half` | Linda Caicedo 19'(H), Caroline Weir 15'(H), Athenea del Castillo 6'(H) |
+| 18:30 | Germany Amateur | SV Rot-Weiss Walldorf vs SV Wehen Wiesbaden U19 | **0 - 0** | `Started` | --- |
+| 18:45 | Germany Amateur | SSD Nikola Tesla Hamburg vs TUS Osdorf | **2 - 0** | `1st half` | Unknown 9'(H), Unknown 5'(H) |
+| 19:00 | Germany Amateur | FC St. Pauli III vs Hamm United FC | **0 - 0** | `Started` | --- |
+| 19:00 | Iceland | Fylkir Reykjavík vs Valur Reykjavík | **0 - 0** | `1st half` | --- |
+| 17:30 | Israel | Ironi Nesher U19 vs SC Kiryat Yam U19 | **1 - 2** | `2nd half` | Unknown 61'(H), Unknown 47'(A), Unknown 21'(A) |
+| 18:00 | Israel | Bnei Yehuda U19 vs Hapoel Kfar Saba U19 | **1 - 2** | `Halftime` | Unknown 34'(A), Unknown 12'(H), Unknown 9'(A) |
+| 18:45 | Italy Amateur | Binetto FC vs FC Dental Smile | **0 - 1** | `1st half` | Gianni Diana 5'(A) |
 | 12:15 | Saudi Arabia | Al-Taraji vs Al-Sadd | **2 - 2** | `2nd half` | Unknown 84'(H), Unknown 54'(A), Unknown 36'(A) |
 | 12:50 | Saudi Arabia | Najran vs Al-Ain | **2 - 0** | `2nd half` | --- |
+| 18:30 | Spain Amateur | Platges De Calviá vs CD Llosetense | **1 - 2** | `1st half` | Unknown 26'(H), Unknown 11'(A), Unknown 9'(A) |
+| 18:00 | Turkey Amateur | Veteranlar FK vs Zile İdman Yurdu | **2 - 1** | `2nd half` | Burak Ataseven 26'(A), Mehmet Erakça 17'(H), Serdar Yılmaz 13'(H) |
 | 18:00 | Turkey Amateur | Börü Futbol Kulübü İstanbul vs Legion FC | **0 - 0** | `Started` | --- |
-| 17:00 | Turkey Amateur | Diyarbakır Demirspor vs Öz Diyar Gençlik | **2 - 6** | `Started` | Unknown 87'(A), Unknown 83'(A), Unknown 80'(A), Unknown 64'(A), Unknown 57'(A), Unknown 40'(H), Unknown 37'(H), Unknown 17'(A) |
-| 17:00 | Turkey Amateur | Diyarbakır Seyrantepespor vs Öz Hevsel Gençlikspor | **3 - 3** | `Started` | Unknown 79'(A), Unknown 75'(H), Unknown 48'(H), Unknown 45'(A), Unknown 38'(A), Unknown 30'(H) |
-| 17:45 | Turkey Amateur | Bosphorus Gücü vs Şimşek FK | **0 - 0** | `1st half` | --- |
+| 19:00 | Turkey Amateur | Gençlergücü vs Real Bandidos | **0 - 0** | `Started` | --- |
+| 18:45 | Turkey Amateur | Matadorlar FC vs İstanbul Diamond FK | **0 - 0** | `1st half` | --- |
