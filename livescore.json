@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-22 20:54:51 UTC"
+        "updated": "2026-01-22 21:19:01 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Celta Vigo",
             "away": "Lille",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Williot Swedberg 1'(H)"
             ]
@@ -32,9 +32,11 @@
             "country": "Europe",
             "home": "Ferencv\u00e1ros TC",
             "away": "Panathinaikos",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Yusuf Bamidele 62'(H)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -43,7 +45,7 @@
             "home": "GNK Dinamo Zagreb",
             "away": "FCSB",
             "score": "2 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Daniel B\u00eerligea 42'(A)",
                 "Dion Drena Beljo 11'(H)",
@@ -56,8 +58,8 @@
             "country": "Europe",
             "home": "Nice",
             "away": "Go Ahead Eagles",
-            "score": "2 - 0",
-            "minute": "Halftime",
+            "score": "3 - 0",
+            "minute": "2nd half",
             "scorers": [
                 "Tiago Gouveia 41'(H)",
                 "Charles Vanhoutte 10'(H)"
@@ -70,7 +72,7 @@
             "home": "Rangers",
             "away": "Ludogorets",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Mohammed Diomande 33'(H)"
             ]
@@ -81,9 +83,10 @@
             "country": "Europe",
             "home": "Red Bull Salzburg",
             "away": "Basel",
-            "score": "3 - 0",
-            "minute": "Halftime",
+            "score": "3 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Jeremy Agbonifo 56'(A)",
                 "Frans Kr\u00e4tzig 35'(H)",
                 "Kerim Alajbegovi\u0107 12'(H)",
                 "Kerim Alajbegovi\u0107 4'(H)"
@@ -96,7 +99,7 @@
             "home": "Roma",
             "away": "VfB Stuttgart",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Niccol\u00f2 Pisilli 40'(H)"
             ]
@@ -107,9 +110,11 @@
             "country": "Europe",
             "home": "Sporting Braga",
             "away": "Nottingham Forest",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Ryan Yates 54'(H)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -117,26 +122,12 @@
             "country": "England",
             "home": "Lincoln City",
             "away": "Burton Albion",
-            "score": "1 - 1",
-            "minute": "Halftime",
-            "scorers": [
-                "Jake Beesley 37'(A)",
-                "Jack Moylan 35'(H)"
-            ]
-        },
-        {
-            "start_time": "19:00",
-            "league": "U21 Premier League International Cup, Group A",
-            "country": "World",
-            "home": "Southampton U21",
-            "away": "PSV Eindhoven U21",
-            "score": "1 - 3",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Romeo Akachukwu 82'(H)",
-                "Robin van Duiven 70'(A)",
-                "Souleymane Sidibe 54'(A)",
-                "Robin van Duiven 18'(A)"
+                "Jack Moylan 55'(H)",
+                "Jake Beesley 37'(A)",
+                "Jack Moylan 35'(H)"
             ]
         },
         {
@@ -145,9 +136,11 @@
             "country": "England",
             "home": "Southend United U18",
             "away": "Wrexham U18",
-            "score": "0 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 71'(H)",
+                "Unknown 60'(A)",
                 "Unknown 23'(A)"
             ]
         },
@@ -158,7 +151,7 @@
             "home": "Aldosivi",
             "away": "Defensa y Justicia",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -168,11 +161,21 @@
             "home": "Madureira",
             "away": "Sampaio Corr\u00eaa-RJ",
             "score": "1 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Ricardo Oliveira 29'(H)",
                 "Matheus Iacovelli 16'(A)"
             ]
+        },
+        {
+            "start_time": "21:00",
+            "league": "Sergipano,  S\u00e9rie A1 \u2013 1\u00aa Fase",
+            "country": "Brazil",
+            "home": "Desportiva Aracaju",
+            "away": "Dorense FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "20:00",
@@ -181,10 +184,20 @@
             "home": "Cosmopolitano U15",
             "away": "Palmeiras U15",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Gabriel Lima Schiavolin 20'(H)"
             ]
+        },
+        {
+            "start_time": "20:30",
+            "league": "Liga Metropolitana de Pinar del R\u00edo, Primera Divisi\u00f3n",
+            "country": "Cuba",
+            "home": "FC Maica",
+            "away": "Deportivo Rumayor",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "19:45",
@@ -197,74 +210,15 @@
             "scorers": []
         },
         {
-            "start_time": "18:30",
-            "league": "Germany Friendly Games",
-            "country": "Germany Amateur",
-            "home": "DJK-SSG Darmstadt II",
-            "away": "SKG Erfelden",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Adrian Geyer -1'(H)"
-            ]
-        },
-        {
-            "start_time": "19:00",
-            "league": "Reykjav\u00edk Cup Women, Group A",
-            "country": "Iceland",
-            "home": "V\u00edkingur",
-            "away": "Fj\u00f6lnir",
-            "score": "8 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Unknown 85'(H)",
-                "Unknown 58'(H)",
-                "Unknown 55'(H)",
-                "Unknown 51'(H)",
-                "Unknown 44'(H)",
-                "Unknown 32'(H)",
-                "Unknown 28'(H)"
-            ]
-        },
-        {
-            "start_time": "19:00",
-            "league": "Reykjav\u00edk Cup Women, Group B",
-            "country": "Iceland",
-            "home": "Fylkir",
-            "away": "Valur Reykjav\u00edk",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 45'(A)",
-                "Unknown 33'(A)"
-            ]
-        },
-        {
             "start_time": "19:45",
             "league": "Leinster Senior League Senior Division",
             "country": "Ireland",
             "home": "St Marys AFC",
             "away": "Avondale United",
             "score": "1 - 0",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 35'(H)"
-            ]
-        },
-        {
-            "start_time": "20:00",
-            "league": "Power Off League",
-            "country": "Italy Amateur",
-            "home": "Boca Junior",
-            "away": "Outsiders FC",
-            "score": "3 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Angelo Cazacu 29'(A)",
-                "Alessandro Servedio 9'(H)",
-                "Vito Lobalsamo 8'(H)",
-                "Giuseppe Campanelli 3'(H)"
+                "Unknown 35'(H)"
             ]
         },
         {
@@ -274,7 +228,7 @@
             "home": "Chapelton Maroons FC",
             "away": "Waterhouse FC",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Denardo Thomas 18'(A)"
             ]
@@ -285,10 +239,11 @@
             "country": "Jamaica",
             "home": "Harbour View FC",
             "away": "Treasure Beach FC",
-            "score": "3 - 0",
-            "minute": "Halftime",
+            "score": "3 - 1",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 45'(H)",
+                "Unknown 50'(A)",
+                "Rohan Brown 45'(H)",
                 "Trayvon Reid 13'(H)",
                 "Unknown 4'(H)"
             ]
@@ -300,7 +255,7 @@
             "home": "Portmore United FC",
             "away": "Molynes United FC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -310,21 +265,8 @@
             "home": "Tivoli Gardens",
             "away": "Racing United FC",
             "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "19:15",
-            "league": "Maltese Women's League",
-            "country": "Malta",
-            "home": "Birkirkara FC",
-            "away": "Swieqi United",
-            "score": "0 - 2",
             "minute": "2nd half",
-            "scorers": [
-                "Sara Saliba 71'(A)",
-                "Sara Saliba 28'(A)"
-            ]
+            "scorers": []
         },
         {
             "start_time": "19:30",
@@ -332,9 +274,10 @@
             "country": "Poland Amateur",
             "home": "Sok\u00f3\u0142 Przytyk",
             "away": "GASS Powa\u0142a Tacz\u00f3w",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "Started",
             "scorers": [
+                "Pawe\u0142 Czajka 90'(H)",
                 "Daniel P\u0142askoci\u0144ski 45'(H)"
             ]
         },
@@ -397,7 +340,7 @@
             "score": "1 - 0",
             "minute": "Started",
             "scorers": [
-                "Unknown -1'(H)"
+                "Unknown 90'(H)"
             ]
         },
         {
@@ -406,9 +349,10 @@
             "country": "Turkey Amateur",
             "home": "\u00c7i\u011fzade Dirili\u015f",
             "away": "Favela FC",
-            "score": "1 - 2",
-            "minute": "Halftime",
+            "score": "2 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Muhammed Pa\u015fa \u00dcnl\u00fc 30'(H)",
                 "Kaan Candan 20'(H)",
                 "Emirhan Yalman 19'(A)",
                 "Halid  Demirci 13'(A)"
@@ -420,9 +364,10 @@
             "country": "Wales",
             "home": "Aberystwyth Women",
             "away": "Briton Ferry Llansawel AFC",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "1 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 51'(A)",
                 "Unknown 17'(H)"
             ]
         }
