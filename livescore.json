@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-22 18:27:40 UTC"
+        "updated": "2026-01-22 18:59:52 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Bologna",
             "away": "Celtic",
             "score": "0 - 2",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Auston Trusty 40'(A)",
                 "Reo Hatate 5'(A)"
@@ -24,7 +24,7 @@
             "home": "Fenerbah\u00e7e",
             "away": "Aston Villa",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Jadon Sancho 25'(A)"
             ]
@@ -36,7 +36,7 @@
             "home": "Feyenoord",
             "away": "SK Sturm Graz",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Tsuyoshi Watanabe 5'(H)"
             ]
@@ -48,7 +48,7 @@
             "home": "Malm\u00f6 FF",
             "away": "FK Crvena zvezda",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Vasilije Kostov 16'(A)"
             ]
@@ -60,7 +60,7 @@
             "home": "PAOK",
             "away": "Real Betis",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -70,7 +70,7 @@
             "home": "SC Freiburg",
             "away": "Maccabi Tel Aviv",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -80,7 +80,7 @@
             "home": "SK Brann",
             "away": "FC Midtjylland",
             "score": "1 - 2",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "J\u00fanior Brumado 31'(A)",
                 "Noah Jean Holm 19'(H)",
@@ -94,7 +94,7 @@
             "home": "Viktoria Plze\u0148",
             "away": "FC Porto",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Luk\u00e1\u0161 \u010cerv 6'(H)"
             ]
@@ -105,9 +105,11 @@
             "country": "Europe",
             "home": "Young Boys",
             "away": "Olympique Lyonnais",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Ainsley Maitland-Niles 45'(A)"
+            ]
         },
         {
             "start_time": "18:00",
@@ -116,7 +118,7 @@
             "home": "Ismaily",
             "away": "Arab Contractors FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -125,9 +127,10 @@
             "country": "Saudi Arabia",
             "home": "Al-Hilal",
             "away": "Al-Fayha",
-            "score": "2 - 1",
-            "minute": "Halftime",
+            "score": "3 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Mohamed Kanno 61'(H)",
                 "Orlando Mosquera 45'(H)",
                 "Sergej Milinkovi\u0107-Savi\u0107 37'(H)",
                 "Fashion Sakala 14'(A)"
@@ -139,36 +142,12 @@
             "country": "Saudi Arabia",
             "home": "Al-Qadsiah",
             "away": "Al-Ittihad",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Juli\u00e1n Qui\u00f1ones 59'(H)",
                 "Juli\u00e1n Qui\u00f1ones 37'(H)",
                 "Karim Benzema 29'(A)"
-            ]
-        },
-        {
-            "start_time": "17:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "IFK V\u00e4rnamo",
-            "away": "J\u00f6nk\u00f6pings S\u00f6dra",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 46'(A)",
-                "Unknown 45'(H)"
-            ]
-        },
-        {
-            "start_time": "17:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "Piast Gliwice",
-            "away": "Odense Boldklub",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Hugo Vallejo 41'(H)"
             ]
         },
         {
@@ -182,41 +161,49 @@
             "scorers": []
         },
         {
+            "start_time": "18:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "TSG Sprockh\u00f6vel",
+            "away": "KFC Uerdingen 05",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 25'(H)"
+            ]
+        },
+        {
+            "start_time": "19:00",
+            "league": "U21 Premier League International Cup, Group A",
+            "country": "World",
+            "home": "Southampton U21",
+            "away": "PSV Eindhoven U21",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "18:00",
             "league": "FA Youth Cup",
             "country": "England",
             "home": "Oxford United U18",
             "away": "Colchester United U18",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 14'(A)"
             ]
         },
         {
-            "start_time": "17:00",
-            "league": "Coppa Italia, Women",
-            "country": "Italy",
-            "home": "Napoli",
-            "away": "Juventus",
-            "score": "1 - 1",
-            "minute": "2nd half",
+            "start_time": "18:30",
+            "league": "Germany Friendly Games",
+            "country": "Germany Amateur",
+            "home": "DJK-SSG Darmstadt II",
+            "away": "SKG Erfelden",
+            "score": "1 - 0",
+            "minute": "Started",
             "scorers": [
-                "Cecilie Fl\u00f8e Nielsen 47'(H)",
-                "Amalie Vangsgaard 17'(A)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Iraq Stars League",
-            "country": "Iraq",
-            "home": "Al-Zawraa",
-            "away": "Al Najaf",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Youssef Aziz 84'(H)",
-                "Hasan Abdulkareem 74'(H)"
+                "Diyar Hayirli 25'(H)"
             ]
         },
         {
@@ -226,7 +213,7 @@
             "home": "Hapoel Jerusalem",
             "away": "Hapoel Raanana",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 5'(H)"
             ]
@@ -237,9 +224,12 @@
             "country": "Israel",
             "home": "Maccabi Hadera",
             "away": "MS Kiryat Gat",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 2",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 41'(A)",
+                "Unknown 39'(A)"
+            ]
         },
         {
             "start_time": "18:00",
@@ -248,7 +238,7 @@
             "home": "Maccabi Holon FC",
             "away": "Maccabi Panterot Ashdod",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 23'(A)",
                 "Unknown 9'(H)"
@@ -261,7 +251,7 @@
             "home": "Tel Aviv University",
             "away": "WFC Ramat Hasharon",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -270,9 +260,12 @@
             "country": "Israel",
             "home": "Ironi Beit Shemesh",
             "away": "Maccabi Ironi Netivot",
-            "score": "0 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 87'(H)",
+                "Unknown 81'(H)"
+            ]
         },
         {
             "start_time": "17:30",
@@ -281,7 +274,7 @@
             "home": "Hapoel Segev Shalom",
             "away": "FC Sderot",
             "score": "0 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 45'(A)",
                 "Unknown 17'(A)"
@@ -293,24 +286,12 @@
             "country": "Israel",
             "home": "Hapoel Bnei Ashdod",
             "away": "FC Arad",
-            "score": "0 - 1",
-            "minute": "1st half",
-            "scorers": [
-                "Unknown 34'(A)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Premier League, Group 2",
-            "country": "Libya",
-            "home": "Shabab Al Ghar",
-            "away": "Al Ittihad SC",
             "score": "0 - 3",
             "minute": "2nd half",
             "scorers": [
-                "Mahmoud Al Shalui 75'(A)",
-                "Ahmed Al Bizi 70'(A)",
-                "Naoufel Zerhouni 62'(A)"
+                "Unknown 51'(A)",
+                "Unknown 49'(A)",
+                "Unknown 34'(A)"
             ]
         },
         {
@@ -319,9 +300,19 @@
             "country": "Turkey Amateur",
             "home": "Ak\u015femsettin FC",
             "away": "Ko\u00e7ak FK",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "2 - 9",
+            "minute": "2nd half",
             "scorers": [
+                "Hasan Can Kuzu 45'(H)",
+                "Fatih Torun 44'(A)",
+                "Fatih Torun 43'(A)",
+                "Yunus Emre Ko\u00e7ak 40'(A)",
+                "Yunus Emre Ko\u00e7ak 33'(A)",
+                "Cengizhan Vardar 31'(A)",
+                "Hasan Can Kuzu 30'(H)",
+                "Furkan Bulut 27'(A)",
+                "Yunus Emre Ko\u00e7ak 20'(A)",
+                "Yunus Emre Ko\u00e7ak 19'(A)",
                 "Furkan Bulut 5'(A)"
             ]
         },
@@ -331,9 +322,12 @@
             "country": "Turkey Amateur",
             "home": "Demirg\u00fcc\u00fc FC",
             "away": "Toprak Shop",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "0 - 4",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 28'(A)",
+                "Cafer \u00d6zmen 27'(A)",
+                "Tayfun  \u00d6zdemir 22'(A)",
                 "Unknown 15'(A)"
             ]
         }
