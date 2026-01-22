@@ -2,9 +2,17 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 06:00 | India Amateur | Income Tax FC vs BTM FC | **1 - 1** | `2nd half` | Unknown 49'(A), Unknown 24'(H) |
-| 06:00 | Indonesia | Persekam Malang vs Triple's Kediri | **0 - 1** | `2nd half` | Unknown 24'(A) |
+| 07:00 | China | Chongqing Handa vs Xiamen Chengyi | **1 - 1** | `1st half` | Unknown 25'(A), Unknown 23'(H) |
+| 07:00 | China | Guangdong Red Treasure vs Fuzhou Changle Jingangtui | **0 - 1** | `1st half` | Unknown 35'(A) |
+| 07:00 | China | Huzhou Changxing Jincheng vs Shanxi Sanjin | **2 - 0** | `1st half` | Unknown 19'(H), Unknown 11'(H) |
+| 07:00 | China | Shanxi TYUT Yida vs Rock Goal Guangzhou | **3 - 0** | `1st half` | Unknown 43'(H), Unknown 31'(H), Unknown 5'(H) |
+| 07:30 | India | Kopa Tigers Birbhum vs FC Medinipur | **0 - 0** | `1st half` | --- |
+| 06:00 | India Amateur | Income Tax FC vs BTM FC | **1 - 2** | `2nd half` | Unknown 82'(A), Unknown 49'(A), Unknown 24'(H) |
+| 06:00 | Indonesia | Persekam Malang vs Triple's Kediri | **0 - 2** | `2nd half` | Unknown 61'(A), Unknown 24'(A) |
 | 06:00 | Indonesia | Persinga Ngawi vs Baruna Nusantara | **1 - 0** | `2nd half` | Unknown 28'(H) |
-| 06:05 | Indonesia | Anzala FC vs Fatahillah FC | **0 - 1** | `2nd half` | Unknown 39'(A) |
-| 06:30 | Indonesia | PSP Padang vs Josal FC Piaman | **1 - 0** | `1st half` | Unknown 33'(H) |
-| 06:30 | Indonesia | Rambatan vs PSLA Sicincin | **0 - 2** | `1st half` | Unknown 38'(A), Unknown 34'(A) |
+| 06:05 | Indonesia | Anzala FC vs Fatahillah FC | **1 - 1** | `2nd half` | Unknown 78'(H), Unknown 39'(A) |
+| 06:30 | Indonesia | PSP Padang vs Josal FC Piaman | **1 - 0** | `2nd half` | Unknown 33'(H) |
+| 06:30 | Indonesia | Rambatan vs PSLA Sicincin | **1 - 2** | `2nd half` | Unknown 41'(H), Unknown 38'(A), Unknown 34'(A) |
+| 07:30 | Vietnam | Ha Noi FC U19 vs Hồng Lĩnh Hà Tĩnh U19 | **0 - 0** | `1st half` | --- |
+| 07:30 | Vietnam | Sông Lam Nghệ An U19 vs Hồ Chí Minh U19 | **0 - 0** | `1st half` | --- |
+| 07:30 | Vietnam | Thể Công - Viettel U19 vs PVF U19 | **0 - 0** | `1st half` | --- |
