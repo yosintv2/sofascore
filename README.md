@@ -2,50 +2,45 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 15:00 | Romania | FC Metaloglobus București vs FC Argeș Pitești | **0 - 0** | `Halftime` | --- |
-| 14:30 | World | Dynamo Moscow vs Shanghai Shenhua | **2 - 2** | `2nd half` | Ivan Sergeev 47'(H), Xi Wu 45'(A), Bitello 4'(H), Rafael Ratão 2'(A) |
-| 14:30 | World | WSG Tirol vs Triglav Kranj | **0 - 0** | `2nd half` | --- |
+| 16:00 | Africa | Al Ahly FC vs Young Africans Sport Club | **0 - 0** | `1st half` | --- |
+| 15:00 | Romania | FC Metaloglobus București vs FC Argeș Pitești | **0 - 2** | `2nd half` | Claudiu Micovschi 72'(A), Robert Moldoveanu 64'(A) |
 | 14:45 | World | Jerv vs Våg FK | **1 - 0** | `2nd half` | Phillip Syvertsen 35'(H) |
-| 15:00 | World | Wexford FC vs Waterford FC | **0 - 0** | `Halftime` | --- |
+| 15:00 | World | Wexford FC vs Waterford FC | **0 - 0** | `2nd half` | --- |
+| 16:00 | World | FCM Traiskirchen vs SV Licht-Loidl Lafnitz | **0 - 1** | `1st half` | Unknown 19'(A) |
+| 16:00 | World | Kapfenberger SV vs SV Wildon | **1 - 0** | `1st half` | Unknown 29'(H) |
 | 16:00 | World | Kristiansund BK vs Hødd IL | **0 - 0** | `1st half` | --- |
-| 15:00 | Asia | Vietnam U23 vs South Korea U23 | **1 - 0** | `Halftime` | Nguyễn Quốc Việt 30'(H) |
-| 15:35 | International Youth | NK Kustošija U16 vs Górnik Łęczna U16 | **2 - 4** | `Started` | Unknown 76'(H), Unknown 73'(A), Unknown 53'(A), Unknown 41'(A), Unknown 21'(H), Unknown 15'(A) |
-| 15:00 | Algeria | ASO Chlef vs Paradou AC | **1 - 0** | `Halftime` | Edward Ledlum 29'(H) |
-| 14:00 | Algeria | WA Tlemcen vs JS Tixeraine | **2 - 0** | `2nd half` | Unknown 49'(H), Sid Ali Kherbouche 35'(H) |
+| 16:00 | World | Maardu Linnameeskond vs Nõmme Kalju | **0 - 0** | `1st half` | --- |
+| 16:00 | World | Östers IF vs IFK Göteborg | **1 - 2** | `1st half` | Unknown 34'(A), Unknown 29'(A), Unknown 4'(H) |
+| 16:30 | World | SV Oberwart vs SC Weiz | **0 - 0** | `1st half` | --- |
+| 16:00 | World | Al-Wahda FC vs Al Duhail | **1 - 0** | `1st half` | Omar Kharbin 29'(H) |
+| 15:00 | Asia | Vietnam U23 vs South Korea U23 | **2 - 1** | `2nd half` | Nguyễn Đình Bắc 71'(H), Kim Tae-won 69'(A), Nguyễn Quốc Việt 30'(H) |
+| 15:35 | International Youth | NK Kustošija U16 vs Górnik Łęczna U16 | **2 - 4** | `Started` | Unknown 76'(H), Unknown 73'(A), Unknown 53'(A), Unknown 41'(A), Mihael Lauš 21'(H), Unknown 15'(A) |
+| 16:10 | International Youth | Górnik Zabrze U16 vs Sparta Praha U16 | **0 - 0** | `Started` | --- |
+| 15:00 | Algeria | ASO Chlef vs Paradou AC | **2 - 0** | `2nd half` | Chemseddine Bekkouche 49'(H), Edward Ledlum 29'(H) |
 | 13:45 | Algeria | USM Khenchela U20 vs NRC Boudjelbana U20 | **2 - 0** | `2nd half` | Unknown 66'(H), Unknown 37'(H) |
-| 14:00 | Algeria | CRB Kais vs JSM Skikda | **0 - 1** | `Started` | Mohamed Boulaouidet 35'(A) |
-| 14:00 | Algeria | ES Guelma vs Crb Ain Yagout | **2 - 0** | `Started` | Unknown 54'(H), Unknown 12'(H) |
-| 14:00 | Algeria | IRB Sedrata vs CRB Ain Fekroun | **4 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(H) |
-| 14:00 | Algeria | Jb Ain Kercha vs NRC Boudjelbana | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | Nr Tazoughert vs NSR EL Fedjoudj | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | US Boukhadra vs E Bir Bou Houche | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | USF Constantine vs AS Ain M'lila | **2 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H) |
-| 14:00 | Algeria | US Tébessa vs CB Mila | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | AB Barika vs JS Azazga | **0 - 2** | `Started` | Unknown -1'(A), Unknown 18'(A) |
-| 14:00 | Algeria | Amal El Eulma vs ES El Ghozlane | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | Amel Bou Saâda vs MB Barika | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | AS Bordj Ghedir vs USM Setif | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | CB Beni Slimane vs USB Berhoum | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | JS Boumerdes vs ES Bouakeul | **4 - 1** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(A) |
-| 14:00 | Algeria | JSM Béjaïa vs CRB El Milia | **5 - 0** | `Started` | Racim Mebarki -1'(H), Abderzak Iratni -1'(H), Abderzak Iratni -1'(H), Abderzak Iratni -1'(H), Mehddy Latreche -1'(H) |
-| 14:00 | Algeria | RC Bougaa vs MC El Eulma | **0 - 1** | `Started` | Unknown 76'(A) |
-| 15:00 | Azerbaijan | Neftçi Baku PFK vs Zirə FK | **0 - 0** | `Halftime` | --- |
+| 15:00 | Azerbaijan | Neftçi Baku PFK vs Zirə FK | **0 - 0** | `2nd half` | --- |
+| 16:00 | Bahrain | Etehad Alreef vs Manama | **1 - 5** | `1st half` | Unknown 38'(A), Unknown 34'(H), Unknown 24'(A), Unknown 22'(A), Unknown 11'(A), Unknown 6'(A) |
+| 16:00 | Bahrain | Galali vs East Riffa | **0 - 2** | `1st half` | Unknown 17'(A), Unknown 16'(A) |
 | 16:00 | Bahrain | Um Alhassam vs Al Ettihad | **0 - 0** | `1st half` | --- |
-| 12:30 | Egypt | RA SC vs El Masry | **6 - 2** | `2nd half` | Unknown 79'(H), Unknown 76'(H), Unknown 59'(A), Unknown 45'(H), Unknown 41'(H), Unknown 35'(H), Unknown 18'(H), Unknown 8'(A) |
-| 15:00 | Ghana | King Faisal vs Nsuopun Fidelity | **0 - 0** | `Halftime` | --- |
-| 15:00 | Ghana | Attram De Visser SA vs Nania FC | **0 - 0** | `Halftime` | --- |
-| 14:00 | Ghana | Footworks FC vs Evergreen FC | **3 - 2** | `Started` | Unknown 61'(A), Unknown 53'(H), Unknown 38'(H), Unknown 33'(A), Unknown 2'(H) |
-| 14:30 | Iraq | Al Mina'a SC vs Al-Shorta | **1 - 1** | `2nd half` | Leonel Ateba 54'(A), Mohammad Qasem Nassif 32'(H) |
-| 15:30 | Jordan | Al Salt vs Al Faisaly SC | **0 - 0** | `1st half` | --- |
-| 15:50 | Kuwait | Al Fahaheel SC vs Al Qadsia SC | **0 - 0** | `1st half` | --- |
-| 13:30 | Kuwait | Khaitan SC vs Al Jazeera FC Kuwait | **1 - 0** | `2nd half` | Unknown 72'(H) |
-| 14:00 | Liberia | Senior Female Pro vs Real Muja FC | **0 - 2** | `2nd half` | Unknown 64'(A), Unknown 6'(A) |
+| 16:00 | Gambia | Brikama United FC vs BST Galaxy | **0 - 0** | `1st half` | --- |
+| 16:00 | Gambia | Hart Academy FC vs Gambian Dutch Lions | **0 - 0** | `1st half` | --- |
+| 15:00 | Ghana | King Faisal vs Nsuopun Fidelity | **1 - 0** | `2nd half` | Ibrahim Suraj 55'(H) |
+| 15:00 | Ghana | Attram De Visser SA vs Nania FC | **0 - 1** | `2nd half` | Unknown 60'(A) |
+| 15:30 | Jordan | Al Salt vs Al Faisaly SC | **1 - 0** | `2nd half` | Cheikhna Semega 43'(H) |
+| 15:50 | Kuwait | Al Fahaheel SC vs Al Qadsia SC | **0 - 2** | `Halftime` | Unknown 42'(A), Unknown 35'(A) |
+| 16:00 | Liberia | Determine Girls vs World Girls FC | **1 - 0** | `1st half` | Unknown 4'(H) |
+| 16:00 | Liberia | NPA Anchors vs Gedeh FC | **1 - 1** | `1st half` | Unknown 37'(H), Unknown 34'(A) |
+| 16:30 | Libya | Elettihad Almisraty SC vs Al Shomooa SC | **0 - 0** | `1st half` | --- |
 | 13:00 | Macao | Cheng Fung vs Hang Sai SC | **1 - 1** | `2nd half` | Unknown 85'(H), Unknown 20'(A) |
-| 14:00 | Maldives | Odi SC vs Victory SC | **0 - 0** | `Started` | --- |
-| 14:00 | Morocco Amateur | AS Oulad Yaich vs Amal Béni Mellal | **0 - 0** | `Started` | --- |
+| 16:00 | Mali | Union Sportive Bougouba vs Binga FC | **0 - 0** | `1st half` | --- |
+| 16:00 | Mauritania | AS Douanes vs FC Ksar | **1 - 0** | `1st half` | Unknown 21'(H) |
+| 16:00 | Mexico | CD Novillos Neza vs FC Politécnico | **0 - 0** | `1st half` | --- |
+| 16:00 | Mexico | Tecos II vs Gorilas de Juanacatlán II | **0 - 0** | `1st half` | --- |
+| 16:00 | Mexico | Valle de Xico FC vs FC San José del Arenal | **0 - 0** | `1st half` | --- |
 | 16:00 | Niger | AS de Zam vs Tagour Provincial Club | **0 - 0** | `Started` | --- |
 | 16:00 | Niger | AS Renaissance de Boukoki vs ASN Nigelec | **0 - 0** | `Started` | --- |
-| 15:00 | Nigeria | GAA Akanbi FC vs Westernhood FA | **2 - 1** | `1st half` | Solomon Oluwabukunmi 8'(H), Salman Adam 2'(A), Olaniyi Olasunkanmi 1'(H) |
-| 14:30 | Seychelles | Real Maldives FC vs Saint Louis Suns Utd | **3 - 1** | `2nd half` | Unknown 48'(H), Unknown 42'(H), Unknown 40'(H), Unknown 36'(A) |
+| 15:00 | Nigeria | GAA Akanbi FC vs Westernhood FA | **2 - 1** | `2nd half` | Solomon Oluwabukunmi 8'(H), Salman Adam 2'(A), Olaniyi Olasunkanmi 1'(H) |
+| 16:30 | Senegal | Oslo FA vs Amitie FC | **0 - 0** | `Started` | --- |
 | 16:00 | Tanzania | Namungo FC vs Coastal Union | **0 - 0** | `1st half` | --- |
-| 14:30 | United Arab Emirates | Palm City FC vs Al Fath FC | **1 - 0** | `2nd half` | Unknown 62'(H) |
+| 14:30 | United Arab Emirates | Palm City FC vs Al Fath FC | **3 - 0** | `2nd half` | Unknown 89'(H), Unknown 74'(H), Unknown 62'(H) |
+| 16:00 | United Arab Emirates | Dubai Irish FC vs Liver Sport FC | **0 - 0** | `Started` | --- |
