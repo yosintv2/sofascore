@@ -3,25 +3,38 @@
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 08:35 | Australia | Newcastle Jets vs Wellington Phoenix | **1 - 0** | `1st half` | Lachlan Bayliss 1'(H) |
-| 08:00 | Australia | Brisbane Roar vs Canberra United | **1 - 1** | `1st half` | Daisy Brown 45'(H), Sofia Christopherson 13'(A) |
-| 08:00 | World | Jagiellonia Białystok vs FK Čukarički | **3 - 0** | `1st half` | Afimico Pululu 21'(H), Jesús Imaz 7'(H), Jesús Imaz 5'(H) |
-| 08:00 | World | Merani Tbilisi vs FC Borjomi | **0 - 1** | `Halftime` | Unknown 30'(A) |
-| 08:00 | World | Raków Częstochowa vs FK Vojvodina | **2 - 1** | `1st half` | Unknown 32'(H), Unknown 9'(A), Unknown 6'(H) |
-| 08:00 | World | Volgar Astrakhan vs Dinamo Kirov | **1 - 2** | `Halftime` | Unknown 45'(A), Unknown 23'(A), Unknown 21'(H) |
+| 08:00 | Australia | Brisbane Roar vs Canberra United | **1 - 1** | `2nd half` | Daisy Brown 45'(H), Sofia Christopherson 13'(A) |
+| 08:00 | World | Jagiellonia Białystok vs FK Čukarički | **3 - 0** | `Halftime` | Afimico Pululu 21'(H), Jesús Imaz 7'(H), Jesús Imaz 5'(H) |
+| 08:00 | World | Merani Tbilisi vs FC Borjomi | **0 - 1** | `2nd half` | Unknown 30'(A) |
+| 08:00 | World | Raków Częstochowa vs FK Vojvodina | **3 - 1** | `Halftime` | Unknown 44'(H), Marko Bulat 32'(H), Lazar Ranđelović 9'(A), Marko Bulat 6'(H) |
+| 08:00 | World | Volgar Astrakhan vs Dinamo Kirov | **1 - 2** | `2nd half` | Martinkevic Matvej 45'(A), Roman Polkovnikov 23'(A), Unknown 21'(H) |
 | 08:30 | World | FC Minsk 2 vs Molodechno-2018 | **0 - 0** | `1st half` | --- |
-| 08:15 | Algeria | Tiaret U20 vs JSM Tiaret U20 | **0 - 1** | `1st half` | Unknown 19'(A) |
-| 08:30 | Algeria | ESM Kolea U20 vs CRB Ain Ouessara U20 | **0 - 0** | `1st half` | --- |
-| 08:00 | Brunei | MS PPDB vs MS ABDB | **0 - 0** | `Started` | --- |
+| 08:15 | Algeria | Tiaret U20 vs JSM Tiaret U20 | **0 - 1** | `2nd half` | Unknown 19'(A) |
+| 08:30 | Algeria | ESM Kolea U20 vs CRB Ain Ouessara U20 | **1 - 0** | `1st half` | Unknown 22'(H) |
+| 08:45 | Algeria | NRB Teleghma U20 vs AS Ain Mlila U20 | **0 - 0** | `1st half` | --- |
+| 09:00 | Algeria | CS Constantine U20 vs NRB Beni Oulbene U20 | **1 - 0** | `1st half` | Unknown 3'(H) |
+| 09:00 | Algeria | JS El Biar U20 vs RC Kouba U20 | **0 - 0** | `1st half` | --- |
+| 09:00 | Algeria | ASJ Canastel vs CSB Oran | **0 - 0** | `1st half` | --- |
+| 09:00 | Australia | Olympic FC vs Gold Coast Knights | **0 - 0** | `1st half` | --- |
+| 08:00 | Brunei | MS PPDB vs MS ABDB | **0 - 0** | `2nd half` | --- |
 | 08:30 | India | Tamil Nadu vs Rajasthan | **0 - 0** | `1st half` | --- |
 | 08:30 | India | West Bengal vs Uttarakhand | **0 - 0** | `1st half` | --- |
 | 07:30 | India | North 24 Parganas FC vs Burdwan Blasters | **0 - 0** | `2nd half` | --- |
-| 08:00 | India | Zunjar vs UPWTM | **1 - 3** | `Halftime` | Unknown 41'(H), Unknown 28'(A), Unknown 16'(A), Unknown 10'(A) |
-| 08:00 | India Amateur | Technico Football Foundation vs FC Deccan | **2 - 0** | `1st half` | Unknown 39'(H), Unknown 16'(H) |
-| 07:30 | India Amateur | India On Track FC vs Kalina Rangers | **4 - 2** | `Started` | Unknown 45'(H), Unknown 45'(A), Unknown 31'(H), Unknown 29'(H), Unknown -1'(A), Unknown 18'(A) |
-| 08:30 | Indonesia | Persis Solo vs Borneo FC Samarinda | **0 - 1** | `1st half` | Mariano Peralta Bauer 14'(A) |
-| 08:30 | Indonesia | Persikad Depok vs FC Bekasi City | **0 - 1** | `1st half` | Ezechiel N'Douassel 10'(A) |
-| 07:00 | Indonesia | Pasuruan United vs Persema Malang | **1 - 0** | `2nd half` | Unknown 42'(H) |
+| 08:00 | India | Zunjar vs UPWTM | **1 - 3** | `2nd half` | Unknown 41'(H), Unknown 28'(A), Unknown 16'(A), Unknown 10'(A) |
+| 08:00 | India Amateur | Technico Football Foundation vs FC Deccan | **2 - 1** | `2nd half` | Unknown 48'(A), Unknown 39'(H), Unknown 16'(H) |
+| 07:30 | India Amateur | India On Track FC vs Kalina Rangers | **4 - 2** | `Started` | Unknown 45'(H), Unknown 45'(A), Unknown 31'(H), Unknown 29'(H), Unknown -1'(A), Unknown 38'(A) |
+| 08:30 | Indonesia | Persis Solo vs Borneo FC Samarinda | **0 - 1** | `1st half` | Mariano Peralta Bauer 15'(A) |
+| 08:30 | Indonesia | Persikad Depok vs FC Bekasi City | **0 - 2** | `1st half` | Ezechiel N'Douassel 10'(A) |
 | 07:00 | Indonesia | Perseba Bangkalan vs Persid Jember | **0 - 0** | `Halftime` | --- |
-| 07:00 | Indonesia | Persepam Pamekasan vs Unesa FC | **1 - 1** | `2nd half` | Unknown 72'(H), Unknown 34'(A) |
+| 07:00 | Indonesia | Persida Sidoarjo vs PS Mojokerto Putra | **1 - 1** | `Halftime` | Unknown 25'(H), Unknown 10'(A) |
+| 08:45 | Israel | Beitar Tel Aviv Holon vs Maccabi Ironi Amishav Petah Tikva | **0 - 0** | `1st half` | --- |
+| 09:00 | Israel | Beitar Kfar Saba Shlomi vs Hapoel Kiryat Ono | **0 - 0** | `1st half` | --- |
+| 09:00 | Israel | Maccabi Ironi Kfar Yona vs AS Holon Mor | **0 - 0** | `1st half` | --- |
+| 09:00 | Israel | MS Shikun Hamizrah vs Beitar Ironi Kiryat Gat | **2 - 0** | `1st half` | Unknown 15'(H), Unknown 7'(H) |
+| 09:00 | Israel | Ms Netanya Kolet Koen vs FC Tzofi Haifa | **1 - 0** | `1st half` | Unknown 8'(H) |
 | 08:30 | Laos | Ezra vs Champasak Avenir FC | **0 - 0** | `Started` | --- |
-| 08:15 | Nepal | Satdobato Youth Club vs Manang Marshyangdi | **0 - 0** | `1st half` | --- |
+| 09:00 | Myanmar | Mahar United vs Ispe FC | **0 - 0** | `1st half` | --- |
+| 09:00 | Myanmar | Yangon United vs Dagon Port FC | **0 - 0** | `1st half` | --- |
+| 09:00 | Myanmar | Chinland FC vs Glory Goal | **1 - 0** | `1st half` | Unknown 2'(H) |
+| 09:00 | Myanmar | Myanmar University FC vs Myawady FC | **1 - 0** | `1st half` | Unknown 17'(H) |
+| 08:15 | Nepal | Satdobato Youth Club vs Manang Marshyangdi | **0 - 0** | `Halftime` | --- |
