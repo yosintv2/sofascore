@@ -2,92 +2,88 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 19:45 | Italy | Inter vs Pisa | **0 - 1** | `1st half` | --- |
-| 19:30 | Germany | FC St. Pauli vs Hamburger SV | **0 - 0** | `1st half` | --- |
-| 19:00 | France | Auxerre vs Paris Saint-Germain | **0 - 0** | `Halftime` | --- |
-| 19:45 | Belgium | Standard Liège vs KAA Gent | **0 - 1** | `1st half` | Wilfried Kanga 11'(A) |
-| 18:00 | Africa | Mamelodi Sundowns vs Al-Hilal Omdurman | **2 - 2** | `2nd half` | Abdelrazig Omer 71'(A), Teboho Mokoena 64'(H), Arthur Sales 22'(H), Abdelrazig Omer 15'(A) |
-| 19:30 | Spain | Málaga vs Burgos Club de Fútbol | **0 - 0** | `1st half` | --- |
-| 19:30 | Italy | Carrarese vs Empoli | **0 - 0** | `1st half` | --- |
-| 19:00 | France | Amiens SC vs Stade Lavallois | **0 - 0** | `Halftime` | --- |
-| 19:00 | France | Annecy FC vs Clermont Foot | **1 - 0** | `Halftime` | Valentin Jacob 33'(H) |
-| 19:00 | France | Bastia vs Montpellier | **0 - 1** | `Halftime` | Alexandre Mendy 2'(A) |
-| 19:00 | France | Nancy vs Rodez AF | **0 - 1** | `Halftime` | Ibrahima Baldé 8'(A) |
-| 19:00 | France | Pau FC vs Grenoble Foot 38 | **1 - 0** | `Halftime` | Tom Pouilly 44'(H) |
-| 19:00 | Netherlands | De Graafschap vs RKC Waalwijk | **0 - 1** | `Halftime` | Juan Familia-Castillo 35'(A) |
-| 19:00 | Netherlands | FC Dordrecht vs FC Den Bosch | **1 - 0** | `Halftime` | Yoon Do-young 16'(H) |
-| 19:00 | Netherlands | MVV Maastricht vs Jong FC Utrecht | **0 - 1** | `Halftime` | Tijn den Boggende 4'(A) |
-| 19:00 | Netherlands | Roda JC Kerkrade vs TOP Oss | **0 - 0** | `Halftime` | --- |
-| 19:00 | Netherlands | Vitesse vs ADO Den Haag | **2 - 0** | `Halftime` | Naoufal Bannis 44'(H), Naoufal Bannis 38'(H) |
-| 19:00 | Netherlands | Willem II Tilburg vs VVV-Venlo | **1 - 0** | `Halftime` | Nick Doodeman 35'(H) |
-| 19:00 | England | Everton vs Brighton | **0 - 1** | `Halftime` | Jelena Čanković 41'(A) |
-| 19:00 | Belgium | KV Kortrijk vs Jong KRC Genk U23 | **1 - 1** | `Halftime` | August De Wannemacker 22'(A), Brecht Dejaegere 7'(H) |
-| 19:00 | Belgium | OC Charleroi vs Club NXT U23 | **0 - 0** | `Halftime` | --- |
-| 19:00 | World | TUS Raiffeisen Layjet Heiltherme Bad Waltersdorf vs SC Kalsdorf | **1 - 2** | `2nd half` | Unknown 36'(H), Unknown 24'(A), Unknown 21'(A) |
-| 19:30 | World | Bray Wanderers vs Drogheda United | **0 - 0** | `1st half` | --- |
+| 19:45 | Italy | Inter vs Pisa | **2 - 2** | `1st half` | Lautaro Martínez 41'(H), Piotr Zieliński 39'(H), Stefano Moreo 23'(A), Stefano Moreo 11'(A) |
+| 20:00 | Spain | Levante UD vs Elche | **0 - 1** | `1st half` | Álvaro Rodriguez 11'(A) |
+| 19:30 | Germany | FC St. Pauli vs Hamburger SV | **0 - 0** | `Halftime` | --- |
+| 19:00 | France | Auxerre vs Paris Saint-Germain | **0 - 0** | `2nd half` | --- |
+| 20:15 | Portugal | Casa Pia vs AVS - Futebol SAD | **1 - 0** | `1st half` | David Sousa 5'(H) |
+| 19:45 | Belgium | Standard Liège vs KAA Gent | **0 - 2** | `1st half` | Wilfried Kanga 31'(A), Wilfried Kanga 11'(A) |
+| 20:00 | England | Derby County vs West Bromwich Albion | **0 - 0** | `1st half` | --- |
+| 19:30 | Spain | Málaga vs Burgos Club de Fútbol | **2 - 0** | `Halftime` | Chupete 38'(H), David Larrubia 33'(H) |
+| 19:30 | Italy | Carrarese vs Empoli | **1 - 0** | `Halftime` | Julián Illanes 28'(H) |
+| 19:00 | France | Amiens SC vs Stade Lavallois | **0 - 0** | `2nd half` | --- |
+| 19:00 | France | Annecy FC vs Clermont Foot | **1 - 0** | `2nd half` | Valentin Jacob 33'(H) |
+| 19:00 | France | Bastia vs Montpellier | **0 - 2** | `2nd half` | Yanis Issoufou 63'(A), Alexandre Mendy 2'(A) |
+| 19:00 | France | Nancy vs Rodez AF | **0 - 2** | `2nd half` | Tairyk Arconte 57'(A), Ibrahima Baldé 8'(A) |
+| 19:00 | France | Pau FC vs Grenoble Foot 38 | **2 - 0** | `2nd half` | Steeve Beusnard 63'(H), Tom Pouilly 44'(H) |
+| 19:00 | Netherlands | De Graafschap vs RKC Waalwijk | **1 - 2** | `2nd half` | Jevon Simons 57'(H), Harrie Kuster 54'(A), Juan Familia-Castillo 35'(A) |
+| 19:00 | Netherlands | FC Dordrecht vs FC Den Bosch | **2 - 1** | `2nd half` | Stéphano Carrillo 70'(H), Kevin Felida 67'(A), Yoon Do-young 16'(H) |
+| 19:00 | Netherlands | MVV Maastricht vs Jong FC Utrecht | **0 - 2** | `2nd half` | Rafik El Arguioui 47'(A), Tijn den Boggende 4'(A) |
+| 19:00 | Netherlands | Roda JC Kerkrade vs TOP Oss | **1 - 0** | `2nd half` | Anthony van den Hurk 52'(H) |
+| 19:00 | Netherlands | Vitesse vs ADO Den Haag | **2 - 1** | `2nd half` | Evan Rottier 52'(A), Naoufal Bannis 44'(H), Naoufal Bannis 38'(H) |
+| 19:00 | Netherlands | Willem II Tilburg vs VVV-Venlo | **1 - 0** | `2nd half` | Nick Doodeman 35'(H) |
+| 19:00 | England | Everton vs Brighton | **0 - 1** | `2nd half` | Jelena Čanković 41'(A) |
+| 19:00 | Belgium | KV Kortrijk vs Jong KRC Genk U23 | **2 - 1** | `2nd half` | Jellert Van Landschoot 47'(H), August De Wannemacker 22'(A), Brecht Dejaegere 7'(H) |
+| 19:00 | Belgium | OC Charleroi vs Club NXT U23 | **0 - 2** | `2nd half` | Thibaut Van Acker 61'(A), Rayan Buifrahi 59'(A) |
+| 19:00 | World | TUS Raiffeisen Layjet Heiltherme Bad Waltersdorf vs SC Kalsdorf | **2 - 2** | `2nd half` | Unknown 65'(H), Unknown 36'(H), Unknown 24'(A), Unknown 21'(A) |
+| 19:30 | World | Bray Wanderers vs Drogheda United | **0 - 0** | `Halftime` | --- |
 | 18:30 | World | Górnik Łęczna vs KS UJ Kraków | **1 - 0** | `2nd half` | Unknown 70'(H) |
-| 17:55 | International Youth | KZ Rukh Lviv U16 vs Middlesborough U16 | **1 - 4** | `Started` | Unknown 90'(A), Unknown 70'(A), Unknown 55'(A), Unknown 39'(H), Unknown 35'(A) |
 | 18:30 | International Youth | LNZ Cherkasy U16 vs KZ Rukh Lviv U16 | **0 - 0** | `Started` | --- |
 | 19:05 | International Youth | Middlesborough U16 vs LNZ Cherkasy U16 | **5 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(H) |
-| 18:00 | Spain | Celta Vigo B vs Zamora CF | **2 - 3** | `2nd half` | Kike Márquez 69'(A), Javier Carbonell 57'(A), Javier Carbonell 45'(A), Anxo Rodriguez Alvarez 45'(H), Pablo Gonzalez Meixus 26'(H) |
-| 19:30 | Italy | Triestina vs Lumezzane | **0 - 0** | `1st half` | --- |
-| 19:30 | Italy | Giugliano vs Cavese | **0 - 0** | `1st half` | --- |
-| 18:30 | France | Bourg-en-Bresse vs Châteauroux | **1 - 1** | `2nd half` | Aymeric Ahmed 35'(A), Djibril Diarra 15'(H) |
-| 18:30 | France | Caen vs Quevilly - Rouen Métropole | **0 - 0** | `2nd half` | --- |
-| 18:30 | France | Le Puy Foot 43 Auvergne vs Valenciennes | **2 - 0** | `2nd half` | Marvin Adélaide 52'(H), Renald Xhemo 45'(H) |
-| 18:30 | France | Paris 13 Atletico vs FC Versailles 78 | **1 - 1** | `2nd half` | Cedric Odzoumo 48'(A), Jordan Poha 42'(H) |
-| 18:30 | France | US Orléans vs Sochaux | **0 - 2** | `2nd half` | Elson Mendes 42'(A), Kapitbafan Djoco 27'(A) |
-| 19:00 | France | FC Chambly Oise vs Bourges Foot 18 | **0 - 0** | `Halftime` | --- |
-| 18:30 | France | US Créteil-Lusitanos vs Etoile FC Fréjus Saint-Raphaël | **2 - 0** | `2nd half` | Unknown 60'(H), Tommy Iva 53'(H) |
-| 18:30 | Belgium | Waasland Beveren Reserve U21 vs K. Beerschot V.A. Reserve U21 | **1 - 0** | `2nd half` | Unknown 35'(H) |
-| 19:00 | Belgium | RFC Seraing Reserve U21 vs Jeugd Patro Eisden Maasmechelen U21 | **2 - 0** | `1st half` | Unknown 14'(H), Unknown 3'(H) |
-| 19:00 | Belgium | ROC Charleroi-Marchienne U21 vs RFC Liege U21 | **2 - 0** | `Halftime` | Unknown 5'(H), Unknown 4'(H) |
-| 19:00 | Belgium | Royal Charleroi Reserve U23 vs RFC Liege U21 | **2 - 0** | `Halftime` | Unknown 4'(H), Unknown 3'(H) |
-| 19:00 | Belgium | RWD Molenbeek Reserve U21 vs KVC Westerlo Reserve U21 | **1 - 2** | `Halftime` | Unknown 39'(A), Unknown 32'(H), Unknown 26'(A) |
-| 19:30 | Belgium | KV Kortrijk Reserve U21 vs SK Lierse Reserve U21 | **1 - 0** | `1st half` | Unknown 25'(H) |
-| 19:30 | Belgium | Raal La Louviere U21 vs Lommel SK Reserve U21 | **0 - 0** | `1st half` | --- |
-| 19:00 | Belgium Amateur | FC Wezel Sport vs K. Achel VV | **4 - 2** | `Started` | Unknown 90'(H), Unknown 77'(H), Unknown 73'(A), Unknown 70'(A), Unknown 44'(H), Unknown 21'(H) |
+| 19:00 | England | Manchester United U18 vs Derby County U18 | **0 - 0** | `Halftime` | --- |
+| 20:15 | Spain | Mérida AD vs Pontevedra CF | **0 - 0** | `1st half` | --- |
+| 19:30 | Italy | Triestina vs Lumezzane | **0 - 0** | `Halftime` | --- |
+| 19:30 | Italy | Giugliano vs Cavese | **0 - 0** | `Halftime` | --- |
+| 19:00 | France | FC Chambly Oise vs Bourges Foot 18 | **0 - 0** | `2nd half` | --- |
+| 20:15 | Argentina Amateur | Sportivo Cultural vs Defensores Puerto Vilelas | **0 - 0** | `Started` | --- |
+| 19:00 | Belgium | RFC Seraing Reserve U21 vs Jeugd Patro Eisden Maasmechelen U21 | **3 - 0** | `2nd half` | Unknown 55'(H), Unknown 15'(H), Unknown 4'(H) |
+| 19:00 | Belgium | ROC Charleroi-Marchienne U21 vs RFC Liege U21 | **4 - 1** | `2nd half` | Unknown 69'(H), Unknown 53'(A), Unknown 47'(H), Unknown 5'(H), Unknown 4'(H) |
+| 19:00 | Belgium | Royal Charleroi Reserve U23 vs RFC Liege U21 | **4 - 1** | `2nd half` | Unknown 67'(H), Unknown 52'(A), Unknown 46'(H), Unknown 4'(H), Unknown 3'(H) |
+| 19:00 | Belgium | RWD Molenbeek Reserve U21 vs KVC Westerlo Reserve U21 | **1 - 2** | `2nd half` | Unknown 39'(A), Unknown 32'(H), Unknown 26'(A) |
+| 19:30 | Belgium | KV Kortrijk Reserve U21 vs SK Lierse Reserve U21 | **2 - 1** | `Halftime` | Unknown 45'(H), Unknown 44'(A), Unknown 25'(H) |
+| 19:30 | Belgium | Raal La Louviere U21 vs Lommel SK Reserve U21 | **0 - 0** | `Halftime` | --- |
+| 19:00 | Belgium Amateur | FC Wezel Sport vs K. Achel VV | **4 - 2** | `Started` | Unknown 90'(H), Unknown 77'(H), Unknown 55'(A), Unknown 50'(A), Unknown 50'(H), Unknown 50'(H) |
 | 19:45 | England Amateur | Binfield vs Hayes & Yeading | **0 - 0** | `1st half` | --- |
-| 19:00 | England Amateur | Arsenal U21 vs Burnley U21 | **0 - 0** | `Halftime` | --- |
-| 19:00 | England Amateur | Fulham U21 vs Middlesbrough U21 | **0 - 1** | `Halftime` | Jayden Carbon 31'(A) |
-| 19:00 | England Amateur | Stoke City U21 vs Tottenham U21 | **0 - 1** | `Halftime` | Reiss-Alexander Russell-Denny 4'(A) |
-| 19:00 | England Amateur | West Ham U21 vs Norwich City U21 | **0 - 1** | `Halftime` | Elliot Josh Myles 23'(A) |
-| 19:00 | England Amateur | Swansea City U21 vs Nottingham Forest U21 | **0 - 1** | `Halftime` | Unknown 38'(A) |
-| 19:45 | England Amateur | FC Bootle vs AFC Knowsley | **0 - 0** | `Started` | --- |
-| 19:45 | England Amateur | Newton FC vs Helsby FC | **0 - 0** | `Started` | --- |
+| 19:00 | England Amateur | Arsenal U21 vs Burnley U21 | **0 - 0** | `2nd half` | --- |
+| 19:00 | England Amateur | Fulham U21 vs Middlesbrough U21 | **0 - 1** | `2nd half` | Jayden Carbon 31'(A) |
+| 19:00 | England Amateur | Stoke City U21 vs Tottenham U21 | **1 - 1** | `2nd half` | Chinonso Chibueze 56'(H), Reiss-Alexander Russell-Denny 4'(A) |
+| 19:00 | England Amateur | West Ham U21 vs Norwich City U21 | **1 - 1** | `2nd half` | Ryan Battrum 48'(H), Elliot Josh Myles 23'(A) |
+| 19:00 | England Amateur | Swansea City U21 vs Nottingham Forest U21 | **1 - 1** | `2nd half` | Iestyn Jones 66'(H), Unknown 38'(A) |
+| 19:45 | England Amateur | FC Bootle vs AFC Knowsley | **1 - 0** | `1st half` | Unknown 27'(H) |
+| 19:45 | England Amateur | Newton FC vs Helsby FC | **0 - 3** | `Started` | Unknown 90'(A), Unknown 72'(A), Unknown 11'(A) |
 | 19:45 | England Amateur | NW London vs Cannons Wood | **0 - 0** | `Started` | --- |
-| 19:45 | England Amateur | Lymore Gardens vs Newbury Forest FC | **0 - 0** | `Started` | --- |
-| 19:30 | England Amateur | Boro Rangers FC vs West Allotment Celtic | **0 - 0** | `Started` | --- |
+| 19:45 | England Amateur | Lymore Gardens vs Newbury Forest FC | **1 - 1** | `Started` | Unknown 90'(H), Unknown 12'(A) |
+| 19:45 | England Amateur | Droylsden FC vs Daisy Hill FC | **0 - 0** | `1st half` | --- |
+| 19:30 | England Amateur | Boro Rangers FC vs West Allotment Celtic | **3 - 1** | `Started` | Unknown 90'(H), Unknown 82'(A), Unknown 45'(H), Unknown 32'(H) |
 | 19:30 | England Amateur | Horden Community Welfare vs Thornaby FC | **0 - 0** | `Started` | --- |
-| 19:00 | France Amateur | Stade de Reims 2 vs GFC Ajaccio | **0 - 0** | `Halftime` | --- |
-| 19:00 | France Amateur | Chassieu Décines Football Club vs GOAL FC B | **0 - 0** | `Started` | --- |
-| 18:00 | Germany Amateur | Türkgücü München vs FC Moosinning | **0 - 0** | `Started` | --- |
-| 17:30 | Hungary Amateur | Sárvár FC vs Győrújfalu SE | **0 - 0** | `Started` | --- |
-| 18:00 | Hungary Amateur | 1908 SZAC Budapest vs Pénzügyőr SE | **0 - 0** | `Started` | --- |
-| 19:30 | Ireland | Kilbarrack United vs Inchicore Athletic FC | **1 - 0** | `1st half` | Unknown 15'(H) |
-| 19:45 | Ireland | Malahide United vs Ballymun United | **1 - 0** | `1st half` | Unknown 6'(H) |
-| 19:45 | Ireland | St. Mochtas vs Usher Celtic Senior Team | **0 - 1** | `1st half` | Unknown 5'(A) |
-| 18:00 | Mexico | Tuzos Pachuca vs Milenarios de Oaxaca | **3 - 2** | `2nd half` | Unknown 74'(H), Unknown 72'(A), Unknown 51'(H), Unknown 45'(A), Unknown 20'(H) |
-| 19:45 | Northern Ireland | Coleraine FC vs Glenavon | **0 - 0** | `1st half` | --- |
-| 19:45 | Northern Ireland | Larne FC vs Bangor FC | **0 - 0** | `1st half` | --- |
-| 18:00 | Poland Amateur | KS Zodiak Sucha vs LKS Promna | **0 - 0** | `Started` | --- |
-| 18:00 | Portugal | Paços de Ferreira vs Académico Viseu FC | **0 - 1** | `2nd half` | André Clóvis 50'(A) |
+| 19:00 | France Amateur | Stade de Reims 2 vs GFC Ajaccio | **1 - 0** | `2nd half` | Unknown 54'(H) |
+| 19:00 | France Amateur | Chassieu Décines Football Club vs GOAL FC B | **1 - 0** | `Started` | Unknown 90'(H) |
+| 19:30 | Ireland | Kilbarrack United vs Inchicore Athletic FC | **2 - 0** | `Halftime` | Unknown 27'(H), Unknown 15'(H) |
+| 19:45 | Ireland | Malahide United vs Ballymun United | **3 - 1** | `1st half` | Unknown 34'(H), Unknown 18'(A), Ciaran McGahon 13'(H), Unknown 6'(H) |
+| 19:45 | Ireland | St. Mochtas vs Usher Celtic Senior Team | **0 - 2** | `1st half` | Unknown 36'(A), Unknown 5'(A) |
+| 20:00 | Ireland | Cobh Wanderers AFC vs Ringmahon Rangers AFC | **0 - 1** | `1st half` | Unknown 2'(A) |
+| 20:00 | Malta | Zabbar Saint Patrick FC vs Naxxar Lions FC | **0 - 0** | `1st half` | --- |
+| 20:00 | Mexico | Tigres de Álica II vs Sufacen Tepic | **0 - 0** | `1st half` | --- |
+| 20:00 | Mexico | Universidad del Golfo de México vs Racing de Veracruz III | **0 - 1** | `1st half` | Unknown 2'(A) |
+| 19:45 | Northern Ireland | Coleraine FC vs Glenavon | **1 - 0** | `1st half` | Joel Cooper 20'(H) |
+| 19:45 | Northern Ireland | Larne FC vs Bangor FC | **2 - 0** | `1st half` | Unknown 38'(H), Ryan Nolan 19'(H) |
 | 19:45 | Scotland | Arbroath vs Greenock Morton | **0 - 0** | `1st half` | --- |
-| 19:45 | Scotland Amateur | Celtic B U21 vs Berwick Rangers | **1 - 0** | `1st half` | Unknown 9'(H) |
-| 18:30 | Switzerland | Stade Nyonnais vs Étoile Carouge FC | **1 - 2** | `2nd half` | Itaitinga 52'(A), Itaitinga 27'(A), Jarell Njike Simo 10'(H) |
-| 19:15 | Switzerland | FC Vaduz vs FC Wil 1900 | **2 - 0** | `1st half` | Dominik Schwizer 21'(H), Liridon Berisha 15'(H) |
-| 19:00 | Turkey Amateur | Esteghlal İstanbul vs Dark Cloud FC | **2 - 0** | `2nd half` | Alireza Rostaeijalayani 25'(H), Aryan Aryanejad 8'(H) |
-| 18:45 | Turkey Amateur | Farketmez FK vs Ziraat Bankası | **5 - 3** | `2nd half` | Yasin Kayran 49'(H), Muhammet Taha Eren 31'(H), Koray Gülsüm 28'(H), Murat Bilgin 25'(A), Efe Temiz 18'(H), Murat Bilgin 14'(A), Rasim Avcı 10'(A), Mücahit Akçakaya 6'(H) |
+| 19:45 | Scotland Amateur | Celtic B U21 vs Berwick Rangers | **1 - 0** | `1st half` | Thomas Hatton 10'(H) |
+| 20:00 | Spain Amateur | CF Folgueroles vs Sant Quirze Besora | **0 - 0** | `Started` | --- |
+| 19:15 | Switzerland | FC Vaduz vs FC Wil 1900 | **2 - 0** | `2nd half` | Dominik Schwizer 21'(H), Liridon Berisha 15'(H) |
+| 20:00 | Turkey Amateur | Camlıkahve United vs Randers City | **0 - 2** | `1st half` | Sait Şenol 13'(A), Güven Doğan 6'(A) |
+| 19:45 | Turkey Amateur | Los Galaxy vs Miks Drujba FK | **1 - 2** | `1st half` | Nurislam Kashapov 13'(A), Mert Ali Aymutlu 8'(H), Nurislam Kashapov 1'(A) |
 | 14:30 | United Arab Emirates | Palm City FC vs Al Fath FC | **3 - 0** | `2nd half` | Unknown 89'(H), Unknown 74'(H), Unknown 62'(H) |
-| 19:00 | USA | Portland Timbers vs LA Galaxy | **0 - 0** | `1st half` | --- |
-| 19:45 | Wales | Bala Town vs Flint Town United | **1 - 0** | `1st half` | Lassana Nalatche Mendes 10'(H) |
-| 19:45 | Wales | Briton Ferry Llansawel AFC vs Llanelli AFC | **0 - 0** | `1st half` | --- |
+| 19:00 | USA | Portland Timbers vs LA Galaxy | **0 - 0** | `2nd half` | --- |
+| 19:45 | Wales | Bala Town vs Flint Town United | **1 - 4** | `1st half` | Ben Wynne 33'(A), Harry Owen 28'(A), Ben Wynne 22'(A), Darren Stephenson 18'(A), Lassana Nalatche Mendes 10'(H) |
+| 19:45 | Wales | Briton Ferry Llansawel AFC vs Llanelli AFC | **1 - 0** | `1st half` | Thomas Price 33'(H) |
 | 19:45 | Wales | Cardiff Met FC vs Haverfordwest County AFC | **0 - 0** | `1st half` | --- |
-| 19:45 | Wales | CPD Y Rhyl 1879 vs Buckley Town | **0 - 1** | `1st half` | Unknown 5'(A) |
-| 19:30 | Wales | Afan Lido vs Carmarthen Town | **0 - 0** | `1st half` | --- |
-| 19:30 | Wales | Ammanford vs Trefelin FC | **0 - 2** | `1st half` | Unknown 21'(A), Unknown 13'(A) |
+| 19:45 | Wales | CPD Y Rhyl 1879 vs Buckley Town | **1 - 1** | `1st half` | Unknown 26'(H), Unknown 5'(A) |
+| 20:00 | Wales | Airbus UK Broughton vs Gresford Athletic | **0 - 1** | `1st half` | Unknown 13'(A) |
+| 19:30 | Wales | Afan Lido vs Carmarthen Town | **0 - 0** | `Halftime` | --- |
+| 19:30 | Wales | Ammanford vs Trefelin FC | **0 - 3** | `Halftime` | Roan Piper 44'(A), Luke Bowen 21'(A), Tyler Brock 13'(A) |
 | 19:30 | Wales | Cwmbran Celtic vs Pontypridd United | **0 - 0** | `1st half` | --- |
 | 19:45 | Wales | Cambrian United vs Newport City FC | **0 - 0** | `1st half` | --- |
-| 19:45 | Wales | Trethomas Bluebirds vs Caerau Ely FC | **0 - 0** | `1st half` | --- |
-| 19:45 | Wales | Connah’s Quay Town FC vs Bangor 1876 FC | **0 - 0** | `Started` | --- |
-| 19:30 | Wales | Taffs Well vs Chepstow Town FC | **0 - 1** | `Started` | Unknown 4'(A) |
+| 19:45 | Wales | Trethomas Bluebirds vs Caerau Ely FC | **1 - 2** | `1st half` | Dan Griffiths 41'(A), Brandon Griffiths 37'(H), Dan Griffiths 18'(A) |
+| 19:45 | Wales | Connah’s Quay Town FC vs Bangor 1876 FC | **0 - 1** | `1st half` | Lolo Hughes 9'(A) |
+| 19:30 | Wales | Taffs Well vs Chepstow Town FC | **0 - 4** | `Halftime` | Unknown 45'(A), Unknown 43'(A), Unknown 15'(A), Unknown 4'(A) |
