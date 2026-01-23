@@ -2,6 +2,6 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 03:30 | Bangladesh | FC Dhaka vs Sreepur FC | **1 - 0** | `Started` | Unknown 21'(H) |
-| 03:30 | India | Assam vs Nagaland | **2 - 2** | `2nd half` | Unknown 67'(H), Unknown 54'(A), Unknown 39'(H), Unknown 27'(A) |
-| 04:00 | India | Young Guns FC vs Shastri Nagar FC | **0 - 0** | `Halftime` | --- |
+| 03:30 | Bangladesh | FC Dhaka vs Sreepur FC | **1 - 0** | `Started` | Unknown 90'(H) |
+| 04:00 | India | Young Guns FC vs Shastri Nagar FC | **0 - 0** | `2nd half` | --- |
+| 05:00 | India | Mohun Bagan SG U21 vs Diamond Harbour FC U21 | **1 - 0** | `1st half` | Unknown 10'(H) |
