@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-24 06:41:29 UTC"
+        "updated": "2026-01-24 06:58:54 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,11 @@
             "country": "Australia",
             "home": "Brisbane Roar",
             "away": "Adelaide United",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Samuel Klein 41'(H)"
+            ]
         },
         {
             "start_time": "06:00",
@@ -21,7 +23,7 @@
             "home": "Central Coast Mariners",
             "away": "Western Sydney Wanderers",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Annalise Rasmussen 41'(H)",
                 "Holly Caspers 35'(A)"
@@ -33,10 +35,11 @@
             "country": "World",
             "home": "Solomon Islands U19",
             "away": "Australia U17",
-            "score": "1 - 2",
+            "score": "1 - 3",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 77'(A)",
+                "Luke Becvinovski 90'(A)",
+                "Georgio Hassarati 70'(A)",
                 "Unknown 59'(H)",
                 "Malik Olukhale 19'(A)"
             ]
@@ -47,9 +50,10 @@
             "country": "Oceania",
             "home": "PNG Hekari FC",
             "away": "South Melbourne FC",
-            "score": "0 - 3",
-            "minute": "Halftime",
+            "score": "0 - 4",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 59'(A)",
                 "Maximilian Mikkola 45'(A)",
                 "Yuki Uchida 7'(A)",
                 "Thomas Giannakopoulos 4'(A)"
@@ -62,7 +66,7 @@
             "home": "Magic United TFA",
             "away": "Eastern Suburbs",
             "score": "1 - 2",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 35'(A)",
                 "Unknown 21'(H)",
@@ -84,6 +88,18 @@
         },
         {
             "start_time": "06:30",
+            "league": "Indonesia Super League",
+            "country": "Indonesia",
+            "home": "Malut United FC",
+            "away": "Persik Kediri",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 27'(H)"
+            ]
+        },
+        {
+            "start_time": "06:30",
             "league": "Indonesia Championship, Championship round, Group B",
             "country": "Indonesia",
             "home": "Persipura Jayapura",
@@ -98,9 +114,24 @@
             "country": "Indonesia",
             "home": "PS Mataram",
             "away": "Bima Sakti",
-            "score": "0 - 0",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 41'(H)"
+            ]
+        },
+        {
+            "start_time": "06:30",
+            "league": "Indonesia Liga 4",
+            "country": "Indonesia",
+            "home": "Wahana FC",
+            "away": "Jaya Raya",
+            "score": "2 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 25'(H)",
+                "Unknown 20'(H)"
+            ]
         }
     ]
 }
