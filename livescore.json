@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-25 06:19:26 UTC"
+        "updated": "2026-01-25 06:51:36 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Melbourne Victory",
             "away": "Sydney FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -32,9 +32,10 @@
             "country": "Hong Kong",
             "home": "Supreme FC",
             "away": "Yau Tsim Mong",
-            "score": "4 - 1",
+            "score": "5 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 85'(H)",
                 "Unknown 57'(H)",
                 "Unknown 31'(H)",
                 "Unknown 27'(A)",
@@ -49,7 +50,7 @@
             "home": "Bright Cerulean FC",
             "away": "Wing Yee",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 11'(H)"
             ]
@@ -60,9 +61,11 @@
             "country": "Hong Kong",
             "home": "Central & Western",
             "away": "Qi Yi FC",
-            "score": "3 - 0",
-            "minute": "Halftime",
+            "score": "5 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 65'(H)",
+                "Unknown 49'(H)",
                 "Unknown 28'(H)",
                 "Unknown 18'(H)",
                 "Unknown 11'(H)"
@@ -75,7 +78,7 @@
             "home": "Citizen AA",
             "away": "Tuen Mun SA",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 7'(A)"
             ]
@@ -84,11 +87,24 @@
             "start_time": "05:30",
             "league": "FA Cup",
             "country": "Hong Kong",
+            "home": "Hoi King",
+            "away": "New Fair Kuitan",
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 42'(H)"
+            ]
+        },
+        {
+            "start_time": "05:30",
+            "league": "FA Cup",
+            "country": "Hong Kong",
             "home": "Lucky Mile",
             "away": "Wanchai Sports",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "0 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 63'(A)",
                 "Unknown 7'(A)"
             ]
         },
@@ -98,8 +114,20 @@
             "country": "India",
             "home": "Diamond Harbour FC U21",
             "away": "United SC U21",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
+            "scorers": [
+                "Unknown 70'(H)"
+            ]
+        },
+        {
+            "start_time": "06:30",
+            "league": "Indonesia Liga 4",
+            "country": "Indonesia",
+            "home": "Nabil Pelalawan",
+            "away": "PS Siak",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -111,6 +139,18 @@
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
+        },
+        {
+            "start_time": "06:00",
+            "league": "UAAP Championship",
+            "country": "Philippines",
+            "home": "UE Red Warriors",
+            "away": "Dls Green Archers",
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 33'(A)"
+            ]
         }
     ]
 }
