@@ -2,12 +2,15 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | North & Central America | US Virgin Islands U17 vs Dominican Republic U17 | **0 - 8** | `Halftime` | Unknown 45'(A), Unknown 44'(A), Unknown 29'(A), Unknown 28'(A), Unknown 21'(A), Unknown 19'(A), Unknown 18'(A), Unknown 10'(A) |
-| 22:00 | Brazil | Vilavelhense vs Real Noroeste | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | EC São José vs Caxias | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | Piauí EC vs Parnahyba SC | **0 - 0** | `Halftime` | --- |
-| 22:00 | Chile Amateur | C.D. Javiera Carrera vs C.D. Unión Ferroviario | **0 - 1** | `Halftime` | Unknown 40'(A) |
-| 21:00 | Colombia | Boca Juniors de Cali vs Deportes Quindío | **0 - 1** | `2nd half` | José Lloreda 36'(A) |
-| 22:00 | Colombia | Real Cundinamarca vs Envigado FC | **0 - 2** | `Halftime` | Edison López 22'(A), Unknown 3'(A) |
-| 21:00 | Portugal Amateur | AEISEG vs AEFEUNL | **0 - 0** | `Started` | --- |
+| 23:00 | Brazil | Portuguesa vs Guarani | **0 - 0** | `1st half` | --- |
+| 22:00 | North & Central America | US Virgin Islands U17 vs Dominican Republic U17 | **0 - 9** | `2nd half` | Unknown 47'(A), Unknown 45'(A), Unknown 44'(A), Unknown 29'(A), Unknown 28'(A), Unknown 21'(A), Unknown 19'(A), Unknown 18'(A), Unknown 10'(A) |
+| 23:00 | North & Central America | Bonaire U17 vs Bermuda U17 | **0 - 2** | `1st half` | Milan Gibbons-Thomas 19'(A), Daley Outerbridge 7'(A) |
+| 23:00 | North & Central America | Barbados U17 vs El Salvador U17 | **0 - 2** | `1st half` | Unknown 13'(A), Unknown 1'(A) |
+| 22:00 | Brazil | Vilavelhense vs Real Noroeste | **1 - 0** | `2nd half` | Unknown 50'(H) |
+| 22:00 | Brazil | EC São José vs Caxias | **1 - 0** | `2nd half` | Andrey 46'(H) |
+| 22:00 | Brazil | Piauí EC vs Parnahyba SC | **1 - 0** | `2nd half` | Unknown 46'(H) |
+| 22:00 | Chile Amateur | C.D. Javiera Carrera vs C.D. Unión Ferroviario | **0 - 1** | `2nd half` | Unknown 40'(A) |
+| 22:00 | Colombia | Real Cundinamarca vs Envigado FC | **0 - 2** | `2nd half` | Edison López 22'(A), Unknown 3'(A) |
+| 23:00 | Colombia | Unión Magdalena vs Bogotá FC | **0 - 0** | `1st half` | --- |
+| 23:00 | Mexico | Querétaro vs Toluca | **0 - 0** | `1st half` | --- |
 | 21:15 | Portugal Amateur | AEFMH vs AEFCT | **0 - 0** | `Started` | --- |
