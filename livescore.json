@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-26 13:27:30 UTC"
+        "updated": "2026-01-26 13:59:51 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Uzbekistan",
             "away": "China",
             "score": "0 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 20'(A)",
                 "Unknown 12'(A)"
@@ -28,23 +28,13 @@
             "scorers": []
         },
         {
-            "start_time": "12:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "PFK Montana 1921",
-            "away": "Sepsi OSK",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
             "start_time": "12:30",
             "league": "Club Friendly Games",
             "country": "World",
             "home": "NK Veres Rivne",
             "away": "Dukagjini",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Iljasa Zulfiu 38'(A)"
             ]
@@ -55,9 +45,11 @@
             "country": "World",
             "home": "Arda Kardzhali",
             "away": "FC Ufa",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Evgeniy Shlyakov 28'(A)"
+            ]
         },
         {
             "start_time": "13:00",
@@ -65,10 +57,11 @@
             "country": "World",
             "home": "Dinamo Makhachkala",
             "away": "FK Vardar Skopje",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "2 - 0",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 20'(H)"
+                "Gamid Agalarov 35'(H)",
+                "Andr\u00e9s Alarc\u00f3n 20'(H)"
             ]
         },
         {
@@ -78,7 +71,7 @@
             "home": "Druzhba Maikop",
             "away": "Dynamo Bryansk",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -97,10 +90,12 @@
             "country": "World",
             "home": "\u0160K Slovan Bratislava",
             "away": "FC CSKA 1948 Sofia",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "1 - 2",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 17'(H)"
+                "Bernardo Couto 39'(A)",
+                "Brian Sobrero 21'(A)",
+                "Mykola Kukharevych 17'(H)"
             ]
         },
         {
@@ -119,9 +114,11 @@
             "country": "International Youth",
             "home": "Aspire Academy U17",
             "away": "Paris Saint-Germain U16",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Josu\u00e9 Dasilva 67'(A)",
+                "Josu\u00e9 Dasilva 64'(H)",
                 "\u00c9lie Karim 16'(A)"
             ]
         },
@@ -142,22 +139,8 @@
             "home": "Parma U20",
             "away": "Torino U20",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
-        },
-        {
-            "start_time": "12:00",
-            "league": "U17 Copa Fictor, Playoffs Ouro",
-            "country": "Brazil",
-            "home": "Palmeiras U17",
-            "away": "Retr\u00f4 U17",
-            "score": "3 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Gustavo Bonora Froldi 50'(H)",
-                "Jo\u00e3o Fran\u00e7a 18'(H)",
-                "Eduardo Concei\u00e7\u00e3o Silva 10'(H)"
-            ]
         },
         {
             "start_time": "13:00",
@@ -166,17 +149,7 @@
             "home": "Garage Express",
             "away": "Rukinzo FC",
             "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "11:00",
-            "league": "Ligue 1 - Groupe A",
-            "country": "DR Congo",
-            "home": "Lubumbashi Sport",
-            "away": "AS Malole",
-            "score": "0 - 0",
-            "minute": "Started",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -185,20 +158,28 @@
             "country": "DR Congo",
             "home": "CS Don Bosco",
             "away": "AS New Soger",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 38'(H)"
-            ]
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "13:00",
+            "league": "Ligue 1 - Groupe A",
+            "country": "DR Congo",
+            "home": "Lubumbashi Sport",
+            "away": "AS Malole",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "13:00",
             "league": "Ligue 1 - Groupe A",
             "country": "DR Congo",
             "home": "US Panda B52",
-            "away": "FC Tshikas",
+            "away": "US Tshinkunku",
             "score": "0 - 0",
-            "minute": "Started",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -208,7 +189,7 @@
             "home": "El-Alameen",
             "away": "Telephonat Beni Suef",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -217,8 +198,8 @@
             "country": "Egypt",
             "home": "FC Fayoum",
             "away": "Golden Gate S.C.",
-            "score": "0 - 0",
-            "minute": "Halftime",
+            "score": "0 - 2",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -227,8 +208,8 @@
             "country": "Egypt",
             "home": "Sila SC",
             "away": "Cascada FC",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "0 - 2",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -237,9 +218,11 @@
             "country": "Egypt",
             "home": "Sohag SC",
             "away": "EDFU Center",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 56'(H)"
+            ]
         },
         {
             "start_time": "12:30",
@@ -247,9 +230,10 @@
             "country": "Egypt",
             "home": "Team FC Cairo",
             "away": "Egypt Stars FC",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "2 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 60'(H)",
                 "Unknown 45'(H)"
             ]
         },
@@ -259,9 +243,11 @@
             "country": "Egypt",
             "home": "Al Mokawloon Al Arab SC",
             "away": "RA SC",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "1 - 2",
+            "minute": "Halftime",
             "scorers": [
+                "Unknown 45'(H)",
+                "Unknown 45'(A)",
                 "Unknown 43'(A)"
             ]
         },
@@ -272,7 +258,7 @@
             "home": "Blackburn U21",
             "away": "Birmingham City U21",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Aodhan Doherty 17'(H)"
             ]
@@ -284,8 +270,9 @@
             "home": "Crystal Palace U21",
             "away": "Derby County U21",
             "score": "4 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
+                "David Obou 27'(H)",
                 "Dean Benamar 19'(H)",
                 "Hindolo Mustapha 15'(H)",
                 "Chadi Riad 3'(H)"
@@ -297,9 +284,11 @@
             "country": "England Amateur",
             "home": "Manchester United U21",
             "away": "Brighton & Hove Albion U21",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Shea Lacey 34'(H)"
+            ]
         },
         {
             "start_time": "13:00",
@@ -307,9 +296,11 @@
             "country": "England Amateur",
             "home": "Crewe Alexandra U21",
             "away": "Hull City U21",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 35'(A)"
+            ]
         },
         {
             "start_time": "13:00",
@@ -318,7 +309,7 @@
             "home": "Ethiopia Electricity",
             "away": "Wolaita Dicha FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -327,9 +318,11 @@
             "country": "Ethiopia",
             "home": "Ethiopian Medhin",
             "away": "Mechal",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 43'(A)"
+            ]
         },
         {
             "start_time": "13:15",
@@ -337,9 +330,14 @@
             "country": "Greece Amateur",
             "home": "Aris Dimitras AC",
             "away": "Ifaistos Ilidas AFC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
+            "score": "4 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 26'(H)",
+                "Unknown 23'(H)",
+                "Unknown 17'(H)",
+                "Unknown 15'(H)"
+            ]
         },
         {
             "start_time": "12:45",
@@ -348,76 +346,10 @@
             "home": "Hong Kong Rangers U22",
             "away": "Wofoo Tai Po U22",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 38'(H)",
                 "Unknown 33'(A)"
-            ]
-        },
-        {
-            "start_time": "12:00",
-            "league": "Indonesia Super League",
-            "country": "Indonesia",
-            "home": "Dewa United FC",
-            "away": "Arema FC",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Alex Martins 43'(H)",
-                "Alex Martins 4'(H)"
-            ]
-        },
-        {
-            "start_time": "11:30",
-            "league": "Kurdistan First Division ",
-            "country": "Iraq",
-            "home": "Erbil SC",
-            "away": "Jihan University",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 74'(H)",
-                "Unknown 28'(H)"
-            ]
-        },
-        {
-            "start_time": "11:30",
-            "league": "Kurdistan First Division ",
-            "country": "Iraq",
-            "home": "Soran",
-            "away": "Shekhan SC",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 43'(H)"
-            ]
-        },
-        {
-            "start_time": "11:30",
-            "league": "Kurdistan First Division ",
-            "country": "Iraq",
-            "home": "Sumel",
-            "away": "Kfri",
-            "score": "4 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 81'(A)",
-                "Unknown 52'(H)",
-                "Unknown 45'(H)",
-                "Unknown 35'(H)",
-                "Unknown 25'(H)"
-            ]
-        },
-        {
-            "start_time": "11:30",
-            "league": "Kurdistan First Division ",
-            "country": "Iraq",
-            "home": "Tanahi",
-            "away": "Baban",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 78'(H)"
             ]
         },
         {
@@ -426,11 +358,21 @@
             "country": "Israel",
             "home": "Hapoel Afula U19",
             "away": "SC Kiryat Yam U19",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "0 - 2",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 44'(A)"
             ]
+        },
+        {
+            "start_time": "13:30",
+            "league": "Premier League, Group 1",
+            "country": "Libya",
+            "home": "Al Qadisiyah Bani Walid",
+            "away": "Libyan Stadium",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "13:00",
@@ -439,7 +381,7 @@
             "home": "Al Taawon Ajdabiya SC",
             "away": "Al Anwar Al Abyar SC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -461,10 +403,20 @@
             "home": "Kedah FA",
             "away": "Johor Darul Ta'zim U23",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 17'(H)"
+                "Rahmat bin Makasuf 17'(H)"
             ]
+        },
+        {
+            "start_time": "13:30",
+            "league": "QSL Cup, Knockout stage",
+            "country": "Qatar",
+            "home": "Muaither SC",
+            "away": "Al Kharaitiyat SC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "12:30",
@@ -473,7 +425,7 @@
             "home": "Al Batin",
             "away": "Al Raed",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Abdoulay Diaby 37'(H)"
             ]
@@ -484,9 +436,11 @@
             "country": "Saudi Arabia",
             "home": "Al Arabi (SA)",
             "away": "Al Faisaly",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "0 - 3",
+            "minute": "2nd half",
             "scorers": [
+                "Romell Quioto 46'(A)",
+                "Luvannor Henrique 44'(A)",
                 "Ahmad Al Mhemaid 9'(A)"
             ]
         },
@@ -496,23 +450,11 @@
             "country": "Saudi Arabia",
             "home": "Al-Shoulla",
             "away": "Al-Taraji",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Nidhal Ben Salem -1'(H)"
-            ]
-        },
-        {
-            "start_time": "11:30",
-            "league": "Premier League",
-            "country": "Singapore",
-            "home": "Young Lions",
-            "away": "Tanjong Pagar United",
-            "score": "1 - 1",
+            "score": "0 - 2",
             "minute": "2nd half",
             "scorers": [
-                "Zenivio Mota 45'(A)",
-                "S\u00e9rgio Mendon\u00e7a 26'(H)"
+                "Clavert Kiendrebeogo 67'(A)",
+                "Mashari Al-Jribai 45'(A)"
             ]
         },
         {
@@ -521,9 +463,11 @@
             "country": "South Sudan",
             "home": "Al-Hilal Wau",
             "away": "Malakia SSC",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 25'(H)"
+            ]
         }
     ]
 }
