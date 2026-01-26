@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-01-26 07:17:49 UTC"
+        "updated": "2026-01-26 07:43:49 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Melbourne Victory",
             "away": "Sydney FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -20,9 +20,24 @@
             "country": "World",
             "home": "Rodina Moscow",
             "away": "Shanghai Shenhua",
-            "score": "0 - 0",
+            "score": "1 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 37'(A)",
+                "Ivan Timoshenko 21'(H)"
+            ]
+        },
+        {
+            "start_time": "07:00",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Sibir Novosibirsk",
+            "away": "Dinamo Barnaul",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 15'(A)"
+            ]
         },
         {
             "start_time": "06:00",
@@ -37,14 +52,26 @@
             ]
         },
         {
+            "start_time": "07:30",
+            "league": "Mumbai Premier League, Group A",
+            "country": "India Amateur",
+            "home": "Mumbai City FC II",
+            "away": "Reliance FYC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "06:00",
             "league": "Indonesia Liga 4",
             "country": "Indonesia",
             "home": "Badai Pasifik",
             "away": "Sarmi United",
-            "score": "1 - 0",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 80'(A)",
+                "Unknown 66'(A)",
                 "Unknown 45'(H)"
             ]
         },
@@ -54,9 +81,10 @@
             "country": "Indonesia",
             "home": "Bima Sakti",
             "away": "Lombok Tengah",
-            "score": "2 - 2",
+            "score": "2 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 61'(A)",
                 "Unknown 45'(A)",
                 "Unknown 40'(A)",
                 "Unknown 22'(H)",
@@ -82,12 +110,23 @@
             "country": "Indonesia",
             "home": "Tunas Negeri",
             "away": "Jaya Raya",
-            "score": "0 - 2",
-            "minute": "1st half",
+            "score": "0 - 3",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 52'(A)",
                 "Unknown 34'(A)",
                 "Unknown 26'(A)"
             ]
+        },
+        {
+            "start_time": "07:00",
+            "league": "Indonesia Liga 4",
+            "country": "Indonesia",
+            "home": "Gaung Putra",
+            "away": "Gumarang FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         }
     ]
 }
