@@ -2,33 +2,43 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 20:00 | Europe | Benfica vs Real Madrid | **3 - 2** | `2nd half` | Kylian Mbappé 58'(A), Andreas Schjelderup 54'(H), Vangelis Pavlidis 45'(H), Andreas Schjelderup 36'(H), Kylian Mbappé 30'(A) |
-| 21:10 | Colombia | Alianza Valledupar FC vs Boyacá Chicó FC | **0 - 0** | `1st half` | --- |
-| 21:00 | Brazil | Forte FC vs Serra FC | **1 - 0** | `Halftime` | Unknown 7'(H) |
-| 20:30 | Brazil | Barcelona-RO vs Ji-Paraná | **0 - 0** | `2nd half` | --- |
-| 21:00 | El Salvador | CD Águila vs C.D. Platense Zacatecoluca | **2 - 0** | `Halftime` | Carlos Garay 33'(H), Marcelo Díaz 25'(H) |
-| 19:45 | England Amateur | Fareham Town vs Littlehampton Town FC | **1 - 1** | `2nd half` | Marshall Ball 64'(A), Unknown 45'(H) |
-| 19:45 | England Amateur | AS London vs Clapton Community FC | **0 - 1** | `Started` | Andre Odeku 67'(A) |
-| 19:45 | England Amateur | Nelson FC vs Squires Gate FC | **2 - 3** | `2nd half` | Unknown 90'(A), Unknown 89'(A), Unknown 80'(A), Unknown 23'(H), Unknown 19'(H) |
-| 19:45 | England Amateur | Eccleshall FC vs Shawbury United FC | **3 - 0** | `2nd half` | Unknown 84'(H), Unknown 72'(H), Unknown 23'(H) |
-| 19:45 | England Amateur | Dorkinians vs Nottsborough FC | **4 - 4** | `Started` | Unknown 66'(H), Unknown 66'(H), Unknown 66'(H), Unknown 66'(H), Unknown 66'(A), Unknown 66'(A), Unknown 66'(A), Unknown 66'(A) |
-| 21:00 | Guatemala | Deportivo Achuapa vs Deportivo Mixco | **1 - 0** | `Halftime` | Jomal Williams 28'(H) |
-| 21:30 | Guatemala | Universidad de San Carlos CF vs Draco FC | **1 - 0** | `1st half` | Unknown 7'(H) |
-| 20:00 | Haiti | Baltimore SC vs Ouanaminthe FC | **1 - 0** | `Started` | Unknown 42'(H) |
-| 20:00 | Haiti | Racing FC des Gonaïves vs AS Capoise | **0 - 1** | `Started` | Unknown 42'(A) |
-| 21:00 | Haiti | Violette AC vs Juventus des Cayes | **0 - 1** | `Started` | Onelson Dorante -1'(A) |
-| 21:00 | Honduras | Génesis PN vs Real CD España | **1 - 0** | `Halftime` | Unknown 45'(H) |
-| 19:30 | Italy Amateur | AS Cupramontana G. Ippoliti vs ASD Castelbellino Calcio | **2 - 3** | `Started` | Unknown 90'(A), Unknown 65'(H), Unknown 63'(A), Unknown 40'(H), Unknown 12'(A) |
+| 22:00 | Brazil | Atlético Mineiro vs Palmeiras | **0 - 1** | `1st half` | José López 27'(A) |
+| 22:00 | Brazil | Coritiba vs Red Bull Bragantino | **0 - 0** | `1st half` | --- |
+| 22:00 | Brazil | Internacional vs Athletico | **0 - 1** | `1st half` | Steven Mendoza 9'(A) |
+| 22:00 | Brazil | Vitória vs Remo | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | Fluminense vs Grêmio | **0 - 0** | `1st half` | --- |
+| 21:10 | Colombia | Alianza Valledupar FC vs Boyacá Chicó FC | **1 - 1** | `2nd half` | Jhon Romana 50'(A), Wiston Fernández 47'(H) |
+| 22:00 | North & Central America | Dominica U17 vs Belize U17 | **0 - 0** | `1st half` | --- |
+| 22:00 | Argentina | Racing Club vs Rosario Central | **0 - 2** | `1st half` | Alejo Véliz 35'(A), Ángel Di María 24'(A) |
+| 22:15 | Brazil | Porto Sport Club vs Barcelona de Ilhéus | **0 - 0** | `1st half` | --- |
+| 21:00 | Brazil | Forte FC vs Serra FC | **1 - 0** | `2nd half` | Unknown 7'(H) |
+| 22:00 | Brazil | Maranguape vs Maracanã | **0 - 1** | `1st half` | Mateus Ramos 8'(A) |
+| 22:30 | Brazil | Atlético Goianiense vs Inhumas | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | CRAC vs AA Aparecidense | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | Jataiense vs Anapolina | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | IAPE vs Maranhão AC | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | ITZ Sport vs Luminense AC | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | Moto Club vs Imperatriz | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | Sousa EC vs Treze | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | CA Linense vs Taubaté | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | EC São Bento vs São José EC | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | Grêmio Prudente vs XV de Piracicaba | **0 - 0** | `1st half` | --- |
+| 22:00 | Brazil | Marília vs Bandeirante EC | **3 - 0** | `1st half` | Unknown 23'(H), Unknown 13'(H), Unknown 2'(H) |
+| 22:00 | Brazil | SE Itapirense vs Francana | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | Catanduva FC vs Rio Preto | **0 - 0** | `1st half` | --- |
+| 22:30 | Brazil | União São João vs União Barbarense U23 | **0 - 0** | `1st half` | --- |
+| 22:00 | Chile Amateur | C.D. Javiera Carrera vs C.D. Santos de América | **1 - 1** | `1st half` | Unknown 24'(H), Unknown 6'(A) |
+| 21:00 | El Salvador | CD Águila vs C.D. Platense Zacatecoluca | **3 - 1** | `2nd half` | Unknown 64'(H), Unknown 52'(A), Carlos Garay 33'(H), Marcelo Díaz 25'(H) |
+| 21:00 | Guatemala | Deportivo Achuapa vs Deportivo Mixco | **2 - 0** | `2nd half` | Jomal Williams 54'(H), Jomal Williams 28'(H) |
+| 21:30 | Guatemala | Universidad de San Carlos CF vs Draco FC | **1 - 1** | `Halftime` | Unknown 34'(A), Unknown 7'(H) |
+| 21:00 | Honduras | Génesis PN vs Real CD España | **1 - 1** | `2nd half` | Unknown 71'(A), Unknown 45'(H) |
 | 20:15 | Italy Amateur | Humanitas University vs Università Luigi Bocconi | **0 - 0** | `Started` | --- |
-| 20:00 | Jamaica | Tivoli Gardens vs Treasure Beach FC | **0 - 0** | `2nd half` | --- |
-| 21:00 | Panama | CD Universitario Reserves vs Herrera FC Reserves | **3 - 0** | `Halftime` | Unknown 39'(H), Unknown 38'(H), Unknown 3'(H) |
-| 21:00 | Paraguay | Libertad vs Sportivo Ameliano | **1 - 0** | `Halftime` | Néstor Giménez 38'(H) |
+| 21:00 | Panama | CD Universitario Reserves vs Herrera FC Reserves | **4 - 0** | `2nd half` | Unknown 77'(H), Unknown 39'(H), Unknown 38'(H), Unknown 3'(H) |
+| 21:00 | Paraguay | Libertad vs Sportivo Ameliano | **1 - 0** | `2nd half` | Néstor Giménez 38'(H) |
 | 20:30 | Portugal Amateur | GD Cachão vs AE Africanos Bragança | **0 - 0** | `Started` | --- |
 | 20:30 | Portugal Amateur | GD Torre de Moncorvo vs FC Carrazeda de Ansiães | **0 - 0** | `Started` | --- |
 | 20:30 | Portugal Amateur | CD Carção vs CCD Minas Argozelo | **0 - 0** | `Started` | --- |
 | 20:30 | Portugal Amateur | GD Mirandês vs ADC Rebordelo | **0 - 0** | `Started` | --- |
 | 21:15 | Portugal Amateur | AEIST vs NOVA | **0 - 0** | `Started` | --- |
-| 21:15 | Portugal Amateur | ABCD vs ADCR Mourinhense | **0 - 0** | `Started` | --- |
-| 19:30 | Spain Amateur | Portbou vs Llançà | **1 - 0** | `Started` | Unknown 73'(H) |
-| 19:30 | Spain Amateur | CF Nules vs CF San Pedro | **0 - 0** | `Started` | --- |
-| 20:30 | USA | Portland Timbers vs Los Angeles FC | **2 - 2** | `2nd half` | Kevin Kelsy 32'(H), Unknown 24'(A), Felipe Mora 5'(H), Unknown 2'(A) |
+| 21:15 | Portugal Amateur | ABCD vs ADCR Mourinhense | **1 - 0** | `Started` | Unknown 50'(H) |
+| 22:00 | Trinidad and Tobago | Central FC vs San Juan Jabloteh | **1 - 1** | `1st half` | Unknown 23'(H), Unknown 9'(A) |
