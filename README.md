@@ -2,14 +2,12 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:20 | Colombia | Fortaleza FC vs Llaneros FC | **0 - 1** | `1st half` | Carlos Cortés 18'(A) |
-| 23:00 | North & Central America | Saint Lucia U17 vs Haiti U17 | **0 - 2** | `Halftime` | Unknown 18'(A), Unknown 4'(A) |
-| 23:00 | Argentina | Gimnasia y Esgrima Mendoza vs San Lorenzo | **0 - 0** | `Halftime` | --- |
-| 23:00 | Argentina | Huracán vs Independiente Rivadavia | **1 - 0** | `Halftime` | Jordy Caicedo 39'(H) |
-| 22:30 | Argentina Amateur | Defensores Puerto Vilelas vs Sportivo Cultural | **4 - 0** | `2nd half` | Unknown 44'(H), Unknown 21'(H), Unknown 12'(H), Unknown 6'(H) |
-| 22:15 | Brazil | Galícia vs Atlético Alagoinhas | **1 - 0** | `2nd half` | Rafael Mineiro 26'(H) |
-| 22:00 | Brazil | AD Iguatu vs Horizonte FC | **1 - 0** | `2nd half` | Cássio Halloween 60'(H) |
-| 23:30 | Brazil | Cuiabá vs União Rondonópolis | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | São Raimundo-RR vs Progresso | **1 - 0** | `Halftime` | Lucão 22'(H) |
-| 18:00 | Germany Amateur | FSV Pfaffenhofen vs FC Pipinsried | **0 - 0** | `Halftime` | --- |
-| 23:15 | Paraguay | Sportivo San Lorenzo vs Cerro Porteño | **0 - 1** | `1st half` | Blás Riveros 12'(A) |
+| 01:30 | Colombia | Independiente Medellín vs Deportes Tolima | **1 - 2** | `1st half` | Adrián Parra 31'(A), Adrián Parra 26'(A), José Ortiz 21'(H) |
+| 00:30 | World | Chaco For Ever vs Central Norte de Salta | **0 - 1** | `2nd half` | Tiago Taobas 27'(A) |
+| 01:00 | North & Central America | Anguilla U17 vs Costa Rica U17 | **0 - 8** | `2nd half` | Cameron Mora Ortega 45'(A), Nubia Medina 45'(A), Nubia Medina 43'(A), Nubia Medina 36'(A), Nubia Medina 29'(A), Lucía Paniagua Cordero 27'(A), Lucía Paniagua Cordero 13'(A), Unknown 5'(A) |
+| 01:15 | Argentina | Atlético Tucumán vs Central Córdoba | **0 - 0** | `1st half` | --- |
+| 01:15 | Argentina | Newell's Old Boys vs CA Independiente | **0 - 1** | `1st half` | Gabriel Ávalos 34'(A) |
+| 00:00 | Brazil | Desportiva Ferroviária vs Rio Branco-ES | **1 - 1** | `2nd half` | Tiago Cardoso Moura 63'(H), Unknown 52'(A) |
+| 01:00 | Brazil | Rio Negro-RR vs Náutico-RR | **0 - 0** | `Halftime` | --- |
+| 00:00 | Chile Amateur | C.D. Presidente Ibañez vs C.D. Severo Cofre | **2 - 2** | `2nd half` | Unknown 62'(H), Unknown 52'(A), Unknown 48'(H), Unknown 28'(A) |
+| 01:00 | Colombia Amateur | Metropolitano FC vs CASG United | **0 - 2** | `1st half` | Unknown 29'(A), Unknown 10'(A) |
