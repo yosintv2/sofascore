@@ -2,37 +2,29 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 20:00 | Spain | Espanyol vs Deportivo Alavés | **1 - 2** | `2nd half` | Lucas Boyé 71'(A), Antonio Blanco 27'(A), Roberto Fernández 15'(H) |
-| 20:45 | Portugal | Vitória SC vs Moreirense | **0 - 0** | `Halftime` | --- |
-| 20:00 | England | Bristol City vs Derby County | **0 - 5** | `2nd half` | Lars-Jørgen Salvesen 88'(A), Patrick Agyemang 66'(A), Bobby Clark 36'(A), Ben Brereton Díaz 16'(A), Rhian Brewster 13'(A) |
-| 20:15 | Peru | Universidad Técnica de Cajamarca vs Club Atlético Grau | **2 - 0** | `2nd half` | Adolfo Muñoz 53'(H), Marcos Lliuya 2'(H) |
-| 20:00 | France | Olympique de Marseille vs Paris FC | **0 - 3** | `2nd half` | Klaudia Jedlinska 46'(A), Sheika Scott 45'(A), Maëlle Garbino 31'(A) |
-| 20:15 | Spain | Hércules CF vs FC Cartagena | **0 - 0** | `2nd half` | --- |
-| 20:00 | Colombia | Atlético Cali vs Barranquilla FC | **0 - 2** | `2nd half` | Mario Alberto Orozco 84'(A), Philippe Oviedo 45'(A) |
-| 20:00 | Colombia | Bogotá FC vs Internacional de Palmira | **1 - 2** | `2nd half` | Unknown 90'(A), Brayan Castro 13'(H), Jown Cardona 9'(A) |
-| 20:30 | El Salvador | Zacatecoluca FC vs AD Isidro Metapan | **1 - 1** | `Halftime` | Unknown 45'(A), Unknown 27'(H) |
-| 21:00 | El Salvador | CD Águila vs CD FAS | **0 - 1** | `1st half` | Unknown 36'(A) |
+| 20:45 | Portugal | Vitória SC vs Moreirense | **0 - 0** | `2nd half` | --- |
+| 22:00 | North & Central America | US Virgin Islands U17 vs Dominica U17 | **1 - 0** | `1st half` | Unknown 4'(H) |
+| 22:00 | Brazil | Sampaio Corrêa-RJ vs Boavista | **0 - 0** | `1st half` | --- |
+| 22:00 | Chile | Club Deportes Antofagasta vs Cobreloa | **0 - 0** | `1st half` | --- |
+| 22:00 | Chile Amateur | C.D. Juvenil Seminario vs C.D. Severo Cofre | **0 - 0** | `1st half` | --- |
+| 22:00 | Colombia | Patriotas Boyacá vs Real Santander | **0 - 0** | `1st half` | --- |
+| 22:00 | Colombia Amateur | Forza Aquamana Soldaceros vs El Morro FC | **0 - 0** | `Started` | --- |
+| 20:30 | El Salvador | Zacatecoluca FC vs AD Isidro Metapan | **2 - 1** | `2nd half` | Unknown 70'(H), Unknown 45'(A), Unknown 27'(H) |
+| 21:00 | El Salvador | CD Águila vs CD FAS | **0 - 1** | `2nd half` | Unknown 36'(A) |
 | 19:45 | England Amateur | Campion AFC vs Knaresborough Town FC | **0 - 0** | `Started` | --- |
 | 19:45 | England Amateur | Appleby Frodingham FC vs Brigg Town FC | **0 - 0** | `Started` | --- |
 | 19:45 | England Amateur | Bowers & Pitsea FC Reserves vs Brentwood Town U23s | **0 - 0** | `Started` | --- |
 | 19:45 | England Amateur | Hutton Under 23 vs Aveley U23 | **0 - 0** | `Started` | --- |
 | 19:45 | England Amateur | May & Baker EC Reserves vs Barking U23 | **0 - 0** | `Started` | --- |
 | 19:45 | England Amateur | Lymore Gardens vs FC Baresi | **0 - 0** | `Started` | --- |
-| 20:00 | England Amateur | Barnton AFC vs Darwen FC | **0 - 0** | `Started` | --- |
-| 19:30 | England Amateur | Easington Colliery AFC vs West Auckland Town | **0 - 0** | `Started` | --- |
-| 19:30 | England Amateur | Newcastle Blue Star FC vs West Allotment Celtic | **0 - 0** | `Started` | --- |
-| 19:30 | England Amateur | Guernsey U18 vs Guernsey Rovers AC | **0 - 0** | `Started` | --- |
-| 20:00 | Ireland | Carrigaline United vs Avondale United | **2 - 3** | `2nd half` | Unknown 79'(A), Unknown 65'(H), Unknown 27'(A), Unknown 17'(H), Unknown 3'(A) |
-| 20:00 | Ireland | St Francis FC vs Tolka Rovers AFC | **3 - 2** | `2nd half` | Unknown 65'(A), Unknown 55'(H), Unknown 35'(A), Unknown 21'(H), Unknown 6'(H) |
-| 19:30 | Malta | Senglea Athletic FC vs Pembroke Athleta FC | **1 - 4** | `Started` | Matt Gatt 42'(H), Unknown 34'(A), Clayton Rapa 31'(A), Malcolm Vella Vidal 28'(A), Tyrone Fenech 5'(A) |
-| 18:00 | Malta | S.K. Victoria Wanderers vs Ghajnsielem F.C. | **0 - 2** | `2nd half` | Tom 27'(A), Alberto Xuereb 16'(A) |
-| 21:00 | Mexico | Universidad del Sureste FC vs Tapachula Soconusco FC B | **0 - 0** | `1st half` | --- |
+| 21:00 | Mexico | Universidad del Sureste FC vs Tapachula Soconusco FC B | **0 - 0** | `2nd half` | --- |
+| 00:00 | Mexico | Inter Playa del Carmen II vs Boston Cancún FC | **0 - 0** | `1st half` | --- |
+| 22:00 | Mexico | Colima F.C. vs Leones Negros UdeG Premier | **0 - 0** | `1st half` | --- |
 | 19:45 | Northern Ireland | Ballyclare Comrades vs Banbridge Town | **5 - 0** | `2nd half` | Unknown 90'(H), Unknown 78'(H), Unknown 53'(H), Unknown 45'(H), Unknown 33'(H) |
-| 20:00 | Poland Amateur | Wybrzeże Gdańsk vs KS Sokół Bożepole Wielkie | **0 - 0** | `Started` | --- |
 | 21:15 | Portugal Amateur | ABCD vs ADC Reguenga | **0 - 0** | `Started` | --- |
 | 21:30 | Portugal Amateur | AD Tarrio vs AMCH Ringe | **0 - 0** | `Started` | --- |
+| 22:00 | Saint Kitts and Nevis | Rivers of Living Water FC vs Saddlers United FC | **0 - 0** | `Started` | --- |
 | 19:45 | Scotland Amateur | Kilwinning Rangers vs Troon FC | **0 - 0** | `Started` | --- |
-| 20:00 | Spain Amateur | CD San Miguel vs Real Unión de Tenerife | **1 - 1** | `2nd half` | Unknown 73'(H), Alejandro Adrian Hernandez Santiago 8'(A) |
-| 21:00 | Spain Amateur | Tenerife C vs CD Marino | **0 - 2** | `Halftime` | Unknown 35'(A), Unknown 28'(A) |
+| 21:00 | Spain Amateur | Tenerife C vs CD Marino | **0 - 2** | `2nd half` | Unknown 35'(A), Unknown 28'(A) |
 | 20:15 | Spain Amateur | CD Elgoibar vs Deusto Donostia FT | **0 - 0** | `Started` | --- |
-| 20:00 | Wales | Gresford Athletic vs Holywell Town | **3 - 2** | `2nd half` | Mark Winslade 79'(A), Tom Smith 73'(H), Tom Smith 65'(H), Jamie Breese 47'(A), Elliot Orton 36'(H) |
+| 22:00 | Trinidad and Tobago | Police FC vs Morvant Caledonia United | **0 - 0** | `1st half` | --- |
