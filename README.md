@@ -2,5 +2,8 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 03:30 | India Amateur | Kopana FC vs Bombay Gymkhana | **1 - 1** | `2nd half` | Unknown 67'(A), Unknown 60'(H) |
-| 04:00 | Peru | Santa Ana M40 vs Claretiano M40 | **1 - 0** | `2nd half` | Unknown 40'(H) |
+| 06:00 | Australia | Wellington Phoenix vs Melbourne City | **0 - 0** | `1st half` | --- |
+| 05:30 | India | Delhi Young Boys vs United Bharat FC | **0 - 0** | `1st half` | --- |
+| 05:30 | India | CFCI U19 vs Somaiya FC | **0 - 0** | `1st half` | --- |
+| 06:00 | India Amateur | Technico Football Foundation vs Blitz FC | **1 - 0** | `Started` | Unknown 24'(H) |
+| 05:30 | Indonesia | Tunas Muda Kananga vs Sumsar FC | **0 - 0** | `1st half` | --- |
