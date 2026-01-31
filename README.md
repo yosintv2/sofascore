@@ -2,25 +2,20 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 01:00 | Mexico | Club Puebla vs CD Toluca | **0 - 0** | `1st half` | --- |
-| 00:30 | World | Gimnasia y Tiro de Salta vs Chaco For Ever | **1 - 0** | `Halftime` | Unknown 5'(H) |
-| 01:00 | North & Central America | Belize U17 vs Dominican Republic U17 | **0 - 2** | `1st half` | Unknown 5'(A), Unknown 3'(A) |
-| 23:30 | Brazil | Nova Iguaçu vs Bangu Atlético Clube | **1 - 2** | `2nd half` | Patryck Ferreira 60'(A), Patryck Ferreira 55'(A), Vinicius Charopem 15'(H) |
-| 23:00 | Brazil | Barretos U23 vs Colorado Caieiras U23 | **0 - 0** | `2nd half` | --- |
-| 00:00 | Chile Amateur | C.D. SOKOL Croata vs C.D. Presidente Ibañez | **0 - 0** | `Halftime` | --- |
-| 00:30 | Colombia | Real Cartagena vs Real Cundinamarca | **1 - 0** | `Halftime` | Fredy Montero 45'(H) |
-| 00:30 | Colombia Amateur | Calidosos Universitarios FC vs Ciudad Modelo | **1 - 0** | `1st half` | Unknown 9'(H) |
-| 00:30 | Guadeloupe | L'Etoile de Morne-à-L'eau vs Club Sport | **0 - 0** | `Started` | --- |
-| 01:00 | Indonesia | biMBA AIUEO U13 vs Diklat ISA U13 | **0 - 0** | `1st half` | --- |
-| 01:10 | Indonesia | Bogor Football School U15 vs Blles Academy U15 | **0 - 0** | `1st half` | --- |
-| 00:55 | Indonesia | Binna Banua U16 vs Diklat ISA U16 | **1 - 0** | `1st half` | Fairuz Alfaro Hibatullah 10'(H) |
-| 01:10 | Indonesia | Stoni Rajawali U16 vs Khenzi United U16 | **0 - 0** | `1st half` | --- |
-| 01:00 | Mexico | Alebrijes de Oaxaca vs Mineros de Zacatecas | **0 - 0** | `1st half` | --- |
-| 00:00 | Mexico | Toluca vs FC Juárez | **3 - 2** | `2nd half` | Abby Erceg 59'(H), Liliana Fernandez 45'(H), Victoria López 43'(H), Yunaira Lopez 32'(A), Dayana Martin 10'(A) |
-| 01:00 | Mexico | Atlas vs Atlético de San Luis | **1 - 1** | `1st half` | Unknown 16'(A), Brenda Ceren 6'(H) |
-| 00:00 | Mexico | Atletico Morelia UMSNH vs Zitacuaro CF II | **1 - 0** | `2nd half` | Unknown 15'(H) |
-| 00:00 | Mexico | Club Atletico Toltecas vs CD Matamoros | **1 - 0** | `2nd half` | Unknown 22'(H) |
-| 00:00 | Mexico | Santiago F.C. vs Real Apodaca F.C. | **2 - 0** | `2nd half` | Unknown 57'(H), Unknown 3'(H) |
-| 01:00 | Panama | San Francisco FC B vs Union Cocle FC B | **1 - 0** | `1st half` | Unknown 22'(H) |
-| 00:00 | Trinidad and Tobago | Eagles FC vs Central FC | **0 - 1** | `2nd half` | Unknown 37'(A) |
-| 01:00 | USA Amateur | Next Level Soccer Premier vs Provo FC Utah | **1 - 0** | `1st half` | Unknown 12'(H) |
+| 03:00 | Mexico | Pumas UNAM vs Santos Laguna | **3 - 0** | `1st half` | Jordan Carrillo 31'(H), Adalberto Carrasquilla 21'(H), Jordan Carrillo 12'(H) |
+| 03:06 | Mexico | FC Juárez vs Cruz Azul | **0 - 2** | `1st half` | José Paradela 7'(A), Agustín Palavecino 1'(A) |
+| 03:00 | Indonesia | Serang City U17 vs Villa 2000 U17 | **1 - 0** | `Halftime` | Difa  Firdaus 14'(H) |
+| 03:00 | Indonesia | Young Warrior U13 vs JAS U13 | **0 - 0** | `Halftime` | --- |
+| 03:00 | Indonesia | Erlangga FA U13 vs FFF Academy U13 | **0 - 0** | `2nd half` | --- |
+| 03:00 | Indonesia | CS Private U14 vs DFN FC U14 | **0 - 0** | `1st half` | --- |
+| 02:20 | Indonesia | Ricky Nelson U15 vs Jakarta City U15 | **0 - 2** | `2nd half` | Muhammad Azzam Asy Syaakir 26'(A), Azka Muzakki  Pratama 23'(A) |
+| 03:30 | Indonesia | Pro Direct U15 vs Hamka 23 U15 | **0 - 0** | `1st half` | --- |
+| 03:15 | Indonesia | Sukabumi FA U16 vs Nawasena FC U16 | **0 - 0** | `1st half` | --- |
+| 03:30 | Indonesia | Thisa Bekasi U16 vs MH Soccer U16 | **0 - 0** | `1st half` | --- |
+| 03:00 | Mexico | Club Atletico La Paz vs Venados | **0 - 0** | `1st half` | --- |
+| 03:00 | Mexico | Correcaminos UAT vs Tlaxcala FC | **2 - 0** | `1st half` | Tomás Sandoval 18'(H), Tomás Sandoval 6'(H) |
+| 03:00 | Mexico | Dorados de Sinaloa vs Tepatitlán FC | **0 - 0** | `1st half` | --- |
+| 02:05 | Mexico | Xolos de Hermosillo vs Obson Dynamo FC | **2 - 1** | `2nd half` | Unknown 42'(A), Unknown 2'(H) |
+| 02:00 | Mexico | Alacranes de Durango vs Tigres de Álica F.C. | **0 - 1** | `2nd half` | Unknown 63'(A) |
+| 02:00 | Mexico | Cimarrones de Sonora vs Guerreros de Autlán | **1 - 0** | `2nd half` | Unknown 23'(H) |
+| 01:00 | USA Amateur | Next Level Soccer Premier vs Provo FC Utah | **1 - 2** | `2nd extra` | Unknown 100'(A), Unknown 22'(A), Unknown 12'(H) |
