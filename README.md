@@ -2,16 +2,15 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 05:30 | Australia | Adelaide United vs Melbourne City | **1 - 0** | `1st half` | Fiona Worts 9'(H) |
-| 05:00 | World | Kashiwa Reysol vs JEF United Chiba | **1 - 0** | `Halftime` | Nobuteru Nakagawa 11'(H) |
-| 05:30 | Oceania | PNG Hekari FC vs Auckland FC Reserves | **0 - 0** | `1st half` | --- |
-| 06:00 | India | Fc M2M vs Ahbab FC | **0 - 1** | `1st half` | Unknown 8'(A) |
-| 05:20 | Indonesia | Tajimalela U17 vs Diklat ISA U17 | **0 - 0** | `Halftime` | --- |
-| 05:00 | Indonesia | Assa Bafo U13 vs Citra Muda U13 | **1 - 2** | `2nd half` | Alby Fachri Yadi 47'(A), Muhammad Fachio Shiddiq 25'(A), Rafandra Aqlan Lazuarzi 21'(H) |
-| 05:00 | Indonesia | Asad Purwakarta U13 vs Golden Boy SS U13 | **1 - 2** | `2nd half` | Hiroshi Rendra Ambada 47'(H), Faeyza Alfatih 42'(A), Ardana Densha 20'(A) |
-| 05:20 | Indonesia | HRC FA U14 vs Putra Sejati U14 | **0 - 2** | `1st half` | Tomy Seyhan Purnatama 21'(A), Raynar Barra Rafif Anandri 12'(A) |
-| 04:40 | Indonesia | Ocean Stars U15 vs Prahara U15 | **1 - 2** | `2nd half` | Unknown 45'(A), Junaedi Saputra 34'(A), Wildan Azka  Nugraha 22'(H) |
-| 05:50 | Indonesia | Nova Arianto AP U15 vs MM Star U15 | **0 - 0** | `Started` | --- |
-| 05:50 | Indonesia | Citeureup Raya U15 vs Angkasa LHSB U15 | **0 - 0** | `1st half` | --- |
-| 05:35 | Indonesia | biMBA AIUEO U16 vs Asiop U16 | **0 - 0** | `1st half` | --- |
-| 04:35 | USA Amateur | Miami United vs NY Renegades FC | **0 - 2** | `2nd half` | Unknown 22'(A) |
+| 06:00 | Australia | Newcastle Jets vs Brisbane Roar | **1 - 0** | `Halftime` | Lachlan Rose 18'(H) |
+| 05:30 | Australia | Adelaide United vs Melbourne City | **2 - 0** | `2nd half` | Ella Tonkin 49'(H), Fiona Worts 9'(H) |
+| 06:00 | Australia | Sydney FC vs Western Sydney Wanderers | **1 - 1** | `Halftime` | Amy Chessari 45'(A), Riley Tanner 7'(H) |
+| 05:00 | World | Kashiwa Reysol vs JEF United Chiba | **2 - 1** | `2nd half` | Tojiro Kubo 83'(H), Daichi Ishikawa 65'(A), Nobuteru Nakagawa 11'(H) |
+| 05:30 | Oceania | PNG Hekari FC vs Auckland FC Reserves | **0 - 0** | `2nd half` | --- |
+| 06:25 | Bangladesh | Farashganj SC vs Bangladesh Police FC | **0 - 0** | `1st half` | --- |
+| 06:00 | India | Fc M2M vs Ahbab FC | **1 - 1** | `2nd half` | Unknown 43'(H), Unknown 8'(A) |
+| 06:30 | Indonesia | Malut United FC vs Bhayangkara Presisi Lampung FC | **0 - 1** | `1st half` | Unknown 22'(A) |
+| 06:30 | Indonesia | Cibinong Poetra U17 vs Persikabo U17 | **0 - 0** | `1st half` | --- |
+| 05:50 | Indonesia | Nova Arianto AP U15 vs MM Star U15 | **2 - 0** | `2nd half` | Muhammad Rizky  Arya Bima 22'(H), Nur Syahbana Akbar 5'(H) |
+| 05:50 | Indonesia | Citeureup Raya U15 vs Angkasa LHSB U15 | **0 - 3** | `2nd half` | Muhamad Arfan  Risky Priyatna 46'(A), Dzaki Muhammad  Razan 28'(A), Fadhli Affan Ghalib 5'(A) |
+| 05:35 | Indonesia | biMBA AIUEO U16 vs Asiop U16 | **0 - 1** | `2nd half` | Naryama Rachmidiharja 44'(A) |
