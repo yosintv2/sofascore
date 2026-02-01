@@ -4,46 +4,43 @@
 | :--- | :--- | :--- | :---: | :---: | :--- |
 | 19:45 | Italy | Parma vs Juventus | **0 - 0** | `1st half` | --- |
 | 19:45 | France | RC Strasbourg vs Paris Saint-Germain | **0 - 0** | `1st half` | --- |
-| 18:00 | Portugal | Sporting CP vs CD Nacional | **1 - 1** | `2nd half` | Alan Núñez 76'(A), Pedro Gonçalves 72'(H) |
-| 19:00 | Netherlands | FC Volendam vs Go Ahead Eagles | **0 - 1** | `1st half` | Victor Kaj Edvardsen 10'(A) |
-| 18:15 | Belgium | Oud-Heverlee Leuven vs KV Mechelen | **2 - 1** | `2nd half` | Mathis Servais 61'(A), Chukwubuikem Ikwuemesi 52'(H), Siebe Schrijvers 33'(H) |
-| 19:00 | Greece | AEK Athens vs Olympiacos FC | **0 - 0** | `1st half` | --- |
-| 19:00 | Africa | MC Alger vs FC Saint-Éloi Lupopo | **0 - 0** | `1st half` | --- |
-| 18:00 | Israel | Hapoel Petach Tikva vs Ashdod SC | **1 - 0** | `2nd half` | Roee David 50'(H) |
-| 19:00 | Colombia | Atlético Bucaramanga vs Alianza Valledupar FC | **3 - 0** | `1st half` | Luciano Pons 39'(H), Juan Mosquera 36'(H), Fabián Sambueza 34'(H) |
-| 18:00 | Peru | Deportivo Garcilaso vs Club Sporting Cristal | **1 - 1** | `2nd half` | Santiago González 76'(A), Adrián Ascues 58'(H) |
+| 18:00 | Portugal | Sporting CP vs CD Nacional | **2 - 1** | `2nd half` | Alan Núñez 76'(A), Pedro Gonçalves 72'(H) |
+| 19:00 | Netherlands | FC Volendam vs Go Ahead Eagles | **0 - 1** | `Halftime` | Victor Kaj Edvardsen 10'(A) |
+| 18:15 | Belgium | Oud-Heverlee Leuven vs KV Mechelen | **2 - 2** | `2nd half` | Keano Vanrafelghem 79'(A), Mathis Servais 61'(A), Chukwubuikem Ikwuemesi 52'(H), Siebe Schrijvers 33'(H) |
+| 19:00 | Greece | AEK Athens vs Olympiacos FC | **0 - 0** | `Halftime` | --- |
+| 19:00 | Africa | MC Alger vs FC Saint-Éloi Lupopo | **0 - 0** | `Halftime` | --- |
+| 18:00 | Israel | Hapoel Petach Tikva vs Ashdod SC | **2 - 0** | `2nd half` | Beni Golan 90'(H), Roee David 50'(H) |
+| 19:00 | Colombia | Atlético Bucaramanga vs Alianza Valledupar FC | **3 - 0** | `Halftime` | Luciano Pons 39'(H), Juan Mosquera 36'(H), Fabián Sambueza 34'(H) |
 | 18:00 | Romania | FCSB vs FK Csíkszereda Miercurea Ciuc | **1 - 0** | `2nd half` | Juri Cisotti 38'(H) |
-| 18:45 | Hungary | Zalaegerszegi TE vs Nyiregyháza Spartacus | **0 - 0** | `Halftime` | --- |
+| 18:45 | Hungary | Zalaegerszegi TE vs Nyiregyháza Spartacus | **0 - 0** | `2nd half` | --- |
 | 18:15 | World | Umeå vs IFK Luleå | **1 - 4** | `2nd half` | Unknown 73'(H), Unknown 66'(A), Unknown 60'(A), Unknown 53'(A), William Nordell 30'(A) |
-| 18:00 | World | Arsenal vs Corinthians | **2 - 1** | `2nd half` | Lotte Wubben-Moy 59'(H), Gabriela Zanotti 22'(A), Olivia Smith 15'(H) |
-| 19:00 | Africa | Olympic Safi vs FC San Pedro | **1 - 0** | `1st half` | Salaheddine Errahouli 30'(H) |
+| 18:00 | World | Arsenal vs Corinthians | **2 - 2** | `2nd half` | Victória Albuquerque 90'(A), Lotte Wubben-Moy 59'(H), Gabriela Zanotti 22'(A), Olivia Smith 15'(H) |
+| 19:00 | Africa | Olympic Safi vs FC San Pedro | **1 - 0** | `Halftime` | Salaheddine Errahouli 30'(H) |
 | 19:00 | Africa | Al-Masry vs Zamalek SC | **1 - 1** | `Halftime` | Salah Mohsen 34'(H), Hossam Abdelmaguid 24'(A) |
 | 19:30 | Spain | AD Alcorcón vs Gimnàstic de Tarragona | **1 - 0** | `1st half` | Jordi Pola 7'(H) |
 | 18:30 | Germany | Rot-Weiss Essen vs SV Wehen Wiesbaden | **1 - 0** | `2nd half` | Marek Janssen 34'(H) |
 | 19:30 | Italy | Foggia vs Audace Cerignola | **0 - 0** | `1st half` | --- |
 | 19:30 | Italy | Salernitana vs Giugliano | **1 - 0** | `1st half` | Andrea Ferraris 16'(H) |
-| 19:00 | Bolivia | Oriente Petrolero vs Blooming | **0 - 1** | `1st half` | Unknown 34'(A) |
-| 19:00 | Brazil | Flamengo vs Corinthians | **0 - 1** | `1st half` | Gabriel Paulista 26'(A) |
-| 19:00 | Brazil | CSE vs CSA | **0 - 1** | `1st half` | Ciel 42'(A) |
+| 19:00 | Bolivia | Oriente Petrolero vs Blooming | **0 - 1** | `Halftime` | Unknown 34'(A) |
+| 19:00 | Brazil | Flamengo vs Corinthians | **0 - 1** | `Halftime` | Gabriel Paulista 26'(A) |
+| 19:00 | Brazil | CSE vs CSA | **0 - 1** | `Halftime` | Ciel 42'(A) |
 | 19:00 | Brazil | SC Penedense vs Murici Sport Clube | **0 - 0** | `Halftime` | --- |
 | 19:00 | Brazil | Barcelona de Ilhéus vs Vitória | **0 - 0** | `Halftime` | --- |
 | 18:00 | Brazil | Vitória-ES vs Capixaba SC | **2 - 0** | `2nd half` | Gustavo Tonoli 22'(H), Gustavo Tonoli 10'(H) |
 | 18:30 | Brazil | Centro-Oeste vs Goiatuba EC | **1 - 0** | `2nd half` | Lucas Xavier 2'(H) |
-| 19:00 | Brazil | Imperatriz vs IAPE | **0 - 0** | `1st half` | --- |
-| 19:00 | Brazil | Maranhão AC vs Luminense AC | **0 - 0** | `1st half` | --- |
-| 19:00 | Brazil | Moto Club vs Tuntum EC | **1 - 1** | `1st half` | Wanderson Gotinha 26'(H), Robinho 5'(A) |
-| 19:00 | Brazil | Sampaio Corrêa vs ITZ Sport | **4 - 0** | `1st half` | Emerson Carioca 28'(H), Emerson Carioca 19'(H), Emerson Carioca 15'(H), Unknown 4'(H) |
-| 19:00 | Brazil | São Raimundo-PA vs Amazônia IFC | **1 - 1** | `1st half` | Unknown 12'(H), Unknown 9'(A) |
-| 19:00 | Brazil | Independente São Joseense vs Londrina | **0 - 1** | `1st half` | Vitinho 18'(A) |
+| 19:00 | Brazil | Imperatriz vs IAPE | **0 - 0** | `Halftime` | --- |
+| 19:00 | Brazil | Maranhão AC vs Luminense AC | **0 - 0** | `Halftime` | --- |
+| 19:00 | Brazil | Moto Club vs Tuntum EC | **1 - 1** | `Halftime` | Wanderson Gotinha 26'(H), Robinho 5'(A) |
+| 19:00 | Brazil | Sampaio Corrêa vs ITZ Sport | **4 - 0** | `Halftime` | Emerson Carioca 28'(H), Emerson Carioca 19'(H), Emerson Carioca 15'(H), Unknown 4'(H) |
+| 19:00 | Brazil | São Raimundo-PA vs Amazônia IFC | **1 - 1** | `Halftime` | Unknown 12'(H), Unknown 9'(A) |
+| 19:00 | Brazil | Independente São Joseense vs Londrina | **0 - 1** | `Halftime` | Vitinho 18'(A) |
 | 18:00 | Brazil | Taubaté vs Ituano | **0 - 1** | `2nd half` | Matheus Mancini 65'(A) |
-| 19:00 | Brazil | Osasco Sporting vs Juventus-SP | **0 - 0** | `1st half` | --- |
-| 19:00 | Brazil | Fluminense-PI vs Teresina EC | **1 - 0** | `1st half` | Matheus Taumaturgo 20'(H) |
-| 18:00 | Brazil | Globo FC vs Santa Cruz-RN | **1 - 2** | `2nd half` | Ricardo Santana 57'(A), Unknown 48'(H), Tallison 23'(A) |
-| 19:00 | Brazil | Bela Vista-TO vs Capital FC | **0 - 0** | `1st half` | --- |
-| 17:30 | Colombia Amateur | Ciudad Modelo vs Calle 13 FC | **2 - 0** | `2nd half` | Unknown 81'(H), Unknown 10'(H) |
+| 19:00 | Brazil | Osasco Sporting vs Juventus-SP | **0 - 0** | `Halftime` | --- |
+| 19:00 | Brazil | Fluminense-PI vs Teresina EC | **1 - 0** | `Halftime` | Matheus Taumaturgo 20'(H) |
+| 18:00 | Brazil | Globo FC vs Santa Cruz-RN | **2 - 2** | `2nd half` | Unknown 86'(H), Ricardo Santana 57'(A), Unknown 48'(H), Tallison 23'(A) |
+| 19:00 | Brazil | Bela Vista-TO vs Capital FC | **0 - 0** | `Halftime` | --- |
 | 18:00 | Côte d'Ivoire | ASEC Mimosas vs US Tchologo | **2 - 0** | `2nd half` | Unknown 32'(H), Ben Kouyaté 20'(H) |
-| 19:00 | Cuba | Focus A.S. vs Newcastle S.C. | **1 - 1** | `1st half` | Abraham Villar 14'(A), Yorky Enrique García 6'(H) |
-| 18:00 | El Salvador | CD Cacahuatique U20 vs CD Fuerte San Francisco U20 | **2 - 0** | `2nd half` | Unknown 68'(H), Unknown 38'(H) |
+| 19:00 | Cuba | Focus A.S. vs Newcastle S.C. | **1 - 1** | `Halftime` | Abraham Villar 14'(A), Yorky Enrique García 6'(H) |
 | 18:45 | French Guiana | FC Charvein vs Dynamo de Soula | **0 - 0** | `Started` | --- |
 | 18:45 | French Guiana | AS Toto-Noto vs US Saint-Élie | **0 - 0** | `Started` | --- |
 | 18:30 | Gibraltar | FC Hound Dogs vs FC Bruno's Magpies | **0 - 0** | `2nd half` | --- |
@@ -54,16 +51,12 @@
 | 19:30 | Israel | Maccabi Bnei Jaljulia vs Maccabi Ironi Kfar Yona | **0 - 0** | `1st half` | --- |
 | 17:30 | Italy Amateur | Sicilia Football Club vs Punto Rosa PdA | **0 - 0** | `Started` | --- |
 | 17:30 | Italy Amateur | Virtus Messina vs Etnea Calcio Club | **0 - 0** | `Started` | --- |
-| 18:00 | Malta | Zabbar Saint Patrick FC vs Floriana FC | **0 - 3** | `2nd half` | Unknown 88'(A), Jake Grech 72'(A), Kenan Dervišagić 20'(A) |
-| 18:00 | Malta | Fgura United FC vs Sirens FC | **1 - 4** | `2nd half` | Unknown 84'(A), Thiago Nonato Peixoto 70'(A), Thiago Nonato Peixoto 56'(A), Timilehin Akande Caleb 15'(H), Thiago Nonato Peixoto 5'(A) |
 | 18:00 | Malta | Kalkara FC vs Gharghur FC | **2 - 0** | `Started` | Unknown 34'(H), Mario Jude Dominicius 14'(H) |
 | 18:00 | Malta | Siggiewi FC vs Ta’ Xbiex SC | **0 - 2** | `Started` | Vitor Hugo Alves Fernandes 32'(A), Unknown 15'(A) |
-| 18:00 | Mexico | Club América vs Pumas UNAM | **5 - 1** | `2nd half` | Unknown 89'(H), Scarlett Camberos 83'(H), Irene Guerrero 76'(H), Scarlett Camberos 28'(H), Angelina Hix 19'(A), Nancy Antonio 4'(H) |
-| 19:00 | Mexico | Club Atlético Pachuca vs FC Politécnico | **0 - 1** | `1st half` | Unknown 12'(A) |
+| 19:00 | Mexico | Club Atlético Pachuca vs FC Politécnico | **0 - 2** | `Halftime` | Unknown 44'(A), Unknown 12'(A) |
 | 19:00 | Mexico | Lonsdaleita FC vs Halcones Negros | **0 - 4** | `1st half` | Unknown 38'(A), Unknown 32'(A), Unknown 26'(A), Unknown 2'(A) |
-| 18:00 | Mexico | Montañeses F.C. vs Pioneros de Cancún | **1 - 0** | `2nd half` | Unknown 54'(H) |
 | 18:30 | Poland Amateur | GKS Iskra Gózd vs LKS Zawisza Sienno | **0 - 0** | `Started` | --- |
-| 18:00 | Portugal Amateur | Aliados FC Lordelo vs FC Avintes | **3 - 1** | `Started` | Unknown 76'(A), Guga Costa 66'(H), Unknown 66'(H), Rui Pinto -1'(H) |
+| 18:00 | Portugal Amateur | Aliados FC Lordelo vs FC Avintes | **3 - 1** | `Started` | Unknown 76'(A), Guga Costa 66'(H), Unknown 90'(H), Rui Pinto -1'(H) |
 | 18:00 | Portugal Amateur | SC Castêlo da Maia vs AD Grijó | **2 - 0** | `Started` | Unknown 36'(H), Unknown 7'(H) |
 | 18:00 | Portugal Amateur | FC Felgueiras 1932 B vs ASS Nevogilde | **0 - 0** | `Started` | --- |
 | 18:00 | Portugal Amateur | AR Porto Alto vs S Abrantes e Benfica | **1 - 0** | `Started` | Unknown -1'(H) |
@@ -76,10 +69,8 @@
 | 17:30 | Spain Amateur | CD Atlético de Marbella vs CD Benagalbón | **1 - 2** | `Started` | Unknown -1'(A), Unknown -1'(A), Unknown -1'(H) |
 | 17:45 | Spain Amateur | Debagoieni Bailara vs CD Lagun Onak | **0 - 1** | `Started` | Unknown 89'(A) |
 | 16:00 | Spain Amateur | Sigüeiro FC vs Cultural Maniños SD | **3 - 2** | `2nd half` | Unknown 86'(A), Unknown 77'(A), Unknown 77'(H), Unknown 65'(H), Unknown 58'(H) |
-| 16:00 | Spain Amateur | UD Paiosaco vs SD O Val | **2 - 0** | `2nd half` | Unknown 41'(H), Unknown 14'(H) |
-| 16:00 | Spain Amateur | Villalonga FC vs Club Lemos | **1 - 1** | `2nd half` | Unknown 64'(A), Unknown 54'(H) |
 | 19:00 | Spain Amateur | CD Unión La Jota Vadorrey vs CD Oliver | **0 - 0** | `Started` | --- |
-| 18:00 | Trinidad and Tobago | San Juan Jabloteh vs La Horquetta Rangers | **2 - 1** | `2nd half` | Unknown 80'(H), Unknown 73'(H), Unknown 55'(H), Unknown 18'(A) |
+| 18:00 | Trinidad and Tobago | San Juan Jabloteh vs La Horquetta Rangers | **2 - 1** | `2nd half` | Unknown 73'(H), Unknown 55'(H), Unknown 18'(A) |
 | 17:30 | USA Amateur | Rainier Riot FC Seattle vs Strangers United FC | **0 - 0** | `Started` | --- |
 | 18:45 | USA Amateur | C. A. S. T. Seattle vs Emerald City Supporters FC | **0 - 0** | `Started` | --- |
 | 19:15 | USA Amateur | Paradise SC Seattle vs University of Washington | **0 - 0** | `Started` | --- |
