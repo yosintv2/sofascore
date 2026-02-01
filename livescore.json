@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-02-01 23:01:49 UTC"
+        "updated": "2026-02-01 23:35:00 UTC"
     },
     "matches": [
         {
@@ -15,52 +15,46 @@
             "scorers": []
         },
         {
-            "start_time": "21:15",
-            "league": "Paulista S\u00e9rie A1",
-            "country": "Brazil",
-            "home": "Red Bull Bragantino",
-            "away": "S\u00e3o Bernardo",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Felipe Garcia 5'(A)"
-            ]
-        },
-        {
-            "start_time": "21:30",
-            "league": "Paulista S\u00e9rie A1",
-            "country": "Brazil",
-            "home": "Mirassol",
-            "away": "Gr\u00eamio Novorizontino",
-            "score": "0 - 1",
-            "minute": "Halftime",
-            "scorers": [
-                "R\u00f4mulo 15'(A)"
-            ]
-        },
-        {
             "start_time": "22:30",
             "league": "Paulista S\u00e9rie A1",
             "country": "Brazil",
             "home": "EC Noroeste",
             "away": "AE Velo Clube",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Ronaldo Alves 34'(H)"
+            ]
+        },
+        {
+            "start_time": "23:30",
+            "league": "Paulista S\u00e9rie A1",
+            "country": "Brazil",
+            "home": "Botafogo-SP",
+            "away": "Palmeiras",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "21:10",
+            "start_time": "23:30",
+            "league": "Liga de Primera",
+            "country": "Chile",
+            "home": "Palestino",
+            "away": "\u00d1ublense",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:10",
             "league": "Liga DIMAYOR, Apertura",
             "country": "Colombia",
-            "home": "Deportivo Cali",
-            "away": "Deportivo Pasto",
-            "score": "3 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Steven Rodr\u00edguez 75'(H)",
-                "Steven Rodr\u00edguez 28'(H)",
-                "Juan Dinenno 13'(H)"
-            ]
+            "home": "Once Caldas",
+            "away": "Jaguares de C\u00f3rdoba",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "23:00",
@@ -78,9 +72,13 @@
             "country": "North & Central America",
             "home": "Belize U17",
             "away": "US Virgin Islands U17",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "2 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 77'(H)",
+                "Unknown 73'(A)",
+                "Unknown 57'(H)"
+            ]
         },
         {
             "start_time": "23:00",
@@ -88,9 +86,12 @@
             "country": "North & Central America",
             "home": "Curacao U17",
             "away": "Barbados U17",
-            "score": "0 - 0",
+            "score": "1 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 14'(A)",
+                "Unknown 12'(H)"
+            ]
         },
         {
             "start_time": "22:00",
@@ -108,9 +109,10 @@
             "country": "Argentina",
             "home": "Boca Juniors",
             "away": "Newell's Old Boys",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "2 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Leandro Paredes 56'(H)",
                 "Lautaro Blanco 40'(H)"
             ]
         },
@@ -143,13 +145,23 @@
             ]
         },
         {
-            "start_time": "21:00",
-            "league": "Torneo Regional Amateur, Regi\u00f3n Cuyo - Playoffs",
+            "start_time": "23:30",
+            "league": "Torneo Regional Amateur, Regi\u00f3n Pampeana Sur - Playoffs",
             "country": "Argentina Amateur",
-            "home": "Sportivo Estudiantes",
-            "away": "Fundaci\u00f3n Amigos Por El Deporte",
+            "home": "Racing Olavarr\u00eda",
+            "away": "Ferrocarril Oeste La Pampa",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:30",
+            "league": "Torneo Regional Amateur, Regi\u00f3n Pampeana Norte - Playoffs",
+            "country": "Argentina Amateur",
+            "home": "Col\u00f3n Chivilcoy",
+            "away": "Atl\u00e9tico Escobar",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -158,10 +170,24 @@
             "country": "Argentina Amateur",
             "home": "Sportivo Pozo del Molle",
             "away": "Union de Alicia",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Rodrigo Fernandez 53'(A)",
+                "Ezequiel Nicle 48'(A)",
                 "Unknown 41'(H)"
+            ]
+        },
+        {
+            "start_time": "22:00",
+            "league": "Torneo Preparaci\u00f3n",
+            "country": "Argentina Amateur",
+            "home": "Sociedad Sportiva Devoto",
+            "away": "Sociedad Cultural La Para",
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 35'(H)"
             ]
         },
         {
@@ -171,7 +197,7 @@
             "home": "St. Andrew Lions",
             "away": "Wotton FC",
             "score": "3 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 30'(H)",
                 "Unknown 20'(H)",
@@ -191,31 +217,34 @@
             ]
         },
         {
-            "start_time": "21:30",
-            "league": "Baian\u00e3o Mans\u00e3o Green 2026",
-            "country": "Brazil",
-            "home": "Bahia",
-            "away": "Porto Sport Club",
-            "score": "3 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Michel Ara\u00fajo 45'(H)",
-                "Luan Rodrigues 36'(A)",
-                "Dell 27'(H)",
-                "Kau\u00ea Furquim 4'(H)"
-            ]
+            "start_time": "23:30",
+            "league": "Torneo Amistoso De Verano, Playoff",
+            "country": "Bolivia",
+            "home": "CDT Real Oruro",
+            "away": "GV San Jos\u00e9",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
-            "start_time": "21:00",
-            "league": "Capixaba, S\u00e9rie A",
+            "start_time": "23:00",
+            "league": "Amazonense, 1\u00ba Turno, Playoffs",
             "country": "Brazil",
-            "home": "Rio Branco-ES",
-            "away": "Real Noroeste",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Guila 57'(A)"
-            ]
+            "home": "Princesa do Solim\u00f5es",
+            "away": "Manaus",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:30",
+            "league": "Carioca S\u00e9rie A \u2013 Ta\u00e7a Guanabara",
+            "country": "Brazil",
+            "home": "Botafogo",
+            "away": "Fluminense",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "21:30",
@@ -240,55 +269,15 @@
             "scorers": []
         },
         {
-            "start_time": "21:30",
-            "league": "Paraibano",
-            "country": "Brazil",
-            "home": "Atl\u00e9tico Cajazeirense",
-            "away": "Nacional de Patos",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Wesley Rodrigues 45'(H)"
-            ]
-        },
-        {
             "start_time": "22:00",
             "league": "Paraibano",
             "country": "Brazil",
             "home": "Sousa EC",
             "away": "Esporte Clube de Patos",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 20'(A)"
-            ]
-        },
-        {
-            "start_time": "21:30",
-            "league": "Paranaense, 1\u00aa Divis\u00e3o \u2013 Mata-mata",
-            "country": "Brazil",
-            "home": "Oper\u00e1rio-PR",
-            "away": "Azuriz",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Moraes J\u00fanior 40'(H)",
-                "Vinicius Diniz Dall Antonia 18'(H)"
-            ]
-        },
-        {
-            "start_time": "21:30",
-            "league": "Paranaense, 1. Divisao, Relegation Playoffs",
-            "country": "Brazil",
-            "home": "Galo Maring\u00e1",
-            "away": "Maring\u00e1 FC",
-            "score": "0 - 4",
-            "minute": "2nd half",
-            "scorers": [
-                "Caique Calito 30'(A)",
-                "Edison Negueba 25'(A)",
-                "Caique Calito 22'(A)",
-                "Caique Calito 2'(A)"
             ]
         },
         {
@@ -298,7 +287,7 @@
             "home": "Gazin Porto Velho",
             "away": "Genus",
             "score": "2 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 42'(H)",
                 "Gabriel Davis 12'(H)"
@@ -325,18 +314,14 @@
             "scorers": []
         },
         {
-            "start_time": "21:00",
-            "league": "Primera Divisi\u00f3n de Santa Clara, Playoffs",
-            "country": "Cuba",
-            "home": "Rayo S.C.",
-            "away": "\u00c9lite F.C.",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Luis Manuel Duardo 63'(A)",
-                "Jeremy Molina 57'(A)",
-                "Jeremy Molina 25'(A)"
-            ]
+            "start_time": "23:30",
+            "league": "Copa Chile, Group F",
+            "country": "Chile",
+            "home": "Curic\u00f3 Unido",
+            "away": "Rangers de Talca",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "22:00",
@@ -345,74 +330,10 @@
             "home": "Moca FC",
             "away": "Delfines del Este FC",
             "score": "1 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 24'(A)",
                 "Unknown 23'(H)"
-            ]
-        },
-        {
-            "start_time": "21:15",
-            "league": "Primera Divisi\u00f3n, Clausura",
-            "country": "El Salvador",
-            "home": "C.D. Platense Zacatecoluca",
-            "away": "Alianza FC",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 82'(A)",
-                "Jonathan Jim\u00e9nez 58'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Segunda Division, Clausura",
-            "country": "El Salvador",
-            "home": "AD Espartano",
-            "away": "CD Fuerte Aguilares",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 52'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Segunda Division, Clausura",
-            "country": "El Salvador",
-            "home": "CD Dragon",
-            "away": "Atletico Balboa",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 79'(H)",
-                "Unknown 59'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Segunda Division, Clausura",
-            "country": "El Salvador",
-            "home": "CD Olimpico Litoral",
-            "away": "AD Batanecos",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 63'(A)",
-                "Unknown 58'(A)",
-                "Unknown 18'(H)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Primera Division, Clausura, Group A",
-            "country": "Guatemala",
-            "home": "Deportivo San Pedro",
-            "away": "Huehuetecos FC",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 26'(A)"
             ]
         },
         {
@@ -421,11 +342,22 @@
             "country": "Guatemala",
             "home": "FC Santa Luc\u00eda Cotzumalguapa",
             "away": "CSD Chiquimulilla",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "1 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 73'(H)",
                 "Unknown 40'(A)"
             ]
+        },
+        {
+            "start_time": "23:15",
+            "league": "Liga Nacional, Clausura",
+            "country": "Honduras",
+            "home": "Real CD Espa\u00f1a",
+            "away": "FC Motagua",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "21:30",
@@ -433,9 +365,41 @@
             "country": "Mexico",
             "home": "CEFOR Chiapas",
             "away": "Lechuzas UPGCH",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 90'(A)"
+            ]
+        },
+        {
+            "start_time": "22:15",
+            "league": "Liga TDP",
+            "country": "Mexico",
+            "home": "Club Ca\u00f1oneros Marina II",
+            "away": "Club Atl\u00e9tico San Juan de Arag\u00f3n",
+            "score": "4 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 85'(H)",
+                "Unknown 42'(H)",
+                "Unknown 25'(H)",
+                "Unknown 11'(H)"
+            ]
+        },
+        {
+            "start_time": "22:15",
+            "league": "Liga TDP",
+            "country": "Mexico",
+            "home": "H\u00e9roes de Zaci FC II",
+            "away": "CD Muxes",
+            "score": "0 - 4",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 64'(A)",
+                "Unknown 53'(A)",
+                "Unknown 43'(A)",
+                "Unknown 31'(A)"
+            ]
         },
         {
             "start_time": "22:00",
@@ -443,9 +407,10 @@
             "country": "Mexico",
             "home": "ACF Zapotlanejo",
             "away": "Tritones Vallarta M.F.C.",
-            "score": "3 - 1",
-            "minute": "Halftime",
+            "score": "3 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 68'(A)",
                 "Unknown 45'(A)",
                 "Unknown 33'(H)",
                 "Unknown 18'(H)",
@@ -458,9 +423,23 @@
             "country": "Nicaragua",
             "home": "ART Municipal Jalapa",
             "away": "Real Estel\u00ed",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 21'(H)"
+            ]
+        },
+        {
+            "start_time": "23:15",
+            "league": "Liga Panamena de Futbol, Clausura",
+            "country": "Panama",
+            "home": "Sporting San Miguelito",
+            "away": "\u00c1rabe Unido",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Giovany Herbert 12'(A)"
+            ]
         },
         {
             "start_time": "21:30",
@@ -468,12 +447,25 @@
             "country": "Panama",
             "home": "Academia Mario Mendez",
             "away": "La Familia FC",
-            "score": "2 - 1",
+            "score": "3 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 90'(H)",
                 "Unknown 61'(H)",
                 "Unknown 44'(A)",
                 "Unknown 36'(H)"
+            ]
+        },
+        {
+            "start_time": "23:15",
+            "league": "Divisi\u00f3n de Honor, Apertura",
+            "country": "Paraguay",
+            "home": "Guaran\u00ed",
+            "away": "Rubio \u00d1u",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Richard Torales 16'(H)"
             ]
         },
         {
@@ -482,9 +474,10 @@
             "country": "Saint Kitts and Nevis",
             "home": "Old Road United Jets FC",
             "away": "Cayon FC",
-            "score": "0 - 2",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 58'(H)",
                 "Unknown 33'(A)",
                 "Unknown 5'(A)"
             ]
@@ -510,14 +503,38 @@
             "scorers": []
         },
         {
+            "start_time": "23:00",
+            "league": "Supercopa Uruguaya",
+            "country": "Uruguay",
+            "home": "Pe\u00f1arol",
+            "away": "Nacional",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "22:00",
             "league": "UPSL National Finals",
             "country": "USA Amateur",
             "home": "Next Level Soccer Premier",
             "away": "Miami United",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 62'(H)"
+            ]
+        },
+        {
+            "start_time": "23:00",
+            "league": "Primera Division, Apertura",
+            "country": "Venezuela",
+            "home": "Universidad Central",
+            "away": "Trujillanos FC",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Yohan Cumana 28'(H)"
+            ]
         }
     ]
 }
