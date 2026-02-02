@@ -2,6 +2,5 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 02:05 | Indonesia | Perspin Pinrang vs Persigowa Gowa | **0 - 2** | `2nd half` | Unknown 69'(A), Unknown 33'(A) |
-| 03:10 | Indonesia | Putra Lampung vs Perseti | **1 - 0** | `Halftime` | Unknown 28'(H) |
-| 02:00 | USA Amateur | NY Renegades FC vs Provo FC Utah | **1 - 0** | `2nd half` | Unknown 72'(H) |
+| 04:00 | India Amateur | Dyes FC vs Jawahar Union FC | **2 - 1** | `2nd half` | Unknown 70'(H), Unknown 45'(A), Unknown 16'(H) |
+| 05:15 | Nepal | Satdobato Youth Club vs Chitlang FC | **0 - 0** | `1st half` | --- |
