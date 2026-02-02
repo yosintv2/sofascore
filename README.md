@@ -2,45 +2,30 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Mexico | Querétaro FC vs CF Pachuca | **0 - 0** | `Halftime` | --- |
-| 22:30 | Brazil | EC Noroeste vs AE Velo Clube | **1 - 0** | `2nd half` | Ronaldo Alves 34'(H) |
-| 23:30 | Brazil | Botafogo-SP vs Palmeiras | **0 - 0** | `1st half` | --- |
-| 23:30 | Chile | Palestino vs Ñublense | **0 - 0** | `1st half` | --- |
-| 23:10 | Colombia | Once Caldas vs Jaguares de Córdoba | **1 - 1** | `1st half` | Yan Mosquera 21'(A), Dayro Moreno 16'(H) |
-| 23:00 | Peru | Universitario de Deportes vs Asociación Deportiva Tarma | **0 - 0** | `Halftime` | --- |
-| 23:00 | North & Central America | Curacao U17 vs Barbados U17 | **1 - 2** | `Halftime` | Unknown 45'(A), Unknown 14'(A), Unknown 12'(H) |
-| 22:00 | Antigua and Barbuda | All Saints United vs Jennings United | **0 - 0** | `Started` | --- |
-| 22:15 | Argentina | Boca Juniors vs Newell's Old Boys | **2 - 0** | `2nd half` | Leandro Paredes 56'(H), Lautaro Blanco 40'(H) |
-| 20:30 | Argentina Amateur | Guaraní Antonio Franco vs Defensores Puerto Vilelas | **0 - 1** | `2nd half` | Unknown 74'(A) |
+| 23:30 | Brazil | Botafogo-SP vs Palmeiras | **1 - 0** | `2nd half` | Leandro Maciel 50'(H) |
+| 23:30 | Chile | Palestino vs Ñublense | **1 - 1** | `2nd half` | Ignacio Jeraldino 74'(A), Ronnie Fernández 29'(H) |
+| 01:10 | Colombia | Millonarios vs Independiente Medellín | **0 - 0** | `1st half` | --- |
+| 00:00 | Antigua and Barbuda | Pigotts SC vs Villa Lions FC | **0 - 1** | `Started` | Unknown 46'(A) |
+| 00:30 | Argentina | Rosario Central vs River Plate | **0 - 0** | `Halftime` | --- |
 | 21:00 | Argentina Amateur | General Paz Juniors vs Central Argentino de La Banda | **3 - 2** | `2nd half` | Unknown 90'(H), Unknown 81'(H), Unknown 72'(A), Unknown 54'(H), Unknown 33'(A) |
-| 23:30 | Argentina Amateur | Racing Olavarría vs Ferrocarril Oeste La Pampa | **0 - 0** | `1st half` | --- |
-| 23:30 | Argentina Amateur | Colón Chivilcoy vs Atlético Escobar | **0 - 0** | `1st half` | --- |
-| 22:00 | Argentina Amateur | Sportivo Pozo del Molle vs Union de Alicia | **1 - 4** | `2nd half` | Nahuel Sandrone 72'(A), Nahuel Sandrone 69'(A), Rodrigo Fernandez 53'(A), Ezequiel Nicle 48'(A), Unknown 41'(H) |
-| 22:00 | Argentina Amateur | Sociedad Sportiva Devoto vs Sociedad Cultural La Para | **1 - 0** | `2nd half` | Unknown 35'(H) |
-| 22:00 | Barbados | St. Andrew Lions vs Wotton FC | **3 - 0** | `2nd half` | Unknown 30'(H), Unknown 20'(H), Unknown 10'(H) |
-| 21:15 | Bolivia | Real Potosí vs Nacional Potosí | **1 - 0** | `2nd half` | Unknown 33'(H) |
-| 23:30 | Bolivia | CDT Real Oruro vs GV San José | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | Princesa do Solimões vs Manaus | **0 - 0** | `Halftime` | --- |
-| 23:30 | Brazil | Botafogo vs Fluminense | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | Betim Futebol vs Cruzeiro | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | Sousa EC vs Esporte Clube de Patos | **0 - 1** | `2nd half` | Unknown 20'(A) |
-| 22:00 | Brazil | Gazin Porto Velho vs Genus | **2 - 0** | `2nd half` | Unknown 42'(H), Gabriel Davis 12'(H) |
-| 22:00 | Cayman Islands | 345 FC vs East End United FC | **0 - 1** | `Started` | Unknown 10'(A) |
-| 22:00 | Cayman Islands | Cayman Athletic SC vs Future SC | **0 - 0** | `Started` | --- |
-| 23:30 | Chile | Curicó Unido vs Rangers de Talca | **0 - 0** | `1st half` | --- |
-| 22:00 | Dominican Republic | Moca FC vs Delfines del Este FC | **1 - 2** | `2nd half` | Unknown 80'(A), Unknown 24'(A), Unknown 23'(H) |
-| 22:00 | Guatemala | FC Santa Lucía Cotzumalguapa vs CSD Chiquimulilla | **1 - 1** | `2nd half` | Unknown 73'(H), Unknown 40'(A) |
-| 23:30 | Guatemala | CSD Amatitlán vs Draco FC | **0 - 0** | `1st half` | --- |
-| 23:15 | Honduras | Real CD España vs FC Motagua | **0 - 0** | `1st half` | --- |
-| 22:15 | Mexico | Héroes de Zaci FC II vs CD Muxes | **0 - 6** | `2nd half` | Unknown 86'(A), Unknown 80'(A), Unknown 64'(A), Unknown 53'(A), Unknown 43'(A), Unknown 31'(A) |
-| 23:30 | Mexico | Jaguares de Chiapas FC II vs Club Deportivo Yautepec | **0 - 0** | `1st half` | --- |
-| 22:00 | Mexico | ACF Zapotlanejo vs Tritones Vallarta M.F.C. | **3 - 2** | `2nd half` | Unknown 68'(A), Unknown 45'(A), Unknown 33'(H), Unknown 18'(H), Unknown 13'(H) |
-| 23:00 | Nicaragua | ART Municipal Jalapa vs Real Estelí | **1 - 1** | `Halftime` | Osmin Salinas 37'(A), Unknown 21'(H) |
-| 23:15 | Panama | Sporting San Miguelito vs Árabe Unido | **0 - 1** | `1st half` | Giovany Herbert 12'(A) |
-| 23:15 | Paraguay | Guaraní vs Rubio Ñu | **1 - 0** | `1st half` | Richard Torales 16'(H) |
+| 00:00 | Argentina Amateur | Juventud Unida Gualeguaychú vs CS Ben Hur | **3 - 0** | `Halftime` | --- |
+| 23:30 | Argentina Amateur | Racing Olavarría vs Ferrocarril Oeste La Pampa | **0 - 2** | `2nd half` | Unknown 47'(A), Unknown 26'(A) |
+| 23:30 | Argentina Amateur | Colón Chivilcoy vs Atlético Escobar | **0 - 3** | `2nd half` | --- |
+| 23:30 | Bolivia | CDT Real Oruro vs GV San José | **1 - 1** | `2nd half` | Unknown 50'(H), Unknown 47'(A) |
+| 23:30 | Brazil | Botafogo vs Fluminense | **0 - 1** | `2nd half` | John Kennedy 69'(A) |
+| 23:30 | Chile | Curicó Unido vs Rangers de Talca | **0 - 1** | `2nd half` | Claudio Servetti 37'(A) |
+| 22:00 | Dominican Republic | Moca FC vs Delfines del Este FC | **1 - 3** | `2nd half` | Unknown 90'(A), Unknown 80'(A), Unknown 24'(A), Unknown 23'(H) |
+| 00:00 | Guatemala | CD Mictlán vs Deportivo Achuapa | **0 - 1** | `2nd half` | Carlos Castrillo 43'(A) |
+| 23:30 | Guatemala | CSD Amatitlán vs Draco FC | **2 - 0** | `2nd half` | Unknown 84'(H), Unknown 49'(H) |
+| 01:00 | Guatemala | Deportivo Catocha vs Monjas FC | **0 - 0** | `1st half` | --- |
+| 01:05 | Indonesia | Bandar Lampung FC vs SS Lampung | **1 - 0** | `1st half` | Unknown 14'(H) |
+| 00:00 | Jamaica | Waterhouse FC vs Treasure Beach FC | **1 - 0** | `2nd half` | Unknown 58'(H) |
+| 01:00 | Mexico | Pachuca vs Tigres UANL | **0 - 0** | `1st half` | --- |
+| 23:30 | Mexico | Jaguares de Chiapas FC II vs Club Deportivo Yautepec | **1 - 2** | `2nd half` | Unknown 60'(A), Unknown 35'(H), Unknown 27'(A) |
 | 22:00 | Saint Kitts and Nevis | Old Road United Jets FC vs Cayon FC | **2 - 2** | `2nd half` | Unknown 82'(H), Unknown 58'(H), Unknown 33'(A), Unknown 5'(A) |
-| 23:00 | Suriname | SV Robinhood vs SV Broki | **0 - 0** | `Started` | --- |
+| 23:00 | Suriname | SV Robinhood vs SV Broki | **1 - 0** | `Started` | Unknown 39'(H) |
 | 23:00 | Tahiti | AS Tiare Anani vs AS Tahatiri | **0 - 0** | `Started` | --- |
-| 23:00 | Uruguay | Peñarol vs Nacional | **0 - 0** | `Halftime` | --- |
+| 23:00 | Uruguay | Peñarol vs Nacional | **0 - 0** | `2nd extra` | --- |
+| 00:30 | Uruguay Amateur | Maldonado Capital vs Treinta y Tres Capital | **2 - 0** | `Halftime` | Sergio Andrés Santos 45'(H), Sergio Andrés Santos 15'(H) |
+| 01:00 | Uruguay Amateur | Colonia Capital vs San Jose Interior | **0 - 0** | `1st half` | --- |
 | 22:00 | USA Amateur | Next Level Soccer Premier vs Miami United | **1 - 0** | `2nd half` | Unknown 62'(H) |
-| 23:00 | Venezuela | Universidad Central vs Trujillanos FC | **1 - 0** | `Halftime` | Yohan Cumana 28'(H) |
