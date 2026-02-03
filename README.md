@@ -2,7 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 02:15 | Colombia Amateur | Niquia La 60 vs Los Vagos | **2 - 1** | `2nd half` | Unknown 55'(A), Unknown 41'(H), Luis Eduardo Agudelo 2'(H) |
-| 03:30 | India | Eastern Railway FC vs Rajasthan | **0 - 0** | `1st half` | --- |
-| 03:30 | India | Tamil Nadu vs Punjab FT | **0 - 0** | `1st half` | --- |
-| 03:10 | Indonesia | Great Giant Family vs Trisula Raya FC | **1 - 0** | `1st half` | Unknown 5'(H) |
+| 04:10 | India | Empire Bengaluru vs Bengaluru Warriors | **0 - 1** | `Halftime` | Unknown 8'(A) |
+| 03:30 | India | Eastern Railway FC vs Rajasthan | **1 - 0** | `2nd half` | --- |
+| 03:30 | India | Tamil Nadu vs Punjab FT | **0 - 1** | `2nd half` | Unknown 37'(A) |
+| 03:10 | Indonesia | Great Giant Family vs Trisula Raya FC | **1 - 2** | `2nd half` | Unknown 88'(A), Unknown 42'(A), Unknown 5'(H) |
