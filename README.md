@@ -2,7 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 04:10 | India | Empire Bengaluru vs Bengaluru Warriors | **0 - 1** | `Halftime` | Unknown 8'(A) |
-| 03:30 | India | Eastern Railway FC vs Rajasthan | **1 - 0** | `2nd half` | --- |
-| 03:30 | India | Tamil Nadu vs Punjab FT | **0 - 1** | `2nd half` | Unknown 37'(A) |
-| 03:10 | Indonesia | Great Giant Family vs Trisula Raya FC | **1 - 2** | `2nd half` | Unknown 88'(A), Unknown 42'(A), Unknown 5'(H) |
+| 05:30 | Oceania | PNG Hekari FC vs Vanuatu United FC | **0 - 1** | `1st half` | Unknown 12'(A) |
+| 03:30 | India | Tamil Nadu vs Punjab FT | **1 - 1** | `Extra time halftime` | Unknown 84'(H), Unknown 37'(A) |
+| 05:30 | Indonesia | Singaraja ZFP vs PS Badung | **1 - 1** | `1st half` | Unknown 18'(A), Unknown 11'(H) |
+| 05:35 | Indonesia | Kartanegara FC vs Persikubar Putra | **2 - 1** | `1st half` | Unknown 24'(A), Unknown 23'(H), Unknown 8'(H) |
