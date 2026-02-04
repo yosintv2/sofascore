@@ -2,11 +2,11 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | North & Central America | Trinidad and Tobago U17 vs Barbados U17 | **0 - 0** | `Halftime` | --- |
-| 23:00 | Barbados | UWI Blackbirds vs Kickstart Rush Stars | **2 - 3** | `Halftime` | Unknown 45'(H), Unknown 43'(A), Unknown 24'(A), Unknown 19'(H), Unknown 14'(A) |
-| 22:15 | Brazil | Atlético Alagoinhas vs Juazeirense | **1 - 1** | `2nd half` | Unknown 80'(H), Anderson Pato 47'(A) |
-| 21:30 | Brazil | Rio Branco de Venda Nova vs Vilavelhense | **0 - 1** | `2nd half` | Unknown 37'(A) |
-| 23:00 | Brazil | Joinville vs CN Marcílio Dias | **2 - 1** | `Halftime` | Gabriel Terra 44'(H), Jonathan Lisboa 40'(A), Bruno Camilo 35'(H) |
-| 23:00 | Brazil | Athletico vs Foz do Iguaçu | **2 - 0** | `Halftime` | Kevin Viveros 28'(H), Bruno Zapelli 26'(H) |
-| 23:00 | Brazil | Comercial-SP vs CA Penapolense U23 | **1 - 1** | `Halftime` | Unknown 39'(H), Unknown 14'(A) |
-| 23:00 | Brazil | Progresso vs Monte Roraima | **1 - 0** | `Halftime` | Unknown 16'(H) |
+| 02:00 | North & Central America | CD Olimpia vs Club América | **0 - 0** | `1st half` | --- |
+| 01:30 | Oceania | Solomon Kings FC vs South Island United FC | **0 - 0** | `2nd half` | --- |
+| 00:30 | Aruba | SV Arsenal Aruba vs Brazil Juniors | **0 - 1** | `Started` | Unknown 5'(A) |
+| 01:10 | Barbados | Brittons Hill United vs Bagatelle | **2 - 1** | `2nd half` | Unknown 56'(A), Unknown 23'(H), Unknown 13'(H) |
+| 01:10 | Brazil | Atlético Roraima vs River EC | **1 - 0** | `2nd half` | Unknown 42'(H) |
+| 01:00 | Colombia Amateur | Academia Champion Grama vs TV Ondina Cardona Abogados | **3 - 2** | `2nd half` | Unknown 68'(A), Unknown 61'(H), Unknown 56'(A), Unknown 31'(H), Unknown 9'(H) |
+| 02:00 | Costa Rica | LD Alajuelense vs Municipal Liberia | **0 - 0** | `1st half` | --- |
+| 01:00 | Panama | SD Atletico Nacional vs Deportivo Chiriqui Women | **7 - 0** | `2nd half` | Unknown 83'(H), Unknown 79'(H), Unknown 70'(H), Unknown 58'(H), Unknown 30'(H), Unknown 16'(H), Unknown 13'(H) |
