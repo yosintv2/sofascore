@@ -2,12 +2,14 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 06:00 | World | FC OKMK U21 vs FC Andijon U21 | **4 - 0** | `2nd half` | Unknown 58'(H), Unknown 40'(H), Unknown 34'(H), Unknown 22'(H) |
-| 06:00 | World | Turon vs Neftchi Fergana U21 | **1 - 2** | `2nd half` | Unknown 67'(A), Unknown 64'(A), Unknown 61'(H) |
-| 06:30 | India | Ajmal FC vs Delhi Young Boys | **0 - 1** | `2nd half` | Unknown 34'(A) |
+| 08:00 | World | Chelyabinsk vs Baltika Kaliningrad | **0 - 0** | `1st half` | --- |
+| 06:30 | India | Ajmal FC vs Delhi Young Boys | **0 - 2** | `2nd half` | Unknown 60'(A), Unknown 34'(A) |
 | 06:35 | India | ADE FC vs Vijaynagar FC | **0 - 1** | `2nd half` | --- |
-| 05:30 | Indonesia | Cendrawasih FC vs Badai Pasifik | **0 - 1** | `Halftime` | Unknown 45'(A) |
-| 06:00 | Indonesia | Bangau Putra FC vs Gasma Enrekang | **1 - 3** | `2nd half` | Unknown 62'(A), Unknown 60'(H), Unknown 58'(A), Unknown 18'(A) |
-| 06:00 | Indonesia | Persetala Tanah Laut vs Persenus Nusantara | **1 - 0** | `2nd half` | Unknown 28'(H) |
+| 08:00 | India | Punjab FT vs Kerala FA | **0 - 0** | `1st half` | --- |
+| 07:30 | India | DK Pharma FC vs Bombay Gymkhana | **1 - 0** | `1st half` | Unknown 11'(H) |
+| 08:00 | India Amateur | Bangalore Eagles FC vs SRI Gajanana FC | **0 - 0** | `Started` | --- |
 | 06:00 | Indonesia | PS Mojokerto Putra vs Persinga Ngawi | **0 - 4** | `2nd half` | Unknown 73'(A), Unknown 64'(A), Unknown 32'(A), Unknown 10'(A) |
-| 06:30 | Indonesia | Persiwah Mempawah vs Persibeng | **1 - 0** | `Halftime` | Unknown 42'(H) |
+| 06:30 | Indonesia | Persiwah Mempawah vs Persibeng | **1 - 0** | `2nd half` | Unknown 42'(H) |
+| 07:30 | Indonesia | Tunas Muda Kananga vs Yougwa FC | **0 - 0** | `1st half` | --- |
+| 08:00 | Indonesia | Pasuruan United vs Persikoba Batu | **0 - 0** | `1st half` | --- |
+| 08:00 | Indonesia | PSIM Yogyakarta U20 vs Persis Solo U20 | **0 - 0** | `1st half` | --- |
