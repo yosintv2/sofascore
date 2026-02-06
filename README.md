@@ -2,65 +2,49 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 15:00 | Egypt | El Gouna FC vs Modern Sport FC | **0 - 0** | `2nd half` | --- |
-| 15:00 | Saudi Arabia | Al-Ettifaq vs Damac FC | **1 - 0** | `2nd half` | Georginio Wijnaldum 19'(H) |
-| 15:00 | Romania | FC Argeș Pitești vs FC Hermannstadt | **1 - 0** | `2nd half` | Adel Bettaieb 31'(H) |
-| 14:45 | Qatar | Al-Wakrah vs Al-Ahli Doha | **2 - 2** | `2nd half` | Sekou Oumar Yansane 75'(A), Lucas Mendes 67'(H), Ayoub Assal 45'(H), Ahmed Reyed Mawla 20'(A) |
-| 16:00 | United Arab Emirates | Al-Jazira vs Al-Ain | **0 - 0** | `1st half` | --- |
-| 14:45 | World | Vidar vs Sandnes Ulf | **0 - 1** | `2nd half` | Unknown 68'(A) |
-| 15:00 | World | FC Hertha Wels vs Union Gurten | **2 - 0** | `2nd half` | Unknown 50'(H), Unknown 7'(H) |
-| 15:00 | World | FK VIAGEM Ústí nad Labem vs SK Kladno | **5 - 1** | `2nd half` | Unknown 78'(H), Unknown 62'(H), Unknown 58'(H), Antonin Fantis 43'(H), Solomon Osaghae 9'(H), Karel Hrubes 2'(A) |
-| 15:00 | World | FK Voždovac vs FK Auda | **0 - 0** | `Halftime` | --- |
-| 16:00 | World | Kapfenberger SV vs SV Licht-Loidl Lafnitz | **0 - 0** | `1st half` | --- |
-| 16:15 | World | FC Krasnodar vs Zenit St. Petersburg | **0 - 0** | `1st half` | --- |
-| 15:30 | Albania | AF Elbasani vs KF Teuta Durrës | **0 - 0** | `Halftime` | --- |
-| 14:00 | Algeria | AB Barika vs MC El Eulma | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | Amal El Eulma vs USB Berhoum | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | AS Bordj Ghedir vs ES El Ghozlane | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | CB Beni Slimane vs ES Bouakeul | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | CRB El Milia vs USM Setif | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | JS Boumerdes vs Amel Bou Saâda | **1 - 0** | `Started` | Unknown 20'(H) |
-| 14:00 | Algeria | JSM Béjaïa vs JS Azazga | **0 - 0** | `Started` | --- |
-| 14:00 | Algeria | RC Bougaa vs MB Barika | **3 - 0** | `Started` | Unknown 61'(H), Unknown 32'(H), Unknown 13'(H) |
-| 15:00 | Bosnia & Herzegovina | FK Rudar Prijedor vs NK Široki Brijeg | **1 - 1** | `2nd half` | Daniel Romera 36'(H), Marko Matić 9'(A) |
-| 15:45 | Bulgaria | CSKA Sofia vs Arda Kardzhali | **0 - 1** | `1st half` | Atanas Kabov 22'(A) |
-| 15:30 | Burkina Faso | ASF Bobo Dioulasso vs US Forces Armees | **1 - 2** | `Halftime` | Unknown 39'(A), Unknown 29'(A), Unknown 18'(H) |
-| 15:30 | Burkina Faso | ASFA Yennega vs Rahimo FC | **0 - 1** | `Halftime` | Emmanuel Ouedraogo 27'(A) |
-| 14:00 | Djibouti | Arta/Solar7 vs Garde-Cotes FC | **0 - 0** | `Started` | --- |
+| 17:00 | Croatia | NK Lokomotiva Zagreb vs HNK Gorica | **1 - 0** | `1st half` | --- |
+| 17:00 | Poland | MKS Korona Kielce vs Zagłębie Lubin | **0 - 0** | `1st half` | --- |
+| 16:45 | Qatar | Qatar SC vs Al-Rayyan | **1 - 1** | `1st half` | Ali Saoudi 24'(H), Róger Guedes 21'(A) |
+| 16:00 | United Arab Emirates | Al-Jazira vs Al-Ain | **0 - 0** | `2nd half` | --- |
+| 16:45 | Hungary | Kisvárda FC vs Kazincbarcikai SC | **0 - 0** | `1st half` | --- |
+| 16:15 | World | FC Krasnodar vs Zenit St. Petersburg | **1 - 0** | `Halftime` | Moses David Cobnan 34'(H) |
+| 16:30 | World | SR Donaufeld vs SV Horn | **3 - 0** | `1st half` | Unknown 40'(H), Unknown 23'(H), Unknown 15'(H) |
+| 17:00 | World | Deutschlandsberger SC vs SV Lebring | **0 - 0** | `1st half` | --- |
+| 17:00 | World | Dukla Banská Bystrica vs FK Podkonice | **0 - 0** | `1st half` | --- |
+| 17:00 | World | Hinna vs Brodd | **0 - 0** | `1st half` | --- |
+| 17:00 | World | USV Weindorf St. Anna am Aigen vs SV Tillmitsch | **1 - 0** | `1st half` | Unknown 7'(H) |
+| 17:00 | North & Central America | Jamaica U17 vs Aruba U17 | **0 - 0** | `1st half` | --- |
+| 15:30 | Albania | AF Elbasani vs KF Teuta Durrës | **2 - 1** | `2nd half` | Insa Boye 76'(H), Insa Boye 73'(H), Unknown 69'(A) |
+| 17:00 | Bosnia & Herzegovina | HŠK Zrinjski Mostar vs FK Sloga Doboj | **0 - 0** | `1st half` | --- |
+| 15:45 | Bulgaria | CSKA Sofia vs Arda Kardzhali | **2 - 1** | `2nd half` | Lumbardh Dellova 53'(H), Ioannis Pittas 44'(H), Atanas Kabov 22'(A) |
+| 15:30 | Burkina Faso | ASF Bobo Dioulasso vs US Forces Armees | **2 - 3** | `2nd half` | Unknown 79'(H), Unknown 71'(A), Unknown 39'(A), Unknown 29'(A), Unknown 18'(H) |
+| 15:30 | Burkina Faso | ASFA Yennega vs Rahimo FC | **0 - 2** | `2nd half` | Mikhael Yambe 50'(A), Emmanuel Ouedraogo 27'(A) |
 | 16:00 | Djibouti | CF Garde Republicaine Siaf vs AS Obock | **0 - 0** | `Started` | --- |
-| 15:00 | Gabon | Aston Villa FC vs Sporting Club Nyanga | **0 - 2** | `2nd half` | Unknown 44'(A), Unknown 19'(A) |
-| 15:00 | Gabon | FFAL FC 2009 vs Academie Club Sportif | **0 - 0** | `Started` | --- |
+| 15:00 | Gabon | FFAL FC 2009 vs Academie Club Sportif | **1 - 2** | `Started` | Unknown 25'(A), Unknown 20'(A), Unknown 15'(H) |
 | 15:00 | Gabon | NSAP FC vs Elite FC | **0 - 0** | `Started` | --- |
 | 15:00 | Gabon | Starts Elite FC vs AS 3-2 FC | **0 - 0** | `Started` | --- |
-| 15:00 | Gabon | Academie Club de Libreville vs AJA | **0 - 0** | `Started` | --- |
-| 15:00 | Gabon | Assom GR vs TP Akwembe | **0 - 0** | `Started` | --- |
-| 15:00 | Gabon | FC Family vs AFM FC | **0 - 0** | `Started` | --- |
-| 15:00 | Gabon | Ndzimba FC vs Ngoua FC | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | Eleven Wonders vs Attram De Visser SA | **0 - 3** | `2nd half` | Unknown 49'(A), Unknown 32'(A), Alfred Amoah 7'(A) |
-| 14:30 | Iraq | Al Mosul SC vs Newroz SC | **0 - 2** | `2nd half` | Jose Vitor Trindade Neto 54'(A), Jose Vitor Trindade Neto 16'(A) |
-| 14:30 | Iraq | Al-Quwa Al-Jawiya vs Naft Missan | **2 - 1** | `2nd half` | Faqar Abdul 75'(A), Mohammed Jawad 51'(H), Mohammed Jawad 11'(H) |
-| 15:00 | Kuwait | Al Qadsia SC vs Al Kuwait SC | **1 - 1** | `2nd half` | Mahdi Al-Humaidan 65'(H), Mohamed Marhoon 53'(A) |
-| 14:00 | Libya | Al Sahel FC vs Al Jabal Asabia SC | **2 - 2** | `Started` | Unknown 81'(H), Unknown 77'(A), Unknown 57'(A), Unknown 45'(H) |
-| 16:00 | Maldives | Maziya SC vs Odi SC | **0 - 0** | `Started` | --- |
-| 16:00 | Mali | Derby Academie vs Afrique Football Elite | **0 - 0** | `1st half` | --- |
-| 16:00 | Mali | FC Mali Coura vs Usfas Bamako | **0 - 0** | `1st half` | --- |
-| 16:00 | Mauritania | Nouakchott Kings vs FC Ksar | **0 - 1** | `1st half` | Unknown 27'(A) |
-| 16:00 | Mexico | Hermanos Benítez vs Around Soccer | **2 - 1** | `1st half` | Unknown 11'(H), Unknown 2'(H) |
-| 16:00 | Mexico | Tecos II vs CdF Charales de Chapala | **1 - 1** | `1st half` | Unknown 14'(H), Unknown 5'(A) |
-| 17:00 | Mexico | Valle de Xico FC vs Cilesi FC | **2 - 0** | `1st half` | Unknown 25'(H), Unknown 23'(H), Unknown 0'(H) |
-| 15:00 | Mexico | Necaxa U21 vs Atletico San Luis U21 | **1 - 2** | `2nd half` | Unknown 49'(A), Unknown 34'(A), Unknown 24'(H) |
-| 16:00 | Mexico | Mazatlan FC U21 vs Guadalajara U21 | **0 - 0** | `1st half` | --- |
-| 15:00 | Morocco | SC Casablanca vs Club Sportif Hilal Temara | **1 - 1** | `2nd half` | Unknown 30'(H), Unknown 26'(A) |
-| 14:00 | Morocco Amateur | Hassania Nador vs US Driouch | **1 - 0** | `Started` | Unknown -1'(H) |
-| 14:00 | Morocco Amateur | AS Oulad Yaich vs Hassania Demnat | **1 - 0** | `Started` | Unknown 90'(H) |
-| 15:00 | Niger | ASN Nigelec vs As Bourja | **3 - 0** | `2nd half` | Unknown 24'(H), Unknown 20'(H), Unknown 3'(H) |
-| 15:30 | Nigeria | Skillz FC vs Ka'ah FC | **0 - 3** | `Halftime` | Ahmed Sodiq Olamilekan 45'(A), Ahmed Sodiq Olamilekan 42'(A), Ahmed Sodiq Olamilekan 21'(A) |
-| 15:00 | Nigeria | Odemo United FC vs Golden Stars FC | **0 - 0** | `Halftime` | --- |
-| 14:05 | Saudi Arabia | Al-Yarmouk vs United Eagles FC | **0 - 0** | `Started` | --- |
-| 14:10 | Saudi Arabia | Al-Angaa vs Al-Taraji | **0 - 0** | `Started` | --- |
-| 14:15 | Saudi Arabia | Najmat Jeddah vs Al-Nahda | **0 - 0** | `Started` | --- |
-| 14:30 | Seychelles | Foresters FC vs Saint Louis Suns Utd | **3 - 2** | `2nd half` | Unknown 85'(H), Unknown 75'(A), Unknown 55'(A), Unknown 45'(H), Unknown 42'(H) |
-| 16:15 | Sierra Leone | FC Kallon vs Wusum Stars FC | **0 - 0** | `1st half` | --- |
-| 16:15 | Sierra Leone | Old Edwardians FC vs Ports Authority FC | **0 - 0** | `1st half` | --- |
+| 15:00 | Gabon | Academie Club de Libreville vs AJA | **1 - 1** | `Started` | Unknown 53'(A), Unknown 39'(H) |
+| 15:00 | Gabon | Assom GR vs TP Akwembe | **2 - 1** | `Started` | Unknown 71'(A), Unknown 64'(H), Unknown 30'(H) |
+| 15:00 | Gabon | FC Family vs AFM FC | **4 - 2** | `Started` | Unknown 90'(H), Unknown 80'(H), Unknown 76'(A), Unknown 70'(A), Unknown 57'(H), Unknown 34'(H) |
+| 15:00 | Gabon | Ndzimba FC vs Ngoua FC | **1 - 2** | `Started` | Unknown 57'(A), Unknown 49'(H), Unknown 1'(A) |
+| 17:00 | Germany Amateur | TSV 1880 Wasserburg vs SpVgg Mögeldorf | **0 - 0** | `Started` | --- |
+| 16:00 | Maldives | Maziya SC vs Odi SC | **2 - 0** | `Started` | Unknown 26'(H), Sergio Mendigutxia 25'(H) |
+| 16:00 | Mali | Derby Academie vs Afrique Football Elite | **0 - 0** | `2nd half` | --- |
+| 16:00 | Mali | FC Mali Coura vs Usfas Bamako | **1 - 0** | `2nd half` | Unknown 43'(H) |
+| 17:00 | Malta | Senglea Athletic FC vs San Gwann FC | **0 - 0** | `Started` | --- |
+| 16:00 | Mauritania | Nouakchott Kings vs FC Ksar | **1 - 1** | `2nd half` | Unknown 35'(H), Unknown 27'(A) |
+| 16:00 | Mexico | Hermanos Benítez vs Around Soccer | **3 - 2** | `2nd half` | Unknown 39'(A), Unknown 34'(H), Unknown 16'(A), Unknown 11'(H), Unknown 2'(H) |
+| 16:00 | Mexico | Tecos II vs CdF Charales de Chapala | **2 - 1** | `2nd half` | Unknown 22'(H), Unknown 13'(H), Unknown 5'(A) |
+| 16:00 | Mexico | Valle de Xico FC vs Cilesi FC | **3 - 0** | `2nd half` | Unknown 25'(H), Unknown 23'(H), Unknown 0'(H) |
+| 16:00 | Mexico | Cimarrones de Sonora FC II vs Xolos de Hermosillo | **0 - 0** | `1st half` | --- |
+| 16:00 | Mexico | Mazatlan FC U21 vs Guadalajara U21 | **0 - 0** | `2nd half` | --- |
+| 15:30 | Nigeria | Skillz FC vs Ka'ah FC | **1 - 3** | `2nd half` | Agbaa Abdullateef 63'(H), Ahmed Sodiq Olamilekan 45'(A), Ahmed Sodiq Olamilekan 42'(A), Ahmed Sodiq Olamilekan 21'(A) |
+| 15:00 | Nigeria | Odemo United FC vs Golden Stars FC | **0 - 0** | `2nd half` | --- |
+| 17:00 | Poland | OKS Odra Opole vs Pogoń Siedlce | **0 - 0** | `1st half` | --- |
+| 17:00 | Poland Amateur | MKS Wrzos Borne Sulinowo vs MKS Chojniczanka III Chojnice | **0 - 0** | `Started` | --- |
+| 17:00 | Portugal | Sporting CP vs Damaiense | **0 - 0** | `1st half` | --- |
+| 16:15 | Sierra Leone | FC Kallon vs Wusum Stars FC | **0 - 0** | `Halftime` | --- |
+| 16:15 | Sierra Leone | Old Edwardians FC vs Ports Authority FC | **1 - 2** | `Halftime` | Unknown 44'(A), Unknown 33'(A), Unknown 22'(H) |
+| 17:00 | South Africa | Cr Vasco Da Gama (Rsa) vs Luthuli Brigades | **1 - 1** | `1st half` | Unknown 11'(H), Unknown 6'(A) |
+| 17:00 | South Africa | Durban City FC vs Chippa United | **0 - 0** | `1st half` | --- |
 | 16:15 | Sudan | Al Shorta Club Al Qadarif vs Al Taqadom FC Port Sudan | **0 - 0** | `Started` | --- |
-| 14:35 | United Arab Emirates | United vs Al Hamriyah Club | **1 - 0** | `2nd half` | Unknown 90'(H) |
