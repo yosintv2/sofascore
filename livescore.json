@@ -1,21 +1,18 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-02-09 11:10:47 UTC"
+        "updated": "2026-02-09 11:55:58 UTC"
     },
     "matches": [
         {
-            "start_time": "09:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "FC Alashkert",
-            "away": "FC Samgurali Tskhaltubo",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Unknown 45'(A)"
-            ]
+            "start_time": "11:30",
+            "league": "Thai League 1",
+            "country": "Thailand",
+            "home": "Lamphun Warrior",
+            "away": "Kanchanaburi Power FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "11:00",
@@ -23,9 +20,37 @@
             "country": "World",
             "home": "FC Tver",
             "away": "Volna Kovernino",
-            "score": "0 - 0",
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 13'(A)"
+            ]
+        },
+        {
+            "start_time": "11:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Torpedo-BelAZ Zhodino",
+            "away": "Universitet Sporta Smolensk",
+            "score": "2 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 19'(A)",
+                "Unknown 16'(H)",
+                "Unknown 11'(H)"
+            ]
+        },
+        {
+            "start_time": "11:10",
+            "league": "U17 Friendly Games",
+            "country": "World",
+            "home": "Argentina U17",
+            "away": "Chile U17",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 18'(A)"
+            ]
         },
         {
             "start_time": "10:00",
@@ -46,20 +71,8 @@
             "home": "\u0130mi\u015fli FK",
             "away": "K\u0259p\u0259z PFK",
             "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "10:00",
-            "league": "Gamma Ethniki - Group 6",
-            "country": "Greece",
-            "home": "AE Mykonou",
-            "away": "PO Atsalenios",
-            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": [
-                "Periklis Minas 32'(H)"
-            ]
+            "scorers": []
         },
         {
             "start_time": "11:00",
@@ -77,9 +90,10 @@
             "country": "Hong Kong",
             "home": "Hong Kong Rangers U22",
             "away": "Eastern SC U22",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "2 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 44'(H)",
                 "Unknown 25'(H)"
             ]
         },
@@ -89,9 +103,13 @@
             "country": "India",
             "home": "CFCI",
             "away": "Mumbay FC",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 2",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 47'(H)",
+                "Unknown 45'(A)",
+                "Unknown 38'(A)"
+            ]
         },
         {
             "start_time": "10:00",
@@ -102,8 +120,20 @@
             "score": "1 - 1",
             "minute": "Started",
             "scorers": [
-                "Unknown -1'(H)",
-                "Unknown -1'(A)"
+                "Unknown 65'(H)",
+                "Unknown 65'(A)"
+            ]
+        },
+        {
+            "start_time": "11:00",
+            "league": "Azadegan League",
+            "country": "Iran",
+            "home": "Beasat Kermanshah FC",
+            "away": "Sanat Mes Kerman",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Reza Aghababaei 14'(A)"
             ]
         },
         {
@@ -112,9 +142,83 @@
             "country": "Iran",
             "home": "Mes Shahr Babak",
             "away": "FC Ario Eslamshahr",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Erfan Navabifar 32'(H)"
+            ]
+        },
+        {
+            "start_time": "11:30",
+            "league": "Azadegan League",
+            "country": "Iran",
+            "home": "Naft Gachsaran",
+            "away": "Sanat Naft Abadan",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Azadegan League",
+            "country": "Iran",
+            "home": "Nassaji Mazandaran FC",
+            "away": "Shahrdari Nowshahr",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Azadegan League",
+            "country": "Iran",
+            "home": "Niroye Zamini Tehran",
+            "away": "Saipa",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Kurdistan First Division ",
+            "country": "Iraq",
+            "home": "Erbil SC",
+            "away": "Kfri",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Kurdistan First Division ",
+            "country": "Iraq",
+            "home": "Koya",
+            "away": "Ararat",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Kurdistan First Division ",
+            "country": "Iraq",
+            "home": "Shorjah",
+            "away": "Shekhan SC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "11:30",
+            "league": "Kurdistan First Division ",
+            "country": "Iraq",
+            "home": "Sumel",
+            "away": "Duhok SC",
+            "score": "0 - 1",
+            "minute": "Started",
+            "scorers": [
+                "Leo Costa 35'(A)"
+            ]
         },
         {
             "start_time": "11:00",
@@ -127,18 +231,14 @@
             "scorers": []
         },
         {
-            "start_time": "09:30",
-            "league": "National League",
-            "country": "Myanmar",
-            "home": "Dagon FC",
-            "away": "Ispe FC",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Win Pyae Maung 71'(A)",
-                "Moe Swe 44'(H)",
-                "Yan Kyaw Htwe 37'(H)"
-            ]
+            "start_time": "11:30",
+            "league": "Ligue R\u00e9gionale Rabat Sal\u00e9 K\u00e9nitra",
+            "country": "Morocco Amateur",
+            "home": "KAC Sebou",
+            "away": "AS Amal A\u00eft Yadine",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "10:30",
@@ -146,9 +246,11 @@
             "country": "Paraguay",
             "home": "Libertad Reserve",
             "away": "Guaran\u00ed Reserve",
-            "score": "1 - 1",
-            "minute": "1st half",
+            "score": "2 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 47'(A)",
+                "Unknown 45'(H)",
                 "Unknown 18'(H)",
                 "Unknown 16'(A)"
             ]
@@ -159,9 +261,23 @@
             "country": "Paraguay",
             "home": "Nacional Asunci\u00f3n Reserve",
             "away": "Olimpia Reserve",
-            "score": "0 - 0",
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 67'(A)"
+            ]
+        },
+        {
+            "start_time": "11:30",
+            "league": "Premier League",
+            "country": "Singapore",
+            "home": "Albirex Niigata Singapore",
+            "away": "Hougang United",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Shingo Nakano 14'(H)"
+            ]
         },
         {
             "start_time": "11:00",
@@ -209,9 +325,13 @@
             "country": "Turkey",
             "home": "Bulvarspor",
             "away": "\u0130neg\u00f6l Kafkas Gen\u00e7likspor",
-            "score": "0 - 1",
+            "score": "1 - 4",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 90'(A)",
+                "Yusuf Kaplan 71'(A)",
+                "Kaan Gudu 63'(H)",
+                "Unknown 59'(A)",
                 "Unknown 43'(A)"
             ]
         },
@@ -221,9 +341,12 @@
             "country": "Turkey",
             "home": "Karak\u00f6pr\u00fc Belediyespor",
             "away": "Diyarbekir Spor A\u015e",
-            "score": "2 - 0",
+            "score": "5 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Ibrahim Baser 89'(H)",
+                "Furkan Samil Cetin 84'(A)",
+                "G\u00f6rkem Demirel 61'(H)",
                 "Yavuz Alemdar 45'(H)",
                 "Hakan Ku\u015f 8'(H)"
             ]
@@ -235,7 +358,7 @@
             "home": "Kilis 1984 Futbol Kul\u00fcb\u00fc",
             "away": "T\u00fcrk Metal 1963 SK",
             "score": "2 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 25'(H)",
                 "Remzi Kolcuoglu 22'(H)"
@@ -248,7 +371,7 @@
             "home": "Malatya Ye\u015filyurt Belediyespor",
             "away": "Maz\u0131da\u011f\u0131 Fosfat SK",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 20'(H)"
             ]
@@ -260,7 +383,7 @@
             "home": "Suvermez Kapadokyaspor",
             "away": "K\u0131r\u015fehir FK",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 44'(H)"
             ]
@@ -271,9 +394,11 @@
             "country": "Turkey",
             "home": "Amasyaspor FK",
             "away": "Zonguldakspor FK",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Enes An 74'(H)"
+            ]
         },
         {
             "start_time": "10:00",
@@ -287,19 +412,6 @@
                 "Ahmet Ta\u015fdemir 45'(A)",
                 "Mehmet Can Davarcioglu 25'(A)",
                 "Mehmet Can Davarcioglu 6'(A)"
-            ]
-        },
-        {
-            "start_time": "10:00",
-            "league": "Nesine 3. Lig, Grup 3",
-            "country": "Turkey",
-            "home": "Sebat Gen\u00e7lik Spor",
-            "away": "Giresunspor",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 49'(H)",
-                "Harun \u00d6zcan 30'(H)"
             ]
         },
         {
@@ -344,9 +456,11 @@
             "country": "Turkey",
             "home": "Kayserispor U19",
             "away": "Kocaelispor U19",
-            "score": "1 - 2",
+            "score": "3 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 83'(H)",
+                "Unknown 72'(H)",
                 "Unknown 37'(H)",
                 "Unknown 36'(A)",
                 "Unknown 25'(A)"
@@ -366,20 +480,6 @@
             "start_time": "10:00",
             "league": "Trabzon 2. Amat\u00f6r Ligi, Group A",
             "country": "Turkey Amateur",
-            "home": "Ka\u015f\u00fcst\u00fcspor",
-            "away": "Tonyaspor",
-            "score": "3 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Emre \u00c7elebi 45'(H)",
-                "Tamer Gebi\u00e7 31'(H)",
-                "B\u00fcnyamin \u00dc\u00e7\u00fcnc\u00fc 11'(H)"
-            ]
-        },
-        {
-            "start_time": "10:00",
-            "league": "Trabzon 2. Amat\u00f6r Ligi, Group A",
-            "country": "Turkey Amateur",
             "home": "Pelitli 1961 Spor",
             "away": "Pazarkap\u0131spor",
             "score": "0 - 0",
@@ -393,7 +493,7 @@
             "home": "Th\u00e9p Xanh Nam \u0110\u1ecbnh",
             "away": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Percy Tau 4'(H)"
             ]
