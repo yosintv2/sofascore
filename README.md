@@ -2,7 +2,11 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 04:00 | India Amateur | AGORC FC vs Jawahar Union FC | **0 - 0** | `1st half` | --- |
-| 03:00 | Indonesia | Tunas Muda Kananga vs Paniki FC | **0 - 1** | `2nd half` | Unknown 39'(A) |
-| 03:20 | Indonesia | SS Lampung vs Angonsaka FC | **0 - 4** | `2nd half` | Unknown 71'(A), Unknown 58'(A), Unknown 40'(A), Unknown 14'(A) |
-| 03:30 | South Korea | Chung-Ang University vs Dankook University | **1 - 0** | `2nd half` | Unknown 56'(H) |
+| 04:00 | India Amateur | AGORC FC vs Jawahar Union FC | **2 - 0** | `2nd half` | Unknown 90'(H), Unknown 85'(H) |
+| 05:30 | Indonesia | Elang United vs Yougwa FC | **0 - 0** | `1st half` | --- |
+| 05:30 | Indonesia | Persiba Balikpapan vs Balikpapan United | **1 - 0** | `1st half` | Unknown 27'(H) |
+| 05:30 | South Korea | Ajou University vs Gimhae University | **1 - 0** | `1st half` | Unknown 9'(H) |
+| 05:30 | South Korea | Dong-Eui University vs Daeshin University | **0 - 0** | `1st half` | --- |
+| 05:30 | South Korea | Howon University vs Gumi University | **0 - 0** | `1st half` | --- |
+| 05:30 | South Korea | Yeoju University of Technology vs Dongyang University | **0 - 0** | `1st half` | --- |
+| 05:30 | South Korea | Yong In University vs Kwangwoon University | **0 - 0** | `1st half` | --- |
