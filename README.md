@@ -2,20 +2,18 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 19:45 | Germany | Hertha BSC vs SC Freiburg | **1 - 1** | `Penalties` | Fabian Reese 104'(H), Yuito Suzuki 96'(A) |
-| 21:00 | Colombia | Cúcuta Deportivo vs Independiente Medellín | **1 - 3** | `2nd half` | John Edwin Montaño 56'(A), Alexis Serna 54'(A), Leider Berdugo 45'(H), Didier Moreno 16'(A) |
-| 21:00 | South America | Colombia U20 vs Uruguay U20 | **1 - 0** | `2nd half` | Maithé López 45'(H) |
-| 21:00 | South America | Venezuela U20 vs Paraguay U20 | **0 - 0** | `2nd half` | --- |
-| 22:00 | North & Central America | Anguilla U17 vs Dominica U17 | **0 - 0** | `1st half` | --- |
-| 22:00 | North & Central America | Antigua and Barbuda U17 vs Grenada U17 | **0 - 0** | `1st half` | --- |
-| 22:00 | Argentina | Gimnasia y Esgrima Mendoza Reserve vs Racing Reserve | **0 - 1** | `1st half` | Unknown 14'(A) |
-| 22:00 | Brazil | Vasco-AC vs Independência | **0 - 1** | `1st half` | Unknown 7'(A) |
-| 22:15 | Brazil | Jacuipense vs Atlético Alagoinhas | **0 - 0** | `1st half` | --- |
-| 21:00 | Honduras | CD Choloma Reserves vs Lobos UPNFM Reserves | **1 - 2** | `2nd half` | Unknown 47'(A), Unknown 17'(H), Unknown 4'(A) |
-| 21:00 | Honduras | CD Marathon Reserves vs Juticalpa Reserves | **3 - 0** | `2nd half` | Unknown 65'(H), Unknown 16'(H), Unknown 8'(H) |
-| 21:00 | Honduras | Genesis De Comayagua Reserves vs Real Espana Reserves | **1 - 0** | `2nd half` | Unknown 50'(H) |
-| 21:00 | Honduras | Motagua Reserves vs CD Platense Reserves | **2 - 3** | `2nd half` | Unknown 55'(A), Unknown 54'(H), Unknown 44'(H), Unknown 17'(A), Unknown 13'(A) |
-| 21:00 | Honduras | Olancho FC Reserves vs CD Olimpia Reserves | **0 - 0** | `1st half` | --- |
-| 21:45 | Mexico | Puebla FC vs Atlas | **0 - 0** | `1st half` | --- |
-| 20:30 | Portugal | Sporting Braga U19 vs Benfica U19 | **0 - 0** | `Started` | --- |
-| 21:00 | Portugal Amateur | UD São Mamede vs FC Burgães | **0 - 0** | `Started` | --- |
+| 22:00 | North & Central America | Anguilla U17 vs Dominica U17 | **0 - 1** | `2nd half` | Unknown 27'(A) |
+| 22:00 | North & Central America | Antigua and Barbuda U17 vs Grenada U17 | **0 - 0** | `2nd half` | --- |
+| 23:00 | North & Central America | Saint Kitts and Nevis U17 vs Saint Vincent & The Grenadines U17 | **1 - 0** | `1st half` | Unknown 5'(H) |
+| 22:00 | Argentina | Gimnasia y Esgrima Mendoza Reserve vs Racing Reserve | **1 - 1** | `2nd half` | Unknown 43'(H), Unknown 14'(A) |
+| 22:00 | Brazil | Vasco-AC vs Independência | **0 - 2** | `Halftime` | Unknown 33'(A), Unknown 7'(A) |
+| 22:15 | Brazil | Jacuipense vs Atlético Alagoinhas | **1 - 0** | `Halftime` | Alison Daniel 41'(H) |
+| 23:00 | Brazil | Náutico-RR vs Baré | **0 - 0** | `1st half` | --- |
+| 23:00 | Brazil | Sergipe vs Atlético Gloriense | **0 - 0** | `1st half` | --- |
+| 21:00 | Honduras | Olancho FC Reserves vs CD Olimpia Reserves | **0 - 0** | `2nd half` | --- |
+| 21:45 | Mexico | Puebla FC vs Atlas | **1 - 1** | `2nd half` | Unknown 60'(H), Sanjuana Munoz 48'(A) |
+| 22:05 | Mexico | Águilas UAGro vs Iguala FC | **5 - 0** | `2nd half` | Unknown 80'(H), Unknown 77'(H), Unknown 52'(H), Unknown 0'(H) |
+| 23:00 | Poland Amateur | KS Warka vs Legion Głowaczów | **0 - 0** | `Started` | --- |
+| 23:00 | Poland Amateur | LKS Stal 1938 Kunów vs ZKS Granat Skarżysko-Kamienna | **0 - 0** | `Started` | --- |
+| 21:00 | Portugal Amateur | UD São Mamede vs FC Burgães | **1 - 0** | `Started` | Unknown 90'(H) |
+| 23:00 | USA | Philadelphia Union vs CF Montréal | **0 - 0** | `1st half` | --- |
