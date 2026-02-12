@@ -2,47 +2,18 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | Brazil | Mirassol vs Cruzeiro | **2 - 2** | `2nd half` | Kaio Jorge 85'(A), Negueba 53'(H), Nathan Fogaça 38'(H), Wanderson 23'(A) |
-| 23:00 | Brazil | Atlético Mineiro vs Remo | **1 - 1** | `Halftime` | Vitor Bueno 42'(A), Hulk 22'(H) |
-| 23:30 | Colombia | Millonarios vs Rionegro Águilas Doradas | **0 - 0** | `1st half` | --- |
-| 22:10 | World | Argentina U17 vs Paraguay U17 | **2 - 3** | `2nd half` | Unknown 80'(A), Unknown 75'(H), Unknown 71'(A), Unknown 40'(H), Unknown 11'(A) |
-| 00:00 | Argentina | Atlético Tucumán Reserve vs Argentinos Juniors Reserve | **0 - 0** | `1st half` | --- |
-| 22:15 | Brazil | Bahia de Feira vs Barcelona de Ilhéus | **5 - 1** | `2nd half` | Ronan 59'(H), Arthur Martins 53'(H), Elivelton 50'(H), Miquéias Dos Santos Alves 48'(A), Arthur Martins 32'(H), Alex Cazumba 29'(H) |
-| 23:30 | Brazil | Gama vs Ceilândia | **0 - 0** | `1st half` | --- |
-| 22:30 | Brazil | Anapolina vs Jataiense | **1 - 0** | `2nd half` | Wadson 14'(H) |
-| 22:30 | Brazil | CRAC vs Goiás | **1 - 1** | `2nd half` | Thiago Alves 60'(H), Lucas Rodrigues Moreira Costa 12'(A) |
-| 22:30 | Brazil | Maranhão AC vs Sampaio Corrêa | **0 - 1** | `2nd half` | Alex Sandre 44'(A) |
-| 22:30 | Brazil | Moto Club vs IAPE | **0 - 1** | `2nd half` | Unknown 45'(A) |
-| 23:00 | Brazil | Operário-MT vs Nova Mutum | **2 - 1** | `Halftime` | Unknown 43'(A), Neném 8'(H), Sidnei  Neto 4'(H) |
-| 23:00 | Brazil | Cametá SC vs Paysandu SC | **2 - 0** | `Halftime` | Leonardo Sampaio 45'(H), Unknown 14'(H) |
-| 22:30 | Brazil | Atlético Cajazeirense vs Botafogo-PB | **0 - 1** | `2nd half` | Kayon 4'(A) |
-| 23:00 | Brazil | Cascavel vs Clube Andraus Brasil | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | Água Santa vs Ferroviária | **1 - 0** | `2nd half` | Unknown 11'(H) |
-| 22:00 | Brazil | Ituano vs Inter de Limeira | **2 - 1** | `2nd half` | Unknown 90'(H), Gabriel Razera 30'(H), Buchecha 19'(A) |
-| 22:30 | Brazil | Grêmio Prudente vs Monte Azul | **0 - 0** | `2nd half` | --- |
-| 22:30 | Brazil | Votuporanguense vs Taubaté | **1 - 1** | `2nd half` | Anderson Feijão 44'(H), Romarinho 10'(A) |
-| 23:00 | Brazil | Osasco Sporting vs EC Santo André | **1 - 0** | `Halftime` | Matheus Martins 41'(H) |
-| 23:00 | Brazil | XV de Piracicaba vs São José EC | **0 - 3** | `Halftime` | Clessione 45'(A), Michael Paulista 20'(A), João Ramos 5'(A) |
-| 22:30 | Brazil | União Barbarense vs Francana | **3 - 1** | `2nd half` | Unknown 55'(H), Unknown 17'(H), Giovani Alvisi 8'(H), Unknown 3'(A) |
-| 23:00 | Brazil | Bandeirante EC vs XV de Jaú | **0 - 0** | `Halftime` | --- |
-| 23:00 | Brazil | Paulista vs Desportivo Brasil | **1 - 0** | `Halftime` | Unknown 34'(H) |
-| 23:00 | Brazil | Portuguesa Santista vs Rio Claro FC | **1 - 0** | `Halftime` | Unknown 34'(H) |
-| 23:00 | Brazil | AE Araçatuba vs Lemense | **0 - 0** | `Halftime` | --- |
-| 23:00 | Brazil | Barretos U23 vs VOCEM U23 | **2 - 1** | `Halftime` | Wendel 30'(H), Unknown 22'(H), Unknown 11'(A) |
-| 23:00 | Brazil | Comercial-SP vs Taquaritinga U23 | **0 - 0** | `Halftime` | --- |
-| 23:00 | Brazil | Internacional de Bebedouro U23 vs Colorado Caieiras U23 | **1 - 0** | `Halftime` | Unknown 40'(H) |
-| 23:00 | Brazil | Santa Cruz vs Náutico | **0 - 1** | `Halftime` | Paulo Sérgio 18'(A) |
-| 22:00 | Brazil | Atlético Piauiense vs Teresina EC | **1 - 0** | `2nd half` | Felipinho 90'(H) |
-| 23:30 | Brazil | Guaporé FC vs Barcelona-RO | **1 - 0** | `1st half` | Unknown 25'(H) |
-| 23:00 | Brazil | Desportiva Aracaju vs Lagarto FC | **0 - 1** | `Halftime` | Emanuel Pereira 37'(A) |
-| 22:00 | Brazil | AA Bataguassu vs FC Pantanal | **1 - 1** | `2nd half` | Unknown 40'(A), Alex Honório Choco 28'(H) |
-| 23:30 | Brazil | Águia Negra vs CR Aquidauana | **0 - 1** | `1st half` | Unknown 13'(A) |
-| 23:30 | Brazil | Corumbaense vs Ivinhema | **1 - 0** | `1st half` | Unknown 18'(H) |
-| 23:30 | Brazil | Naviraiense vs Dourados | **1 - 0** | `1st half` | Antonio Porto 12'(H) |
-| 23:30 | Brazil | Operário-MS vs Costa Rica-MS | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil Amateur | Canaã vs Barcelona SP | **0 - 2** | `1st half` | Unknown 34'(A), Unknown 6'(A) |
-| 00:00 | Costa Rica | AD Carmelita vs Deportivo Saprissa | **0 - 0** | `1st half` | --- |
-| 23:15 | Honduras | CD Choloma vs Olancho FC | **0 - 0** | `1st half` | --- |
-| 23:00 | Nicaragua | UNAN Managua vs Real Madriz | **2 - 0** | `Halftime` | Anderson Treminio 42'(H), Anderson Treminio 15'(H) |
-| 23:15 | Panama | CD Universitario vs San Francisco FC | **2 - 1** | `1st half` | Unknown 34'(H), Edward Bolaños 29'(H), Ronaldo Dinolis 16'(A) |
-| 23:00 | USA | San Jose Earthquakes vs Portland Timbers | **1 - 2** | `Halftime` | Kristoffer Velde 36'(A), Kristoffer Velde 30'(A), Preston Judd 20'(H) |
+| 01:30 | Colombia | Internacional de Bogotá vs Deportivo Cali | **3 - 2** | `2nd half` | Juan Valencia 72'(H), Larry Vásquez 70'(H), Johan Martínez 58'(A), Carlos Vivas 32'(H), Steven Rodríguez 25'(A) |
+| 03:00 | North & Central America | CF Monterrey vs CSD Xelajú MC | **0 - 0** | `1st half` | --- |
+| 01:45 | North & Central America | Honduras U17 vs Bermuda U17 | **1 - 0** | `2nd half` | Mike Arana 37'(H) |
+| 02:35 | Colombia Amateur | La 55 Fc vs Almacenes El Rey | **0 - 3** | `1st half` | Unknown 31'(A), Unknown 22'(A), Unknown 18'(A) |
+| 02:15 | Costa Rica | CS Cartaginés vs Sporting FC | **1 - 0** | `Halftime` | Ricardo Márquez 17'(H) |
+| 00:00 | Guatemala | CD Suchitepéquez vs Huehuetecos FC | **2 - 1** | `2nd half` | Unknown 68'(H), Unknown 58'(A), Unknown 9'(H) |
+| 02:00 | Guatemala | CS Deportivo Sacachispas vs CSD Chiquimulilla | **3 - 0** | `2nd half` | Arley Bonilla 20'(H), Gerson Tinoco 11'(H) |
+| 01:30 | Honduras | Juticalpa FC vs Real CD España | **1 - 1** | `2nd half` | Marcelo Canales 65'(H), Eddie Hernández 54'(A) |
+| 01:30 | Panama | Sporting San Miguelito vs Alianza FC | **1 - 0** | `2nd half` | --- |
+| 01:30 | South Korea | Daegu Science University vs Wonkwang University | **3 - 0** | `2nd half` | Unknown 79'(H), Unknown 75'(H), Unknown 12'(H) |
+| 01:30 | South Korea | Sungkyunkwan University vs Nambu University | **3 - 0** | `2nd half` | Unknown 56'(H), Unknown 54'(H), Unknown 45'(H) |
+| 01:30 | South Korea | Tongmyong University vs Woosuk University | **5 - 0** | `2nd half` | Unknown 88'(H), Unknown 72'(H), Unknown 56'(H), Unknown 43'(H), Unknown 29'(H) |
+| 00:45 | Uruguay Amateur | Cerro Largo Capital vs Canelones Interior | **4 - 2** | `2nd half` | Unknown 73'(A), Unknown 64'(H), Unknown 48'(H), Unknown 39'(H), Unknown 22'(H), Unknown 7'(A) |
+| 00:45 | Uruguay Amateur | Lavalleja Capital vs Treinta y Tres Capital | **3 - 0** | `2nd half` | Unknown 72'(H), Unknown 61'(H), Unknown 25'(H) |
+| 01:00 | Uruguay Amateur | Maldonado Capital vs Treinta y Tres Interior | **11 - 0** | `2nd half` | Unknown 85'(H), Unknown 83'(H), Unknown 72'(H), Unknown 67'(H), Unknown 57'(H), Unknown 54'(H), Unknown 53'(H), Unknown 42'(H), Unknown 24'(H), Unknown 15'(H), Unknown 6'(H) |
