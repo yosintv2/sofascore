@@ -2,34 +2,31 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:30 | Chile | Palestino vs Universidad de Chile | **0 - 0** | `1st half` | --- |
-| 23:30 | World | CD Colchagua vs Deportes Santa Cruz | **0 - 0** | `1st half` | --- |
-| 23:00 | Argentina | CA Independiente vs CA Lanús | **0 - 0** | `Halftime` | --- |
-| 23:00 | Argentina | Ituzaingó vs Deportivo Armenio | **0 - 1** | `Halftime` | Luciano Villalba 37'(A) |
-| 23:00 | Bolivia | Bolívar vs Real Potosí | **1 - 0** | `Halftime` | Unknown 44'(H) |
-| 23:00 | Brazil | CA Cristal vs Independente-AP | **0 - 1** | `1st half` | Unknown 20'(A) |
-| 22:30 | Brazil | CN Marcílio Dias vs Figueirense | **1 - 0** | `2nd half` | Reginaldo Jr 33'(H) |
-| 22:30 | Brazil | Treze vs Esporte Clube de Patos | **3 - 1** | `2nd half` | Unknown 63'(H), Silvano 47'(H), Lucas Vieira 41'(H), Unknown 31'(A) |
-| 22:30 | Colombia | Real Cartagena vs Atlético Cali | **3 - 1** | `2nd half` | Unknown 50'(A), Mauro Manotas 45'(H), Mauro Manotas 42'(H), Mauro Manotas 7'(H) |
-| 17:30 | France Amateur | US Le Pays Du Valois vs GFC Ajaccio | **3 - 2** | `2nd half` | Unknown 74'(A), Unknown 61'(H), Unknown 50'(A), Unknown 46'(H), Unknown 19'(H) |
-| 23:45 | Indonesia | Mastabe FA U14 vs Forsgi U14 | **0 - 2** | `1st half` | Galuh Achmad Husaini 8'(A), Unknown 3'(A) |
-| 23:45 | Indonesia | Prodigy FA U14 vs Djakarta Warriors U14 | **0 - 0** | `1st half` | --- |
-| 23:45 | Indonesia | Bedenk SS U15 vs Ocean Stars U15 | **0 - 0** | `Started` | --- |
-| 23:45 | Indonesia | Tajimalela Hijau U15 vs Batalyon FA U15 | **0 - 0** | `1st half` | --- |
-| 23:45 | Indonesia | Fifa Farmel U16 vs biMBA AIUEO U16 | **0 - 0** | `1st half` | --- |
-| 23:00 | Mexico | CD Tapatío vs CDS Tampico Madero | **1 - 0** | `Halftime` | Sergio Armando Aguayo Castillo 22'(H) |
-| 22:00 | Mexico | Dragones Toluca II vs Artesanos Metepec FC II | **3 - 0** | `2nd half` | Unknown 64'(H), Unknown 55'(H), Unknown 45'(H) |
-| 22:00 | Mexico | Furia Azul FC vs Club Atlético Valladolid | **0 - 4** | `2nd half` | Unknown 86'(A), Unknown 71'(A), Unknown 59'(A), Unknown 25'(A) |
-| 22:00 | Mexico | Iguala FC vs Selva Cañera | **1 - 3** | `2nd half` | Unknown 75'(A), Unknown 61'(A), Unknown 57'(H), Unknown 33'(A) |
-| 23:00 | Mexico | Inter Playa del Carmen II vs CD Pioneros Junior | **0 - 0** | `2nd half` | --- |
-| 23:30 | Paraguay | Recoleta FC vs Sportivo Luqueño | **0 - 1** | `1st half` | Giovanni Bogado 2'(A) |
-| 23:00 | Poland Amateur | Grom Warszawa vs MKS Podlasie Sokołów Podlaski | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | KS Hubertus Chomentów vs Akcja Jastrzębia | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | KS Sokół Bożepole Wielkie vs AS Kolbudy | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | MKS Wyśmierzyce vs MKS Zwolenianka Zwoleń | **0 - 0** | `Started` | --- |
-| 11:30 | Poland Amateur | Mazowsze Grójec vs LKS Perła II Złotokłos | **0 - 0** | `Started` | --- |
-| 12:00 | Poland Amateur | Białka Biała Rawska vs KS Blask Odrzywół | **0 - 0** | `Started` | --- |
-| 22:00 | Saint Kitts and Nevis | KFC Trinity/Challengers United FC vs Saddlers United FC | **0 - 0** | `Started` | --- |
+| 03:05 | Mexico | CD Toluca vs Club Tijuana | **1 - 0** | `1st half` | Paulinho 21'(H) |
+| 02:00 | World | Barcelona SC Guayaquil vs Aucas | **0 - 0** | `Halftime` | --- |
+| 03:00 | Australia | Moreland City vs Altona City | **2 - 1** | `1st half` | Unknown 36'(H), Unknown 26'(H), Unknown 20'(A) |
+| 06:00 | Australia | APIA Leichhardt Tigers U20 vs NWS Spirit FC U20 | **2 - 0** | `Halftime` | Unknown 39'(H), Unknown 6'(H) |
+| 03:00 | Australia | APIA Leichhardt Tigers U20 vs Spirit FC U20 | **2 - 0** | `1st half` | Unknown 39'(H), Unknown 6'(H) |
+| 23:00 | Bolivia | Bolívar vs Real Potosí | **3 - 1** | `2nd half` | Unknown 90'(H), Unknown 56'(A), Unknown 54'(H), Unknown 44'(H) |
+| 02:15 | Colombia Amateur | Elmeji Fc vs Valadares | **2 - 2** | `2nd half` | Unknown 69'(H), Unknown 38'(H), Unknown 13'(A), Unknown 12'(A) |
+| 02:00 | Costa Rica | Puntarenas FC vs Municipal Pérez Zeledón | **1 - 0** | `2nd half` | Renzo Carballo 23'(H) |
+| 02:00 | Costa Rica | LD Alajuelense vs Deportivo Saprissa Femenino | **2 - 1** | `2nd half` | Unknown 63'(A), Unknown 26'(H), Unknown 1'(H) |
+| 21:00 | Honduras | CD Olimpia Reserves vs Juticalpa Reserves | **0 - 0** | `Halftime` | --- |
+| 01:10 | Indonesia | Batalyon FA U17 vs Fifa Farmel U17 | **2 - 2** | `2nd half` | Unknown 50'(A), Unknown 40'(H), Alvaro Wirasena 20'(H), Faiz Fauzan Adim 14'(A) |
+| 02:20 | Indonesia | Raga Negeri U17 vs Asiop U17 | **0 - 0** | `Started` | --- |
+| 03:30 | Indonesia | Brazillian SS LFA U17 vs SHD Cianjur U17 | **0 - 0** | `Started` | --- |
+| 03:30 | Indonesia | Ocean Stars U17 vs Villa 2000 U17 | **0 - 1** | `1st half` | Maaliki  Al Hakim 20'(A) |
+| 03:30 | Indonesia | MC Utama U13 vs Citra Muda U13 | **0 - 0** | `1st half` | --- |
+| 03:00 | Indonesia | Asad Purwakarta U13 vs Bina Taruna U13 | **1 - 1** | `2nd half` | Muhammad Elsharawy Salampessy 9'(A), Muhammad Irsyad Zain 2'(H) |
+| 03:00 | Indonesia | Mavericks U13 vs Nawasena FC U13 | **0 - 4** | `2nd half` | Abdurrahman - 39'(A), Christ Haezer Tambunan 16'(A), Novan Daffa Pratama 13'(A), Christ Haezer Tambunan 5'(A) |
+| 03:15 | Indonesia | Salfas Soccer U14 vs Labskills Jakarta U14 | **0 - 1** | `2nd half` | Juninho Alrasyid Ferdiansyah Hardi 9'(A) |
+| 03:15 | Indonesia | Royal Indonesia U14 vs Bekasi Permai U14 | **1 - 1** | `2nd half` | Muhammad Hafidz Faqih 22'(A), Muhammad Azka Pratama 4'(H) |
+| 03:10 | Indonesia | Tunas Mustika U15 vs Asiop Biru U15 | **0 - 0** | `1st half` | --- |
+| 03:20 | Indonesia | Amdesta U15 vs Erlangga U15 | **0 - 1** | `1st half` | Rafa Gabrio Guiza 9'(A) |
+| 03:10 | Indonesia | Serpong City U15 vs Eurochamp FA U15 | **0 - 0** | `1st half` | --- |
+| 03:15 | Indonesia | Forsgi U16 vs Serang City U16 | **1 - 0** | `1st half` | Kaka Akhdan  Arkana 28'(H) |
+| 03:00 | Indonesia | Young Warrior U16 vs Mavericks U16 | **2 - 1** | `2nd half` | Muhammad Radhika Mulya 16'(H), Alvino David  Felicio Tutupoly 14'(H), Ethan Wang 3'(A) |
+| 03:00 | Mexico | C.D. Irapuato vs Dorados de Sinaloa | **0 - 0** | `1st half` | --- |
+| 01:00 | Mexico | Xolos de Hermosillo vs Club Atletico Tijuana | **1 - 1** | `2nd half` | Unknown 74'(A), Unknown 25'(H) |
 | 13:30 | South Sudan | Olympic Renk vs Lion Hunters | **2 - 0** | `2nd half` | Unknown 10'(H), Unknown 6'(H) |
 | 17:00 | Spain Amateur | Aguilas FC B vs Real Murcia B | **0 - 0** | `Halftime` | --- |
-| 23:30 | Venezuela | Universidad Central vs Metropolitanos | **1 - 0** | `1st half` | Kendrys Silva 7'(H) |
