@@ -2,7 +2,10 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 03:00 | North & Central America | Real CD España vs Los Angeles FC | **0 - 4** | `1st half` | Denis Bouanga 24'(A), Heung-min Son 22'(A), David Martínez Morales 11'(A), Denis Bouanga 3'(A) |
-| 02:00 | Argentina Amateur | River del Algarrobo vs Unión Arroyo Algodón | **3 - 1** | `2nd half` | Unknown 78'(H), Unknown 72'(H), Unknown 65'(A), Unknown 37'(H) |
-| 02:30 | Colombia Amateur | Demube FC vs La 55 Fc | **0 - 0** | `2nd half` | --- |
-| 02:00 | Mexico Amateur | FC Racing vs Racing de Veracruz | **1 - 0** | `2nd half` | Unknown 17'(H) |
+| 04:00 | India Amateur | Technico Football Foundation vs AGORC FC | **2 - 0** | `Started` | Unknown 15'(H), Unknown -1'(H) |
+| 03:30 | South Korea | Andong Science University vs Jeonju University | **2 - 1** | `2nd half` | Unknown 50'(H), Unknown 44'(A), Unknown 40'(H) |
+| 03:30 | South Korea | Hannam University vs Sangji University | **2 - 3** | `2nd half` | Unknown 76'(A), Unknown 74'(H), Unknown 38'(H), Unknown 17'(A) |
+| 03:30 | South Korea | Howon University vs Incheon University | **1 - 0** | `2nd half` | Unknown 69'(H) |
+| 03:30 | South Korea | Songho College vs Yonsei University | **0 - 2** | `2nd half` | Unknown 63'(A), Unknown 40'(A) |
+| 03:40 | South Korea | Jeonju Kijeon University vs South Korea University | **0 - 2** | `2nd half` | Unknown 44'(A), Unknown 16'(A) |
+| 03:40 | South Korea | Kwangwoon University vs Dankook University | **1 - 1** | `2nd half` | Unknown 67'(H), Unknown 38'(A) |
