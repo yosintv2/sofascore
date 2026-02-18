@@ -2,12 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 00:30 | South America | CS 2 de Mayo vs CS Cristal | **0 - 0** | `1st half` | --- |
-| 00:30 | South America | Liverpool UY vs Independiente Medellín | **0 - 0** | `1st half` | --- |
-| 23:00 | Colombia | Jaguares de Córdoba vs Independiente Santa Fe | **1 - 0** | `1st half` | Andrés Rentería 21'(H) |
-| 00:05 | Argentina | Central Cordoba Reserve vs Atletico Rafaela Reserve | **1 - 2** | `Halftime` | Unknown 35'(H), Unknown 11'(A), Unknown 6'(A) |
-| 00:30 | Aruba | SV Atlantico Deportivo vs SV Unistars | **0 - 0** | `Started` | --- |
-| 23:00 | Brazil | Sampaio Corrêa-RJ vs Desportiva Ferroviária | **1 - 1** | `2nd half` | Octávio 88'(H), Tiago Moura 70'(A) |
-| 23:30 | Mexico | Jaguares de Chiapas FC II vs Atletico Real Morelos | **0 - 2** | `2nd half` | Unknown 45'(A), Unknown 1'(A) |
-| 00:00 | Mexico | CD Avina vs Club Gallos Viejos | **1 - 2** | `Halftime` | Unknown 35'(A), Unknown 24'(A), Unknown 19'(H) |
-| 00:00 | Mexico | Club Deportivo Yautepec vs Club Marina CR | **3 - 0** | `Halftime` | Unknown 39'(H), Unknown 29'(H), Unknown 18'(H) |
+| 03:00 | North & Central America | Real CD España vs Los Angeles FC | **0 - 4** | `1st half` | Denis Bouanga 24'(A), Heung-min Son 22'(A), David Martínez Morales 11'(A), Denis Bouanga 3'(A) |
+| 02:00 | Argentina Amateur | River del Algarrobo vs Unión Arroyo Algodón | **3 - 1** | `2nd half` | Unknown 78'(H), Unknown 72'(H), Unknown 65'(A), Unknown 37'(H) |
+| 02:30 | Colombia Amateur | Demube FC vs La 55 Fc | **0 - 0** | `2nd half` | --- |
+| 02:00 | Mexico Amateur | FC Racing vs Racing de Veracruz | **1 - 0** | `2nd half` | Unknown 17'(H) |
