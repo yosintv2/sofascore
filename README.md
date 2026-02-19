@@ -2,5 +2,9 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 04:10 | India | Al Fateh Bangalore vs Empire Bengaluru | **0 - 3** | `2nd half` | Unknown 55'(A), Unknown 39'(A), Unknown 32'(A) |
-| 04:00 | India | Shastri Nagar FC vs Young Guns FC | **0 - 0** | `2nd half` | --- |
+| 06:00 | World | FC Aragvelebi vs Dinamo Tbilisi | **0 - 0** | `1st half` | --- |
+| 06:00 | World | Mash Al Mubarek vs Aral Samalı | **0 - 1** | `1st half` | Unknown 10'(A) |
+| 06:25 | India | Juba Sangha vs Delhi Young Boys | **1 - 0** | `1st half` | Unknown 10'(H) |
+| 06:05 | India | Vehicles FC vs Pillanna Garden | **0 - 1** | `1st half` | Unknown 11'(A) |
+| 06:10 | India | CFCI U19 vs Somaiya FC | **0 - 1** | `1st half` | Unknown 12'(A) |
+| 06:00 | Indonesia | Persiyali Yalimo vs Pamek | **0 - 0** | `1st half` | --- |
