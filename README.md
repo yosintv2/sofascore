@@ -2,22 +2,22 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 14:00 | India | Mumbai City FC vs Chennaiyin FC | **1 - 0** | `2nd half` | Pritam Kotal 49'(H) |
-| 14:00 | World | FC Sogdiana Jizzakh vs Fakel Voronezh | **0 - 0** | `2nd half` | --- |
-| 14:00 | World | Inhulets Petrove vs FC Uzhhorod | **1 - 1** | `2nd half` | Unknown 56'(A), Unknown 45'(H) |
-| 14:00 | World | Shinnik Yaroslavl vs FC Kyrgyzaltyn | **1 - 0** | `2nd half` | Unknown 71'(H) |
-| 14:00 | World | Ulytau FC vs FC Samgurali Tskhaltubo | **1 - 1** | `2nd half` | Unknown 33'(A), Unknown 18'(H) |
-| 15:00 | World | Sarpsborg 08 vs FC Zbrojovka Brno | **1 - 0** | `1st half` | Sigurd Rosted 5'(H) |
-| 14:00 | World | Andorra U18 vs Malta U18 | **1 - 2** | `2nd half` | Unknown 45'(H), Unknown 32'(A), Unknown 8'(A) |
-| 14:00 | World | Molde vs Boston Legacy FC | **0 - 5** | `2nd half` | Unknown 57'(A), Unknown 50'(A), Unknown 47'(A), Unknown 17'(A), Unknown 7'(A) |
-| 15:00 | Angola | Atlético Petróleos de Luanda vs Desportivo da Huíla | **1 - 0** | `1st half` | Kinito 16'(H) |
-| 14:30 | Bulgaria Amateur | FC Slivnishki Geroy Slivnitsa U15 vs FK Park U15 | **0 - 0** | `Started` | --- |
-| 14:30 | Bulgaria Amateur | FK Karev U15 vs FK Hebar Pazardzhik U15 | **0 - 0** | `Started` | --- |
-| 13:00 | DR Congo | AS Simba vs FC Tanganyika | **2 - 2** | `2nd half` | Unknown 90'(H), Unknown 90'(H), Unknown 80'(A), Milongo Albert 13'(A) |
+| 15:00 | World | Sarpsborg 08 vs FC Zbrojovka Brno | **2 - 0** | `2nd half` | Unknown 54'(A), Sigurd Rosted 5'(H) |
+| 16:00 | World | Frem vs FC Roskilde | **0 - 1** | `1st half` | Unknown 13'(A) |
+| 15:00 | Angola | Atlético Petróleos de Luanda vs Desportivo da Huíla | **1 - 0** | `2nd half` | Kinito 16'(H) |
+| 16:00 | Bulgaria Amateur | FC Rilski Sportist Samokov U15 vs FC Maritsa 1921 Plovdiv U15 | **0 - 0** | `Started` | --- |
+| 16:00 | Gambia | Elite United FC vs Unique Global FC | **1 - 0** | `1st half` | Unknown 14'(H), Unknown 10'(H) |
+| 16:00 | Gambia | Gambia Armed Forces vs FC Wagadou | **0 - 0** | `1st half` | --- |
+| 16:00 | Gambia | Serekunda FC vs Marimoo Pakfood FC | **0 - 0** | `1st half` | --- |
 | 15:00 | Ghana | Pride SA vs FC Rising Talent | **0 - 0** | `Started` | --- |
-| 14:00 | Greece Amateur | GS Ergotelis Irakliou Kritis vs AO Anthestion Thrapsanou | **2 - 1** | `2nd half` | Unknown 46'(A), Unknown 38'(H), Unknown 26'(H) |
-| 13:00 | Greece Amateur | AO Achilleas Nymfon vs AE Lefkimmis | **1 - 2** | `Started` | Christos Tsiavos 90'(A), Akis Giannoulis 90'(A), Unknown 90'(H) |
-| 13:30 | Greece Amateur | A S. Falaniakos vs A.O. Damasiou Damasiakos | **0 - 0** | `Started` | --- |
+| 16:00 | Greece Amateur | Aias Paralias vs AO Asteras Magoulas | **0 - 0** | `Started` | --- |
+| 15:30 | Iran | Arka Alborz vs Ferdowsi Samen | **0 - 0** | `1st half` | --- |
+| 15:50 | Israel | Hapoel Jerusalem vs MS Kiryat Gat | **0 - 0** | `1st half` | --- |
+| 16:00 | Israel | Maccabi Holon FC vs Maccabi Hadera | **0 - 0** | `1st half` | --- |
+| 16:00 | Israel | Tel Aviv University vs Maccabi Panterot Ashdod | **0 - 0** | `1st half` | --- |
+| 16:00 | Israel | WFC Ramat Hasharon vs Hapoel Raanana | **0 - 0** | `1st half` | --- |
+| 16:00 | Israel | SC Dimona vs FC Tzeirey Tira | **0 - 0** | `1st half` | --- |
+| 16:00 | Israel | Sport Club Ramla vs Bney Eilat | **1 - 1** | `1st half` | Unknown 10'(H), Unknown 2'(A) |
 | 14:30 | Italy Amateur | A.C. Scillese 2012 vs F.C. Mamerto | **0 - 0** | `Started` | --- |
 | 14:00 | Italy Amateur | A.S.D. Novoli vs ASD Taurisano 1939 | **0 - 0** | `Started` | --- |
 | 14:00 | Italy Amateur | ASD Atletico Acquaviva vs Virtus Mola Calcio | **0 - 0** | `Started` | --- |
@@ -25,10 +25,13 @@
 | 14:00 | Italy Amateur | USD Brilla Campi vs Bitonto Calcio 1921 | **0 - 0** | `Started` | --- |
 | 14:00 | Italy Amateur | Ugento vs ASD Galatina Calcio | **0 - 0** | `Started` | --- |
 | 15:00 | Italy Amateur | Canosa Calcio vs ASD Unione Calcio Bisceglie | **1 - 0** | `Started` | Unknown 24'(H) |
-| 15:00 | Italy Amateur | SSD Massafra 1963 vs Gallipoli | **1 - 0** | `1st half` | Unknown 2'(H) |
+| 15:00 | Italy Amateur | SSD Massafra 1963 vs Gallipoli | **2 - 0** | `2nd half` | Unknown 47'(H), Unknown 2'(H) |
+| 16:00 | Liberia | Pags FC vs District 17 FC | **0 - 1** | `1st half` | Unknown 10'(A) |
+| 16:00 | Liberia | Samira FC vs Gedeh FC | **1 - 0** | `1st half` | Unknown 6'(H) |
+| 16:00 | Mali | Usfas Bamako vs Stade Malien | **0 - 0** | `1st half` | --- |
 | 15:00 | Morocco Amateur | AS Ben Smim vs Widad Zouagha | **0 - 0** | `Started` | --- |
-| 15:05 | Nigeria | Zeus FC vs La Planet Fc | **0 - 0** | `1st half` | --- |
-| 14:00 | Philippines | Philippines Luzviminda Pearl vs Philippines Isla-Rise | **3 - 0** | `Halftime` | Magting Salonga 45'(H), Fredson Carvalho 34'(H), Fredson Carvalho 14'(H) |
-| 15:00 | Portugal | Estrela Amadora U23 vs Marítimo U23 | **0 - 0** | `1st half` | --- |
-| 15:00 | Portugal | Rio Ave U23 vs UD Leiria U23 | **0 - 0** | `1st half` | --- |
-| 13:30 | South Sudan | Olympic Renk vs Jamus SSC | **0 - 4** | `2nd half` | Unknown 84'(A), Unknown 65'(A), Unknown 56'(A), Unknown 19'(A) |
+| 15:05 | Nigeria | Zeus FC vs La Planet Fc | **1 - 0** | `Halftime` | Atolagbe Emmanuel Oluwatunmise 13'(H) |
+| 14:00 | Philippines | Philippines Luzviminda Pearl vs Philippines Isla-Rise | **3 - 0** | `2nd half` | Magting Salonga 45'(H), Fredson Carvalho 34'(H), Fredson Carvalho 14'(H) |
+| 15:00 | Portugal | Estrela Amadora U23 vs Marítimo U23 | **0 - 0** | `2nd half` | --- |
+| 15:00 | Portugal | Rio Ave U23 vs UD Leiria U23 | **1 - 0** | `2nd half` | Eduardo Barros Dudu 33'(H) |
+| 15:30 | Romania | FC Voluntari vs Steaua București | **1 - 0** | `1st half` | Ion Gheorghe 17'(H) |
