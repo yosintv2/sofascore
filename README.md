@@ -2,14 +2,18 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 06:50 | World | Nomads United AFC vs Christchurch United | **2 - 1** | `2nd half` | Unknown 64'(H), Unknown 35'(H), Unknown 32'(A) |
-| 07:30 | World | FC Minsk U19 vs Kazakhstan U17 | **0 - 1** | `1st half` | Unknown 21'(A) |
-| 07:45 | Asia | Macarthur FC vs True Bangkok United | **0 - 1** | `1st half` | Muhsen Al Ghassani 2'(A) |
-| 07:00 | Australia | Kahibah FC Reserve vs Lambton Jaffas Reserve | **0 - 2** | `2nd half` | Unknown 45'(A), Unknown 33'(A) |
-| 07:00 | Bulgaria Amateur | FC United Plovdiv U15 vs Lokomotiv Sofia U15 | **1 - 0** | `Started` | Unknown 40'(H) |
-| 07:00 | Bulgaria Amateur | FS Grozdanoski U15 vs PFC Septemvri Sofia U15 | **0 - 1** | `Started` | Unknown 38'(A) |
-| 07:00 | Bulgaria Amateur | FK Park U15 vs DIT Sofia U15 | **0 - 2** | `Started` | Unknown 40'(A), Unknown 27'(A) |
-| 06:25 | India | Juba Sangha vs Delhi Young Boys | **7 - 1** | `2nd half` | Unknown 76'(H), Unknown 75'(H), Unknown 59'(A), Unknown 48'(H), Unknown 39'(H), Unknown 21'(H), Unknown 15'(H), Unknown 10'(H) |
-| 06:10 | India | CFCI U19 vs Somaiya FC | **0 - 7** | `2nd half` | Unknown 89'(A), Unknown 86'(A), Unknown 85'(A), Unknown 62'(A), Unknown 60'(A), Unknown 45'(A), Unknown 12'(A) |
-| 07:00 | India Amateur | Electric Veng FC vs Lunglawn | **1 - 0** | `Halftime` | Unknown 8'(H) |
-| 08:00 | India Amateur | Bangalore Eagles FC vs AGORC FC | **0 - 0** | `Started` | --- |
+| 08:00 | World | Pari Nizhny Novgorod vs Kairat Almaty | **2 - 1** | `Halftime` | Renaldo Cephas 43'(H), Unknown 30'(A), Vyacheslav Grulev 10'(H) |
+| 08:30 | World | KAMAZ Naberezhnye Chelny vs FK Zhenys | **0 - 0** | `1st half` | --- |
+| 08:30 | World | Shinnik Yaroslavl vs FC Dordoi Bishkek | **1 - 0** | `1st half` | Artur Galoyan 19'(H) |
+| 08:30 | World | WIT Georgia vs Merani Tbilisi | **0 - 0** | `1st half` | --- |
+| 07:30 | World | FC Minsk U19 vs Kazakhstan U17 | **1 - 3** | `2nd half` | Unknown 59'(H), Unknown 56'(A), Unknown 49'(A), Unknown 21'(A) |
+| 07:45 | Asia | Macarthur FC vs True Bangkok United | **1 - 2** | `2nd half` | Walter Scott 41'(H), Muhsen Al Ghassani 33'(A), Muhsen Al Ghassani 2'(A) |
+| 08:30 | Australia | South Melbourne FC vs Hume City FC | **0 - 1** | `1st half` | Steve Whyte 27'(A) |
+| 08:45 | Bangladesh | City Club Dhaka vs Dhaka Wanderers Club | **0 - 0** | `1st half` | --- |
+| 08:45 | Bangladesh | Dhaka Rangers FC vs Wari Club | **0 - 0** | `Started` | --- |
+| 08:45 | Bangladesh | Shuktara JS vs Little Friends Club | **0 - 0** | `1st half` | --- |
+| 08:30 | Bulgaria Amateur | FK Hebar Pazardzhik U15 vs FC Sportist 13 Sofia U15 | **0 - 0** | `Started` | --- |
+| 08:30 | Bulgaria Amateur | FC Maritsa 1921 Plovdiv U15 vs APR Lampart Poznań U15 | **0 - 0** | `Started` | --- |
+| 08:30 | India | Pifa FC vs Iron Born | **1 - 0** | `1st half` | Unknown 33'(H) |
+| 08:00 | India Amateur | Bangalore Eagles FC vs AGORC FC | **0 - 0** | `1st half` | --- |
+| 08:30 | Turkey Amateur | Trabzon Fatih Gençlikspor vs Zafanoz Kavalaspor | **0 - 0** | `Started` | --- |
