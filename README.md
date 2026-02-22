@@ -2,17 +2,20 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 07:00 | Australia | Newcastle Jets vs Macarthur FC | **0 - 0** | `Halftime` | --- |
-| 07:00 | Australia | Brisbane Roar vs Adelaide United | **0 - 1** | `Halftime` | Emily Hodgson 11'(A) |
-| 06:00 | Australia | Sydney Olympic vs St George City FA | **2 - 0** | `Halftime` | Unknown 40'(H), Unknown 7'(H) |
-| 06:00 | Australia | Sydney United 58 vs Western Sydney Wanderers Academy Youth | **3 - 2** | `2nd half` | Unknown 79'(A), Unknown 74'(H), Unknown 56'(A), Unknown 31'(H), Unknown 25'(H) |
-| 06:00 | Australia | Central Coast Mariners U20 vs Dulwich Hill U20 | **1 - 1** | `2nd half` | Unknown 49'(A), Unknown 27'(H) |
-| 08:00 | Croatia Amateur | NK Prigorje Žerjavinec U9 vs NK ŠN M-M U9 | **0 - 0** | `1st half` | --- |
-| 07:00 | Hong Kong | Southern District FC vs Hong Kong FC | **0 - 1** | `Halftime` | Leonardo Montesinos 21'(A) |
-| 06:00 | Indonesia | Persikimo Yahukimo vs Persigubin Pegunungan Bintang | **0 - 0** | `2nd half` | --- |
-| 06:00 | Japan | Cerezo Osaka vs Sanfrecce Hiroshima | **1 - 1** | `2nd half` | Solomon Sakuragawa 90'(H), Ryo Germain 55'(A) |
-| 06:30 | Nepal | Nepal Police Club vs Nawa Jana Jagriti Yuwa Club | **1 - 1** | `2nd half` | Unknown 43'(H), Unknown 30'(A) |
-| 06:00 | South Sudan | Wajuma FC vs Atlabara FC | **1 - 2** | `2nd half` | Unknown 86'(H), Unknown 75'(A), Unknown 30'(A) |
-| 08:00 | Turkey | Kayserispor U19 vs Antalyaspor U19 | **0 - 0** | `1st half` | --- |
-| 07:00 | Uganda | Asubo Gafford Ladies FC vs SHE Corporate FC | **0 - 1** | `Halftime` | Unknown 21'(A) |
-| 07:00 | Uganda | Kampala Queens FC vs Rine SS WFC | **1 - 0** | `Halftime` | Unknown 45'(H) |
+| 07:00 | Australia | Newcastle Jets vs Macarthur FC | **1 - 0** | `2nd half` | Lachlan Bayliss 54'(H) |
+| 07:00 | Australia | Brisbane Roar vs Adelaide United | **0 - 2** | `2nd half` | Ella Tonkin 78'(A), Emily Hodgson 11'(A) |
+| 08:00 | Oceania | Solomon Kings FC vs PNG Hekari FC | **1 - 0** | `1st half` | Sota Higashide 13'(H) |
+| 06:00 | Australia | Sydney Olympic vs St George City FA | **2 - 2** | `2nd half` | Solomon-John Monahan-Vaiika 77'(A), Brae Ovens 75'(A), Unknown 40'(H), Unknown 7'(H) |
+| 08:00 | Australia | Sydney United U20 vs Western Sydney Wanderers U20 | **0 - 0** | `1st half` | --- |
+| 08:00 | Australia | Charlestown Azzurri FC Reserves vs Adamstown Rosebud Reserves | **0 - 0** | `1st half` | --- |
+| 08:15 | Australia | Cooks Hill United Reserves vs Maitland Reserve | **2 - 0** | `1st half` | Unknown 17'(H), Unknown 3'(H) |
+| 08:00 | Azerbaijan | Dirçəliş FK vs Cəngi FK | **0 - 0** | `Started` | --- |
+| 08:30 | Croatia Amateur | NK Donja Zelina U9 vs NK Kašina U9 | **0 - 0** | `1st half` | --- |
+| 08:30 | Croatia Amateur | NK Zelengaj 1948 U9 vs NK Zelina U9 | **0 - 0** | `1st half` | --- |
+| 07:00 | Hong Kong | Southern District FC vs Hong Kong FC | **1 - 1** | `2nd half` | Yun-Tung Chan 66'(H), Leonardo Montesinos 21'(A) |
+| 08:00 | Philippines | Philippine Army vs Stallion Laguna | **0 - 2** | `1st half` | Griffin McDaniel 24'(A), Griffin McDaniel 3'(A) |
+| 08:00 | South Africa | Marumo Gallants Reserves U23 vs Lamontville Golden Arrows Reserves U23 | **1 - 1** | `1st half` | Unknown 32'(A), Unknown 5'(H) |
+| 08:00 | Turkey | Kayserispor U19 vs Antalyaspor U19 | **0 - 1** | `1st half` | Unknown 1'(A) |
+| 08:00 | Turkey Amateur | Ankara TKİ vs Gölbaşı Belediyespor | **0 - 0** | `Started` | --- |
+| 07:00 | Uganda | Asubo Gafford Ladies FC vs SHE Corporate FC | **0 - 3** | `2nd half` | Unknown 74'(A), Unknown 51'(A), Unknown 21'(A) |
+| 07:00 | Uganda | Kampala Queens FC vs Rine SS WFC | **2 - 2** | `2nd half` | Unknown 81'(H), Unknown 61'(A), Unknown 56'(A), Unknown 45'(H) |
