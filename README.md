@@ -2,25 +2,30 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 10:30 | Turkey | Sarıyer vs Adana Demirspor | **4 - 0** | `2nd half` | Batuhan Kör 30'(H), Marcos Silva 21'(H), Cebrail Karayel 9'(H), Enver Kulašin 7'(H) |
-| 10:30 | Turkey | Sivasspor vs Sakaryaspor | **3 - 1** | `2nd half` | Salih Dursun 26'(A), Valon Ethemi 20'(H), Okan Erdoğan 16'(H), Valon Ethemi 6'(H) |
-| 10:30 | World | FC Astrakhan vs SKA-Khabarovsk-2 | **1 - 1** | `2nd half` | Unknown 40'(A), Unknown 28'(H) |
-| 10:30 | World | Jaguars Umauahia Youth vs Abia Warriors Youth | **1 - 2** | `2nd half` | --- |
-| 10:30 | World | Polissya Zhytomyr vs Chornomorets Odesa | **1 - 2** | `2nd half` | Vladyslav Herych 38'(A), Vladyslav Herych 34'(A), Oleksandr Filippov 26'(H) |
-| 11:10 | World | FC Bunyodkor vs PFC Shurtan | **0 - 0** | `1st half` | --- |
-| 11:40 | World | Kazakhstan U17 vs Uzbekistan U17 | **0 - 0** | `1st half` | --- |
-| 10:00 | Italy | Roma U18 vs Cremonese U18 | **3 - 0** | `Started` | Unknown 64'(H), Unknown 45'(H), Unknown 44'(H) |
-| 10:30 | Azerbaijan | Araz Saatlı FK vs Şirvan FK | **1 - 1** | `2nd half` | Unknown 42'(A), Unknown 29'(H) |
-| 10:30 | Azerbaijan | Ağdaş FK vs Ağstafa Gəncləri | **0 - 1** | `2nd half` | Unknown 27'(A) |
-| 10:30 | Azerbaijan | Göygöl FK vs Quba PFK | **0 - 1** | `2nd half` | Unknown 57'(A) |
-| 10:30 | Azerbaijan | Kür-Araz FK vs Dinamo Bakı FK | **1 - 2** | `2nd half` | Unknown 36'(A), Unknown 22'(H), Unknown 7'(A) |
-| 10:00 | Azerbaijan | FK Kapaz II vs Sabah II | **1 - 1** | `2nd half` | Unknown 24'(H), Unknown 22'(A) |
-| 10:00 | Azerbaijan | Sumqayıt FK II vs Turan Tovuz II | **0 - 2** | `2nd half` | Unknown 40'(A), İsmayıl İsmayılov 7'(A) |
-| 10:00 | Azerbaijan | Şamaxı FK II vs Araz-Naxcıvan II | **4 - 3** | `2nd half` | Unknown 66'(A), İftixar İbrahimov 62'(A), Unknown 59'(H), Unknown 55'(H), Unknown 33'(H), Unknown 26'(A) |
-| 10:30 | Azerbaijan | Zirə FK II vs Qarabağ II | **1 - 0** | `2nd half` | Murad Alakbarov 23'(H) |
-| 10:15 | India | Infinite Belagavi City vs Karnataka State Police | **1 - 0** | `2nd half` | --- |
-| 10:00 | India | Millat FC vs Pifa FC | **2 - 0** | `2nd half` | Unknown 50'(H), Unknown 14'(H) |
-| 10:15 | Nepal | Sankata Club vs Planning Boys United | **0 - 3** | `2nd half` | Unknown 82'(A), Unknown 31'(A), Unknown 19'(A) |
-| 11:00 | Paraguay | Sportivo Luqueño vs Guaraní | **3 - 1** | `Halftime` | Sebastián Quintana 39'(H), Sebastián Quintana 21'(H), Matías López 13'(A), Iván Maggi 11'(H) |
-| 10:30 | Paraguay | Sportivo Luqueño Reserve vs Guaraní Reserve | **3 - 1** | `Halftime` | --- |
-| 10:30 | Turkey Amateur | Pelitli 1961 Spor vs Trabzon İdmangücü | **0 - 0** | `Started` | --- |
+| 13:00 | Turkey | Pendikspor vs Keçiörengücü | **0 - 0** | `1st half` | --- |
+| 12:00 | World | Dynamo Bryansk vs FC Murom | **0 - 0** | `2nd half` | --- |
+| 13:00 | World | FC Spartak Moscow vs Yelimay Semey | **0 - 0** | `1st half` | --- |
+| 11:40 | World | Kazakhstan U17 vs Uzbekistan U17 | **2 - 1** | `2nd half` | Unknown 59'(A), Meirlan Baltabayev 46'(H), Unknown 24'(H) |
+| 13:00 | Africa | Namibia vs Madagascar | **0 - 0** | `1st half` | --- |
+| 13:00 | Albania | FK Shënkolli vs Kamza Sport | **0 - 0** | `Started` | --- |
+| 13:00 | England Amateur | Bournemouth U21 vs Millwall U21 | **0 - 0** | `1st half` | --- |
+| 13:00 | England Amateur | Crewe Alexandra U21 vs Peterborough United U21 | **0 - 0** | `1st half` | --- |
+| 12:00 | Ethiopia | Ethiopia Nigd Bank vs Sheger Ketema | **2 - 0** | `Halftime` | Unknown 45'(H), Unknown 2'(H) |
+| 12:00 | Kosovo | KF Drenica vs KF Prishtina E Re | **0 - 1** | `2nd half` | Lorik Dobratiqi 41'(A) |
+| 12:00 | Kosovo | KF Tefik Çanga vs KF Trepça '89 | **0 - 0** | `2nd half` | --- |
+| 13:00 | North Macedonia | Makedonija Gjorce Petrov vs Tikveš Kavadarci | **0 - 0** | `1st half` | --- |
+| 13:30 | Rwanda | Gasogi United FC vs Amagaju | **0 - 0** | `1st half` | --- |
+| 13:00 | Rwanda | Gasogi United FC vs Amagaju | **0 - 0** | `1st half` | --- |
+| 12:00 | Serbia | RFK Grafičar Beograd vs FK FAP Priboj | **0 - 1** | `2nd half` | Milan Mirosavljev 24'(A) |
+| 12:30 | Singapore | Hougang United vs Tanjong Pagar United | **2 - 0** | `1st half` | Jaushua Sotirio 32'(H), Settawut Wongsai 26'(H) |
+| 12:00 | Slovenia | NK Krka U19 vs NK Brinje Grosuplje U19 | **0 - 1** | `2nd half` | Unknown 43'(A) |
+| 13:00 | Slovenia | NK Bravo U19 vs NK Aluminij U19 | **0 - 0** | `1st half` | --- |
+| 13:00 | Slovenia | NK Brežice 1919 U19 vs NK Rudar Velenje U19 | **0 - 0** | `1st half` | --- |
+| 12:00 | Syria | Al-Hyjaneh SC vs Al Sahel SC | **0 - 1** | `Started` | Unknown -1'(A) |
+| 12:00 | Syria | Al-Nabek vs Al-Shorta Hama | **0 - 1** | `Started` | Unknown -1'(A) |
+| 12:00 | Syria | Afrin SC vs Binnish SC | **3 - 1** | `2nd half` | Unknown 43'(A), Unknown 38'(H), Unknown 27'(H), Unknown 15'(H) |
+| 12:00 | Syria | Khattab vs Al Nairab Sport | **2 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H) |
+| 12:00 | Tunisia | Espoir Sportif Sidi Ali Ben Aoun vs Jeunesse Sportive Majel Bel-Abbès | **0 - 1** | `Started` | Unknown -1'(A) |
+| 12:00 | Tunisia | Lassouda Sportive Sidi Bouzid vs Envoi Sportif Regueb | **0 - 2** | `Started` | Unknown -1'(A), Unknown -1'(A) |
+| 12:00 | Turkey Amateur | Diyarin-Ter SF vs Diyarbakır Gökkuşağıspor | **1 - 0** | `Started` | Unknown -1'(H) |
+| 12:00 | Ukraine | FK Kudrivka U19 vs Zorya Luhansk U19 | **1 - 0** | `2nd half` | Unknown 14'(H) |
