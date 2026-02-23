@@ -2,20 +2,16 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 21:00 | Colombia | Cúcuta Deportivo vs Deportes Tolima | **3 - 2** | `2nd half` | Luifer Hernández 57'(H), Jhon Quiñónes 49'(H), Kelvin Florez 38'(A), Luifer Hernández 28'(H), Kelvin Florez 15'(A) |
-| 21:00 | North & Central America | Puerto Rico U20 vs Saint Kitts and Nevis U20 | **2 - 0** | `2nd half` | Isaiah Vicentti 40'(H), Isaiah Vicentti 14'(H) |
-| 22:00 | Brazil | Cruzeiro vs Santos | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | Forte FC vs Vitória-ES | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | Monsoon vs EC Avenida | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | Flamengo U20 vs Vasco da Gama U20 | **0 - 1** | `1st half` | Lukas Zuccarello 27'(A) |
-| 21:00 | Chile | Cobreloa vs Deportes Temuco | **3 - 1** | `2nd half` | Gustavo Gotti 42'(H), Sebastián Zuñiga 38'(H), Tomás Aránguiz 35'(H), Maximiliano Cuadra 13'(A) |
-| 20:30 | Cuba | Manchester Pinar vs FC Maica | **0 - 4** | `2nd half` | Jose Carlos Friol 69'(A), Jose Carlos Friol 53'(A), Hirán David Prieto 13'(A), Jose Carlos Friol 4'(A) |
-| 21:00 | El Salvador | Zacatecoluca FC vs Fuerte San Francisco | **4 - 1** | `2nd half` | Unknown 73'(A), Unknown 72'(H), Unknown 65'(H), Unknown 33'(H), Unknown 13'(H) |
-| 22:00 | Jamaica | Racing United FC vs Chapelton Maroons FC | **1 - 0** | `1st half` | Unknown 29'(H) |
-| 21:00 | Libya | Al Ittihad SC vs Al Majd Tripoli SCS | **2 - 0** | `2nd half` | Unknown -1'(H), Unknown -1'(H), Ahmed Al Bizi 5'(H) |
-| 21:00 | Libya | Al Tersana Tripoli vs Elettihad Almisraty SC | **1 - 1** | `2nd half` | Kaporal 62'(A), Bashar Al Shobaki 4'(H) |
-| 20:30 | Libya | Al Wefaq Ajdabiya vs Andalus FC | **1 - 0** | `2nd half` | Innocent Nshuti 45'(H) |
-| 22:00 | Morocco | USS Berkane vs AS Chabab Tarrast | **-1 - 0** | `1st half` | --- |
-| 21:00 | Morocco Amateur | Zemamra Espoir vs Youssoufia Rabat | **0 - 0** | `Started` | --- |
+| 23:00 | North & Central America | Suriname U20 vs Belize U20 | **1 - 1** | `1st half` | Unknown 4'(A) |
+| 22:00 | Brazil | Cruzeiro vs Santos | **0 - 0** | `2nd half` | --- |
+| 23:00 | Brazil | Rio Branco-AC vs Santa Cruz-AC | **0 - 0** | `1st half` | --- |
+| 23:00 | Brazil | Ypiranga-AP vs Santos-AP | **0 - 0** | `1st half` | --- |
+| 22:00 | Brazil | Forte FC vs Vitória-ES | **0 - 0** | `2nd half` | --- |
+| 23:00 | Brazil | Sampaio Corrêa-RJ vs Nova Iguaçu | **0 - 1** | `1st half` | Lucas Cruz 10'(A) |
+| 22:00 | Brazil | Monsoon vs EC Avenida | **0 - 0** | `2nd half` | --- |
+| 22:00 | Brazil | Flamengo U20 vs Vasco da Gama U20 | **0 - 3** | `2nd half` | Andrey Fernandes de Oliveira Nunes 55'(A), Gustavo Guimarães Soares 41'(A), Lukas Zuccarello 27'(A) |
+| 22:00 | Jamaica | Racing United FC vs Chapelton Maroons FC | **1 - 0** | `2nd half` | Unknown 29'(H) |
+| 22:00 | Morocco | USS Berkane vs AS Chabab Tarrast | **-1 - 0** | `2nd half` | --- |
 | 21:00 | Portugal Amateur | AEISEG vs AEFML | **0 - 0** | `Started` | --- |
-| 21:30 | Venezuela | Zamora vs Deportivo La Guaira | **0 - 1** | `Halftime` | José Alí Meza 5'(A) |
+| 21:30 | Venezuela | Zamora vs Deportivo La Guaira | **1 - 1** | `2nd half` | Erickson Gallardo 85'(H), José Alí Meza 5'(A) |
+| 22:30 | Venezuela | Anzoátegui FC vs Estudiantes de Mérida | **0 - 2** | `1st half` | Kevin Quejada 36'(A), Andrés Montero 27'(A) |
