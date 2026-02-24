@@ -2,12 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 00:30 | Ecuador | Libertad vs Manta FC | **0 - 0** | `1st half` | --- |
-| 00:00 | North & Central America | Jamaica U20 vs Bonaire U20 | **2 - 0** | `Halftime` | Unknown 43'(H), Claver Nugent 25'(H) |
-| 00:00 | Brazil | São Paulo vs EC Bahia | **1 - 1** | `Halftime` | Cássia 25'(A), Giovanna Crivelari 13'(H) |
-| 23:00 | Brazil | Ypiranga-AP vs Santos-AP | **2 - 3** | `2nd half` | Daniel Pereira 79'(H), Fafa Hissendjy 75'(A), Unknown 61'(A), Unknown 53'(H), Unknown 42'(A) |
-| 23:00 | Brazil | Sampaio Corrêa-RJ vs Nova Iguaçu | **1 - 1** | `2nd half` | Octávio 58'(H), Lucas Cruz 10'(A) |
-| 00:30 | Brazil | Palmeiras U20 vs São Paulo U20 | **0 - 0** | `1st half` | --- |
-| 23:30 | Chile | Curicó Unido vs Deportes Magallanes | **1 - 2** | `2nd half` | Cristóbal Jorquera 47'(A), Matías Fredes 45'(A), Leandro Benegas 41'(H) |
-| 00:00 | Colombia | Independiente Yumbo vs Real Santander | **0 - 0** | `Halftime` | --- |
-| 00:30 | Jamaica | Arnett Gardens vs Spanish Town Police FC | **0 - 0** | `1st half` | --- |
+| 02:00 | North & Central America | El Salvador U20 vs French Guiana U20 | **3 - 0** | `2nd half` | Luis Tobar 64'(H), Luis Tobar 41'(H), Johann Ortiz 11'(H) |
+| 02:15 | Colombia Amateur | Niquia La 60 vs San Rafael | **2 - 0** | `2nd half` | Unknown 35'(H), Unknown 22'(H) |
+| 02:30 | India | Sreenidi Deccan FC U21 vs Sudeva Delhi FC U21 | **1 - 3** | `Halftime` | Unknown 31'(A), Unknown 29'(A), Unknown 16'(H), Unknown 7'(A) |
+| 02:00 | Nicaragua | Rancho Santana FC vs Real Madriz | **2 - 1** | `2nd half` | Unknown 66'(H), Edwin Castro 60'(A), Taufic Guarch 44'(H) |
