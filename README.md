@@ -2,15 +2,12 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | North & Central America | Suriname U20 vs Belize U20 | **5 - 2** | `Halftime` | Unknown 37'(H), Tyrone Linares 33'(A), Unknown 32'(H), Unknown 26'(H), Unknown 24'(H), Unknown 17'(H), Devin Garbutt 4'(A) |
-| 22:00 | Brazil | Cruzeiro vs Santos | **1 - 1** | `2nd half` | Gaby Soares 81'(H), Carol Baiana 74'(A) |
-| 23:00 | Brazil | Rio Branco-AC vs Santa Cruz-AC | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | Ypiranga-AP vs Santos-AP | **0 - 1** | `1st half` | Unknown 42'(A) |
-| 22:00 | Brazil | Forte FC vs Vitória-ES | **1 - 1** | `2nd half` | Carlos Vitor 83'(A), Unknown 74'(H) |
-| 23:00 | Brazil | Sampaio Corrêa-RJ vs Nova Iguaçu | **0 - 1** | `1st half` | Lucas Cruz 10'(A) |
-| 22:00 | Brazil | Monsoon vs EC Avenida | **1 - 1** | `2nd half` | Adryel 85'(A), Jonathan Cabeça 66'(H) |
-| 22:00 | Brazil | Flamengo U20 vs Vasco da Gama U20 | **1 - 3** | `2nd half` | Alan Santos 82'(H), Andrey Fernandes de Oliveira Nunes 55'(A), Gustavo Guimarães Soares 41'(A), Lukas Zuccarello 27'(A) |
-| 23:30 | Chile | Curicó Unido vs Deportes Magallanes | **0 - 0** | `1st half` | --- |
-| 22:00 | Jamaica | Racing United FC vs Chapelton Maroons FC | **2 - 0** | `2nd half` | Unknown 70'(H), Unknown 29'(H) |
-| 22:00 | Morocco | USS Berkane vs AS Chabab Tarrast | **1 - 0** | `2nd half` | Unknown 48'(H) |
-| 22:30 | Venezuela | Anzoátegui FC vs Estudiantes de Mérida | **0 - 2** | `2nd half` | Kevin Quejada 36'(A), Andrés Montero 27'(A) |
+| 00:30 | Ecuador | Libertad vs Manta FC | **0 - 0** | `1st half` | --- |
+| 00:00 | North & Central America | Jamaica U20 vs Bonaire U20 | **2 - 0** | `Halftime` | Unknown 43'(H), Claver Nugent 25'(H) |
+| 00:00 | Brazil | São Paulo vs EC Bahia | **1 - 1** | `Halftime` | Cássia 25'(A), Giovanna Crivelari 13'(H) |
+| 23:00 | Brazil | Ypiranga-AP vs Santos-AP | **2 - 3** | `2nd half` | Daniel Pereira 79'(H), Fafa Hissendjy 75'(A), Unknown 61'(A), Unknown 53'(H), Unknown 42'(A) |
+| 23:00 | Brazil | Sampaio Corrêa-RJ vs Nova Iguaçu | **1 - 1** | `2nd half` | Octávio 58'(H), Lucas Cruz 10'(A) |
+| 00:30 | Brazil | Palmeiras U20 vs São Paulo U20 | **0 - 0** | `1st half` | --- |
+| 23:30 | Chile | Curicó Unido vs Deportes Magallanes | **1 - 2** | `2nd half` | Cristóbal Jorquera 47'(A), Matías Fredes 45'(A), Leandro Benegas 41'(H) |
+| 00:00 | Colombia | Independiente Yumbo vs Real Santander | **0 - 0** | `Halftime` | --- |
+| 00:30 | Jamaica | Arnett Gardens vs Spanish Town Police FC | **0 - 0** | `1st half` | --- |
