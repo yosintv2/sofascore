@@ -2,6 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 04:00 | Oceania | Vanuatu United FC vs Solomon Kings FC | **3 - 0** | `2nd half` | Unknown 84'(H), Unknown 53'(H), Unknown 30'(H) |
-| 04:00 | India Amateur | Technico Football Foundation vs Snipers FC | **5 - 0** | `Started` | Unknown -1'(H), Unknown 55'(H), Unknown 44'(H), Unknown -1'(H), Unknown -1'(H) |
-| 04:00 | South Korea | Ulsan University vs Jeonju University | **5 - 0** | `2nd half` | Unknown 69'(H), Unknown 41'(H), Unknown 36'(H), Unknown 17'(H), Unknown 10'(H) |
+| 06:00 | World | Olimpik Mobiuz vs CSKA Dushanbe | **2 - 0** | `1st half` | Unknown 29'(H), Unknown 18'(H) |
+| 06:05 | World | FC Iveria Khashuri vs FC Samtskhe | **0 - 0** | `1st half` | --- |
+| 06:00 | India Amateur | BTM FC vs SRI Gajanana FC | **2 - 0** | `Started` | Puiringshang Khodang 30'(H), Puiringshang Khodang 21'(H) |
+| 06:00 | Indonesia | Lapago FC vs Pamek | **1 - 2** | `1st half` | Unknown 35'(A), Unknown 24'(A), Unknown 20'(H) |
