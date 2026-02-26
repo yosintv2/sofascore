@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-02-26 22:56:02 UTC"
+        "updated": "2026-02-26 23:28:52 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,12 @@
             "country": "South America",
             "home": "Guaran\u00ed",
             "away": "Juventud de Las Piedras",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Gaspar Servio 56'(H)",
+                "Federico Barrandeguy 50'(A)"
+            ]
         },
         {
             "start_time": "22:00",
@@ -20,9 +23,10 @@
             "country": "Brazil",
             "home": "Santos",
             "away": "Vasco da Gama",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Neymar 61'(H)",
                 "Cauan Barros 43'(A)",
                 "Neymar 25'(H)"
             ]
@@ -33,9 +37,11 @@
             "country": "North & Central America",
             "home": "US Virgin Islands U20",
             "away": "Canada U20",
-            "score": "0 - 9",
-            "minute": "Halftime",
+            "score": "0 - 11",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 69'(A)",
+                "Unknown 53'(A)",
                 "Unknown 45'(A)",
                 "Unknown 45'(A)",
                 "Unknown 42'(A)",
@@ -48,34 +54,16 @@
             ]
         },
         {
-            "start_time": "21:00",
-            "league": "Ligue 1",
-            "country": "Algeria",
-            "home": "CS Constantine",
-            "away": "CR Belouizdad",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "21:00",
-            "league": "Ligue 1",
-            "country": "Algeria",
-            "home": "MC Alger",
-            "away": "JS Kabylie",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
             "start_time": "22:30",
             "league": "Liga Profesional de F\u00fatbol, Apertura",
             "country": "Argentina",
             "home": "Estudiantes de R\u00edo Cuarto",
             "away": "Hurac\u00e1n",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Mateo Bajamich 32'(H)"
+            ]
         },
         {
             "start_time": "22:30",
@@ -83,11 +71,46 @@
             "country": "Argentina",
             "home": "River Plate",
             "away": "Banfield",
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Mauro M\u00e9ndez 45'(A)",
+                "Lucas Mart\u00ednez Quarta 13'(H)"
+            ]
+        },
+        {
+            "start_time": "23:00",
+            "league": "Copa Betano do Brasil",
+            "country": "Brazil",
+            "home": "Cear\u00e1",
+            "away": "EC Primavera",
             "score": "1 - 0",
             "minute": "1st half",
             "scorers": [
-                "Lucas Mart\u00ednez Quarta 13'(H)"
+                "Lucas Lima 11'(H)"
             ]
+        },
+        {
+            "start_time": "23:00",
+            "league": "Amapaz\u00e3o",
+            "country": "Brazil",
+            "home": "Trem",
+            "away": "Independente-AP",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 3'(H)"
+            ]
+        },
+        {
+            "start_time": "23:00",
+            "league": "Capixaba, S\u00e9rie A \u2013 Mata-mata",
+            "country": "Brazil",
+            "home": "Serra FC",
+            "away": "Real Noroeste",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "22:30",
@@ -95,9 +118,12 @@
             "country": "Brazil",
             "home": "Carlos Renaux SC",
             "away": "CN Marc\u00edlio Dias",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "2 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Erverson 45'(H)",
+                "Cassio 35'(H)"
+            ]
         },
         {
             "start_time": "22:00",
@@ -106,7 +132,7 @@
             "home": "Ferrovi\u00e1rio",
             "away": "Floresta",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -116,11 +142,21 @@
             "home": "SE Itapirense",
             "away": "Rio Claro FC",
             "score": "1 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Thauan 32'(H)",
                 "Andrey 3'(A)"
             ]
+        },
+        {
+            "start_time": "23:15",
+            "league": "Sergipano,  S\u00e9rie A1 \u2013 Mata-mata",
+            "country": "Brazil",
+            "home": "Am\u00e9rica-SE",
+            "away": "Sergipe",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "22:00",
@@ -129,124 +165,31 @@
             "home": "Boca Juniors de Cali",
             "away": "Barranquilla FC",
             "score": "0 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Jairo Torres 31'(A)",
                 "Jairo Torres 5'(A)"
             ]
         },
         {
-            "start_time": "21:00",
-            "league": "Copa Presidente, Group B",
-            "country": "El Salvador",
-            "home": "Fuerte San Francisco",
-            "away": "CD \u00c1guila",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 63'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Copa Presidente, Group B",
-            "country": "El Salvador",
-            "home": "Racing De Gualuca",
-            "away": "CD Dragon",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Copa Presidente, Group E",
-            "country": "El Salvador",
-            "home": "CD Fuerte Aguilares",
-            "away": "CD Hercules",
-            "score": "1 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 82'(A)",
-                "Unknown 56'(A)",
-                "Unknown 43'(A)",
-                "Unknown 19'(H)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Liga Guate Banrural, Clausura",
-            "country": "Guatemala",
-            "home": "Deportivo Mixco",
-            "away": "CD Mictl\u00e1n",
-            "score": "2 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Kennedy Rocha 89'(H)",
-                "Sebasti\u00e1n Col\u00f3n 67'(A)",
-                "Sebasti\u00e1n Col\u00f3n 56'(A)",
-                "Nicol\u00e1s Mart\u00ednez 4'(H)"
-            ]
-        },
-        {
-            "start_time": "20:30",
-            "league": "Campionato Milanese Universitario",
-            "country": "Italy Amateur",
-            "home": "Universit\u00e0 Vita-Salute San Raffaele",
-            "away": "Universit\u00e0 degli Studi di Milano-Bicocca",
-            "score": "0 - 1",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 6'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Premier League, Group 1",
-            "country": "Libya",
-            "home": "Abu Salim SC",
-            "away": "Al Qadisiyah Bani Walid",
+            "start_time": "23:15",
+            "league": "Liga Nacional, Clausura",
+            "country": "Honduras",
+            "home": "Lobos UPNFM",
+            "away": "Platense Futbol Club",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "21:00",
-            "league": "Premier League, Group 1",
-            "country": "Libya",
-            "home": "Al Khums SC",
-            "away": "Swehly SC",
-            "score": "0 - 4",
-            "minute": "2nd half",
-            "scorers": [
-                "Fily Traore 69'(A)",
-                "Fily Traore 63'(A)",
-                "Fily Traore 45'(A)",
-                "Fily Traore 3'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Premier League, Group 1",
-            "country": "Libya",
-            "home": "Al Watan",
-            "away": "Libyan Stadium",
+            "start_time": "23:00",
+            "league": "Liga Nacional de Ascenso",
+            "country": "Panama",
+            "home": "Alianza FC Panama Reserve",
+            "away": "Academia Costa Del Este",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": []
-        },
-        {
-            "start_time": "21:30",
-            "league": "Divisi\u00f3n de Honor, Apertura",
-            "country": "Paraguay",
-            "home": "Rubio \u00d1u",
-            "away": "Sportivo San Lorenzo",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Brian Blasi 12'(H)"
-            ]
         },
         {
             "start_time": "21:30",
@@ -267,6 +210,18 @@
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
+        },
+        {
+            "start_time": "23:00",
+            "league": "Liga AUF Uruguaya, Apertura",
+            "country": "Uruguay",
+            "home": "Montevideo City Torque",
+            "away": "Defensor Sporting",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Nahuel 10'(H)"
+            ]
         }
     ]
 }
