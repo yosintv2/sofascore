@@ -2,22 +2,21 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | South America | Guaraní vs Juventud de Las Piedras | **1 - 2** | `2nd half` | Ramiro Peralta 90'(A), Gaspar Servio 56'(H), Federico Barrandeguy 50'(A) |
-| 22:00 | Brazil | Santos vs Vasco da Gama | **2 - 1** | `2nd half` | Neymar 61'(H), Cauan Barros 43'(A), Neymar 25'(H) |
-| 23:00 | World | CD Colchagua vs Curicó Unido | **1 - 0** | `1st half` | Unknown 3'(H) |
-| 22:30 | Argentina | Estudiantes de Río Cuarto vs Huracán | **1 - 0** | `2nd half` | Mateo Bajamich 32'(H) |
-| 22:30 | Argentina | River Plate vs Banfield | **3 - 1** | `2nd half` | Joaquin Freitas 58'(H), Sebastián Driussi 46'(H), Mauro Méndez 45'(A), Lucas Martínez Quarta 13'(H) |
-| 23:00 | Brazil | Ceará vs EC Primavera | **1 - 0** | `Halftime` | Lucas Lima 11'(H) |
-| 23:00 | Brazil | Trem vs Independente-AP | **1 - 1** | `Halftime` | Unknown 36'(A), Unknown 3'(H) |
-| 23:00 | Brazil | Serra FC vs Real Noroeste | **0 - 0** | `Halftime` | --- |
-| 22:30 | Brazil | Carlos Renaux SC vs CN Marcílio Dias | **2 - 0** | `2nd half` | Erverson 45'(H), Cassio 35'(H) |
-| 22:00 | Brazil | Ferroviário vs Floresta | **1 - 0** | `2nd half` | Kiuan 87'(H) |
-| 22:00 | Brazil | SE Itapirense vs Rio Claro FC | **1 - 1** | `2nd half` | Thauan 32'(H), Andrey 3'(A) |
-| 23:15 | Brazil | América-SE vs Sergipe | **0 - 0** | `1st half` | --- |
-| 22:00 | Colombia | Boca Juniors de Cali vs Barranquilla FC | **0 - 2** | `2nd half` | Jairo Torres 31'(A), Jairo Torres 5'(A) |
-| 23:15 | Honduras | Lobos UPNFM vs Platense Futbol Club | **0 - 0** | `1st half` | --- |
-| 23:00 | Panama | Alianza FC Panama Reserve vs Academia Costa Del Este | **0 - 0** | `Halftime` | --- |
-| 23:30 | Paraguay | Recoleta FC vs Nacional Asunción | **2 - 1** | `1st half` | Alejandro Samudio 18'(A), Aldo Gonzalez 13'(H), Kevin Parzajuk 12'(H) |
-| 21:30 | Portugal Amateur | NOVA vs AEFCT | **0 - 0** | `Started` | --- |
-| 22:00 | Saint Kitts and Nevis | Lodge Patriots FC vs Saddlers United FC | **0 - 0** | `Started` | --- |
-| 23:00 | Uruguay | Montevideo City Torque vs Defensor Sporting | **1 - 0** | `Halftime` | Nahuel 10'(H) |
+| 00:30 | South America | Deportes Tolima vs Deportivo Táchira | **0 - 0** | `Halftime` | --- |
+| 00:30 | South America | Flamengo vs CA Lanús | **1 - 1** | `Halftime` | Giorgian De Arrascaeta 37'(H), Rodrigo Castillo 29'(A) |
+| 00:30 | Colombia | Millonarios vs Deportivo Pereira | **4 - 0** | `Halftime` | Carlos Sarabia 45'(H), Leonardo Castro 43'(H), Mateo García 29'(H), Sebastián Valencia 7'(H) |
+| 00:00 | North & Central America | Philadelphia Union vs Defence Force FC | **5 - 0** | `2nd half` | Ben Bender 53'(H), Stas Kornzeniowski 48'(H), Stas Kornzeniowski 12'(H), Jovan Lukić 10'(H), Geiner Martínez 7'(H) |
+| 00:00 | North & Central America | Curacao U20 vs Saint Vincent and the Grenadines U20 | **5 - 0** | `2nd half` | Damienthly Bernardina 64'(H), Shuryjano Cornecion 57'(H), Shuryjano Cornecion 45'(H), Dayvi Busby 42'(H), Damienthly Bernardina 36'(H) |
+| 01:00 | North & Central America | Nicaragua U20 vs Martinique U20 | **2 - 0** | `1st half` | Juban Uriarte 23'(H), Yader Avilés 4'(H) |
+| 00:00 | Oceania | Papua New Guinea vs Vanuatu | **4 - 0** | `2nd half` | Unknown 60'(H), Marie Kaipu 44'(H), Nenny Elipas 16'(H), Ramona Padio 5'(H) |
+| 00:00 | Bolivia | Club Aurora vs Club Always Ready | **1 - 2** | `2nd half` | Fernando Saucedo 24'(A), Alfredo Amarilla 13'(H) |
+| 00:00 | Brazil | Operário-MT vs Gazin Porto Velho | **0 - 1** | `2nd half` | Luan Viana 42'(A) |
+| 00:30 | Brazil | Portuguesa vs AA Altos | **0 - 0** | `Halftime` | --- |
+| 00:00 | Brazil | Botafogo U20 vs Avaí U20 | **2 - 1** | `2nd half` | Unknown 62'(H), Kevin da Silva Soares 10'(A) |
+| 01:00 | Colombia Amateur | Calle 13 FC vs MF Gestión Deportiva - Alberto Gamero | **0 - 0** | `1st half` | --- |
+| 01:00 | Colombia Amateur | Movilser Tairona FC vs Clan FC | **0 - 0** | `1st half` | --- |
+| 01:00 | El Salvador | Inter FA vs Isidro Metapan | **0 - 1** | `1st half` | --- |
+| 01:00 | Japan | Japan U20 vs Kanto A | **0 - 0** | `1st half` | --- |
+| 01:00 | Japan | Tokai FC vs Kansai | **0 - 0** | `1st half` | --- |
+| 01:00 | Nicaragua | Real Estelí vs Real Madriz | **0 - 0** | `1st half` | --- |
+| 01:00 | Panama | SD Atletico Nacional vs Academia Mario Mendez | **1 - 0** | `1st half` | Unknown 10'(H) |
