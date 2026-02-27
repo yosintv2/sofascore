@@ -1,48 +1,117 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-02-27 07:55:32 UTC"
+        "updated": "2026-02-27 08:38:05 UTC"
     },
     "matches": [
         {
-            "start_time": "06:00",
-            "league": "World Cup, Women, Qual. OFC, Group A",
+            "start_time": "08:35",
+            "league": "A-League Men",
+            "country": "Australia",
+            "home": "Melbourne Victory",
+            "away": "Adelaide United",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:00",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Zenit St. Petersburg Youth",
+            "away": "FK G'azalkent",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:00",
+            "league": "OFC Pro League, Circuit Series",
             "country": "Oceania",
-            "home": "Solomon Islands",
-            "away": "American Samoa",
-            "score": "0 - 1",
-            "minute": "2nd half",
+            "home": "South Melbourne FC",
+            "away": "South Island United FC",
+            "score": "2 - 1",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 58'(A)"
+                "Unknown 33'(H)",
+                "Yuki Uchida 25'(H)",
+                "Thomas Giannakopoulos 21'(A)"
             ]
         },
         {
-            "start_time": "06:30",
-            "league": "NSW U20 Premier League",
+            "start_time": "08:30",
+            "league": "NSW NPL 1",
             "country": "Australia",
-            "home": "Sydney FC U20",
-            "away": "Marconi Stallions U20",
-            "score": "2 - 0",
-            "minute": "2nd half",
+            "home": "Sydney FC Academy Youth",
+            "away": "Marconi Stallions",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:30",
+            "league": "NSW NPL 1",
+            "country": "Australia",
+            "home": "Sydney United 58",
+            "away": "Manly United",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:30",
+            "league": "Victoria NPL",
+            "country": "Australia",
+            "home": "Heidelberg United FC",
+            "away": "Dandenong City FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:30",
+            "league": "Victoria NPL",
+            "country": "Australia",
+            "home": "St Albans Saints FC",
+            "away": "Oakleigh Cannons FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:30",
+            "league": "Victoria Premier League 2",
+            "country": "Australia",
+            "home": "Nunawading City",
+            "away": "Eastern Lions SC",
+            "score": "1 - 1",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 14'(H)",
-                "Unknown 4'(H)"
+                "Unknown 6'(A)",
+                "Unknown 2'(H)"
             ]
         },
         {
-            "start_time": "06:30",
-            "league": "NSW U20 Premier League",
+            "start_time": "08:30",
+            "league": "Victoria NPL, Women",
             "country": "Australia",
-            "home": "Sydney United U20",
-            "away": "Manly United U20",
-            "score": "3 - 1",
-            "minute": "2nd half",
+            "home": "Box Hill United FC",
+            "away": "Preston Lions FC",
+            "score": "1 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 42'(A)",
-                "Unknown 37'(H)",
-                "Unknown 15'(H)",
-                "Unknown 12'(H)"
+                "Unknown 7'(H)"
             ]
+        },
+        {
+            "start_time": "08:30",
+            "league": "Victoria Premier League 1",
+            "country": "Australia",
+            "home": "Langwarrin SC",
+            "away": "Northcote City",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "07:15",
@@ -63,9 +132,10 @@
             "country": "Australia",
             "home": "Adamstown Rosebud Reserve",
             "away": "Lake Macquarie City Reserves",
-            "score": "0 - 2",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 67'(H)",
                 "Unknown 27'(A)",
                 "Unknown 18'(A)"
             ]
@@ -76,9 +146,12 @@
             "country": "Australia",
             "home": "Adamstown Rosebud Reserves",
             "away": "Kahibah FC Reserve",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 65'(A)",
+                "Unknown 51'(H)"
+            ]
         },
         {
             "start_time": "07:00",
@@ -86,12 +159,26 @@
             "country": "Australia",
             "home": "Broadmeadow Magic Reserve",
             "away": "Valentine Phoenix Reserve",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "3 - 3",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 84'(A)",
+                "Unknown 83'(A)",
+                "Unknown 71'(H)",
+                "Unknown 46'(H)",
                 "Unknown 28'(A)",
                 "Unknown 5'(H)"
             ]
+        },
+        {
+            "start_time": "08:30",
+            "league": "U23 Queensland Premier League 1 ",
+            "country": "Australia",
+            "home": "Ipswich FC U23",
+            "away": "St George Willawong U23",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "07:15",
@@ -99,9 +186,11 @@
             "country": "Australia",
             "home": "Spring Hills FC U20",
             "away": "Essendon Royals SC U20",
-            "score": "2 - 0",
-            "minute": "1st half",
+            "score": "3 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 49'(A)",
+                "Unknown 45'(H)",
                 "Unknown 16'(H)",
                 "Unknown 2'(H)"
             ]
@@ -112,9 +201,10 @@
             "country": "Australia",
             "home": "Brunswick Juventus U23",
             "away": "Melbourne Victory FC U23",
-            "score": "1 - 1",
-            "minute": "1st half",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 62'(A)",
                 "Unknown 18'(H)",
                 "Unknown 12'(A)"
             ]
@@ -125,9 +215,12 @@
             "country": "Australia",
             "home": "Melbourne Knights U23",
             "away": "North Sunshine Eagles U23",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "4 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 58'(H)",
+                "Unknown 52'(H)",
+                "Unknown 40'(H)",
                 "Unknown 30'(H)"
             ]
         },
@@ -137,35 +230,12 @@
             "country": "Ethiopia",
             "home": "Sidama Bunna",
             "away": "Ethiopia Nigd Bank",
-            "score": "0 - 2",
-            "minute": "1st half",
-            "scorers": [
-                "Unknown 23'(A)",
-                "Unknown 7'(A)"
-            ]
-        },
-        {
-            "start_time": "06:00",
-            "league": "India U21 Development League",
-            "country": "India",
-            "home": "Mohun Bagan SG U21",
-            "away": "Diamond Harbour FC U21",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "06:30",
-            "league": "Nepal National League",
-            "country": "Nepal",
-            "home": "Chitlang FC",
-            "away": "Sankata Club",
             "score": "0 - 3",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 45'(A)",
-                "Unknown 36'(A)",
-                "Unknown 2'(A)"
+                "Unknown 56'(A)",
+                "Unknown 23'(A)",
+                "Unknown 7'(A)"
             ]
         }
     ]
