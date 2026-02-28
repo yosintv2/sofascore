@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-02-28 17:56:15 UTC"
+        "updated": "2026-02-28 18:32:59 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,11 @@
             "country": "England",
             "home": "Leeds United",
             "away": "Manchester City",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Antoine Semenyo 45'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -20,9 +22,10 @@
             "country": "Italy",
             "home": "Hellas Verona",
             "away": "Napoli",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "1 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Jean-Daniel Akpa Akpro 64'(H)",
                 "Rasmus H\u00f8jlund 2'(A)"
             ]
         },
@@ -32,9 +35,11 @@
             "country": "Spain",
             "home": "Mallorca",
             "away": "Real Sociedad",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Carlos Soler 36'(A)"
+            ]
         },
         {
             "start_time": "17:30",
@@ -42,9 +47,33 @@
             "country": "Germany",
             "home": "Borussia Dortmund",
             "away": "FC Bayern M\u00fcnchen",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Nico Schlotterbeck 26'(H)"
+            ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "Ligue 1",
+            "country": "France",
+            "home": "AS Monaco",
+            "away": "Angers",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Liga Portugal Betclic",
+            "country": "Portugal",
+            "home": "CD Nacional",
+            "away": "Sporting Braga",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Rodrigo Zalazar 11'(A)"
+            ]
         },
         {
             "start_time": "17:45",
@@ -52,9 +81,13 @@
             "country": "Netherlands",
             "home": "Heracles Almelo",
             "away": "PSV Eindhoven",
-            "score": "0 - 0",
+            "score": "0 - 3",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Dennis Man 40'(A)",
+                "Ismael Saibari 12'(A)",
+                "Ivan Peri\u0161i\u0107 9'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -62,9 +95,11 @@
             "country": "Turkey",
             "home": "Galatasaray",
             "away": "Alanyaspor",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Lucas Torreira 58'(H)",
+                "Steve Mouni\u00e9 49'(A)",
                 "Sacha Boey 45'(H)"
             ]
         },
@@ -75,7 +110,7 @@
             "home": "G\u00f6ztepe",
             "away": "Ey\u00fcpspor",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -84,9 +119,11 @@
             "country": "Belgium",
             "home": "Royal Antwerp FC",
             "away": "Sint-Truidense VV",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Anthony Valencia 51'(H)"
+            ]
         },
         {
             "start_time": "17:30",
@@ -94,9 +131,23 @@
             "country": "Greece",
             "home": "APS Atromitos Athinon",
             "away": "GFS Panetolikos",
-            "score": "0 - 0",
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Makana Baku 41'(H)"
+            ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "Stoiximan Super League",
+            "country": "Greece",
+            "home": "AE Kifisia",
+            "away": "APO Levadiakos",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Jakub Pokorn\u00fd 13'(H)"
+            ]
         },
         {
             "start_time": "16:45",
@@ -117,9 +168,12 @@
             "country": "Serbia",
             "home": "FK Partizan",
             "away": "OFK Beograd Mozzart",
-            "score": "1 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Milan Rodi\u0107 44'(A)",
+                "Andrej Kosti\u0107 20'(H)"
+            ]
         },
         {
             "start_time": "17:30",
@@ -128,7 +182,7 @@
             "home": "Granada",
             "away": "M\u00e1laga",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -138,20 +192,18 @@
             "home": "Real Valladolid",
             "away": "Huesca",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
-            "start_time": "16:15",
+            "start_time": "18:30",
             "league": "Serie B",
             "country": "Italy",
-            "home": "Spezia",
-            "away": "Reggiana",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Andrija Novakovich 40'(A)"
-            ]
+            "home": "US Avellino 1912",
+            "away": "Juve Stabia",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -160,7 +212,7 @@
             "home": "Ke\u00e7i\u00f6reng\u00fcc\u00fc",
             "away": "Amed Sportif Faaliyetler",
             "score": "1 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Daniel Moreno 28'(A)",
                 "Mbaye Diagne 17'(A)",
@@ -174,7 +226,7 @@
             "home": "AC Sparta Praha",
             "away": "Ban\u00edk Ostrava",
             "score": "2 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Luk\u00e1\u0161 Harasl\u00edn 25'(H)",
                 "Jaroslav Zelen\u00fd 16'(A)",
@@ -182,30 +234,26 @@
             ]
         },
         {
-            "start_time": "16:30",
-            "league": "Ekstraklasa",
-            "country": "Poland",
-            "home": "Motor Lublin",
-            "away": "MKS Korona Kielce",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Karol Czubak 34'(H)",
-                "Mbaye Ndiaye 18'(H)"
-            ]
-        },
-        {
-            "start_time": "16:00",
+            "start_time": "18:15",
             "league": "Liga 1, Apertura",
             "country": "Peru",
-            "home": "Sport Huancayo",
-            "away": "Club Sporting Cristal",
-            "score": "2 - 1",
-            "minute": "2nd half",
+            "home": "Universidad T\u00e9cnica de Cajamarca",
+            "away": "Alianza Lima",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Superliga",
+            "country": "Romania",
+            "home": "FC Farul Constan\u021ba",
+            "away": "CFR 1907 Cluj",
+            "score": "0 - 2",
+            "minute": "1st half",
             "scorers": [
-                "Jair Moretti 82'(A)",
-                "Franco Caballero 77'(H)",
-                "Ricardo Salcedo 54'(H)"
+                "Karlo Muhar 27'(A)",
+                "Alibek Aliev 16'(A)"
             ]
         },
         {
@@ -215,7 +263,7 @@
             "home": "FC St. Gallen 1879",
             "away": "FC Winterthur",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Pajtim Kasami 21'(A)"
             ]
@@ -227,7 +275,7 @@
             "home": "FC Thun",
             "away": "FC Luzern",
             "score": "2 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Oscar Kabwit 43'(A)",
                 "Elmin Rastoder 29'(H)",
@@ -235,16 +283,14 @@
             ]
         },
         {
-            "start_time": "16:00",
+            "start_time": "18:15",
             "league": "Premiership",
             "country": "South Africa",
-            "home": "Siwelele FC",
-            "away": "TS Galaxy",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Chibuike Ohizu 79'(H)"
-            ]
+            "home": "ORBIT College FC",
+            "away": "Richards Bay FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "16:30",
@@ -253,11 +299,21 @@
             "home": "Dinamo Makhachkala",
             "away": "Rubin Kazan",
             "score": "1 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Dardan Shabanhaxhaj 35'(A)",
                 "Gamid Agalarov 25'(H)"
             ]
+        },
+        {
+            "start_time": "18:30",
+            "league": "NB I",
+            "country": "Hungary",
+            "home": "ETO FC Gy\u0151r",
+            "away": "\u00dajpest",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "16:45",
@@ -265,11 +321,23 @@
             "country": "World",
             "home": "FC Arlanda",
             "away": "Sollentuna FF",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 45'(A)",
+                "Unknown 33'(A)",
                 "Felix Str\u00e4ngborn 5'(H)"
             ]
+        },
+        {
+            "start_time": "17:00",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "FC Tampa Bay Rowdies",
+            "away": "SC Jacksonville",
+            "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
         },
         {
             "start_time": "17:30",
@@ -277,9 +345,11 @@
             "country": "World",
             "home": "JS Hercules",
             "away": "TP-47",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 25'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -287,9 +357,10 @@
             "country": "World",
             "home": "C\u00f4te d'Ivoire",
             "away": "Benin",
-            "score": "2 - 0",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 60'(A)",
                 "In\u00e8s Konan 29'(H)",
                 "Unknown 18'(H)"
             ]
@@ -300,9 +371,10 @@
             "country": "World",
             "home": "Russia",
             "away": "Tanzania",
-            "score": "2 - 0",
-            "minute": "Halftime",
+            "score": "3 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Nadezhda Smirnova 63'(H)",
                 "Nadezhda Smirnova 43'(H)",
                 "Polina Yuklyaeva 13'(H)"
             ]
@@ -313,9 +385,11 @@
             "country": "North & Central America",
             "home": "Bermuda U20",
             "away": "Sint Maarten U20",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Xahvi Deroza 68'(H)"
+            ]
         },
         {
             "start_time": "17:30",
@@ -324,7 +398,7 @@
             "home": "Morecambe",
             "away": "York City",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -333,8 +407,8 @@
             "country": "Spain",
             "home": "AD Alcorc\u00f3n",
             "away": "Betis Deportivo",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "2 - 0",
+            "minute": "Halftime",
             "scorers": [
                 "Vladyslav Kopotun 15'(H)"
             ]
@@ -346,7 +420,7 @@
             "home": "Atl\u00e9tico Sanluque\u00f1o",
             "away": "Marbella FC",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Rodri Puertolas 18'(H)"
             ]
@@ -358,7 +432,7 @@
             "home": "Sevilla Atl\u00e9tico",
             "away": "Atl\u00e9tico Madrile\u00f1o",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -368,7 +442,7 @@
             "home": "Marino Luanco",
             "away": "Real Valladolid B",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -378,7 +452,7 @@
             "home": "Real \u00c1vila CF",
             "away": "Coruxo FC",
             "score": "2 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Markel Ruiz 37'(H)",
                 "Mamadou Sarr 29'(H)",
@@ -392,7 +466,7 @@
             "home": "UD Samano",
             "away": "Atl\u00e9tico Astorga",
             "score": "1 - 3",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Mario S\u00e1nchez 38'(A)",
                 "Unknown 29'(H)",
@@ -406,22 +480,10 @@
             "country": "Spain",
             "home": "UP Langreo",
             "away": "Gimn\u00e1stica Segoviana",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Segunda Federacion, Group II",
-            "country": "Spain",
-            "home": "Naxara CD",
-            "away": "CD Basconia",
-            "score": "3 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
             "scorers": [
-                "Hugo Mart\u00ednez 90'(H)",
-                "Hugo Mart\u00ednez 81'(H)",
-                "Iv\u00e1n Rojo 60'(H)"
+                "Unknown 52'(H)"
             ]
         },
         {
@@ -430,9 +492,10 @@
             "country": "Spain",
             "home": "Sestao River",
             "away": "Deportivo Alav\u00e9s B",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Alberto Moreno 57'(A)",
                 "Diego Morcillo 22'(A)",
                 "Jorge Garc\u00eda Salm\u00f3n 2'(H)"
             ]
@@ -443,9 +506,11 @@
             "country": "Spain",
             "home": "Sant Cugat FC U19",
             "away": "Racing Club Zaragoza U19",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 67'(A)"
+            ]
         },
         {
             "start_time": "17:20",
@@ -454,36 +519,10 @@
             "home": "UE Cornell\u00e0 U19",
             "away": "CE Sabadell U19",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 24'(A)",
                 "Unknown 12'(H)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Serie C, Group A",
-            "country": "Italy",
-            "home": "Aurora Pro Patria",
-            "away": "Virtus Verona",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "King Udoh 58'(H)",
-                "Jacopo Desogus 7'(H)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Serie C, Group A",
-            "country": "Italy",
-            "home": "Trento",
-            "away": "Lumezzane",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Pasquale Giannotti 61'(H)",
-                "Gesualdo Napolitano 20'(A)"
             ]
         },
         {
@@ -499,36 +538,13 @@
             ]
         },
         {
-            "start_time": "16:30",
-            "league": "Serie C, Group C",
-            "country": "Italy",
-            "home": "AZ Picerno",
-            "away": "Team Altamura",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:30",
-            "league": "Serie C, Group C",
-            "country": "Italy",
-            "home": "Foggia",
-            "away": "Casarano",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Leandro Versienti 45'(A)",
-                "Felice D'Amico 29'(H)"
-            ]
-        },
-        {
             "start_time": "17:00",
             "league": "National",
             "country": "France",
             "home": "Quevilly - Rouen M\u00e9tropole",
             "away": "Bourg-en-Bresse",
             "score": "2 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Rayan Mandengue 41'(H)",
                 "Rayan Mandengue 34'(H)",
@@ -536,18 +552,51 @@
             ]
         },
         {
+            "start_time": "18:00",
+            "league": "National",
+            "country": "France",
+            "home": "US Orl\u00e9ans",
+            "away": "FC Rouen",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Kenny Rocha Santos 26'(A)"
+            ]
+        },
+        {
+            "start_time": "17:00",
+            "league": "National 2, Group A",
+            "country": "France",
+            "home": "SC Locmin\u00e9",
+            "away": "FC Lorient B",
+            "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "National 2, Group A",
+            "country": "France",
+            "home": "FC Montlouis",
+            "away": "FC Chauray",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "17:00",
             "league": "National 2, Group B",
             "country": "France",
             "home": "FC Chambly Oise",
             "away": "Entente Feignies-Aulnoye",
-            "score": "3 - 1",
-            "minute": "Halftime",
+            "score": "4 - 1",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 24'(H)",
-                "Unknown 17'(H)",
-                "Unknown 13'(A)",
-                "Unknown 6'(H)"
+                "Amadou Sadio Diallo 69'(H)",
+                "Yohan Baret 24'(H)",
+                "Antoine Valerio 17'(H)",
+                "Abdoulaye Gory 13'(A)",
+                "Maxime Da Veiga 6'(H)"
             ]
         },
         {
@@ -556,44 +605,42 @@
             "country": "France",
             "home": "Wasquehal",
             "away": "FC Dieppe",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "1 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Yann Atheba 63'(A)",
                 "Vivien T\u00e9tart 27'(H)",
                 "Yann Atheba 3'(A)"
             ]
         },
         {
-            "start_time": "13:00",
-            "league": "Regionalliga Ost",
-            "country": "Austria Amateur",
-            "home": "SV Gloggnitz",
-            "away": "Wiener Viktoria",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(A)",
-                "Unknown 10'(H)"
-            ]
-        },
-        {
-            "start_time": "15:30",
-            "league": "Burgenland 1. Klasse - Mitte",
-            "country": "Austria Amateur",
-            "home": "ASK\u00d6 Weppersdorf",
-            "away": "ASK\u00d6 Stoob",
+            "start_time": "18:30",
+            "league": "National 2, Group B",
+            "country": "France",
+            "home": "Bourges Foot 18",
+            "away": "Thionville Lusitanos",
             "score": "0 - 0",
-            "minute": "Started",
+            "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "Burgenland 1. Klasse - Mitte",
-            "country": "Austria Amateur",
-            "home": "SV Antau",
-            "away": "UFC Neckenmarkt",
+            "start_time": "18:30",
+            "league": "Kategoria Superiore",
+            "country": "Albania",
+            "home": "KF Teuta Durr\u00ebs",
+            "away": "Flamurtari FC",
             "score": "0 - 0",
-            "minute": "Started",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Primera Divisio",
+            "country": "Andorra",
+            "home": "Atl\u00e8tic Club Escaldes",
+            "away": "CF Esperanca d'Andorra",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -617,16 +664,114 @@
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "Baku-North - Group 1",
-            "country": "Azerbaijan",
-            "home": "Top\u00e7ular FK",
-            "away": "Qobustan FK",
-            "score": "1 - 0",
+            "start_time": "18:00",
+            "league": "King's Cup",
+            "country": "Bahrain",
+            "home": "Al Ahli",
+            "away": "Al Ittifaq",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "King's Cup",
+            "country": "Bahrain",
+            "home": "Al Bahrain",
+            "away": "Riffa",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Derde Afdeling VV A",
+            "country": "Belgium Amateur",
+            "home": "KSV Rumbeke",
+            "away": "Tempo Overijse",
+            "score": "0 - 0",
             "minute": "Started",
-            "scorers": [
-                "Unknown 21'(H)"
-            ]
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Derde Afdeling VV B",
+            "country": "Belgium Amateur",
+            "home": "EWS Schoonbeek-Beverst",
+            "away": "FC De Kempen TL",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Derde Afdeling VV B",
+            "country": "Belgium Amateur",
+            "home": "FC Wezel Sport",
+            "away": "Esperanza Pelt FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Derde Afdeling VV B",
+            "country": "Belgium Amateur",
+            "home": "KFC Sint Lenaarts",
+            "away": "ASV Geel",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Derde Afdeling VV B",
+            "country": "Belgium Amateur",
+            "home": "KFC Turnhout",
+            "away": "HRS Haasdonk",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "West-Vlaanderen - 2de Provinciale B ",
+            "country": "Belgium Amateur",
+            "home": "FC Dadizele Sport",
+            "away": "KSK Vlamertinge",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "West-Vlaanderen - 2de Provinciale B ",
+            "country": "Belgium Amateur",
+            "home": "KSV Kortrijk",
+            "away": "KFC Lendelede Sport",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "West-Vlaanderen - 2de Provinciale B ",
+            "country": "Belgium Amateur",
+            "home": "V.V. Emelgem-Kachtem",
+            "away": "WS Bellegem",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "West-Vlaanderen - 2de Provinciale B ",
+            "country": "Belgium Amateur",
+            "home": "K Racing Waregem B",
+            "away": "KEVC Beselare",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "17:30",
@@ -635,20 +780,210 @@
             "home": "FK Borac Banja Luka",
             "away": "FK Sarajevo",
             "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Paulista, S\u00e9rie A2",
+            "country": "Brazil",
+            "home": "EC S\u00e3o Bento",
+            "away": "Taubat\u00e9",
+            "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "U17 Suburbana de Curitiba Juvenil",
-            "country": "Brazil Amateur",
-            "home": "Combate Barreirinha FC U17",
-            "away": "ACE Urano U17",
-            "score": "1 - 0",
-            "minute": "2nd half",
+            "start_time": "18:00",
+            "league": "Paulista, Serie A3",
+            "country": "Brazil",
+            "home": "Rio Branco-SP",
+            "away": "Uni\u00e3o Barbarense",
+            "score": "0 - 1",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 15'(H)"
+                "Unknown 8'(A)"
             ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "Paulista, S\u00e9rie A4",
+            "country": "Brazil",
+            "home": "Comercial-SP",
+            "away": "Lemense",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Paulista, S\u00e9rie A4",
+            "country": "Brazil",
+            "home": "Jabaquara",
+            "away": "Internacional de Bebedouro",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Paulista, S\u00e9rie A4",
+            "country": "Brazil",
+            "home": "Tanabi EC",
+            "away": "Nacional-SP",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Paulista, S\u00e9rie A4",
+            "country": "Brazil",
+            "home": "Taquaritinga",
+            "away": "Jacare\u00ed FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Paulista, S\u00e9rie A4",
+            "country": "Brazil",
+            "home": "AE Ara\u00e7atuba",
+            "away": "S\u00e3o Caetano",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Potiguar, 1\u00aa Fase \u2013 Mata-mata ",
+            "country": "Brazil",
+            "home": "Santa Cruz-RN",
+            "away": "Quinho FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "U20 Brasileiro",
+            "country": "Brazil",
+            "home": "Fortaleza U20",
+            "away": "Cuiab\u00e1 U20",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "U20 Brasileiro",
+            "country": "Brazil",
+            "home": "Juventude U20",
+            "away": "Crici\u00fama U20",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "U20 Capixaba",
+            "country": "Brazil",
+            "home": "EC Tupy U20",
+            "away": "Vilavelhense U20",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "U20 Goiano, Feminino, 1\u00b0 Turno",
+            "country": "Brazil",
+            "home": "Planalto EC U20",
+            "away": "Alian\u00e7a Nacional U20",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "U20 Paranaense",
+            "country": "Brazil",
+            "home": "Coritiba U20",
+            "away": "CE Uni\u00e3o U20",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "U20 Paranaense",
+            "country": "Brazil",
+            "home": "FC Cascavel U20",
+            "away": "City London U20",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Suburbana de Curitiba",
+            "country": "Brazil Amateur",
+            "home": "Combate Barreirinha FC",
+            "away": "ACE Urano",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Suburbana de Curitiba",
+            "country": "Brazil Amateur",
+            "home": "Oper\u00e1rio Pilarzinho SC",
+            "away": "GR Ipiranga",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Suburbana de Curitiba",
+            "country": "Brazil Amateur",
+            "home": "SE Tangu\u00e1",
+            "away": "Vila Fanny FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Suburbana de Curitiba",
+            "country": "Brazil Amateur",
+            "home": "SOBE Igua\u00e7u",
+            "away": "Uni\u00e3o Nova Orleans",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Suburbana de Curitiba",
+            "country": "Brazil Amateur",
+            "home": "URE Santa Quit\u00e9ria",
+            "away": "Trieste FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Suburbana de Curitiba",
+            "country": "Brazil Amateur",
+            "home": "Uni\u00e3o Cap\u00e3o Raso FC",
+            "away": "Novo Mundo FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "16:30",
@@ -701,61 +1036,13 @@
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "Ligue 1",
-            "country": "Burkina Faso",
-            "home": "ASF Bobo Dioulasso",
-            "away": "AS Douanes",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Ligue 1",
-            "country": "Burkina Faso",
-            "home": "Salitas FC",
-            "away": "Rahimo FC",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 45'(A)",
-                "Christophe Ouattara 12'(A)",
-                "Unknown 4'(H)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Ligue 1",
-            "country": "Burkina Faso",
-            "home": "Sporting Cascades",
-            "away": "CFFEB FC",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 16'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Ivory Coast Ligue 1",
-            "country": "C\u00f4te d'Ivoire",
-            "home": "Zoman FC",
-            "away": "US Tchologo",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 10'(H)"
-            ]
-        },
-        {
             "start_time": "17:00",
             "league": "U20 Primera Divisi\u00f3n",
             "country": "El Salvador",
             "home": "CD FAS U20",
             "away": "CD Luis \u00c1ngel Firpo Reserves U20",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -765,77 +1052,8 @@
             "home": "Ramsgate FC",
             "away": "Aveley FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "Northern Premier League, Division One East",
-            "country": "England Amateur",
-            "home": "Pontefract Collieries",
-            "away": "Blyth Town FC",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 72'(A)",
-                "Unknown 23'(H)",
-                "Unknown 11'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Northern Premier League, Division One Midlands ",
-            "country": "England Amateur",
-            "home": "Bedworth United",
-            "away": "Wellingborough Town",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(A)",
-                "Unknown 70'(A)",
-                "Unknown 52'(H)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Northern Premier League, Division One Midlands ",
-            "country": "England Amateur",
-            "home": "Racing Club Warwick",
-            "away": "Boldmere St Michaels FC",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 52'(A)",
-                "Unknown 10'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Isthmian League, Division One North",
-            "country": "England Amateur",
-            "home": "Lowestoft Town",
-            "away": "Concord Rangers",
-            "score": "1 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 87'(A)",
-                "Unknown 77'(H)",
-                "Unknown 74'(A)",
-                "Unknown 28'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Isthmian League, Division One South Central",
-            "country": "England Amateur",
-            "home": "Bognor Regis",
-            "away": "Westfield",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 58'(A)",
-                "Unknown 55'(H)"
-            ]
         },
         {
             "start_time": "15:00",
@@ -851,39 +1069,15 @@
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "Essex Senior League",
-            "country": "England Amateur",
-            "home": "Barking FC",
-            "away": "Athletic Newham FC",
-            "score": "3 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Unknown 66'(H)",
-                "Alfie Attrill 16'(H)"
-            ]
-        },
-        {
             "start_time": "17:00",
             "league": "Faroe Islands Super Cup",
             "country": "Faroe Islands",
             "home": "Klaksv\u00edkar \u00cdtr\u00f3ttarfelag",
             "away": "HB T\u00f3rshavn",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "Suomen Cup - Alkukierrokset",
-            "country": "Finland Amateur",
-            "home": "Littoisten Ty\u00f6v\u00e4en Urheilijat",
-            "away": "Maskun Palloseura",
-            "score": "0 - 1",
+            "score": "1 - 0",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 90'(A)"
+                "Filip Brattbakk 56'(H)"
             ]
         },
         {
@@ -901,14 +1095,47 @@
             ]
         },
         {
+            "start_time": "18:00",
+            "league": "Suomen Cup - Alkukierrokset",
+            "country": "Finland Amateur",
+            "home": "Viialan Peli-Veikot",
+            "away": "FC Varapelaajat",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "17:00",
+            "league": "National 3 Groupe A",
+            "country": "France Amateur",
+            "home": "Bassin d'Arcachon",
+            "away": "Blagnac",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 23'(A)"
+            ]
+        },
+        {
+            "start_time": "17:00",
+            "league": "National 3 Groupe A",
+            "country": "France Amateur",
+            "home": "Lege Capferret US",
+            "away": "FC Alb\u00e8res Argel\u00e8s",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "17:00",
             "league": "National 3 Groupe B",
             "country": "France Amateur",
             "home": "Les Sables Vendee Foot",
             "away": "FC Challans",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "Started",
             "scorers": [
+                "Unknown 40'(H)",
                 "Unknown 9'(H)"
             ]
         },
@@ -918,9 +1145,11 @@
             "country": "France Amateur",
             "home": "Vend\u00e9e Fontenay Foot",
             "away": "US St. Philbert de Grandlieu",
-            "score": "0 - 1",
+            "score": "2 - 1",
             "minute": "Started",
             "scorers": [
+                "Nathan Fromaget 66'(H)",
+                "Unknown 59'(H)",
                 "Unknown 22'(A)"
             ]
         },
@@ -930,9 +1159,11 @@
             "country": "France Amateur",
             "home": "EA Guingamp II",
             "away": "Vannes",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 72'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -965,40 +1196,14 @@
             "scorers": []
         },
         {
-            "start_time": "15:00",
-            "league": "National 3 Groupe F",
-            "country": "France Amateur",
-            "home": "ASM Belfort FC",
-            "away": "Troyes 2",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 82'(A)",
-                "Unknown 71'(H)"
-            ]
-        },
-        {
             "start_time": "17:00",
             "league": "National 3 Groupe F",
             "country": "France Amateur",
             "home": "US Ivry",
             "away": "ES Thaon",
             "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "National 3 Groupe H",
-            "country": "France Amateur",
-            "home": "Montpellier HSC II",
-            "away": "FC Bourgoin Jallieu",
-            "score": "2 - 0",
             "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Unknown 23'(H)"
-            ]
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -1021,16 +1226,6 @@
             "scorers": [
                 "Unknown 26'(H)"
             ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Auvergne Rh\u00f4ne-Alpes, Regional A",
-            "country": "France Amateur",
-            "home": "Monistrol S/Loire",
-            "away": "FC Riomois",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -1068,9 +1263,11 @@
             "country": "France Amateur",
             "home": "AS Chavanay",
             "away": "GFA Rumilly-Valli\u00e8res B",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Enzo Baud 58'(H)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -1079,7 +1276,7 @@
             "home": "Annecy FC II",
             "away": "Grenoble Foot 38 B",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -1089,7 +1286,7 @@
             "home": "FC Rh\u00f4ne-Vall\u00e9es",
             "away": "FC Vaulx en Velin",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Khaled Aatillah 40'(H)"
             ]
@@ -1101,7 +1298,7 @@
             "home": "FC Villefranche Beaujolais B",
             "away": "Bourg-en-Bresse B",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -1110,8 +1307,20 @@
             "country": "France Amateur",
             "home": "Olympique de Valence",
             "away": "Chamb\u00e9ry Savoie Foot",
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Nicolas Bury 44'(A)"
+            ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "Auvergne Rh\u00f4ne-Alpes, Regional B",
+            "country": "France Amateur",
+            "home": "Crest Aouste",
+            "away": "Oyonnax PVFC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -1150,9 +1359,11 @@
             "country": "France Amateur",
             "home": "SC Beaucouze",
             "away": "La Baule Le Pouliguen",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 45'(H)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -1170,9 +1381,21 @@
             "country": "France Amateur",
             "home": "CA Neuville",
             "away": "Trelissac",
-            "score": "0 - 0",
+            "score": "0 - 11",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown -1'(A)",
+                "Unknown 6'(A)",
+                "Unknown 3'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -1185,65 +1408,84 @@
             "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "GFF First Division",
-            "country": "Gambia",
-            "home": "Falcons FC",
-            "away": "Greater Tomorrow FC",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 27'(H)"
-            ]
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe A",
+            "country": "France Amateur",
+            "home": "FC Nueillaubiers",
+            "away": "Feytiat",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "GFF First Division",
-            "country": "Gambia",
-            "home": "Gambian Dutch Lions",
-            "away": "Samger FC",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 11'(H)"
-            ]
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe A",
+            "country": "France Amateur",
+            "home": "Limoges Football",
+            "away": "Thouars Foot 79",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "GFF First Division",
-            "country": "Gambia",
-            "home": "Hawks FC",
-            "away": "Medina United FC",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 20'(A)",
-                "Unknown 10'(A)"
-            ]
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe A",
+            "country": "France Amateur",
+            "home": "Rochefort FC",
+            "away": "Brive",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "GFF First Division",
-            "country": "Gambia",
-            "home": "Real de Banjul",
-            "away": "Steve Biko FC",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 21'(H)"
-            ]
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe B",
+            "country": "France Amateur",
+            "home": "Arin Luzien",
+            "away": "FCE Merignac Arlac",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "GFF First Division",
-            "country": "Gambia",
-            "home": "Team Rhino FC",
-            "away": "Fortune FC",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 45'(A)"
-            ]
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe B",
+            "country": "France Amateur",
+            "home": "ES Boulazac",
+            "away": "FC St M\u00e9dard en Jalles",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe B",
+            "country": "France Amateur",
+            "home": "Entente Boe Bon Encontre",
+            "away": "SA M\u00e9rignac",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe B",
+            "country": "France Amateur",
+            "home": "St Paul L\u00e8s Dax Sports",
+            "away": "AS Mazeres UR",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Nouvelle Aquitaine R\u00e9gional 1 - Groupe B",
+            "country": "France Amateur",
+            "home": "Stade Bordelais",
+            "away": "Villenave",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -1251,50 +1493,21 @@
             "country": "Georgia",
             "home": "FC Torpedo Kutaisi",
             "away": "FC Spaeri",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "1 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Giga Samkharadze 60'(A)",
                 "Giorgi Kokhreidze 1'(H)"
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "Gruppenliga Kassel - Gruppe 2",
+            "start_time": "18:00",
+            "league": "U17 Verbandsliga Gr. S\u00fcd",
             "country": "Germany Amateur",
-            "home": "SG Hombressen/Udenhausen",
-            "away": "FC Bosporus Kassel",
+            "home": "FC Bayern Alzenau U17",
+            "away": "SV St. Stephan Griesheim U17",
             "score": "0 - 0",
             "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Frauen Verbandsliga Baden",
-            "country": "Germany Amateur",
-            "home": "ATSV Mutschelbach",
-            "away": "SG Heidelberg-Kirchheim",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "15:30",
-            "league": "Germany Friendly Games",
-            "country": "Germany Amateur",
-            "home": "SV T\u00fcrkg\u00fcc\u00fc Kassel",
-            "away": "FSG Gudensberg",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Germany Friendly Games",
-            "country": "Germany Amateur",
-            "home": "TSG 08 Roth",
-            "away": "TV Hilpoltstein",
-            "score": "0 - 0",
-            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -1318,18 +1531,6 @@
             "scorers": []
         },
         {
-            "start_time": "14:30",
-            "league": "A EPS Kerkyras",
-            "country": "Greece Amateur",
-            "home": "APS Olympos Kerkyras",
-            "away": "APS Anagennisi Perivoliou",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 23'(H)"
-            ]
-        },
-        {
             "start_time": "16:30",
             "league": "B EPS Makedonias - Group 3",
             "country": "Greece Amateur",
@@ -1345,42 +1546,32 @@
             "country": "Greece Amateur",
             "home": "Anthimos Gazis Mileon",
             "away": "Athlitiki Enosi 2002",
-            "score": "1 - 0",
+            "score": "3 - 0",
             "minute": "Started",
             "scorers": [
+                "Unknown 88'(H)",
+                "Unknown 76'(H)",
                 "Unknown 41'(H)"
             ]
         },
         {
-            "start_time": "16:30",
-            "league": "B EPS Thessalias",
-            "country": "Greece Amateur",
-            "home": "Apollon Kanalion",
-            "away": "Ano Lechonia",
-            "score": "0 - 1",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 18'(A)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Seconda Categoria Calabria - Girone C",
-            "country": "Italy Amateur",
-            "home": "A.S.D. Kennedy J. F. Aquile",
-            "away": "A.S.D. MDA Belvedere Spinello",
+            "start_time": "18:00",
+            "league": "Iraq Stars League",
+            "country": "Iraq",
+            "home": "Al-Qasim SC",
+            "away": "Al Karkh",
             "score": "0 - 0",
-            "minute": "Started",
+            "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "16:30",
-            "league": "Terza Categoria Calabria - Girone D",
-            "country": "Italy Amateur",
-            "home": "A.S.D. Catanzaro Social Club",
-            "away": "LSC Life Simeri Crichi 2025",
+            "start_time": "18:00",
+            "league": "Iraq Stars League",
+            "country": "Iraq",
+            "home": "Naft Missan",
+            "away": "Al Talaba",
             "score": "0 - 0",
-            "minute": "Started",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -1414,52 +1605,15 @@
             "scorers": []
         },
         {
-            "start_time": "15:30",
-            "league": "Prima Categoria Sardegna - Girone C",
-            "country": "Italy Amateur",
-            "home": "A.S.D. Fonni Calcio",
-            "away": "Pol. Bittese",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "17:30",
             "league": "Terza Categoria Salerno Girone E",
             "country": "Italy Amateur",
             "home": "AC Caprioli Squadra B",
             "away": "Buonabitacolo Soccer",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "LFA First Division",
-            "country": "Liberia",
-            "home": "Downtown FC",
-            "away": "LPRC Oilers FC",
-            "score": "3 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 83'(H)",
-                "Unknown 71'(H)",
-                "Unknown 51'(A)",
-                "Unknown 18'(H)",
-                "Unknown 15'(A)",
-                "Unknown 12'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "LFA First Division",
-            "country": "Liberia",
-            "home": "Gardnersville FC",
-            "away": "Discoveries SA",
             "score": "0 - 1",
-            "minute": "2nd half",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 19'(A)"
+                "Unknown 35'(A)"
             ]
         },
         {
@@ -1469,79 +1623,31 @@
             "home": "FC Hegelmann",
             "away": "D\u017eiugas Tel\u0161iai",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Abdel Kader Njoya 25'(H)"
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "Division Nationale",
-            "country": "Luxembourg",
-            "home": "FC Mamer 32",
-            "away": "US Mondorf-Les-Bains",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Lilian Fournier 21'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Division Nationale",
-            "country": "Luxembourg",
-            "home": "FC Rodange 91",
-            "away": "Jeunesse Esch",
-            "score": "3 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Mickael Borger 85'(A)",
-                "Leon Elshan 69'(A)",
-                "Yannis Mbombo 57'(H)",
-                "Jo\u00e3o Teixeira 37'(A)",
-                "Kevin Schur 2'(H)"
-            ]
-        },
-        {
-            "start_time": "16:00",
+            "start_time": "18:00",
             "league": "Ligue 1",
             "country": "Mali",
-            "home": "Djoliba AC",
-            "away": "Afrique Football Elite",
-            "score": "4 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 84'(H)",
-                "Unknown 51'(H)",
-                "Unknown 20'(H)",
-                "Unknown 16'(H)"
-            ]
+            "home": "Onze Createurs",
+            "away": "FC Diarra",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "Ligue 1",
-            "country": "Mali",
-            "home": "FC Mali Coura",
-            "away": "AS Bakaridjan",
+            "start_time": "18:00",
+            "league": "Challenge League, Relegation Round",
+            "country": "Malta",
+            "home": "St. Lucia FC",
+            "away": "Gudja United",
             "score": "0 - 1",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 34'(A)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Liga TDP",
-            "country": "Mexico",
-            "home": "CD Mexiquense",
-            "away": "Chivas Alamos FC",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 63'(A)",
-                "Unknown 41'(A)",
-                "Unknown 7'(A)"
+                "Shola Haruna Shodiya 26'(A)"
             ]
         },
         {
@@ -1550,9 +1656,11 @@
             "country": "Mexico",
             "home": "\u00c1guilas de Teotihuac\u00e1n",
             "away": "Lonsdaleita FC",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 75'(H)",
+                "Unknown 70'(H)",
                 "Unknown 45'(H)",
                 "Unknown 11'(A)"
             ]
@@ -1563,9 +1671,12 @@
             "country": "Mexico",
             "home": "Cefor 30-30",
             "away": "Tuzos Pachuca",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "1 - 3",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 66'(H)",
+                "Unknown 63'(A)",
+                "Unknown 58'(A)",
                 "Unknown 38'(A)"
             ]
         },
@@ -1576,11 +1687,21 @@
             "home": "Mineros de Fresnillo FC",
             "away": "Tigres de \u00c1lica F.C.",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 39'(H)",
                 "Unknown 38'(H)"
             ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "Liga Premier Serie A, Group 2",
+            "country": "Mexico",
+            "home": "Avispones Chilpancingo",
+            "away": "Cordob\u00e9s F.C.",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -1588,9 +1709,11 @@
             "country": "Mexico",
             "home": "Caja Oblatos C.F.D.",
             "away": "FC Racing",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 47'(H)"
+            ]
         },
         {
             "start_time": "17:30",
@@ -1599,7 +1722,7 @@
             "home": "Atletico San Luis U19",
             "away": "Club Puebla U19",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 13'(A)"
             ]
@@ -1610,65 +1733,11 @@
             "country": "Mexico",
             "home": "Monterrey U19",
             "away": "Cruz Azul U19",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "First Division Amateur, League South",
-            "country": "Morocco Amateur",
-            "home": "Association Jeunesse Du Sud",
-            "away": "Club Amal Souk Sebt",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Second Division Amateur, Sahara Group",
-            "country": "Morocco Amateur",
-            "home": "AS Tarfaya",
-            "away": "Olympique Guelmim",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Second Division Amateur, Sahara Group",
-            "country": "Morocco Amateur",
-            "home": "ASS Amtlan",
-            "away": "Jeunesse Akhfenir",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:40",
-            "league": "Mirleft Ramadan Tournament - Group 2 ",
-            "country": "Morocco Amateur",
-            "home": "Hassania Idwaskssou",
-            "away": "Tayyert",
-            "score": "1 - 0",
-            "minute": "2nd half",
+            "score": "1 - 1",
+            "minute": "Halftime",
             "scorers": [
-                "Houcine Abidar 17'(H)"
-            ]
-        },
-        {
-            "start_time": "13:30",
-            "league": "Derde Divisie A",
-            "country": "Netherlands Amateur",
-            "home": "Harkemase Boys",
-            "away": "DVS '33 Ermelo",
-            "score": "2 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 89'(H)",
-                "Unknown 60'(A)",
-                "Unknown 43'(A)",
-                "Unknown 26'(H)"
+                "Unknown 44'(H)",
+                "Unknown 23'(A)"
             ]
         },
         {
@@ -1677,25 +1746,11 @@
             "country": "Netherlands Amateur",
             "home": "HSC '21 Haaksbergen",
             "away": "SC Genemuiden",
-            "score": "0 - 1",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 28'(A)"
-            ]
-        },
-        {
-            "start_time": "13:30",
-            "league": "Derde Divisie B",
-            "country": "Netherlands Amateur",
-            "home": "FC Rijnvogels",
-            "away": "RKSV Groene Ster",
-            "score": "3 - 1",
+            "score": "0 - 2",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 88'(H)",
-                "Unknown 52'(A)",
-                "Unknown 37'(H)",
-                "Unknown 33'(H)"
+                "Unknown 51'(A)",
+                "Unknown 28'(A)"
             ]
         },
         {
@@ -1704,9 +1759,11 @@
             "country": "Netherlands Amateur",
             "home": "RBC Roosendaal",
             "away": "SVV Scheveningen",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 49'(A)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -1715,7 +1772,7 @@
             "home": "SV Meerssen",
             "away": "VV Kloetinge",
             "score": "1 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 17'(A)",
                 "Unknown 13'(H)"
@@ -1727,8 +1784,32 @@
             "country": "Netherlands Amateur",
             "home": "VV UNA",
             "away": "VV Zwaluwen",
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 48'(A)"
+            ]
+        },
+        {
+            "start_time": "17:00",
+            "league": "1e Klasse D Zuid 1",
+            "country": "Netherlands Amateur",
+            "home": "SV Avanti '31",
+            "away": "SVL Langbroek",
+            "score": "1 - 0",
+            "minute": "Started",
+            "scorers": [
+                "Unknown -1'(H)"
+            ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "1e Klasse D Zuid 1",
+            "country": "Netherlands Amateur",
+            "home": "SC Bemmel",
+            "away": "VV de Bataven",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "Started",
             "scorers": []
         },
         {
@@ -1742,95 +1823,65 @@
             "scorers": []
         },
         {
-            "start_time": "14:00",
-            "league": "Nigeria National League - Group A",
-            "country": "Nigeria",
-            "home": "Abia Comets",
-            "away": "Sunshine Stars",
-            "score": "0 - 2",
-            "minute": "2nd half",
+            "start_time": "17:00",
+            "league": "1e Klasse C West 2",
+            "country": "Netherlands Amateur",
+            "home": "SC Kruisland",
+            "away": "SV Heinenoord",
+            "score": "1 - 0",
+            "minute": "Started",
             "scorers": [
-                "Unknown 83'(A)",
-                "Unknown 65'(A)"
+                "Unknown 37'(H)"
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "U19 CLJ",
+            "start_time": "18:30",
+            "league": "I liga",
             "country": "Poland",
-            "home": "Polonia Warszawa U19",
-            "away": "\u015al\u0105sk Wroc\u0142aw U19",
+            "home": "Pogo\u0144 Grodzisk Mazowiecki",
+            "away": "Polonia Bytom",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "15:30",
-            "league": "Puchar Polski K-PZPN",
+            "start_time": "18:30",
+            "league": "I liga",
+            "country": "Poland",
+            "home": "\u0141KS \u0141\u00f3d\u017a",
+            "away": "Mied\u017a Legnica",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "I liga",
+            "country": "Poland",
+            "home": "\u015al\u0105sk Wroc\u0142aw",
+            "away": "Chrobry G\u0142og\u00f3w",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "17:30",
+            "league": "Puchar Polski WZPN",
             "country": "Poland Amateur",
-            "home": "KS Unia Solec Kujawski",
-            "away": "KS Pogo\u0144 Mogilno",
-            "score": "1 - 1",
+            "home": "Polonia Chodzie\u017c",
+            "away": "Nielba W\u0105growiec",
+            "score": "1 - 0",
             "minute": "Started",
             "scorers": [
-                "Unknown -1'(A)",
                 "Unknown -1'(H)"
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "Puchar Polski ZZPN - Szczecin",
+            "start_time": "18:00",
+            "league": "Puchar Polski WZPN",
             "country": "Poland Amateur",
-            "home": "MKS Kotwica Ko\u0142obrzeg",
-            "away": "Mechanik Bobolice",
-            "score": "4 - 1",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 85'(H)",
-                "Unknown 85'(A)",
-                "Unknown 85'(H)",
-                "Unknown 85'(H)",
-                "Unknown 85'(H)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Poland Friendly Games",
-            "country": "Poland Amateur",
-            "home": "Ba\u0142tyk Gdynia",
-            "away": "MKS W\u0142adys\u0142awowo",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Poland Friendly Games",
-            "country": "Poland Amateur",
-            "home": "RKS Mazur Radzymin",
-            "away": "LKS Stal \u0141a\u0144cut",
-            "score": "0 - 1",
-            "minute": "Started",
-            "scorers": [
-                "Karol Wojty\u0142o -1'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Poland Friendly Games",
-            "country": "Poland Amateur",
-            "home": "Zawisza Grzmi\u0105ca",
-            "away": "MKS Start Miastko",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Poland Friendly Games",
-            "country": "Poland Amateur",
-            "home": "MKS Bytovia II Byt\u00f3w",
-            "away": "B\u0142\u0119kitni Motarzyno",
+            "home": "Wiara Lecha Pozna\u0144",
+            "away": "KLKS Zefka Kobyla G\u00f3ra",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -1841,9 +1892,10 @@
             "country": "Poland Amateur",
             "home": "MKS \u0141ucznik Strzelce Kraje\u0144skie",
             "away": "KS Pogo\u0144 Skwierzyna",
-            "score": "3 - 0",
+            "score": "4 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Adam Jastrz\u0119bski 79'(H)",
                 "Jakub M\u0142ynarz 43'(H)",
                 "Mateusz Biega\u0144ski 25'(H)",
                 "Kacper  Kalinowski 20'(H)"
@@ -1860,76 +1912,68 @@
             "scorers": []
         },
         {
+            "start_time": "18:00",
+            "league": "Liga Portugal 2",
+            "country": "Portugal",
+            "home": "Uni\u00e3o de Leiria",
+            "away": "Portimonense SAD",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "17:00",
             "league": "Liga 3, Promotion Round",
             "country": "Portugal",
             "home": "Acad\u00e9mica Coimbra",
             "away": "UD Santar\u00e9m",
-            "score": "2 - 0",
-            "minute": "Halftime",
+            "score": "3 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Cuba 58'(H)",
                 "Beni Souza 31'(H)",
                 "Marcos Paulo Gomes 3'(H)"
             ]
         },
         {
-            "start_time": "16:00",
-            "league": "Liga 3, Relegation Round, Group 2",
-            "country": "Portugal",
-            "home": "Caldas SC",
-            "away": "Amora FC",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Dani Fernandes 80'(H)",
-                "Jos\u00e9 Gata 61'(H)",
-                "Jo\u00e3o Oliveira 26'(A)"
-            ]
-        },
-        {
-            "start_time": "15:30",
-            "league": "A.F. Aveiro 1\u00aa Divis\u00e3o - Zona Norte",
+            "start_time": "18:00",
+            "league": "A.F. Algarve - 2\u00aa Liga - 2\u00aa Fase - Apuramento Campe\u00e3o",
             "country": "Portugal Amateur",
-            "home": "AD Nogueira Regedoura",
-            "away": "AD Argoncilhe",
+            "home": "GD Lagoa B",
+            "away": "GDR Alvorense",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "A.F. Madeira 1\u00b0 Divis\u00e3o Regional",
+            "start_time": "18:00",
+            "league": "A.F. Algarve - 2\u00aa Liga - 2\u00aa Fase - Apuramento Campe\u00e3o",
             "country": "Portugal Amateur",
-            "home": "C.S. Juventude de Gaula",
-            "away": "ADRC \"Os Xavelhas\" B",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "S\u00e9rgio Rocha 35'(H)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "A.F. Madeira 1\u00b0 Divis\u00e3o Regional",
-            "country": "Portugal Amateur",
-            "home": "CD 1\u00b0 de Maio B",
-            "away": "Mar\u00edtimo B",
+            "home": "Portimonense SC B",
+            "away": "Quarteira SC",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "A.F. Madeira 1\u00b0 Divis\u00e3o Regional",
+            "start_time": "18:00",
+            "league": "A.F. Algarve - 2\u00aa Liga - 2\u00aa Fase - Apuramento Campe\u00e3o",
             "country": "Portugal Amateur",
-            "home": "CF Carvalheiro",
-            "away": "GRC Canicense",
-            "score": "0 - 2",
+            "home": "UDR Sambrasense",
+            "away": "Guia FC",
+            "score": "0 - 0",
             "minute": "Started",
-            "scorers": [
-                "Unknown 56'(A)",
-                "Unknown 56'(A)"
-            ]
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "A.F. Braga Pro-nacional",
+            "country": "Portugal Amateur",
+            "home": "GD Selho",
+            "away": "AD Esposende",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -1942,11 +1986,21 @@
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "Liga INATEL Beja, Serie C",
+            "start_time": "18:30",
+            "league": "U18 A.F. Beja Ta\u00e7a Distrital",
             "country": "Portugal Amateur",
-            "home": "CDR Porto C\u00f4vo",
-            "away": "GD Santa Cruz",
+            "home": "CCD Bairro da Concei\u00e7\u00e3o U18",
+            "away": "CD Beja U18",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "U18 A.F. Beja Ta\u00e7a Distrital",
+            "country": "Portugal Amateur",
+            "home": "Moura AC U18",
+            "away": "SC Mineiro Aljustrelense U18",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -1960,23 +2014,19 @@
             "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 47'(A)",
+                "Laura Lu\u00eds 47'(A)",
                 "Ana Assucena 20'(H)"
             ]
         },
         {
-            "start_time": "15:00",
-            "league": "Lowland League",
-            "country": "Scotland Amateur",
-            "home": "Cowdenbeath",
-            "away": "Linlithgow Rose",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 69'(A)",
-                "Unknown 36'(A)",
-                "Unknown 30'(H)"
-            ]
+            "start_time": "18:00",
+            "league": "Second Division League - Group 2",
+            "country": "Saudi Arabia",
+            "home": "Hajer",
+            "away": "Al-Ghota",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -1985,7 +2035,7 @@
             "home": "AS Dakar Sacr\u00e9-C\u0153ur",
             "away": "AS Camberene",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -2031,119 +2081,22 @@
             "country": "Senegal",
             "home": "UCST Port",
             "away": "Oslo FA",
-            "score": "0 - 0",
+            "score": "2 - 0",
             "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:15",
-            "league": "Sierra Leone National Premier League",
-            "country": "Sierra Leone",
-            "home": "Kamboi Eagles FC",
-            "away": "Bhantal FC",
-            "score": "0 - 2",
-            "minute": "2nd half",
             "scorers": [
-                "Unknown 19'(A)",
-                "Unknown 8'(A)"
+                "Unknown 36'(H)",
+                "Unknown 26'(H)"
             ]
         },
         {
-            "start_time": "16:15",
-            "league": "Sierra Leone National Premier League",
-            "country": "Sierra Leone",
-            "home": "Luawa FC",
-            "away": "Wilberforce Strikers FC",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:15",
-            "league": "Sierra Leone National Premier League",
-            "country": "Sierra Leone",
-            "home": "SLIFA Mount Aureol FC",
-            "away": "Old Edwardians FC",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:30",
-            "league": "PrvaLiga",
-            "country": "Slovenia",
-            "home": "NK Maribor",
-            "away": "Kalcer Radomlje",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Jasa Martin\u010di\u010d 40'(A)",
-                "Nejc Viher 31'(H)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "2nd SNL",
-            "country": "Slovenia",
-            "home": "Brinje Grosuplje",
-            "away": "Ilirija 1911",
-            "score": "3 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 89'(H)",
-                "Unknown 88'(H)",
-                "Unknown 49'(A)",
-                "Unknown 33'(H)",
-                "Unknown 5'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
+            "start_time": "18:00",
             "league": "Tercera Federaci\u00f3n, Group 4",
             "country": "Spain Amateur",
-            "home": "Lagun Onak",
-            "away": "SD Deusto",
+            "home": "A\u00f1orga KKE",
+            "away": "SD Leioa",
             "score": "0 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Tercera Federaci\u00f3n, Group 4",
-            "country": "Spain Amateur",
-            "home": "SCD Durango",
-            "away": "CD Aurrer\u00e1 De Vitoria",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unai Arieta 57'(H)",
-                "Unknown 40'(A)",
-                "Unknown 16'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Tercera Federaci\u00f3n, Group 8",
-            "country": "Spain Amateur",
-            "home": "Arandina CF",
-            "away": "CD Colegios Diocesanos",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Tercera Federaci\u00f3n, Group 8",
-            "country": "Spain Amateur",
-            "home": "Palencia",
-            "away": "CD Guijuelo",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 83'(H)",
-                "Unknown 71'(A)",
-                "\u00c1lex Garc\u00eda 15'(A)"
-            ]
         },
         {
             "start_time": "17:00",
@@ -2152,7 +2105,7 @@
             "home": "CD Martos",
             "away": "Atl\u00e9tico Porcuna CF",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 20'(A)"
             ]
@@ -2164,84 +2117,9 @@
             "home": "Cp Mijas-Las Lagunas",
             "away": "CD Torreperogil",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 3'(A)"
-            ]
-        },
-        {
-            "start_time": "16:15",
-            "league": "Tercera Federaci\u00f3n, Group 10",
-            "country": "Spain Amateur",
-            "home": "AD Ceuta B",
-            "away": "C\u00e1diz B",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Tercera Federaci\u00f3n, Group 11",
-            "country": "Spain Amateur",
-            "home": "CD Son Cladera",
-            "away": "Platges De Calvi\u00e1",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 22'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Tercera Federaci\u00f3n, Group 11",
-            "country": "Spain Amateur",
-            "home": "SD Portmany",
-            "away": "CD Cardassar",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Tercera Federaci\u00f3n, Group 11",
-            "country": "Spain Amateur",
-            "home": "UD Collerense",
-            "away": "Inter Ibiza CD",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 77'(A)",
-                "Unknown 43'(H)",
-                "Unknown 31'(A)"
-            ]
-        },
-        {
-            "start_time": "16:30",
-            "league": "Tercera Federaci\u00f3n, Group 11",
-            "country": "Spain Amateur",
-            "home": "UD Rotlet Molinar",
-            "away": "CD Llosetense",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 57'(H)",
-                "Unknown 52'(A)",
-                "Unknown 16'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Tercera Federaci\u00f3n, Group 12",
-            "country": "Spain Amateur",
-            "home": "Tenerife C",
-            "away": "CD Herbania",
-            "score": "3 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 48'(H)",
-                "Unknown 43'(H)",
-                "Unknown 36'(H)",
-                "Unknown 25'(A)"
             ]
         },
         {
@@ -2257,16 +2135,6 @@
             ]
         },
         {
-            "start_time": "15:30",
-            "league": "Divisi\u00f3n de Honor Guip\u00fazcoa",
-            "country": "Spain Amateur",
-            "home": "Urola KE",
-            "away": "Zumaiako FT",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "16:30",
             "league": "Primera Regional Guip\u00fazcoa - Grupo de Ascenso 1",
             "country": "Spain Amateur",
@@ -2277,18 +2145,54 @@
             "scorers": []
         },
         {
-            "start_time": "14:00",
-            "league": "Preferente Castilla y Le\u00f3n - Grupo B",
+            "start_time": "18:00",
+            "league": "Primera Regional Guip\u00fazcoa - Copa, Grupo 4",
             "country": "Spain Amateur",
-            "home": "La Cist\u00e9rniga C.F.",
-            "away": "S.D. Ponferradina S.A.D. \u201cB\u201d",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 71'(H)",
-                "Unknown 58'(H)",
-                "Unknown 23'(A)"
-            ]
+            "home": "UD Aretxabaleta KE C",
+            "away": "CD Elgoibar B",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:00",
+            "league": "Tercera Catalana - Grupo 4",
+            "country": "Spain Amateur",
+            "home": "CF Folgueroles",
+            "away": "AE Corc\u00f3",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:15",
+            "league": "Tercera Catalana - Grupo 5",
+            "country": "Spain Amateur",
+            "home": "Caldes Montbui B",
+            "away": "CD Montorn\u00e9s Norte",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:30",
+            "league": "Tercera Catalana - Grupo 5",
+            "country": "Spain Amateur",
+            "home": "CF Parets B",
+            "away": "CE Llerona",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "18:15",
+            "league": "Tercera Catalana - Grupo 7",
+            "country": "Spain Amateur",
+            "home": "Escuela F. Base Ripollet",
+            "away": "Can Parellada",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -2321,44 +2225,11 @@
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "Tercera Catalana - Grupo 13",
-            "country": "Spain Amateur",
-            "home": "Canyelles Assoc.Esp.",
-            "away": "Cubelles CF B",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
             "start_time": "17:00",
             "league": "Tercera Catalana - Grupo 13",
             "country": "Spain Amateur",
             "home": "CD Ribes",
             "away": "Base Espirall-Les Clotes",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "16:00",
-            "league": "Svenska Cupen, Group 4",
-            "country": "Sweden",
-            "home": "Degerfors IF",
-            "away": "\u00d6stersunds FK",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Sebastian Ohlsson 60'(H)",
-                "Abel Stensrud 56'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Sweden Friendly Games",
-            "country": "Sweden Amateur",
-            "home": "Helges IF",
-            "away": "Hudiksvalls FF",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -2370,64 +2241,30 @@
             "home": "FC Stade-Lausanne-Ouchy",
             "away": "\u00c9toile Carouge FC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
-            "start_time": "16:00",
-            "league": "Erste Liga Classic - Gruppe 1",
+            "start_time": "18:00",
+            "league": "Promotion League",
+            "country": "Switzerland",
+            "home": "FC Lausanne-Sports II U21",
+            "away": "SC Cham",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Laurin Vogele 14'(A)"
+            ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "2e Ligue ACGF",
             "country": "Switzerland Amateur",
-            "home": "FC Amical Saint-Prex",
-            "away": "Servette II U21",
-            "score": "2 - 1",
+            "home": "FC Grand-Saconnex II",
+            "away": "FC Veyrier Sports",
+            "score": "0 - 0",
             "minute": "Started",
-            "scorers": [
-                "Unknown 34'(H)",
-                "Unknown 28'(H)",
-                "Romeo Philippin 16'(A)"
-            ]
-        },
-        {
-            "start_time": "15:00",
-            "league": "Erste Liga Classic - Gruppe 2",
-            "country": "Switzerland Amateur",
-            "home": "FC Sch\u00f6tz",
-            "away": "Grasshopper Club Z\u00fcrich II U21",
-            "score": "2 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 82'(A)",
-                "Unknown 52'(H)",
-                "Unknown 45'(H)",
-                "Unknown 40'(A)"
-            ]
-        },
-        {
-            "start_time": "16:00",
-            "league": "Erste Liga Classic - Gruppe 2",
-            "country": "Switzerland Amateur",
-            "home": "SR Delemont",
-            "away": "FC Solothurn",
-            "score": "1 - 2",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 26'(A)",
-                "Unknown 12'(A)",
-                "Unknown 7'(H)"
-            ]
-        },
-        {
-            "start_time": "15:30",
-            "league": "Erste Liga Classic - Gruppe 3",
-            "country": "Switzerland Amateur",
-            "home": "AC Taverne",
-            "away": "FC Tuggen",
-            "score": "0 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 75'(A)",
-                "Unknown 17'(A)"
-            ]
+            "scorers": []
         },
         {
             "start_time": "17:00",
@@ -2448,6 +2285,32 @@
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
+        },
+        {
+            "start_time": "17:30",
+            "league": "3a. Lega FTC - Gruppo 2",
+            "country": "Switzerland Amateur",
+            "home": "GC Carassesi",
+            "away": "Moesano Calcio",
+            "score": "2 - 0",
+            "minute": "Started",
+            "scorers": [
+                "Unknown 38'(H)",
+                "Unknown 35'(H)"
+            ]
+        },
+        {
+            "start_time": "18:00",
+            "league": "Pro League",
+            "country": "Trinidad and Tobago",
+            "home": "Point Fortin FC",
+            "away": "AC Port Of Spain",
+            "score": "1 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 19'(A)",
+                "Unknown 14'(H)"
+            ]
         },
         {
             "start_time": "17:00",
@@ -2474,13 +2337,23 @@
             ]
         },
         {
+            "start_time": "18:30",
+            "league": "Kilis 1. Amat\u00f6r Ligi",
+            "country": "Turkey Amateur",
+            "home": "T\u00fcrkmeneli SK",
+            "away": "Ayata 79 Spor",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "17:30",
             "league": "U23 Pro League",
             "country": "United Arab Emirates",
             "home": "AL Ain FC U23",
             "away": "Khorfakkan U23",
-            "score": "0 - 0",
-            "minute": "1st half",
+            "score": "1 - 0",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -2489,10 +2362,12 @@
             "country": "United Arab Emirates",
             "home": "Al-Nasr Dubai U23",
             "away": "Dibba Al Fujairah U23",
-            "score": "2 - 0",
-            "minute": "1st half",
+            "score": "3 - 1",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 23'(H)",
+                "Unknown 42'(H)",
+                "Unknown 35'(A)",
+                "Unknown 22'(H)",
                 "Unknown 13'(H)"
             ]
         },
@@ -2502,9 +2377,10 @@
             "country": "United Arab Emirates",
             "home": "Baniyas U23",
             "away": "Al Bataeh U23",
-            "score": "2 - 0",
-            "minute": "1st half",
+            "score": "3 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 29'(H)",
                 "Unknown 13'(H)",
                 "Unknown 11'(H)"
             ]
@@ -2515,9 +2391,11 @@
             "country": "Wales",
             "home": "The New Saints",
             "away": "Barry Town",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Ieuan Owen 43'(A)"
+            ]
         }
     ]
 }
