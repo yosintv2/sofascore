@@ -2,22 +2,35 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 03:10 | Mexico | Club América vs Tigres UANL | **0 - 2** | `1st half` | Jesús Angulo 23'(A), Juan Brunetta 4'(A) |
-| 02:30 | USA | Vancouver Whitecaps vs Toronto FC | **3 - 0** | `2nd half` | Brian White 45'(H), Thomas Müller 37'(H), Thomas Müller 25'(H) |
-| 03:30 | USA | LA Galaxy vs Charlotte FC | **0 - 0** | `1st half` | --- |
-| 02:00 | Australia | Wellington Phoenix vs Sydney FC | **0 - 1** | `2nd half` | Alexandar Popovic 49'(A) |
-| 02:00 | Australia | Melbourne Victory U20 vs Avondale FC | **3 - 2** | `2nd half` | Unknown 74'(H), Unknown 39'(A), Unknown 18'(A), Unknown 15'(H), Unknown 9'(H) |
-| 03:00 | Australia | Western United Reserves Youth vs Manningham United Blues | **3 - 1** | `1st half` | Unknown 23'(A), Unknown 15'(H), Unknown 11'(H), Unknown 4'(H) |
-| 02:00 | Australia | Blacktown City FC U20 vs Sutherland Sharks U20 | **3 - 2** | `2nd half` | Unknown 24'(H), Unknown 11'(H) |
-| 02:00 | Australia | Heidelberg United FC U23 vs Dandenong City SC U23 | **1 - 2** | `2nd half` | Unknown 62'(A), Unknown 55'(A), Unknown 16'(H) |
-| 03:30 | Australia | St George FC U23 vs Newcastle Jet U23 | **0 - 0** | `1st half` | --- |
-| 01:00 | Colombia Amateur | Los Primos FC vs Renco - Sangox FC | **1 - 1** | `2nd half` | Unknown 79'(A), Santiago Suaterna 24'(H) |
-| 02:00 | Costa Rica | Herediano vs Municipal Pérez Zeledón | **3 - 0** | `2nd half` | Ronaldo Araya 30'(H), Everardo Rubio 21'(H) |
-| 03:00 | Fiji | Nadi FC vs Suva FC | **0 - 0** | `Started` | --- |
-| 02:00 | Guatemala | Deportivo Malacateco vs Antigua GFC | **1 - 2** | `2nd half` | Ángel López 72'(H), Agustín Maziero 37'(A), Santiago Garzaro 21'(A) |
-| 02:00 | Guatemala | Tigres del Jumay vs CD Sansare | **0 - 2** | `2nd half` | Unknown 63'(A), Unknown 39'(A) |
-| 02:00 | Mexico | Caballeros de Cordoba vs Montañeses II FC | **1 - 0** | `2nd half` | Unknown 53'(H) |
-| 03:00 | Philippines | Mayari Development vs Philippines Luzviminda Pearl | **0 - 9** | `1st half` | Fredson Carvalho 41'(A), Fredson Carvalho 35'(A), Fredson Carvalho 32'(A), Magting Salonga 28'(A), Fredson Carvalho 23'(A), Fredson Carvalho 18'(A), Magting Salonga 12'(A), Fredson Carvalho 7'(A), Fredson Carvalho 4'(A) |
-| 01:30 | Tahiti | AS Tamarii Tapuhute vs AS Mira | **0 - 0** | `Started` | --- |
-| 01:30 | Tahiti | AS Tefana vs AS Tohie'a FC | **0 - 0** | `Started` | --- |
-| 01:30 | Turks and Caicos Islands | Teachers Young Strikers FC vs Flamingo FC | **0 - 0** | `Started` | --- |
+| 03:10 | Mexico | Club América vs Tigres UANL | **1 - 3** | `2nd half` | Ángel Correa 70'(A), Brian Rodríguez 69'(H), Jesús Angulo 23'(A), Juan Brunetta 4'(A) |
+| 03:30 | USA | LA Galaxy vs Charlotte FC | **3 - 0** | `2nd half` | João Klauss 13'(H), João Klauss 11'(H), Lucas Sanabria 8'(H) |
+| 05:00 | South Korea | Jeonbuk Hyundai Motors vs Bucheon FC 1995 | **0 - 0** | `1st half` | --- |
+| 05:00 | South Korea | Cheongju FC vs Suwon FC | **1 - 0** | `1st half` | Mender García 4'(H) |
+| 05:00 | South Korea | Daegu FC vs Hwaseong FC | **1 - 0** | `1st half` | Unknown 9'(H) |
+| 05:00 | South Korea | Yongin City FC vs Cheonan City FC | **0 - 0** | `1st half` | --- |
+| 04:00 | Australia | Blacktown City vs Sutherland Sharks | **1 - 0** | `Halftime` | Unknown 45'(H) |
+| 04:00 | Australia | Melbourne City U21 vs Preston Lions FC | **0 - 2** | `2nd half` | Jason Romero 45'(A), Ayden Brice 45'(A) |
+| 03:30 | Australia | St George FC U23 vs Newcastle Jet U23 | **0 - 1** | `2nd half` | Unknown 18'(A) |
+| 04:00 | Australia | Blacktown Spartans U23 vs Inter Lions U23 | **0 - 0** | `Halftime` | --- |
+| 04:00 | Australia | Marconi Stallions U23 vs South Coast Flame FC U23 | **1 - 1** | `Halftime` | Unknown 39'(A), Unknown 17'(H) |
+| 04:00 | Australia | Sutherland Strikers U23 vs Central Coast Mariners U23 | **0 - 2** | `Halftime` | Unknown 44'(A), Unknown 1'(A) |
+| 04:00 | Australia | Charlestown Azzurri Reserves vs Newcastle Olympic Reserves | **0 - 1** | `2nd half` | Unknown 24'(A) |
+| 04:00 | Australia | Maitland Reserve vs New Lambton Reserves | **0 - 0** | `2nd half` | --- |
+| 04:00 | Australia | Belmont Swansea United FC Reserves vs Cooks Hill United Reserves | **0 - 2** | `2nd half` | Unknown 20'(A) |
+| 04:00 | Australia | Charlestown Azzurri FC Reserves vs Newcastle Olympic Reserve | **0 - 2** | `2nd half` | Unknown 55'(A), Unknown 24'(A) |
+| 03:45 | Australia | Olympic FC U23 vs Wynnum Wolves FC U23 | **1 - 1** | `2nd half` | Unknown 38'(A), Unknown 23'(H) |
+| 04:30 | Australia | Elizabeth Grove vs Western Strikers | **0 - 1** | `1st half` | Unknown 22'(A) |
+| 04:00 | Australia Amateur | Murray United vs Doncaster Rovers SC | **0 - 0** | `2nd half` | --- |
+| 03:00 | Fiji | Nadi FC vs Suva FC | **1 - 0** | `Started` | Unknown -1'(H) |
+| 05:00 | Japan | Fagiano Okayama vs Nagoya Grampus | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | SC Sagamihara vs Montedio Yamagata | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | Tochigi SC vs Yokohama FC | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | Iwaki FC vs Fujieda MYFC | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | FC Imabari vs Albirex Niigata | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | Kochi United SC vs Nara Club | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | Zweigen Kanazawa vs Kamatamare Sanuki | **0 - 0** | `1st half` | --- |
+| 04:00 | Japan | Renofa Yamaguchi FC vs Gainare Tottori | **0 - 0** | `2nd half` | --- |
+| 04:00 | Japan | Roasso Kumamoto vs Oita Trinita | **2 - 0** | `2nd half` | Jeong-Min Bae 45'(H) |
+| 05:00 | Japan | Nippon TV Tokyo Verdy Beleza vs Mynavi Vegalta Sendai | **0 - 0** | `1st half` | --- |
+| 05:00 | Japan | Urawa Red Diamonds Ladies vs Albirex Niigata | **0 - 0** | `1st half` | --- |
+| 03:00 | Philippines | Mayari Development vs Philippines Luzviminda Pearl | **1 - 22** | `2nd half` | Fredson Carvalho 90'(A), Fredson Carvalho 90'(A), Fredson Carvalho 90'(A), Unknown 87'(H), Fredson Carvalho 85'(A), Isaiah Toribio 79'(A), Bryan Mattew 73'(A), Magting Salonga 69'(A), Fredson Carvalho 64'(A), Fredson Carvalho 60'(A), Nathaniel Ramos 51'(A), Fredson Carvalho 47'(A), Diosdado Macaraeg 45'(A), Fredson Carvalho 45'(A), Fredson Carvalho 41'(A), Fredson Carvalho 35'(A), Fredson Carvalho 32'(A), Magting Salonga 28'(A), Fredson Carvalho 23'(A), Fredson Carvalho 18'(A), Magting Salonga 12'(A), Fredson Carvalho 7'(A), Fredson Carvalho 4'(A) |
