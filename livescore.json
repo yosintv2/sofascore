@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-02 20:18:22 UTC"
+        "updated": "2026-03-02 20:55:12 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Udinese",
             "away": "Fiorentina",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Christian Kabasele 10'(H)"
             ]
@@ -22,9 +22,11 @@
             "country": "Spain",
             "home": "Real Madrid",
             "away": "Getafe",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Mart\u00edn Satriano 39'(A)"
+            ]
         },
         {
             "start_time": "20:15",
@@ -32,9 +34,11 @@
             "country": "Portugal",
             "home": "Gil Vicente",
             "away": "Benfica",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Vangelis Pavlidis 35'(A)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -42,9 +46,10 @@
             "country": "England",
             "home": "Birmingham City",
             "away": "Middlesbrough",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "0 - 2",
+            "minute": "Halftime",
             "scorers": [
+                "Matt Targett 26'(A)",
                 "Matt Targett 13'(A)"
             ]
         },
@@ -65,7 +70,7 @@
             "home": "C\u00f3rdoba",
             "away": "FC Andorra",
             "score": "0 - 3",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Min-su Kim 30'(A)",
                 "Josep Cerd\u00e0 15'(A)",
@@ -78,9 +83,11 @@
             "country": "France",
             "home": "Amiens SC",
             "away": "Troyes",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Kandet Diawara 52'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -100,9 +107,11 @@
             "country": "Egypt",
             "home": "Al-Ittihad Alexandria",
             "away": "Ghazl El Mahalla FC",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Abubakar Liday 56'(H)"
+            ]
         },
         {
             "start_time": "19:30",
@@ -110,8 +119,8 @@
             "country": "Egypt",
             "home": "Pharco FC",
             "away": "Ismailia Electricity Club",
-            "score": "1 - 1",
-            "minute": "1st half",
+            "score": "0 - 1",
+            "minute": "2nd half",
             "scorers": [
                 "Benjamin Bernard Boateng 19'(A)"
             ]
@@ -123,8 +132,23 @@
             "home": "St. Patrick's Athletic",
             "away": "Galway United",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
+        },
+        {
+            "start_time": "20:30",
+            "league": "International Friendly Games, Women",
+            "country": "World",
+            "home": "Egypt",
+            "away": "Algeria",
+            "score": "2 - 2",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 62'(A)",
+                "Unknown 49'(H)",
+                "Unknown 37'(H)",
+                "M\u00e9linne D'oria 34'(A)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -133,23 +157,9 @@
             "home": "Bermuda U20",
             "away": "Costa Rica U20",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 15'(A)"
-            ]
-        },
-        {
-            "start_time": "19:00",
-            "league": "CONCACAF W Championship qualification, Group A",
-            "country": "North & Central America",
-            "home": "Saint Lucia",
-            "away": "Mexico",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 52'(A)",
-                "Charlyn Corral 26'(A)",
-                "Rebeca Bernal 18'(A)"
+                "Yamil Leal 15'(A)"
             ]
         },
         {
@@ -158,9 +168,10 @@
             "country": "Italy",
             "home": "Treviso",
             "away": "Union Clodiense",
-            "score": "2 - 0",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 59'(A)",
                 "Daniel Perin 52'(H)",
                 "Robert Gucher 20'(H)"
             ]
@@ -172,7 +183,7 @@
             "home": "Central Ballester",
             "away": "Leones de Rosario FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -181,9 +192,12 @@
             "country": "Argentina",
             "home": "CA Independiente Reserve",
             "away": "Central Cordoba Reserve",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "2 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 42'(H)",
+                "Unknown 32'(H)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -191,9 +205,11 @@
             "country": "Argentina",
             "home": "Defensa y Justicia Reserve",
             "away": "Lan\u00fas Reserve",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Valent\u00edn Loza 23'(H)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -201,9 +217,12 @@
             "country": "Argentina",
             "home": "Gimnasia y Esgrima Reserve",
             "away": "Argentinos Juniors Reserve",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 45'(H)",
+                "Unknown 45'(A)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -212,7 +231,7 @@
             "home": "Newell's Old Boys Reserve",
             "away": "Col\u00f3n Reserve",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -222,7 +241,7 @@
             "home": "Uni\u00f3n Santa Fe Reserve",
             "away": "Sarmiento Reserve",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -231,9 +250,11 @@
             "country": "Bosnia & Herzegovina",
             "home": "FK \u017deljezni\u010dar",
             "away": "H\u0160K Zrinjski Mostar",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Tomi Juri\u0107 23'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -266,23 +287,14 @@
             "country": "England Amateur",
             "home": "West Bromwich Albion U21",
             "away": "Derby County U21",
-            "score": "1 - 1",
+            "score": "4 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Eseosa Sule 75'(H)",
+                "Remar McNeil 66'(H)",
+                "Remar McNeil 61'(H)",
                 "Eseosa Sule 45'(H)",
                 "Owen Eames 8'(A)"
-            ]
-        },
-        {
-            "start_time": "19:00",
-            "league": "U21 Professional Development League",
-            "country": "England Amateur",
-            "home": "Swansea City U21",
-            "away": "Queens Park Rangers U21",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Morgan Bates 54'(H)"
             ]
         },
         {
@@ -291,40 +303,12 @@
             "country": "England Amateur",
             "home": "Swindon Supermarine FC",
             "away": "Shaftesbury",
-            "score": "2 - 0",
-            "minute": "1st half",
+            "score": "2 - 1",
+            "minute": "Halftime",
             "scorers": [
+                "Alefe Santos 42'(A)",
+                "Unknown 33'(H)",
                 "Unknown 1'(H)"
-            ]
-        },
-        {
-            "start_time": "18:15",
-            "league": "Suomen Cup - Alkukierrokset",
-            "country": "Finland Amateur",
-            "home": "\u00c5IFK/2",
-            "away": "AFC Campus",
-            "score": "4 - 3",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 90'(H)",
-                "Unknown 82'(A)",
-                "Unknown 71'(H)",
-                "Unknown 52'(H)",
-                "Unknown 48'(A)",
-                "Unknown 25'(H)",
-                "Unknown 22'(A)"
-            ]
-        },
-        {
-            "start_time": "19:00",
-            "league": "NB II",
-            "country": "Hungary",
-            "home": "B\u00e9k\u00e9scsaba 1912 El\u0151re",
-            "away": "Videoton FC Feh\u00e9rv\u00e1r",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "D\u00e1niel N\u00e9meth 58'(A)"
             ]
         },
         {
@@ -335,19 +319,22 @@
             "away": "Al Mosul SC",
             "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Brayan Riascos 21'(H)"
+            ]
         },
         {
-            "start_time": "19:00",
+            "start_time": "20:00",
             "league": "Kings League Italy",
             "country": "Italy Amateur",
-            "home": "Gear7 FC",
-            "away": "FC Caesar",
-            "score": "1 - 1",
-            "minute": "2nd half",
+            "home": "Zebras FC",
+            "away": "Stallions",
+            "score": "1 - 2",
+            "minute": "1st half",
             "scorers": [
-                "Roberto Ratti 15'(A)",
-                "Valerio Anane 1'(H)"
+                "Alessandro Colombo 3'(A)",
+                "Samuele Guddo 2'(A)",
+                "Alberto Calabr\u00f2 1'(H)"
             ]
         },
         {
@@ -361,27 +348,16 @@
             "scorers": []
         },
         {
-            "start_time": "18:45",
-            "league": "Jordan League",
-            "country": "Jordan",
-            "home": "Shabab Al-Ordon",
-            "away": "Al-Jazeera Jordan",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 45'(H)",
-                "Unknown 36'(A)"
-            ]
-        },
-        {
             "start_time": "19:45",
             "league": "NIFL Reserve League",
             "country": "Northern Ireland",
             "home": "Carrick Rangers Reserves",
             "away": "Bangor Reserve",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 50'(H)",
+                "Unknown 47'(H)",
                 "Unknown 19'(A)"
             ]
         },
@@ -391,15 +367,26 @@
             "country": "Northern Ireland",
             "home": "Linfield Swifts Reserves",
             "away": "Coleraine Reserves",
-            "score": "3 - 2",
-            "minute": "1st half",
+            "score": "4 - 2",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 29'(H)",
+                "Unknown 52'(H)",
+                "Unknown 28'(H)",
                 "Unknown 19'(H)",
-                "Unknown 17'(A)",
-                "Unknown 6'(H)",
+                "Unknown 16'(A)",
+                "Unknown 5'(H)",
                 "Unknown 4'(A)"
             ]
+        },
+        {
+            "start_time": "20:30",
+            "league": "Primera Fase, Grupo B",
+            "country": "Paraguay",
+            "home": "Atl\u00e9tico San Juan",
+            "away": "6 de Enero (Limpio)",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "19:30",
@@ -422,55 +409,20 @@
             "scorers": []
         },
         {
-            "start_time": "18:45",
-            "league": "Division 1",
-            "country": "Saudi Arabia",
-            "home": "Al Adalah",
-            "away": "Al Faisaly",
-            "score": "1 - 6",
-            "minute": "2nd half",
-            "scorers": [
-                "Luvannor Henrique 68'(A)",
-                "Eduardo Henrique 56'(A)",
-                "Romell Quioto 45'(A)",
-                "Morato 45'(A)",
-                "Luvannor Henrique 28'(A)",
-                "Raphael Silva 24'(A)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Division 1",
-            "country": "Saudi Arabia",
-            "home": "Al Arabi (SA)",
-            "away": "Jeddah",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Mohammed Al-Saiari 12'(A)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Division 1",
-            "country": "Saudi Arabia",
-            "home": "Al Jabalin",
-            "away": "Al Zulfi",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Ben Malango 61'(A)"
-            ]
-        },
-        {
             "start_time": "19:00",
             "league": "Diyarbak\u0131r S\u00fcper Amat\u00f6r Ligi - A Grubu",
             "country": "Turkey Amateur",
             "home": "Ba\u011flar Belediyespor",
             "away": "Diyarbak\u0131r 639 SK",
-            "score": "0 - 0",
+            "score": "5 - 0",
             "minute": "Started",
-            "scorers": []
+            "scorers": [
+                "Unknown 75'(H)",
+                "Unknown 70'(H)",
+                "Unknown 66'(H)",
+                "Unknown 56'(H)",
+                "Abdulsamed Tuncay 52'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -478,24 +430,14 @@
             "country": "Turkey Amateur",
             "home": "Diyarbak\u0131r DS\u0130",
             "away": "1903 Diyarbak\u0131r Kartal SK",
-            "score": "1 - 1",
+            "score": "2 - 3",
             "minute": "Started",
             "scorers": [
+                "Unknown 78'(A)",
+                "Unknown 61'(H)",
+                "Unknown 51'(A)",
                 "Unknown 26'(A)",
                 "Unknown 18'(H)"
-            ]
-        },
-        {
-            "start_time": "18:30",
-            "league": "Kilis 1. Amat\u00f6r Ligi",
-            "country": "Turkey Amateur",
-            "home": "Kilis Birlikg\u00fcc\u00fc",
-            "away": "Aslan Gen\u00e7likspor",
-            "score": "2 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 74'(H)",
-                "Unknown 23'(H)"
             ]
         },
         {
@@ -504,9 +446,11 @@
             "country": "Turkey Amateur",
             "home": "Kozaspor",
             "away": "D\u00fcmenspor",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Adem Akta\u015f 15'(A)"
+            ]
         },
         {
             "start_time": "20:00",
@@ -514,22 +458,11 @@
             "country": "Turkey Amateur",
             "home": "Balspor",
             "away": "Olympiakent FC",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "19:00",
-            "league": "ElitLigXL, Group B",
-            "country": "Turkey Amateur",
-            "home": "Yunus Emre SK",
-            "away": "Favela FC",
-            "score": "0 - 3",
+            "score": "1 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Ey\u00fcp S\u00fcha Ganer 41'(A)",
-                "Emir Karab\u00f6rek 39'(A)",
-                "Ey\u00fcp S\u00fcha Ganer 8'(A)"
+                "Sedat \u015eahin 60'(H)",
+                "Mert Aksu 21'(A)"
             ]
         }
     ]
