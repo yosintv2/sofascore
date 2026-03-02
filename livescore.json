@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-02 23:28:15 UTC"
+        "updated": "2026-03-02 23:51:24 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,11 @@
             "country": "North & Central America",
             "home": "US Virgin Islands U20",
             "away": "Nicaragua U20",
-            "score": "3 - 4",
+            "score": "3 - 6",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 90'(A)",
+                "Juban Uriarte 74'(A)",
                 "Mario Montenegro 51'(A)",
                 "Connor Bass 39'(H)",
                 "Connor Bass 35'(H)",
@@ -38,9 +40,11 @@
             "country": "Argentina",
             "home": "Estudiantes de La Plata",
             "away": "V\u00e9lez Sarsfield",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Flori\u00e1n Monz\u00f3n 58'(A)"
+            ]
         },
         {
             "start_time": "23:00",
@@ -49,7 +53,7 @@
             "home": "ADESG",
             "away": "Independ\u00eancia",
             "score": "0 - 2",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 19'(A)",
                 "Unknown 13'(A)"
@@ -71,9 +75,24 @@
             "country": "Brazil",
             "home": "Trem",
             "away": "CA Cristal",
-            "score": "0 - 0",
+            "score": "2 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Wanderson Gotinha 45'(H)",
+                "Unknown 42'(H)"
+            ]
+        },
+        {
+            "start_time": "23:00",
+            "league": "Carioca, Serie A, Relegation round",
+            "country": "Brazil",
+            "home": "Portuguesa-RJ",
+            "away": "Sampaio Corr\u00eaa-RJ",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Lohan 21'(H)"
+            ]
         },
         {
             "start_time": "22:00",
@@ -93,10 +112,23 @@
             "country": "Brazil",
             "home": "AA Altos",
             "away": "Atl\u00e9tico Piauiense",
-            "score": "0 - 1",
+            "score": "0 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Arthur Edeson 86'(A)",
                 "Unknown 66'(A)"
+            ]
+        },
+        {
+            "start_time": "23:30",
+            "league": "Liga de Ascenso",
+            "country": "Chile",
+            "home": "San Luis de Quillota",
+            "away": "Curic\u00f3 Unido",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Fabi\u00e1n Pastenes 12'(H)"
             ]
         },
         {
@@ -105,9 +137,15 @@
             "country": "Colombia Amateur",
             "home": "Positiva 1",
             "away": "Century media",
-            "score": "1 - 1",
-            "minute": "1st half",
+            "score": "6 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 31'(H)",
+                "Unknown 30'(H)",
+                "Unknown 28'(H)",
+                "Unknown 26'(H)",
+                "Harold Lozano 25'(A)",
+                "Edwin  Martinez 25'(H)",
                 "Unknown 10'(H)",
                 "Javier  Casta\u00f1eda 8'(A)"
             ]
@@ -118,9 +156,10 @@
             "country": "Jamaica",
             "home": "Molynes United FC",
             "away": "Harbour View FC",
-            "score": "2 - 1",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Rushane Thompson 83'(A)",
                 "Trayvon Reid 29'(A)",
                 "Nicholas Nelson 9'(H)",
                 "Unknown 6'(H)"
@@ -137,16 +176,41 @@
             "scorers": []
         },
         {
+            "start_time": "23:30",
+            "league": "Divisi\u00f3n de Honor, Apertura",
+            "country": "Paraguay",
+            "home": "Sportivo San Lorenzo",
+            "away": "Libertad",
+            "score": "0 - 2",
+            "minute": "1st half",
+            "scorers": [
+                "N\u00e9stor Gim\u00e9nez 18'(A)",
+                "Lorenzo Melgarejo 6'(A)"
+            ]
+        },
+        {
             "start_time": "23:00",
             "league": "Liga AUF Uruguaya, Apertura",
             "country": "Uruguay",
             "home": "Deportivo Maldonado",
             "away": "Juventud de Las Piedras",
-            "score": "0 - 1",
-            "minute": "1st half",
+            "score": "2 - 1",
+            "minute": "Halftime",
             "scorers": [
+                "Maximiliano Noble 38'(H)",
+                "Mat\u00edas Esp\u00edndola 30'(H)",
                 "Fernando Mimbacas 20'(A)"
             ]
+        },
+        {
+            "start_time": "23:30",
+            "league": "Gorditos League",
+            "country": "Venezuela Amateur",
+            "home": "Pesados FC",
+            "away": "Atl\u00e9tico Barrigones",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         }
     ]
 }
