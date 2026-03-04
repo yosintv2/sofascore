@@ -1,36 +1,31 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-04 09:23:48 UTC"
+        "updated": "2026-03-04 10:01:53 UTC"
     },
     "matches": [
+        {
+            "start_time": "10:00",
+            "league": "AFC Champions League Elite",
+            "country": "Asia",
+            "home": "FC Seoul",
+            "away": "Vissel Kobe",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
         {
             "start_time": "08:00",
             "league": "A-League Men",
             "country": "Australia",
             "home": "Macarthur FC",
             "away": "Central Coast Mariners",
-            "score": "0 - 1",
-            "minute": "Halftime",
-            "scorers": [
-                "Alfie McCalmont 37'(A)"
-            ]
-        },
-        {
-            "start_time": "08:00",
-            "league": "Club Friendly Games",
-            "country": "World",
-            "home": "Spartak-2 Moscow",
-            "away": "Beijing Institute of Technology",
-            "score": "4 - 2",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 60'(A)",
-                "Unknown 56'(H)",
-                "Unknown 41'(H)",
-                "Unknown 24'(H)",
-                "Unknown 23'(H)",
-                "Unknown 10'(A)"
+                "Anthony Caceres 67'(H)",
+                "Bailey Brandtman 65'(A)",
+                "Alfie McCalmont 37'(A)"
             ]
         },
         {
@@ -39,9 +34,12 @@
             "country": "World",
             "home": "FC Polissya-2 Zhytomyr",
             "away": "FC Chernihiv",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "2 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 45'(H)",
+                "Unknown 34'(H)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -49,34 +47,44 @@
             "country": "World",
             "home": "Andorra U16",
             "away": "San Marino U16",
+            "score": "0 - 2",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 35'(A)",
+                "Unknown 31'(A)"
+            ]
+        },
+        {
+            "start_time": "10:00",
+            "league": "AFC Champions League Two, Knockout stage",
+            "country": "Asia",
+            "home": "Gamba Osaka",
+            "away": "Ratchaburi",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "08:00",
-            "league": "OFC Pro League, Circuit Series",
-            "country": "Oceania",
-            "home": "South Melbourne FC",
-            "away": "Solomon Kings FC",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Maximilian Mikkola 51'(H)",
-                "Yuki Uchida 33'(H)"
-            ]
+            "start_time": "09:30",
+            "league": "A EPS Kefallinias-Ithakis",
+            "country": "Greece Amateur",
+            "home": "AO Samis",
+            "away": "AO Proodos Ithakis",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         },
         {
-            "start_time": "07:30",
-            "league": "Mumbai Premier League",
-            "country": "India",
-            "home": "Reliance FYC",
-            "away": "KSA Hope United",
-            "score": "0 - 2",
-            "minute": "2nd half",
+            "start_time": "09:30",
+            "league": "J2/J3 League, East A",
+            "country": "Japan",
+            "home": "SC Sagamihara",
+            "away": "Thespa Gunma",
+            "score": "2 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 71'(A)",
-                "Unknown 63'(A)"
+                "Unknown 29'(H)",
+                "Taira Maeda 17'(H)"
             ]
         },
         {
@@ -85,9 +93,24 @@
             "country": "Myanmar",
             "home": "Thitsar Arman FC",
             "away": "Ispe FC",
-            "score": "0 - 0",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Myat Phone Khant 40'(H)"
+            ]
+        },
+        {
+            "start_time": "09:30",
+            "league": "National League",
+            "country": "Myanmar",
+            "home": "Hantharwady United FC",
+            "away": "Yangon United",
+            "score": "0 - 2",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Maung Maung Lwin 24'(A)",
+                "Hein Zeyar Lin 4'(A)"
+            ]
         },
         {
             "start_time": "09:00",
@@ -96,7 +119,67 @@
             "home": "Likeminds FC",
             "away": "De-Royal Galaxy FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "Cupa de Tineret - Grupa A Seria Est",
+            "country": "Romania",
+            "home": "CS Concordia Chiajna U19",
+            "away": "ACS FC Bac\u0103u U19",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "Cupa de Tineret - Grupa A Seria Est",
+            "country": "Romania",
+            "home": "FC Voluntari U19",
+            "away": "ACSM Politehnica Ia\u0219i U19",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "Cupa de Tineret - Grupa B Seria Est",
+            "country": "Romania",
+            "home": "CS Dinamo Bucure\u0219ti U19",
+            "away": "FC Rapid Bucure\u0219ti U19",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "Cupa de Tineret - Grupa B Seria Est",
+            "country": "Romania",
+            "home": "Steaua Bucure\u0219ti U19",
+            "away": "ACS Sport Team Bucure\u0219ti U19",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "Cupa de Tineret - Grupa B Seria Vest",
+            "country": "Romania",
+            "home": "ACS Kids T\u00e2mpa Bra\u0219ov U19",
+            "away": "FC Petrolul Ploie\u015fti U19",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "Cupa de Tineret - Grupa B Seria Vest",
+            "country": "Romania",
+            "home": "ASC Daco-Getica Bucure\u015fti U19",
+            "away": "CS Universitatea Craiova U19",
+            "score": "0 - 0",
+            "minute": "Started",
             "scorers": []
         },
         {
@@ -106,7 +189,27 @@
             "home": "Thonburi United",
             "away": "Samut Songkhram FC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "Thai League 3 Cup, Final Stages",
+            "country": "Thailand",
+            "home": "Samut Sakhon City",
+            "away": "Satun United FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "10:00",
+            "league": "U19 Lig, Elit B",
+            "country": "Turkey",
+            "home": "Kastamonuspor U19",
+            "away": "Ankarag\u00fcc\u00fc U19",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -115,11 +218,23 @@
             "country": "Turkey Amateur",
             "home": "\u00dcz\u00fcmk\u0131ranspor",
             "away": "Durankaya Belediyespor",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "3 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 47'(H)",
+                "Unknown 33'(H)",
                 "Unknown 15'(H)"
             ]
+        },
+        {
+            "start_time": "10:00",
+            "league": "Trabzon 2. Amat\u00f6r Ligi, B Grubu",
+            "country": "Turkey Amateur",
+            "home": "Pelitlispor FK",
+            "away": "Trabzon Adaletg\u00fcc\u00fc",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         }
     ]
 }
