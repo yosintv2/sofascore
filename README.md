@@ -2,39 +2,29 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | South America | Caracas F.C. vs Metropolitanos | **0 - 0** | `Penalties` | --- |
-| 23:45 | World | USA vs Canada | **0 - 0** | `1st half` | --- |
-| 23:00 | North & Central America | Saint Kitts and Nevis vs Panama | **0 - 0** | `Halftime` | --- |
-| 23:30 | Argentina | Excursionistas vs Defensores Unidos | **0 - 0** | `1st half` | --- |
-| 23:30 | Argentina | Real Pilar vs Deportivo Merlo | **0 - 0** | `1st half` | --- |
-| 23:30 | Bolivia | The Strongest vs Nacional Potosí | **1 - 0** | `1st half` | Darwin Lom 12'(H) |
-| 22:00 | Brazil | AE Velo Clube vs Vila Nova FC | **0 - 0** | `2nd half` | --- |
-| 22:00 | Brazil | Nova Iguaçu vs Lagarto FC | **1 - 1** | `2nd half` | Erik Gabriel 31'(A), Lucas Cruz 10'(H) |
-| 22:00 | Brazil | Tuna Luso vs Tocantinópolis | **4 - 1** | `2nd half` | Pedro Henrique 66'(A), Jayme 48'(H), Paulo Rangel 36'(H), Luã Niger 27'(H), Jayme 22'(H) |
-| 22:30 | Brazil | Avaí vs Porto Vitória | **2 - 0** | `2nd half` | Thayllon Roberth 28'(H), Thayllon Roberth 26'(H) |
-| 22:30 | Brazil | Betim Futebol vs Operário-PR | **0 - 2** | `2nd half` | Unknown 65'(A), Gabriel Boschilia 38'(A) |
-| 22:30 | Brazil | Capital FC vs Manaus | **1 - 1** | `2nd half` | Rhaillam 39'(H), Anderson Cordeiro 16'(A) |
-| 23:00 | Brazil | Rio Branco-ES vs Athletic Club | **1 - 1** | `Halftime` | Carlos Augusto 36'(H), Lucas Belezi 6'(A) |
-| 23:00 | Brazil | Santa Catarina Clube vs Cuiabá | **0 - 1** | `Halftime` | Vinicius Peixoto 24'(A) |
-| 23:30 | Brazil | Ivinhema vs Volta Redonda | **1 - 0** | `1st half` | Ninho 19'(H) |
-| 23:00 | Brazil | Camboriú vs Criciúma | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | ABECAT Ouvidorense vs Jataiense | **2 - 1** | `2nd half` | Emerson Machado 58'(H), Rafinha Silva 45'(H), Marcos Luiz Tiburcio 32'(A) |
-| 22:30 | Brazil | União Recreativa dos Trabalhadores vs North EC | **1 - 1** | `2nd half` | Gabriel Moyses 62'(H), Bruno Lopes 10'(A) |
-| 23:00 | Brazil | Palmeiras vs Grêmio Novorizontino | **1 - 0** | `Halftime` | José López 35'(H) |
-| 22:30 | Brazil | Francana vs Rio Preto | **1 - 2** | `2nd half` | Unknown 66'(A), Unknown 60'(H), Unknown 45'(A) |
-| 22:30 | Brazil | União Barbarense vs União Suzano AC | **1 - 0** | `2nd half` | Unknown 45'(H) |
-| 22:30 | Brazil | União São João vs Portuguesa Santista | **1 - 0** | `2nd half` | Bruninho 57'(H) |
-| 22:30 | Brazil | XV de Jaú vs Catanduva FC | **0 - 0** | `2nd half` | --- |
-| 23:00 | Brazil | Paulista vs Bandeirante EC | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | Lemense vs Penapolense | **1 - 0** | `2nd half` | Unknown 15'(H) |
-| 22:00 | Brazil | São-Carlense vs Barretos | **0 - 0** | `2nd half` | --- |
-| 22:30 | Brazil | VOCEM vs Jabaquara | **1 - 2** | `2nd half` | Unknown 24'(A), Unknown 14'(H), Lucas Alves 4'(A) |
-| 23:00 | Brazil | Internacional de Bebedouro vs AE Araçatuba | **2 - 0** | `Halftime` | Unknown 20'(H), Unknown 3'(H) |
-| 23:00 | Brazil | ACD Potiguar vs Club Laguna | **1 - 0** | `Halftime` | Unknown 25'(H) |
-| 23:00 | Brazil | Rio Negro-RR vs GAS | **0 - 1** | `Halftime` | Vanilson 3'(A) |
-| 23:00 | Colombia | Independiente Yumbo vs Bogotá FC | **1 - 0** | `Halftime` | Tomás Díaz 13'(H) |
-| 23:00 | Libya | Al Madina Tripoli SC vs Abu Salim SC | **2 - 0** | `1st half` | Moataz Al Jurnazi 29'(H), Alassane Diao 19'(H) |
-| 22:00 | Morocco | Kawkab Athletic Club Marrakech vs Olympic Safi | **1 - 1** | `2nd half` | Moussa Koné 87'(A), Souleymane Cissé 45'(H) |
-| 22:00 | Morocco | Wydad Casablanca vs AS FAR Rabat | **1 - 2** | `2nd half` | Youssef El Fahli 62'(A), Hakim Ziyech 28'(H), Walid Sabbar 19'(A) |
-| 23:00 | Nicaragua | Deportivo Matagalpa FC vs Real Madriz | **0 - 3** | `Halftime` | Unknown 44'(A), Unknown 16'(A), Miguel Pucharella 3'(A) |
-| 23:00 | Panama | CD Bocas Junior vs CD Universitario Reserves | **0 - 0** | `Halftime` | --- |
+| 02:00 | South America | Deportivo Cuenca vs Libertad | **1 - 0** | `1st half` | Melvin Diaz 22'(H) |
+| 01:00 | Mexico | CF Monterrey vs Querétaro FC | **2 - 0** | `2nd half` | Sergio Canales 69'(H), Luca Orellano 40'(H) |
+| 01:00 | Mexico | Club Puebla vs Tigres UANL | **2 - 1** | `2nd half` | Juan Brunetta 68'(A), Edgar Guerra 53'(H), Emiliano Gómez 45'(H) |
+| 01:00 | Colombia | Fortaleza FC vs Jaguares de Córdoba | **1 - 1** | `2nd half` | Andrés Arroyo 58'(H), Andrés Rentería 49'(A) |
+| 01:00 | North & Central America | Canada U20 vs Nicaragua U20 | **0 - 1** | `2nd half` | Unknown 37'(A) |
+| 01:00 | North & Central America | Honduras vs Trinidad and Tobago | **2 - 1** | `2nd half` | Kedie Johnson 41'(A), Unknown 21'(H), Unknown 9'(H) |
+| 02:00 | Oceania | American Samoa vs New Zealand | **0 - 0** | `1st half` | --- |
+| 01:00 | Argentina Amateur | Huracán de Las Varillas vs Sportivo Club Sacanta | **1 - 2** | `2nd half` | Agustin Zagalez 55'(A), Agustin Vitelli 49'(A), Unknown 26'(H) |
+| 01:00 | Argentina Amateur | Sportivo Pozo del Molle vs Almafuerte | **1 - 0** | `Halftime` | Matias Antonieta 22'(H) |
+| 01:00 | Argentina Amateur | Union de Alicia vs Unión Deportiva Laspiur | **0 - 0** | `Halftime` | --- |
+| 00:30 | Brazil | América Mineiro vs Tirol/CEFAT | **1 - 1** | `2nd half` | Welton Santana 63'(A), Willian Bigode 59'(H) |
+| 01:00 | Brazil | Náutico-RR vs Monte Roraima | **0 - 1** | `2nd half` | Romarinho 45'(A) |
+| 01:00 | Colombia Amateur | MF Gestión Deportiva - Alberto Gamero vs Clan FC | **0 - 1** | `2nd half` | Unknown 57'(A) |
+| 01:00 | Colombia Amateur | Football Internacional vs Kanto League | **1 - 5** | `2nd half` | Unknown 56'(A), Unknown 55'(A), Unknown 45'(A), Unknown 44'(A), Unknown 29'(H), Unknown 17'(A) |
+| 01:00 | Colombia Amateur | Toyonissan vs Macondo FC | **0 - 0** | `Halftime` | --- |
+| 01:00 | Costa Rica | Puntarenas FC vs San Carlos | **0 - 0** | `2nd half` | --- |
+| 02:00 | Costa Rica | Guadalupe FC vs Herediano | **0 - 1** | `1st half` | Marcel Hernández 5'(A) |
+| 00:30 | Guadeloupe | Sporting Club Baie-Mahault vs AS Moule | **0 - 0** | `Started` | --- |
+| 02:00 | Guatemala | Antigua GFC vs Deportivo Achuapa | **0 - 0** | `1st half` | --- |
+| 03:00 | Guatemala | AFF Guatemala II vs Deportivo Fraijanes | **1 - 0** | `1st half` | Unknown 10'(H) |
+| 02:30 | India | Bengaluru FC U21 vs Diamond Harbour FC U21 | **0 - 0** | `1st half` | --- |
+| 02:00 | Myanmar | Royal Chindwin vs Magway Union | **2 - 1** | `1st half` | Unknown 33'(A), Unknown 17'(H), Unknown 11'(H) |
+| 01:00 | Nicaragua | UNAN Managua vs Diriangén FC | **1 - 2** | `2nd half` | Unknown 74'(A), Luis Fernando Coronel 28'(A), Unknown 24'(H) |
+| 01:00 | Panama | CD Universitario vs Sporting San Miguelito | **1 - 1** | `2nd half` | Ramses de Leon 55'(A), Jonathan Barrera 40'(H) |
+| 01:00 | Panama | La Familia FC vs San Francisco FC B | **0 - 0** | `2nd half` | --- |
+| 01:00 | Panama | Sporting SM B vs Plaza Amador Reserves U20 | **2 - 0** | `2nd half` | Unknown 68'(H), Unknown 10'(H) |
