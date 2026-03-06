@@ -2,47 +2,54 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 09:00 | World | Gibraltar U16 vs Andorra U16 | **0 - 2** | `2nd half` | Unknown 45'(A), Unknown 45'(A) |
-| 10:30 | World | Hungary U16 vs Sweden U16 | **0 - 0** | `1st half` | --- |
-| 10:00 | World | Spain U20 vs Netherlands U19 | **3 - 0** | `Halftime` | Celia Segura 13'(H), Daniela Agote 11'(H), Celia Segura 9'(H) |
-| 09:30 | Australia | Rochedale Rovers vs Queensland Lions FC | **1 - 2** | `2nd half` | Unknown 69'(A), Unknown 13'(H), Unknown 9'(A) |
-| 09:30 | Australia | Wynnum Wolves FC vs Moreton City Excelsior FC | **2 - 0** | `2nd half` | Unknown 61'(H), Unknown 10'(H) |
-| 09:45 | Australia | Adelaide University vs Flinders United WFC | **0 - 0** | `2nd half` | --- |
-| 10:00 | Australia | West Adelaide SC vs Adelaide Comets FC | **2 - 1** | `Halftime` | Unknown 44'(A), Unknown 28'(H), Unknown 25'(H) |
-| 10:00 | Australia | West Torrens Birkalla vs Campbelltown City SC | **1 - 0** | `Halftime` | Unknown 45'(H) |
-| 09:30 | Australia | Essendon Royals SC vs Malvern City FC | **1 - 2** | `2nd half` | Unknown 64'(H), Unknown 38'(A), Unknown 14'(A) |
-| 09:30 | Australia | Keilor Park SC vs Nunawading City | **1 - 1** | `2nd half` | Unknown 52'(H), Unknown 15'(A) |
-| 09:30 | Australia | Bentleigh Greens SC vs Spring Hills FC | **1 - 3** | `2nd half` | Unknown 48'(A), Unknown 42'(A), Unknown 21'(H), Unknown 14'(A) |
-| 09:30 | Australia | Preston Lions FC vs Boroondara Eagles FC | **1 - 3** | `2nd half` | Unknown 65'(A), Priya Savarirayan 47'(A), Priya Savarirayan 42'(A), Unknown 31'(H) |
-| 09:30 | Australia | Brunswick Juventus FC vs Melbourne Knights FC | **0 - 0** | `2nd half` | --- |
-| 09:30 | Australia | Eltham Redbacks FC vs Brunswick City SC | **2 - 1** | `2nd half` | Unknown 61'(H), Unknown 22'(H), Unknown 19'(A) |
-| 09:30 | Australia | Northcote City vs North Geelong Warriors | **2 - 0** | `2nd half` | Unknown 64'(H), Unknown 42'(H) |
-| 10:30 | Australia | Redlands United vs St. George Willawong FC | **0 - 0** | `1st half` | --- |
-| 09:15 | Australia | South Melbourne FC U23 vs Bentleigh Greens SC U23 | **2 - 0** | `2nd half` | Unknown 71'(H), Unknown 43'(H) |
-| 09:00 | Australia | Hurstville FC vs Bulls FC Academy | **2 - 4** | `2nd half` | Unknown 66'(H), Unknown 54'(H), Unknown 50'(A), Unknown 38'(A), Unknown 36'(A) |
-| 09:15 | Australia | Blacktown Spartans vs Dulwich Hill | **1 - 1** | `2nd half` | Unknown 32'(H), Unknown 20'(A) |
-| 10:00 | Australia | Mitchelton FC vs Pine Hills | **2 - 0** | `Halftime` | Unknown 40'(H), Nigel Poinapen 34'(H) |
-| 10:30 | Australia | Southside Eagles vs Mitchelton | **0 - 0** | `1st half` | --- |
-| 09:30 | Australia | Ipswich Knights vs Grange Thistle | **0 - 3** | `2nd half` | Unknown 58'(A), Unknown 27'(A), Unknown 20'(A) |
-| 09:30 | Australia | Samford Rangers vs North Lakes United | **0 - 10** | `2nd half` | Unknown 66'(A), Unknown 49'(A), Unknown 46'(A), Unknown 39'(A), Unknown 34'(A), Unknown 23'(A), Unknown 16'(A), Unknown 11'(A), Unknown 7'(A), Unknown 6'(A) |
-| 09:30 | Australia | Moggill FC vs Moreton City Excelsior FC | **2 - 5** | `2nd half` | Unknown 67'(A), Unknown 63'(H), Unknown 37'(H), Unknown 29'(A), Unknown 23'(A), Unknown 17'(A) |
-| 09:30 | Australia | North Brisbane BWPL vs Caboolture FC | **0 - 6** | `2nd half` | Unknown 45'(A), Unknown 29'(A), Unknown 23'(A), Unknown 19'(A), Unknown 5'(A), Unknown 3'(A) |
-| 09:30 | Australia | Holland Park Hawks vs Virginia United | **1 - 0** | `2nd half` | Unknown 28'(H) |
-| 10:30 | Australia | Perth RedStar FC vs Perth Azzurri SC | **0 - 1** | `1st half` | Unknown 17'(A) |
-| 09:45 | Australia | Elizabeth Grove vs South Adelaide Panthers FC | **1 - 1** | `2nd half` | Unknown 30'(A), Unknown 16'(H) |
-| 09:45 | Australia | Western Strikers vs Modbury Jets | **1 - 0** | `2nd half` | Unknown 25'(H) |
-| 09:45 | Australia | Modbury Vista Reserves vs Football SA NTC | **0 - 1** | `2nd half` | Unknown 2'(A) |
-| 10:00 | Ethiopia | Dire Dawa vs Ethio Electric | **0 - 0** | `Halftime` | --- |
-| 09:00 | Ghana | God's Will FC vs Thoughts FC | **0 - 2** | `2nd half` | Henry Ahenkorah 55'(A), Sulemana Abubakari 15'(A) |
-| 10:00 | India | Mumbai Soccer Prodigies vs Iron Born | **1 - 2** | `1st half` | Unknown 37'(A), Unknown 29'(H), Unknown 17'(A) |
-| 10:00 | Japan | FC Osaka vs Nara Club | **0 - 0** | `Halftime` | --- |
-| 15:00 | Kyrgyzstan | FC Kyrgyzaltyn vs FC Özgön | **1 - 2** | `Halftime` | Unknown 35'(A), Unknown 32'(H), Unknown 23'(A) |
-| 09:30 | Myanmar | Dagon Port FC vs Rakhine United FC | **4 - 1** | `2nd half` | Yar Za Aung 65'(H), La Min Htwe 62'(H), Arthur Eric Cantona 57'(H), Zin Min Tun 57'(A), Yar Za Aung 34'(H) |
-| 10:00 | Nigeria | Sporting Lagos FA vs VOE FA | **0 - 0** | `1st half` | --- |
-| 10:00 | Russia | Rostov Youth vs Akron Akademia Konoplev | **0 - 0** | `Halftime` | --- |
-| 10:00 | Russia | Ural Yekaterinburg Youth vs CSKA Moscow Youth | **0 - 3** | `Halftime` | Ivan Tarasenko 13'(A), Ilya Pasichnik 11'(A), Imran Firov 9'(A) |
-| 09:30 | Russia Amateur | Torpedo Moscow Youth vs Rotor Volgograd Youth | **0 - 1** | `2nd half` | Unknown 10'(A) |
-| 10:00 | Russia Amateur | Master-Saturn Egorjevsk vs SSH Leningradets Youth | **0 - 0** | `Started` | --- |
-| 10:45 | Seychelles | Anse Réunion FC vs Bel Air FC | **0 - 0** | `1st half` | --- |
-| 10:00 | Ukraine | FC Epicentr Kamianets-Podilskyi U19 vs Kolos Kovalivka U19 | **0 - 2** | `Halftime` | Enoch Dzeble 40'(A), Oleksiy Bezruchuk 26'(A) |
-| 10:00 | Vietnam | Quang Ninh FC vs Trường Tươi Đồng Nai | **1 - 1** | `Halftime` | Huỳnh Tấn Sinh 24'(A), Long Nhat Bui 7'(H) |
+| 11:35 | China | Chengdu Rongcheng vs Shenzhen Peng City | **0 - 0** | `1st half` | --- |
+| 11:30 | India | Mohun Bagan Super Giant vs Odisha FC | **0 - 0** | `1st half` | --- |
+| 11:00 | World | Stabæk Fotball vs Sogndal IL | **0 - 0** | `1st half` | --- |
+| 11:00 | World | Norway U19 vs France U19 | **1 - 2** | `1st half` | Unknown 31'(A), Unknown 28'(H), Romane Rafalski 4'(A) |
+| 10:00 | World | Moldova U16 vs Georgia U16 | **2 - 0** | `2nd half` | Unknown 35'(H), Unknown 25'(H) |
+| 10:30 | World | Hungary U16 vs Sweden U16 | **1 - 0** | `Halftime` | Unknown 34'(H) |
+| 11:30 | World | Montenegro U16 vs Serbia U16 | **0 - 0** | `1st half` | --- |
+| 10:00 | World | Spain U20 vs Netherlands U19 | **6 - 0** | `2nd half` | Unknown 80'(H), Amaya Garcia 60'(H), Daniela Agote 51'(H), Celia Segura 13'(H), Daniela Agote 11'(H), Celia Segura 9'(H) |
+| 09:45 | Australia | Adelaide University vs Flinders United WFC | **2 - 1** | `2nd half` | Unknown 69'(A), Unknown 57'(H), Unknown 51'(H) |
+| 10:00 | Australia | West Adelaide SC vs Adelaide Comets FC | **3 - 1** | `2nd half` | Unknown 47'(H), Unknown 44'(A), Unknown 28'(H), Unknown 25'(H) |
+| 10:00 | Australia | West Torrens Birkalla vs Campbelltown City SC | **2 - 0** | `2nd half` | Unknown 70'(H), Unknown 45'(H) |
+| 11:00 | Australia | Bayswater City SC vs Armadale SC | **0 - 0** | `1st half` | --- |
+| 11:00 | Australia | Perth Azzuri SC vs Perth Glory Youth | **0 - 0** | `1st half` | --- |
+| 10:30 | Australia | Redlands United vs St. George Willawong FC | **0 - 1** | `2nd half` | Unknown 41'(A) |
+| 10:00 | Australia | Mitchelton FC vs Pine Hills | **2 - 1** | `2nd half` | Alexander Witte 47'(A), Unknown 40'(H), Nigel Poinapen 34'(H) |
+| 10:30 | Australia | Southside Eagles vs Mitchelton | **0 - 2** | `2nd half` | Unknown 45'(A), Unknown 41'(A) |
+| 10:30 | Australia | Perth RedStar FC vs Perth Azzurri SC | **1 - 2** | `Halftime` | Unknown 35'(H), Unknown 33'(A), Unknown 17'(A) |
+| 09:45 | Australia | Elizabeth Grove vs South Adelaide Panthers FC | **2 - 1** | `2nd half` | Unknown 58'(H), Unknown 30'(A), Unknown 16'(H) |
+| 09:45 | Australia | Western Strikers vs Modbury Jets | **2 - 1** | `2nd half` | Unknown 68'(A), Unknown 54'(H), Unknown 25'(H) |
+| 09:45 | Australia | Modbury Vista Reserves vs Football SA NTC | **0 - 3** | `2nd half` | Unknown 83'(A), Unknown 71'(A), Unknown 2'(A) |
+| 11:00 | Azerbaijan | Cəbrayıl vs Səbail FK | **0 - 1** | `1st half` | Unknown 32'(A) |
+| 11:00 | Azerbaijan | MOIK Baku vs Difai Ağsu | **0 - 0** | `1st half` | --- |
+| 11:00 | Bulgaria Amateur | PFC Slavia 1913 Sofia A U9 vs FC Kronos Plovdiv A U9 | **0 - 3** | `2nd half` | Unknown 20'(A), Unknown 8'(A), Unknown 3'(A) |
+| 11:00 | Burundi | BG Green Maze FC vs Royal Vision 2026 | **0 - 2** | `1st half` | Unknown 25'(A), Unknown 18'(A) |
+| 10:00 | Ethiopia | Dire Dawa vs Ethio Electric | **1 - 3** | `2nd half` | Unknown 70'(H), Unknown 56'(A), Unknown 51'(A), Unknown 49'(A) |
+| 09:30 | Greece Amateur | Hraklis Lardou vs AO Symis | **0 - 0** | `Started` | --- |
+| 11:15 | Greece Amateur | AS Xanthos Patmou vs AO Argonautes Kalymnou | **0 - 0** | `Started` | --- |
+| 10:00 | India | Mumbai Soccer Prodigies vs Iron Born | **1 - 2** | `2nd half` | Unknown 37'(A), Unknown 29'(H), Unknown 17'(A) |
+| 11:30 | Iraq | Chamchamal vs Duhok SC | **0 - 0** | `Started` | --- |
+| 11:30 | Iraq | Erbil SC vs Bazyan | **0 - 0** | `Started` | --- |
+| 11:30 | Iraq | Jihan University vs Shaqlawa SC | **0 - 0** | `Started` | --- |
+| 11:30 | Iraq | Koya vs Tanahi | **0 - 0** | `Started` | --- |
+| 11:30 | Iraq | Shekhan SC vs Kfri | **0 - 0** | `Started` | --- |
+| 11:30 | Iraq | Shorjah vs Ararat | **0 - 0** | `Started` | --- |
+| 11:30 | Iraq | Soran vs Baban | **0 - 0** | `Started` | --- |
+| 11:30 | Iraq | Sumel vs Bardarash SC | **0 - 0** | `Started` | --- |
+| 10:00 | Japan | FC Osaka vs Nara Club | **1 - 0** | `2nd half` | Takumi Shimada 55'(H) |
+| 10:00 | Kyrgyzstan | FC Kyrgyzaltyn vs FC Özgön | **1 - 2** | `2nd half` | Ivan Kozlov 35'(A), Hibiki Mochizuki 32'(H), Orkhan Aliyev 23'(A) |
+| 11:00 | Moldova | FC Floreşti vs FC Iskra Ribnita | **0 - 0** | `1st half` | --- |
+| 10:00 | Nigeria | Sporting Lagos FA vs VOE FA | **1 - 0** | `2nd half` | Unknown 50'(H) |
+| 10:00 | Russia | Rostov Youth vs Akron Akademia Konoplev | **0 - 0** | `2nd half` | --- |
+| 10:00 | Russia | Ural Yekaterinburg Youth vs CSKA Moscow Youth | **0 - 5** | `2nd half` | Vladimir Dzhanashiya 72'(A), Timur Khuzhakhmetov 65'(A), Ivan Tarasenko 13'(A), Ilya Pasichnik 11'(A), Imran Firov 9'(A) |
+| 10:00 | Russia Amateur | Master-Saturn Egorjevsk vs SSH Leningradets Youth | **1 - 0** | `Started` | Unknown 31'(H) |
+| 11:00 | Russia Amateur | MFA Moscow vs Shinnik Yaroslavl Youth | **1 - 0** | `1st half` | Unknown 15'(H) |
+| 11:30 | Russia Amateur | SSHOR Zenit St. Petersburg vs Arsenal Tula Youth | **0 - 0** | `Started` | --- |
+| 10:45 | Seychelles | Anse Réunion FC vs Bel Air FC | **1 - 0** | `Halftime` | Unknown 20'(H) |
+| 11:00 | Tajikistan | Regar-TadAZ vs Ravshan | **0 - 0** | `1st half` | --- |
+| 11:00 | Ukraine | Oleksandria vs Shakhtar Donetsk | **0 - 0** | `1st half` | --- |
+| 10:00 | Ukraine | FC Epicentr Kamianets-Podilskyi U19 vs Kolos Kovalivka U19 | **0 - 2** | `2nd half` | Enoch Dzeble 40'(A), Oleksiy Bezruchuk 26'(A) |
+| 11:00 | Vietnam | Đông Á Thanh Hóa vs Hồng Lĩnh Hà Tĩnh | **0 - 0** | `1st half` | --- |
+| 10:00 | Vietnam | Quang Ninh FC vs Trường Tươi Đồng Nai | **1 - 1** | `2nd half` | Huỳnh Tấn Sinh 24'(A), Long Nhat Bui 7'(H) |
