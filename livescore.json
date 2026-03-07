@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-07 03:35:01 UTC"
+        "updated": "2026-03-07 04:49:20 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Club Necaxa",
             "away": "Pumas UNAM",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -20,12 +20,37 @@
             "country": "Australia",
             "home": "Lambton Jaffas",
             "away": "Broadmeadow Magic",
-            "score": "0 - 3",
-            "minute": "1st half",
+            "score": "1 - 5",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 30'(A)",
+                "Unknown 65'(H)",
+                "Unknown 54'(A)",
+                "Unknown 38'(A)",
+                "Jakob Cresnar 30'(A)",
                 "Unknown 22'(A)",
                 "Jakob Cresnar 15'(A)"
+            ]
+        },
+        {
+            "start_time": "04:30",
+            "league": "South Australia NPL",
+            "country": "Australia",
+            "home": "Adelaide Comets",
+            "away": "Campbelltown City",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "04:30",
+            "league": "South Australia NPL",
+            "country": "Australia",
+            "home": "Para Hills",
+            "away": "West Torrens Birkalla",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 9'(A)"
             ]
         },
         {
@@ -34,9 +59,11 @@
             "country": "Australia",
             "home": "Kingborough Lions",
             "away": "Riverside Olympic",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 21'(H)"
+            ]
         },
         {
             "start_time": "03:30",
@@ -44,9 +71,13 @@
             "country": "Australia",
             "home": "Launceston United",
             "away": "South Hobart",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 2",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 38'(A)",
+                "Samuel Berezansky 9'(A)",
+                "Unknown 4'(H)"
+            ]
         },
         {
             "start_time": "03:30",
@@ -54,139 +85,223 @@
             "country": "Australia",
             "home": "Ulverstone FC",
             "away": "Devonport Strikers",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "03:00",
-            "league": "Victoria Premier League 2",
-            "country": "Australia",
-            "home": "Moreland City",
-            "away": "Kingston City FC",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "02:00",
-            "league": "NPL Victoria U23",
-            "country": "Australia",
-            "home": "Dandenong Thunder SC U23",
-            "away": "Avondale U23",
-            "score": "3 - 2",
+            "score": "1 - 6",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 65'(A)",
-                "Unknown 57'(A)",
-                "Unknown 51'(H)",
-                "Unknown 19'(H)",
+                "Unknown 56'(A)",
+                "Unknown 44'(A)",
+                "Unknown 37'(A)",
+                "Unknown 34'(H)",
+                "Unknown 25'(A)",
+                "Unknown 20'(A)",
+                "Unknown 10'(A)"
+            ]
+        },
+        {
+            "start_time": "04:00",
+            "league": "Victoria Premier League 2",
+            "country": "Australia",
+            "home": "Box Hill United SC",
+            "away": "Bayside Argonauts FC",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 36'(H)"
+            ]
+        },
+        {
+            "start_time": "04:00",
+            "league": "Victoria Premier League 2",
+            "country": "Australia",
+            "home": "Werribee City FC",
+            "away": "Whittlesea United SC",
+            "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "04:00",
+            "league": "Victoria NPL, Women",
+            "country": "Australia",
+            "home": "Alamein United FC",
+            "away": "Essendon Royals SC",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 2'(H)"
+            ]
+        },
+        {
+            "start_time": "04:00",
+            "league": "Victoria NPL, Women",
+            "country": "Australia",
+            "home": "Keilor Park SC",
+            "away": "Avondale FC",
+            "score": "1 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 6'(A)",
+                "Unknown 2'(H)"
+            ]
+        },
+        {
+            "start_time": "04:15",
+            "league": "VPL 1",
+            "country": "Australia",
+            "home": "Manningham United Blues",
+            "away": "Langwarrin SC",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 2'(H)"
+            ]
+        },
+        {
+            "start_time": "04:00",
+            "league": "NPL Victoria U23",
+            "country": "Australia",
+            "home": "Dandenong City SC U23",
+            "away": "Caroline Springs George Cross U23",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "04:30",
+            "league": "South Australia State League 1",
+            "country": "Australia",
+            "home": "Fulham United",
+            "away": "Modbury Jets",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "03:30",
+            "league": "NSW NPL Women's",
+            "country": "Australia",
+            "home": "Northern Tigers",
+            "away": "Gladesville Ravens",
+            "score": "0 - 0",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "04:00",
+            "league": "NSW NPL Women's",
+            "country": "Australia",
+            "home": "North West Sydney Koalas",
+            "away": "Sydney Olympic FC",
+            "score": "1 - 2",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 44'(A)",
+                "Unknown 33'(A)",
+                "Unknown 20'(H)"
+            ]
+        },
+        {
+            "start_time": "01:30",
+            "league": "NSW U23 NPL, Women ",
+            "country": "Australia",
+            "home": "Northern Tigers U23",
+            "away": "Gladesville Ravens U23 U23",
+            "score": "0 - 0",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "04:00",
+            "league": "NSW U23 League One, Women ",
+            "country": "Australia",
+            "home": "South Coast Flame FC U23",
+            "away": "Blacktown Spartans U23",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "04:00",
+            "league": "Northern NSW NPL, Reserves",
+            "country": "Australia",
+            "home": "Belmont Swansea United FC Reserves",
+            "away": "Maitland Reserve",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 30'(H)"
+            ]
+        },
+        {
+            "start_time": "03:45",
+            "league": "U23 Queensland Premier League 1 ",
+            "country": "Australia",
+            "home": "Robina City Reserves U23",
+            "away": "Brisbane Strikers U23",
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 3'(H)"
+            ]
+        },
+        {
+            "start_time": "03:45",
+            "league": "NPL South Australia, Reserves",
+            "country": "Australia",
+            "home": "Metrostars Reserves",
+            "away": "Playford City Reserves",
+            "score": "2 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 23'(H)",
+                "Unknown 9'(A)",
+                "Unknown 4'(H)"
+            ]
+        },
+        {
+            "start_time": "04:00",
+            "league": "South Australia State League 1, Reserves",
+            "country": "Australia",
+            "home": "The Cove FC Reserves",
+            "away": "Eastern United Reserve",
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 29'(A)",
                 "Unknown 16'(H)"
             ]
         },
         {
-            "start_time": "03:00",
-            "league": "U23 Queensland Premier League 1 ",
+            "start_time": "04:15",
+            "league": "South Australia State League 1, Reserves",
             "country": "Australia",
-            "home": "Capalaba FC U23",
-            "away": "Logan Lightning U23",
+            "home": "Adelaide Croatia Raiders Reserves",
+            "away": "Salisbury United Reserves",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "02:15",
-            "league": "NPL South Australia, Reserves",
-            "country": "Australia",
-            "home": "Adelaide Comets Reserve",
-            "away": "Campbelltown City SC Reserve",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 51'(H)",
-                "Unknown 47'(A)",
-                "Unknown 16'(A)"
-            ]
-        },
-        {
-            "start_time": "02:15",
-            "league": "NPL South Australia, Reserves",
-            "country": "Australia",
-            "home": "Para Hills Knights Reserves",
-            "away": "West Torrens Birkalla Reserves",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 41'(A)",
-                "Unknown 31'(A)",
-                "Unknown 26'(A)"
-            ]
-        },
-        {
-            "start_time": "02:15",
-            "league": "NPL South Australia, Reserves",
-            "country": "Australia",
-            "home": "Sturt Lions Reserve",
-            "away": "West Adelaide Reserve",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "02:15",
-            "league": "South Australia State League 1, Reserves",
-            "country": "Australia",
-            "home": "Fulham United Reserves",
-            "away": "Modbury Jets Reserves",
-            "score": "0 - 5",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 56'(A)",
-                "Unknown 55'(A)",
-                "Unknown 38'(A)",
-                "Unknown 32'(A)",
-                "Unknown 24'(A)"
-            ]
-        },
-        {
-            "start_time": "02:00",
+            "start_time": "04:15",
             "league": "U23 Victoria Premier League 1",
             "country": "Australia",
-            "home": "Manningham United Blues FC U23",
-            "away": "Langwarrin SC U23",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 27'(A)",
-                "Unknown 25'(H)",
-                "Unknown 18'(A)"
-            ]
-        },
-        {
-            "start_time": "02:00",
-            "league": "U23 Victoria Premier League 1",
-            "country": "Australia",
-            "home": "Northcote City FC U23",
-            "away": "North Geelong Warriors FC U23",
+            "home": "Melbourne Srbija U23",
+            "away": "North Sunshine Eagles U23",
             "score": "0 - 1",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 37'(A)"
+                "Unknown 8'(A)"
             ]
         },
         {
-            "start_time": "02:30",
-            "league": "U23 NPL Western Australia",
+            "start_time": "04:30",
+            "league": "U23 Victoria Premier League 1",
             "country": "Australia",
-            "home": "Perth SC U23",
-            "away": "Perth Glory II  U23",
-            "score": "1 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 23'(A)",
-                "Unknown 6'(H)",
-                "Unknown 3'(A)"
-            ]
+            "home": "Port Melbourne Sharks U23",
+            "away": "Western United U23",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "03:00",
@@ -199,14 +314,16 @@
             "scorers": []
         },
         {
-            "start_time": "05:00",
+            "start_time": "03:00",
             "league": "U23 NPL Western Australia",
             "country": "Australia",
             "home": "Perth Redstar U23",
             "away": "Olympic Kingsway U23",
-            "score": "1 - 2",
-            "minute": "1st half",
+            "score": "3 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 83'(H)",
+                "Unknown 67'(H)",
                 "Unknown 30'(H)",
                 "Unknown 17'(A)",
                 "Unknown 9'(A)"
@@ -218,9 +335,14 @@
             "country": "Colombia Amateur",
             "home": "Movilser Tairona FC",
             "away": "Academia Internacional Nottingham - Belhorizon",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
+            "score": "4 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 74'(H)",
+                "Unknown 63'(H)",
+                "Unknown 53'(H)",
+                "Unknown 44'(H)"
+            ]
         },
         {
             "start_time": "03:00",
@@ -228,59 +350,10 @@
             "country": "Colombia Amateur",
             "home": "Alianza Sur - Ind. Aborigen",
             "away": "Borgi Jinversiones",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "02:30",
-            "league": "Torneo Corpo Goretti",
-            "country": "Colombia Amateur",
-            "home": "Amigos FC",
-            "away": "Almacenes El Rey",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "02:00",
-            "league": "Costa Rican Women's Premier Division, Clausura",
-            "country": "Costa Rica",
-            "home": "Deportivo Saprissa Femenino",
-            "away": "Municipal Pococ\u00ed",
-            "score": "3 - 1",
+            "score": "1 - 0",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 41'(A)",
-                "Unknown 33'(H)",
-                "Unknown 11'(H)",
-                "Unknown 3'(H)"
-            ]
-        },
-        {
-            "start_time": "02:00",
-            "league": "Costa Rican Women's Premier Division, Clausura",
-            "country": "Costa Rica",
-            "home": "Sporting FC",
-            "away": "Dimas Escaz\u00fa",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 46'(H)",
-                "Unknown 25'(H)"
-            ]
-        },
-        {
-            "start_time": "02:00",
-            "league": "Primera Division, Clausura, Group B",
-            "country": "Guatemala",
-            "home": "AFF Guatemala",
-            "away": "Chimaltenango FC",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 24'(H)",
-                "Unknown 2'(A)"
+                "Unknown 23'(H)"
             ]
         },
         {
@@ -289,54 +362,134 @@
             "country": "India",
             "home": "PFC Kerala",
             "away": "Lords FA",
+            "score": "1 - 0",
+            "minute": "Started",
+            "scorers": [
+                "Unknown 33'(H)"
+            ]
+        },
+        {
+            "start_time": "04:00",
+            "league": "J1 League, East",
+            "country": "Japan",
+            "home": "JEF United Chiba",
+            "away": "Kashiwa Reysol",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "04:00",
+            "league": "WE League Cup, Group C",
+            "country": "Japan",
+            "home": "Nojima Stella Kanagawa Sagamihara",
+            "away": "Urawa Red Diamonds Ladies",
+            "score": "0 - 2",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 36'(A)",
+                "Ririka  Tanno 25'(A)"
+            ]
+        },
+        {
+            "start_time": "04:00",
+            "league": "Super Ligue",
+            "country": "New Caledonia",
+            "home": "AS Magenta",
+            "away": "AS Kuni\u00e9",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
         },
         {
-            "start_time": "01:30",
-            "league": "Liga TDP",
-            "country": "Mexico",
-            "home": "La Piedad Imperial",
-            "away": "Sahuayo FC",
-            "score": "2 - 0",
+            "start_time": "03:00",
+            "league": "Z Division Philippines, Group A",
+            "country": "Philippines",
+            "home": "Bayanihan Maharlika Al-Pacific",
+            "away": "Philippines Rajah Imperial",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 89'(H)",
-                "Unknown 20'(H)"
+                "Unknown 79'(A)",
+                "Unknown 57'(H)",
+                "Unknown 42'(A)"
             ]
         },
         {
-            "start_time": "02:00",
-            "league": "Liga TDP",
-            "country": "Mexico",
-            "home": "Xolos de Hermosillo",
-            "away": "Datileros San Luis RC",
-            "score": "0 - 1",
+            "start_time": "03:00",
+            "league": "Z Division Philippines, Group A",
+            "country": "Philippines",
+            "home": "Philippines Maharlika Horizon",
+            "away": "Philippines United",
+            "score": "0 - 4",
             "minute": "2nd half",
             "scorers": [
-                "Unknown 68'(A)"
+                "Unknown 73'(A)",
+                "Unknown 45'(A)",
+                "Unknown 23'(A)",
+                "Unknown 16'(A)"
             ]
         },
         {
-            "start_time": "02:00",
-            "league": "Liga Premier Serie A, Group 1",
-            "country": "Mexico",
-            "home": "Alacranes de Durango",
-            "away": "Universidad Aut\u00f3noma de Zacatecas",
-            "score": "2 - 0",
+            "start_time": "03:00",
+            "league": "Z Division Philippines, Group A",
+            "country": "Philippines",
+            "home": "Zarya",
+            "away": "Philippines Orient Holdings",
+            "score": "13 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 81'(H)",
+                "Unknown 55'(H)",
+                "Unknown 45'(H)",
+                "Unknown 44'(H)",
+                "Unknown 41'(H)",
+                "Unknown 36'(H)",
+                "Unknown 33'(H)",
+                "Unknown 29'(H)",
                 "Unknown 26'(H)",
-                "Unknown 19'(H)"
+                "Unknown 22'(H)",
+                "Unknown 18'(H)",
+                "Unknown 10'(H)",
+                "Unknown 5'(H)"
             ]
         },
         {
-            "start_time": "02:00",
+            "start_time": "04:00",
+            "league": "Ligue 1 Vini - Playout",
+            "country": "Tahiti",
+            "home": "AS Pueu",
+            "away": "AS Central Sport",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "04:30",
+            "league": "Ligue 2 Moorea, Playoff Group",
+            "country": "Tahiti",
+            "home": "AS Tahatiri",
+            "away": "AS Tohie'a FC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "04:30",
+            "league": "Ligue 2 Moorea, Playoff Group",
+            "country": "Tahiti",
+            "home": "AS Tiare Hinano",
+            "away": "AS Tamarii Temanava",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "04:00",
             "league": "PVFA Super League",
             "country": "Vanuatu",
-            "home": "North Efate United FC",
-            "away": "iCount Yatel FC",
+            "home": "ABM Galaxy FC",
+            "away": "Mauriki FC",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
