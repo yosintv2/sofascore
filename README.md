@@ -2,21 +2,31 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 01:00 | Mexico | Mazatlán FC vs Club León | **1 - 0** | `1st half` | Yoel Bárcenas 25'(H) |
-| 23:30 | Chile | Deportes Concepción vs Ñublense | **0 - 2** | `2nd half` | Diego Sanhueza 88'(A), Gabriel Graciani 29'(A) |
-| 00:30 | Ecuador | Delfín vs Guayaquil City | **0 - 0** | `Halftime` | --- |
-| 00:30 | USA | Lexington SC vs Louisville City FC | **1 - 0** | `Halftime` | Aaron Molloy 16'(H) |
-| 01:00 | Australia | Werribee City U23 vs Whittlesea United U23 | **0 - 0** | `Started` | --- |
-| 01:00 | Australia | Lambton Jaffas Reserve vs Broadmeadow Magic Reserve | **0 - 1** | `1st half` | Unknown 23'(A) |
-| 00:00 | Bolivia | CDT Real Oruro vs Club FC Universitario | **1 - 3** | `2nd half` | Brian López 53'(A), Juan Montenegro 47'(H), Daniel Camacho 36'(A), Agustin Jara 16'(A) |
-| 00:00 | Curacao | RKSV Scherpenheuvel vs CRKSV Jong Colombia | **1 - 0** | `2nd half` | Unknown 45'(H) |
-| 00:30 | Guadeloupe | L'Etoile de Morne-à-L'eau vs Cerfa FC | **0 - 0** | `Started` | --- |
-| 00:30 | Guadeloupe | La Frégate vs US Baie-Mahault | **0 - 0** | `Started` | --- |
-| 00:30 | Guadeloupe | ASC Madiana vs Juventus Sainte-Anne | **0 - 0** | `Started` | --- |
-| 00:30 | Guadeloupe | Solidarité Scolaire vs Juvenis | **0 - 0** | `Started` | --- |
-| 00:50 | Honduras | CD Real Tegus vs Marcala Junior | **1 - 1** | `1st half` | Unknown 16'(H), Unknown 13'(A) |
-| 01:00 | Mexico | Venados vs Correcaminos UAT | **0 - 0** | `1st half` | --- |
-| 00:00 | Panama | Rio Abajo FC vs Inter Panama CF | **0 - 0** | `2nd half` | --- |
-| 00:00 | Saint Kitts and Nevis | Saddlers United FC vs Conaree Fireball International FC | **0 - 0** | `Started` | --- |
-| 00:00 | Trinidad and Tobago | Central FC vs Morvant Caledonia United | **0 - 4** | `2nd half` | Unknown 40'(A), Unknown 33'(A), Unknown 18'(A) |
-| 00:00 | USA | Crown Legacy FC vs Huntsville City FC | **5 - 2** | `2nd half` | Nathan Richmond 45'(H), Maximus Ekk 45'(A), Nimfasha Berchimas 43'(H), Angel Iniguez 27'(A), Rodolfo Aloko 19'(H), Rodolfo Aloko 15'(H), Hugo Mbongue 3'(H) |
+| 03:00 | Mexico | Club Necaxa vs Pumas UNAM | **0 - 0** | `1st half` | --- |
+| 03:00 | Australia | Lambton Jaffas vs Broadmeadow Magic | **0 - 3** | `1st half` | Unknown 30'(A), Unknown 22'(A), Jakob Cresnar 15'(A) |
+| 03:30 | Australia | Kingborough Lions vs Riverside Olympic | **0 - 0** | `1st half` | --- |
+| 03:30 | Australia | Launceston United vs South Hobart | **0 - 0** | `1st half` | --- |
+| 03:30 | Australia | Ulverstone FC vs Devonport Strikers | **0 - 0** | `1st half` | --- |
+| 03:00 | Australia | Moreland City vs Kingston City FC | **0 - 0** | `1st half` | --- |
+| 02:00 | Australia | Dandenong Thunder SC U23 vs Avondale U23 | **3 - 2** | `2nd half` | Unknown 65'(A), Unknown 57'(A), Unknown 51'(H), Unknown 19'(H), Unknown 16'(H) |
+| 03:00 | Australia | Capalaba FC U23 vs Logan Lightning U23 | **0 - 0** | `1st half` | --- |
+| 02:15 | Australia | Adelaide Comets Reserve vs Campbelltown City SC Reserve | **1 - 2** | `2nd half` | Unknown 51'(H), Unknown 47'(A), Unknown 16'(A) |
+| 02:15 | Australia | Para Hills Knights Reserves vs West Torrens Birkalla Reserves | **0 - 3** | `2nd half` | Unknown 41'(A), Unknown 31'(A), Unknown 26'(A) |
+| 02:15 | Australia | Sturt Lions Reserve vs West Adelaide Reserve | **0 - 0** | `2nd half` | --- |
+| 02:15 | Australia | Fulham United Reserves vs Modbury Jets Reserves | **0 - 5** | `2nd half` | Unknown 56'(A), Unknown 55'(A), Unknown 38'(A), Unknown 32'(A), Unknown 24'(A) |
+| 02:00 | Australia | Manningham United Blues FC U23 vs Langwarrin SC U23 | **1 - 2** | `2nd half` | Unknown 27'(A), Unknown 25'(H), Unknown 18'(A) |
+| 02:00 | Australia | Northcote City FC U23 vs North Geelong Warriors FC U23 | **0 - 1** | `2nd half` | Unknown 37'(A) |
+| 02:30 | Australia | Perth SC U23 vs Perth Glory II  U23 | **1 - 2** | `2nd half` | Unknown 23'(A), Unknown 6'(H), Unknown 3'(A) |
+| 03:00 | Australia | Bayswater City U23 vs Armadale SC U23 | **0 - 0** | `1st half` | --- |
+| 05:00 | Australia | Perth Redstar U23 vs Olympic Kingsway U23 | **1 - 2** | `1st half` | Unknown 30'(H), Unknown 17'(A), Unknown 9'(A) |
+| 03:00 | Colombia Amateur | Movilser Tairona FC vs Academia Internacional Nottingham - Belhorizon | **0 - 0** | `Started` | --- |
+| 03:00 | Colombia Amateur | Alianza Sur - Ind. Aborigen vs Borgi Jinversiones | **0 - 0** | `1st half` | --- |
+| 02:30 | Colombia Amateur | Amigos FC vs Almacenes El Rey | **0 - 0** | `1st half` | --- |
+| 02:00 | Costa Rica | Deportivo Saprissa Femenino vs Municipal Pococí | **3 - 1** | `2nd half` | Unknown 41'(A), Unknown 33'(H), Unknown 11'(H), Unknown 3'(H) |
+| 02:00 | Costa Rica | Sporting FC vs Dimas Escazú | **2 - 0** | `2nd half` | Unknown 46'(H), Unknown 25'(H) |
+| 02:00 | Guatemala | AFF Guatemala vs Chimaltenango FC | **1 - 1** | `2nd half` | Unknown 24'(H), Unknown 2'(A) |
+| 03:30 | India | PFC Kerala vs Lords FA | **0 - 0** | `Started` | --- |
+| 01:30 | Mexico | La Piedad Imperial vs Sahuayo FC | **2 - 0** | `2nd half` | Unknown 89'(H), Unknown 20'(H) |
+| 02:00 | Mexico | Xolos de Hermosillo vs Datileros San Luis RC | **0 - 1** | `2nd half` | Unknown 68'(A) |
+| 02:00 | Mexico | Alacranes de Durango vs Universidad Autónoma de Zacatecas | **2 - 0** | `2nd half` | Unknown 26'(H), Unknown 19'(H) |
+| 02:00 | Vanuatu | North Efate United FC vs iCount Yatel FC | **0 - 0** | `Started` | --- |
