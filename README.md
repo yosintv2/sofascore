@@ -2,16 +2,19 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:45 | Argentina | CA Independiente vs Club Atlético Unión de Santa Fe | **1 - 3** | `2nd half` | Ignacio Pussetto 45'(H), Mateo Del Blanco 39'(A), Brahian Cuello 20'(A), Cristian Tarragona 14'(A) |
-| 22:45 | Argentina | Tigre vs Vélez Sarsfield | **1 - 0** | `2nd half` | David Romero 27'(H) |
-| 23:20 | Colombia | Atlético Bucaramanga vs Deportivo Pereira | **1 - 0** | `1st half` | Luciano Pons 20'(H) |
-| 23:00 | North & Central America | Philadelphia Union vs Club América | **0 - 1** | `1st half` | Raphael Veiga 20'(A) |
-| 22:00 | South America | Club Bolivar U20 vs Flamengo U20 | **1 - 4** | `2nd half` | Da Mata 90'(A), Alan Santos 90'(A), Ronald Berto Cronenbold Zenteno 33'(H), Josmar 9'(A), Ryan Roberto 5'(A) |
-| 23:00 | Barbados | Paradise SC vs Kickstart Rush Stars | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | Portuguesa vs Avaí | **1 - 1** | `2nd half` | Renê Sousa 20'(H), Paulo Vitor 16'(A) |
-| 22:30 | Brazil | Joinville vs São Bernardo | **0 - 0** | `2nd half` | --- |
-| 23:00 | Brazil | CA Cristal vs Ypiranga-AP | **0 - 1** | `Halftime` | Alisson Zé 45'(A) |
-| 23:00 | Brazil | River EC vs Monte Roraima | **0 - 1** | `1st half` | Unknown 30'(A) |
-| 22:00 | Chile | Unión Española vs Deportes Magallanes | **1 - 1** | `2nd half` | Cristóbal Jorquera 17'(A), Ulises Ojeda 12'(H) |
-| 22:00 | Colombia | Atlético Nacional Medellín vs Millonarios | **1 - 0** | `2nd half` | Manuela Gonzalez 54'(H) |
-| 23:30 | Indonesia | Persido Dogiyai vs Persintan Intan Jaya FC | **3 - 0** | `2nd half` | Unknown 65'(H), Unknown 24'(H), Unknown 18'(H) |
+| 00:30 | South America | Botafogo vs Barcelona SC Guayaquil | **0 - 1** | `2nd half` | Milton Celiz 8'(A) |
+| 00:30 | Brazil | Mirassol vs Santos | **1 - 0** | `2nd half` | Igor Formiga 21'(H) |
+| 01:00 | Argentina | Newell's Old Boys vs Platense | **1 - 0** | `1st half` | Facundo Guch 23'(H) |
+| 01:00 | Argentina | Sarmiento vs Racing Club | **0 - 0** | `1st half` | --- |
+| 01:30 | Colombia | Junior Barranquilla vs Atlético Nacional | **0 - 0** | `1st half` | --- |
+| 01:00 | North & Central America | CF Monterrey vs Cruz Azul | **1 - 1** | `1st half` | Roberto de la Rosa 40'(H), Roberto de la Rosa 35'(H), Erik Lira 25'(A) |
+| 00:00 | South America | Independiente Medellín U20 vs Estudiantes de Mérida U20 | **0 - 1** | `2nd half` | Ander Izarra 72'(A) |
+| 00:30 | Brazil | Ponte Preta vs Guarany de Bagé | **1 - 0** | `2nd half` | Bryan Borges 48'(H) |
+| 01:00 | Brazil | Rio Negro-RR vs Baré | **0 - 2** | `1st half` | Unknown 28'(A), Unknown 17'(A) |
+| 00:00 | Colombia | Real Cartagena vs Internacional de Palmira | **2 - 2** | `2nd half` | Cristian Graciano 41'(H), Fredy Montero 38'(H), Kener González 35'(A), Kener González 19'(A) |
+| 01:00 | Colombia Amateur | CASG United vs Drakkar CF | **2 - 2** | `1st half` | Unknown 11'(H), Unknown 10'(A), Unknown 8'(H), Unknown 6'(A) |
+| 01:00 | El Salvador | CD El Roble de Ilobasco vs CD Luis Ángel Firpo | **0 - 0** | `1st half` | --- |
+| 00:30 | Guadeloupe | ASC Equinoxe vs Club Sport | **0 - 0** | `Started` | --- |
+| 01:30 | Honduras | CD Choloma vs CD Marathon | **0 - 0** | `1st half` | --- |
+| 01:05 | Mexico | Guadalajara vs Club América | **0 - 0** | `1st half` | --- |
+| 01:00 | USA | Elevate Soccer Project vs Parkland SC | **0 - 0** | `1st half` | --- |
