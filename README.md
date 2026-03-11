@@ -2,9 +2,11 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 07:30 | Australia Amateur | Majura FC vs Narrabundah FC | **0 - 0** | `Started` | --- |
-| 07:00 | Ethiopia | Sheger Ketema vs Addis Ababa Ketema | **1 - 0** | `Halftime` | Unknown 3'(H) |
-| 06:00 | India | Sudeva Delhi FC U21 vs Diamond Harbour FC U21 | **3 - 2** | `2nd half` | Unknown 89'(A), Unknown 87'(A), Unknown 47'(H), Unknown 32'(H), Unknown 10'(H) |
-| 06:00 | Indonesia | Persipuja Puncak Jaya vs Persemi Mimika | **0 - 3** | `2nd half` | Unknown 90'(A), Unknown 74'(A), Unknown 67'(A) |
-| 06:30 | Nepal | New Road Team vs Laliguransh Association | **1 - 0** | `2nd half` | Unknown 26'(H) |
-| 06:00 | Thailand | Rajabhat Phuket University vs Phetchabun Rajabhat University | **1 - 4** | `2nd half` | Unknown 57'(A), Unknown 55'(A), Unknown 48'(A), Unknown 11'(A), Unknown 10'(H) |
+| 08:00 | World | FC Samtskhe vs FC Zestafoni | **0 - 1** | `1st half` | Unknown 14'(A) |
+| 07:30 | Australia Amateur | Majura FC vs Narrabundah FC | **1 - 0** | `Started` | Unknown 36'(H) |
+| 07:00 | Ethiopia | Sheger Ketema vs Addis Ababa Ketema | **1 - 0** | `2nd half` | Unknown 3'(H) |
+| 07:45 | India | CFCI vs ICL Mumbai FC | **1 - 4** | `1st half` | Unknown 15'(A), Unknown 10'(H), Unknown 6'(A), Unknown 4'(A), Unknown 2'(A) |
+| 06:30 | Nepal | New Road Team vs Laliguransh Association | **1 - 1** | `2nd half` | Unknown 90'(A), Unknown 26'(H) |
+| 08:00 | Philippines | Don Bosco Garelli United vs Philippine Army | **1 - 0** | `1st half` | Unknown 26'(H) |
+| 08:00 | Thailand | Bansomdejchaopraya Rajabhat vs Sakon Nakhon Rajabhat University | **0 - 0** | `1st half` | --- |
+| 08:00 | Turkey Amateur | Erzurum 1968 Spor vs Erzurum Harb-İş SK | **0 - 0** | `Started` | --- |
