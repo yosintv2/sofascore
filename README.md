@@ -2,65 +2,87 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 17:00 | Turkey | Keçiörengücü vs Sakaryaspor | **0 - 0** | `1st half` | --- |
-| 16:00 | USA | Birmingham Legion FC vs Hartford Athletic | **0 - 0** | `Halftime` | --- |
-| 15:15 | France | Paris FC vs Strasbourg | **3 - 0** | `2nd half` | Clara Matéo 58'(H), Maëlle Garbino 27'(H), Clara Matéo 14'(H) |
-| 15:30 | World | Podillia Khmelnytsky vs FC Kulykiv-Bilka | **0 - 0** | `2nd half` | --- |
-| 17:00 | World | Utsiktens BK vs Landskrona BoIS | **0 - 0** | `1st half` | --- |
-| 17:00 | World | IK Uppsala vs Gamla Upsala Sk | **0 - 0** | `1st half` | --- |
-| 15:30 | Spain | Linares Deportivo vs FC La Union Atletico | **0 - 2** | `2nd half` | Unknown 68'(A), Unknown 40'(A) |
-| 16:00 | Spain | Tenerife B vs Las Palmas Atlético | **1 - 2** | `2nd half` | Juan Ybarra 45'(H), Johan Guedes 30'(A), Carlos Navarro 27'(A) |
-| 16:30 | Spain | Málaga U19 vs UD Melilla U19 | **0 - 0** | `1st half` | --- |
-| 17:00 | Spain | UD La Cruz Villanovense U19 vs Atlético Madrid U19 | **0 - 1** | `1st half` | Unknown 6'(A) |
-| 17:00 | Italy | Fiorentina vs Juventus | **0 - 1** | `1st half` | Unknown 9'(A) |
-| 15:30 | Bosnia & Herzegovina | HŠK Zrinjski Mostar vs GOŠK Gabela | **2 - 1** | `2nd half` | Gabrijel Čoko 70'(A), Mario Ćuže 56'(H), Leo Mikić 34'(H) |
-| 17:00 | Botswana | Police XI vs Santa Green FC | **0 - 0** | `1st half` | --- |
+| 17:45 | Europe | Bayer 04 Leverkusen vs Arsenal | **0 - 0** | `1st half` | --- |
+| 17:00 | Turkey | Keçiörengücü vs Sakaryaspor | **1 - 1** | `Halftime` | Mame Biram Diouf 36'(H), Poyraz Efe Yıldırım 15'(A) |
+| 17:30 | South Africa | Orlando Pirates vs Richards Bay FC | **1 - 0** | `1st half` | Oswin Appollis 26'(H) |
+| 16:00 | USA | Birmingham Legion FC vs Hartford Athletic | **0 - 0** | `2nd half` | --- |
+| 17:30 | United Arab Emirates | Al-Sharjah vs Al-Nasr Dubai | **0 - 1** | `1st half` | Luka Milivojević 30'(A) |
+| 17:30 | United Arab Emirates | Khor Fakkan vs Dibba Al-Fujairah | **0 - 0** | `1st half` | --- |
+| 17:30 | United Arab Emirates | Shabab Al-Ahli Dubai vs Al-Ittihad Kalba | **0 - 0** | `1st half` | --- |
+| 18:00 | France | Dijon FCO vs Saint-Étienne | **0 - 0** | `1st half` | --- |
+| 18:00 | France | Nantes vs FC Fleury 91 | **0 - 0** | `1st half` | --- |
+| 18:00 | France | RC Lens vs Montpellier HSC | **0 - 0** | `1st half` | --- |
+| 17:00 | World | IK Uppsala vs Gamla Upsala Sk | **1 - 1** | `Halftime` | Unknown 36'(H), Unknown 32'(A) |
+| 18:00 | Spain | Antequera vs Algeciras CF | **0 - 0** | `1st half` | --- |
+| 18:00 | Spain | Real Murcia vs Marbella FC | **1 - 0** | `1st half` | Unknown 2'(H) |
+| 18:00 | Spain | Club Atlético de Madrid vs Costa Adeje Tenerife | **0 - 0** | `1st half` | --- |
+| 17:30 | Spain | Real Betis U19 vs Celta Vigo U19 | **0 - 2** | `1st half` | Aldrine Kipchirchir Kibet 17'(A), Curro Macías 14'(A) |
+| 16:30 | Spain | Málaga U19 vs UD Melilla U19 | **2 - 0** | `2nd half` | Unknown 69'(H), Unknown 55'(H) |
+| 17:00 | Spain | UD La Cruz Villanovense U19 vs Atlético Madrid U19 | **0 - 2** | `2nd half` | Unknown 19'(A), Unknown 6'(A) |
+| 17:30 | Germany | FC Carl Zeiss Jena vs SC Sand | **1 - 0** | `1st half` | Melina Reuter 19'(H) |
+| 17:30 | Germany | Hamburger SV vs FC Bayern München | **0 - 1** | `1st half` | Edna Imade 6'(A) |
+| 17:30 | Germany | SGS Essen vs SV Werder Bremen | **0 - 0** | `1st half` | --- |
+| 17:30 | Germany | VfL Wolfsburg vs Eintracht Frankfurt | **0 - 0** | `1st half` | --- |
+| 17:00 | Italy | Fiorentina vs Juventus | **0 - 1** | `2nd half` | Chiara Beccari 9'(A) |
+| 17:45 | Bosnia & Herzegovina | FK Velež Mostar vs FK Sarajevo | **0 - 1** | `1st half` | João Carlos 13'(A) |
+| 17:00 | Botswana | Police XI vs Santa Green FC | **0 - 0** | `Halftime` | --- |
+| 18:00 | Brazil | Rio Branco-SP vs SE Itapirense | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Rio Claro FC vs XV de Jaú | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Red Bull Bragantino U20 vs EC Tarumã U20 | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Santos U20 vs Atlético Mineiro U20 | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Camaçariense U20 vs Galícia U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Brazil | Jacobina U20 vs Camaçari U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Brazil | Juazeirense U20 vs Feirense U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Brazil | SSA FC U20 vs Bahia U20 | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Bahia de Feira U20 vs Estrela de Março U20 | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Fluminense de Feira U20 vs Leônico U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Brazil | Jacuipense U20 vs Atlético Alagoinhas U20 | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Vitória U20 vs Redenção U20 | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Barcelona de Ilhéus U20 vs Porto Sport Club U20 | **0 - 0** | `1st half` | --- |
+| 18:00 | Brazil | Catuense U20 vs Vitória da Conquista U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Brazil | Grapiúna U20 vs Serrano-BA U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Brazil | Unimed Conquista FC U20 vs Jequié U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Brazil | Botafogo U20 vs Resende U20 | **0 - 0** | `1st half` | --- |
 | 16:30 | Bulgaria Amateur | FC Iskar 1945 Novi Iskar vs FC Kazichene 1929 Sofia | **0 - 0** | `Started` | --- |
-| 15:00 | Croatia | NK Međimurec Dunjkovec-Pretetinec vs NK Rudar Mursko Središće | **0 - 0** | `Started` | --- |
-| 15:30 | Croatia Amateur | NK Olimpija Osijek vs ŠNK Višnjevac | **0 - 0** | `Started` | --- |
 | 16:00 | Croatia Amateur | Ponikve - Veterani vs VNK Slavonac | **0 - 0** | `Started` | --- |
-| 16:00 | Estonia | Narva Trans vs Viimsi JK | **3 - 0** | `2nd half` | Josue Doke 51'(H), Mark Maksimkin 32'(H), Ahmad Gero 7'(H) |
-| 16:00 | Estonia | Paide Linnameeskond vs Tallinna Kalev | **5 - 0** | `2nd half` | Daniel Luts 47'(H), Daniel Luts 45'(H), Henrik Ojamaa 41'(H), Momodou Jobarteh 25'(H), Kristofer Piht 20'(H) |
-| 15:30 | Finland | HJK Helsinki vs HPS Helsinki | **4 - 0** | `2nd half` | Nora Heroum 47'(H), Unknown 45'(H), Nora Heroum 17'(H), Unknown 4'(H) |
-| 16:30 | Gambia | Baalor Sarr FC vs North Star Academy | **0 - 1** | `1st half` | Unknown 32'(A) |
-| 16:30 | Gambia | FC Wagadou vs Kanifing East FC | **0 - 0** | `1st half` | --- |
-| 16:30 | Gambia | Unique Global FC vs FC Gunjur United | **0 - 0** | `1st half` | --- |
-| 16:00 | Georgia | FC Gagra vs FC Spaeri | **0 - 2** | `2nd half` | Gocha Tsirdava 32'(A), Tamaz Tsetskhladze 14'(A) |
-| 16:00 | Georgia | FC Torpedo Kutaisi vs FC Iberia 1999 | **0 - 0** | `2nd half` | --- |
-| 15:00 | Ghana | FC Angels United vs FC Great Farcos | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Daniok vs FC African Vikings | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Eoto vs FC Lizzy Sports | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Five Stars vs FC Adenta Rising | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | SC Young Sappers vs FC Rising Talent | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC A.S Koppan vs FC Top-Flight | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Goldberg vs FC Madina United | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Madina United vs FC Primus | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Primus vs Star Makers FC | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Winkot vs Atomic Gateway Sporting Academy | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | Adenta Youth Sporting Academy vs FC Young African Promises | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Dortmund vs FC Accra Lazio Babies | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Marrion vs FC Hospas | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Paga Zenga vs Mountaineers FC | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Palmeiras Africa vs YDS 18 Quinta Trust | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Pek Legacy vs FC Sowutoum United | **0 - 0** | `Started` | --- |
-| 15:00 | Ghana | FC Soka vs FC EJ | **0 - 0** | `Started` | --- |
-| 16:00 | Greece Amateur | APS Atromitos Patron vs AS Niki Proastiou | **2 - 0** | `2nd half` | Unknown 27'(H), Unknown 16'(H) |
+| 18:00 | Croatia Amateur | GNK Dinamo Zagreb U17 vs NK Sesvete U17 | **0 - 0** | `Started` | --- |
+| 18:00 | Finland Amateur | ÅIFK/2 vs Kaarinan Pojat | **0 - 0** | `Started` | --- |
+| 16:30 | Gambia | Baalor Sarr FC vs North Star Academy | **0 - 1** | `2nd half` | Unknown 32'(A) |
+| 16:30 | Gambia | FC Wagadou vs Kanifing East FC | **1 - 0** | `2nd half` | Unknown 45'(H) |
+| 16:30 | Gambia | Unique Global FC vs FC Gunjur United | **1 - 1** | `2nd half` | Unknown 64'(H), Unknown 59'(A) |
+| 18:00 | Germany Amateur | VSG Altglienicke vs FSV Luckenwalde | **0 - 0** | `1st half` | --- |
+| 18:00 | Germany Amateur | TSV Jetzendorf vs TSV Rain/Lech | **0 - 0** | `Started` | --- |
+| 18:00 | Germany Amateur | TSV Schwabhausen II vs TSV Hilgertshausen II | **0 - 0** | `Started` | --- |
+| 18:00 | Germany Amateur | SV Sandhausen vs VfR Mannheim | **0 - 0** | `Started` | --- |
+| 17:30 | Germany Amateur | SG Steinlah/Haverlah vs SG Wolfshagen/Lautenthal | **0 - 0** | `Started` | --- |
+| 18:00 | Germany Amateur | FC Othfresen II vs TSV Westerode | **0 - 0** | `Started` | --- |
+| 18:00 | Germany Amateur | SpVgg Quierschied vs 1. FC Saarbrücken | **0 - 0** | `Started` | --- |
 | 16:00 | Greece Amateur | Krios Aspropyrgou vs Apollon Pontion B | **0 - 0** | `Started` | --- |
 | 16:00 | Greece Amateur | AO Kerkyra 1968 vs Peka FC | **0 - 0** | `Started` | --- |
-| 16:30 | Iceland | Fylkir Reykjavík vs ÍBV Vestmannaeyjar | **0 - 1** | `1st half` | Unknown 28'(A) |
-| 15:00 | Italy Amateur | Real San Giovanni Frattaminore vs Barrese Ester | **0 - 0** | `Started` | --- |
-| 15:00 | Italy Amateur | ASD Atletico Azzurra Colli vs Aurora Treia | **0 - 0** | `Started` | --- |
-| 16:59 | Mauritius | AS Port-Louis 2000 vs Cercle de Joachim SC | **0 - 0** | `1st extra` | --- |
-| 15:30 | Montenegro | FK Budućnost Podgorica vs FK Jedinstvo Bijelo Polje | **3 - 1** | `2nd half` | Unknown 65'(A), Danilo Vukanić 34'(H), Ivan Bojović 24'(H), Nemanja Nikolić 19'(H) |
-| 17:00 | Poland | Legia Ladies Warszawa vs GKS Katowice | **0 - 0** | `1st half` | --- |
-| 16:00 | Portugal | Valadares Gaia vs Sporting CP | **0 - 0** | `Halftime` | --- |
-| 17:00 | Rwanda | Gasogi United FC vs APR FC | **0 - 0** | `1st half` | --- |
-| 16:00 | Senegal | Teungueth vs AS Pikine | **2 - 0** | `2nd half` | Unknown 32'(H), Unknown 17'(H) |
-| 16:30 | Senegal | ASC Diambars vs ASC HLM | **0 - 0** | `1st half` | --- |
-| 16:30 | Sierra Leone | Wilberforce Strikers FC vs SLIFA Mount Aureol FC | **1 - 0** | `1st half` | Unknown 10'(H) |
-| 17:00 | Slovakia | 1. FC Tatran Prešov vs MFK Tatran Liptovský Mikuláš | **0 - 0** | `1st half` | --- |
-| 15:00 | Spain Amateur | CE Mercadal vs UD Rotlet Molinar | **1 - 0** | `2nd half` | Unknown 86'(H) |
-| 16:15 | Tanzania | Dodoma Jiji FC vs Azam FC | **0 - 2** | `Halftime` | Feisal Salum 12'(A), Yahya Omary Zayd 5'(A) |
-| 17:00 | Turkey Amateur | Diyarbakır Sanayi Sitesi vs Bağlar Belediyespor | **0 - 0** | `Started` | --- |
-| 17:00 | Uganda | Kampala City vs Express FC | **0 - 0** | `1st half` | --- |
-| 17:00 | Uganda | Uganda Revenue Authority vs Lugazi FC | **0 - 0** | `1st half` | --- |
+| 18:00 | Hungary Amateur | Körmendi FC vs Szentgotthárdi VSE | **0 - 0** | `Started` | --- |
+| 16:30 | Iceland | Fylkir Reykjavík vs ÍBV Vestmannaeyjar | **2 - 2** | `2nd half` | Unknown 60'(H), Unknown 44'(A), Unknown 40'(H), Unknown 28'(A) |
+| 17:30 | Lithuania | FK Riteriai vs Džiugas Telšiai | **0 - 0** | `1st half` | --- |
+| 18:00 | Mexico | Sufacen Tepic vs Castores Gobrantacto | **0 - 0** | `1st half` | --- |
+| 17:30 | Mexico | Toluca U19 vs Chivas Guadalajara U19 | **0 - 0** | `1st half` | --- |
+| 17:45 | Netherlands | Feyenoord vs FC Twente Vrouwen | **0 - 0** | `1st half` | --- |
+| 18:00 | Oman | Al Rustaq SC vs Samail SC | **0 - 1** | `1st half` | Unknown 5'(A) |
+| 18:00 | Oman | Al Shabab SC Oman vs Sohar SC | **0 - 0** | `1st half` | --- |
+| 18:00 | Oman | Ibri SC vs Oman Club SC | **0 - 1** | `1st half` | Unknown 2'(A) |
+| 18:00 | Oman | Sur SC vs Saham SC | **0 - 0** | `1st half` | --- |
+| 18:00 | Poland Amateur | GKS Sadownik Błędów vs LKS II Promna | **0 - 0** | `Started` | --- |
+| 16:00 | Portugal | Valadares Gaia vs Sporting CP | **1 - 1** | `Awaiting penalties` | Jennie Lakip 89'(H), Cláudia Neto 77'(A) |
+| 17:00 | Rwanda | Gasogi United FC vs APR FC | **0 - 0** | `Halftime` | --- |
+| 16:30 | Senegal | ASC Diambars vs ASC HLM | **0 - 0** | `2nd half` | --- |
+| 16:30 | Sierra Leone | Wilberforce Strikers FC vs SLIFA Mount Aureol FC | **2 - 1** | `2nd half` | Unknown 63'(H), Unknown 56'(A), Unknown 10'(H) |
+| 17:00 | Slovakia | 1. FC Tatran Prešov vs MFK Tatran Liptovský Mikuláš | **1 - 1** | `Halftime` | Richard Bartoš 35'(A), Andy Masaryk 22'(H) |
+| 18:00 | Spain Amateur | RB Linense vs Coria CF | **0 - 0** | `1st half` | --- |
+| 18:00 | Sweden | BK Häcken FF vs Linköpings FC | **0 - 0** | `1st half` | --- |
+| 18:00 | Sweden Amateur | Slätta SK vs Korsnäs IF FK | **0 - 0** | `Started` | --- |
+| 18:00 | Sweden Amateur | Bollnäs GIF FF vs Hudiksvalls FF | **0 - 0** | `Started` | --- |
+| 16:15 | Tanzania | Dodoma Jiji FC vs Azam FC | **0 - 3** | `2nd half` | Unknown 72'(A), Feisal Salum 12'(A), Yahya Omary Zayd 5'(A) |
+| 17:00 | Turkey Amateur | Diyarbakır Sanayi Sitesi vs Bağlar Belediyespor | **0 - 4** | `Started` | Unknown 43'(A), Unknown 34'(A), Unknown 24'(A), Unknown 11'(A) |
+| 18:00 | Turkey Amateur | Yalova Kadıköyspor vs Soğucakspor | **0 - 0** | `Started` | --- |
+| 17:00 | Uganda | Kampala City vs Express FC | **2 - 0** | `2nd half` | Ivan Ahimbisibwe 29'(H), Unknown 13'(H) |
+| 17:00 | Uganda | Uganda Revenue Authority vs Lugazi FC | **0 - 0** | `2nd half` | --- |
+| 17:30 | United Arab Emirates | AL Jazira U23 vs Al Dhafra U23 | **0 - 0** | `1st half` | --- |
+| 17:30 | United Arab Emirates | Ajman U23 vs Al Bataeh U23 | **0 - 0** | `1st half` | --- |
