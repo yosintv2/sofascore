@@ -2,8 +2,8 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 03:00 | North & Central America | Los Angeles FC vs LD Alajuelense | **0 - 1** | `Halftime` | Alejandro Bran 44'(A) |
-| 02:30 | Colombia Amateur | El Morro FC vs Valadares | **2 - 2** | `2nd half` | Unknown 47'(A), Unknown 39'(H), Unknown 16'(A), Unknown 13'(H) |
-| 02:00 | Costa Rica | Deportivo Saprissa Femenino vs AD Moravia | **3 - 1** | `2nd half` | Unknown 62'(H), Unknown 36'(A), Unknown 34'(H), Unknown 31'(H) |
-| 02:30 | India | Sreenidi Deccan FC U21 vs Bengaluru FC U21 | **2 - 4** | `2nd half` | Unknown 57'(A), Unknown 45'(H), Unknown 40'(A), Unknown 28'(H), Unknown 14'(A), Unknown 8'(A) |
-| 01:00 | USA | Elevate Soccer Project vs Parkland SC | **0 - 0** | `Halftime` | --- |
+| 07:00 | Ethiopia | Sheger Ketema vs Addis Ababa Ketema | **1 - 0** | `1st half` | Unknown 3'(H) |
+| 06:00 | India | Sudeva Delhi FC U21 vs Diamond Harbour FC U21 | **2 - 0** | `2nd half` | Unknown 32'(H), Unknown 10'(H) |
+| 06:00 | Indonesia | Persipuja Puncak Jaya vs Persemi Mimika | **0 - 0** | `2nd half` | --- |
+| 06:30 | Nepal | New Road Team vs Laliguransh Association | **1 - 0** | `1st half` | Unknown 26'(H) |
+| 06:00 | Thailand | Rajabhat Phuket University vs Phetchabun Rajabhat University | **1 - 2** | `2nd half` | Unknown 48'(A), Unknown 11'(A), Unknown 10'(H) |
