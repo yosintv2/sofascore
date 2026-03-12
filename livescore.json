@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-12 22:58:34 UTC"
+        "updated": "2026-03-12 23:34:17 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,10 @@
             "country": "Brazil",
             "home": "Remo",
             "away": "Fluminense",
-            "score": "0 - 1",
-            "minute": "Halftime",
+            "score": "0 - 2",
+            "minute": "2nd half",
             "scorers": [
+                "Agust\u00edn Canobbio 63'(A)",
                 "John Kennedy 16'(A)"
             ]
         },
@@ -22,6 +23,18 @@
             "country": "Brazil",
             "home": "Vasco da Gama",
             "away": "Palmeiras",
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Jos\u00e9 L\u00f3pez 40'(A)"
+            ]
+        },
+        {
+            "start_time": "23:00",
+            "league": "Brasileir\u00e3o Betano",
+            "country": "Brazil",
+            "home": "S\u00e3o Paulo",
+            "away": "Chapecoense",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -33,7 +46,7 @@
             "home": "CA Talleres",
             "away": "Instituto De C\u00f3rdoba",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Valentin Davila 31'(H)"
             ]
@@ -44,9 +57,11 @@
             "country": "Argentina",
             "home": "Estudiantes de R\u00edo Cuarto",
             "away": "Club Atl\u00e9tico Belgrano",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Francisco Gonz\u00e1lez Metilli 59'(A)"
+            ]
         },
         {
             "start_time": "22:00",
@@ -54,23 +69,12 @@
             "country": "South America",
             "home": "Nacional U20",
             "away": "LDU Quito U20",
-            "score": "2 - 0",
-            "minute": "Halftime",
-            "scorers": [
-                "Juan Ignacio Garcia 24'(H)",
-                "Mateo Soria 21'(H)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Copa Betano do Brasil",
-            "country": "Brazil",
-            "home": "Madureira",
-            "away": "\u00c1guia de Marab\u00e1 FC",
-            "score": "0 - 1",
+            "score": "2 - 1",
             "minute": "2nd half",
             "scorers": [
-                "Felipe Par\u00e1 45'(A)"
+                "Jarold M\u00e9ndez 59'(A)",
+                "Juan Ignacio Garcia 24'(H)",
+                "Mateo Soria 21'(H)"
             ]
         },
         {
@@ -79,9 +83,12 @@
             "country": "Brazil",
             "home": "Vila Nova FC",
             "away": "Oper\u00e1rio-MS",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Roger Fagundes 64'(A)",
+                "Dellatorre 58'(H)"
+            ]
         },
         {
             "start_time": "22:30",
@@ -89,9 +96,11 @@
             "country": "Brazil",
             "home": "Maranh\u00e3o AC",
             "away": "Cear\u00e1",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Vinicius Zanocelo 28'(A)"
+            ]
         },
         {
             "start_time": "22:30",
@@ -99,9 +108,11 @@
             "country": "Brazil",
             "home": "Oper\u00e1rio-PR",
             "away": "Capital CF",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Pablo 45'(H)"
+            ]
         },
         {
             "start_time": "22:30",
@@ -110,43 +121,56 @@
             "home": "Sousa EC",
             "away": "CRB",
             "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "23:00",
+            "league": "Copa Betano do Brasil",
+            "country": "Brazil",
+            "home": "Amazonas FC",
+            "away": "Figueirense",
+            "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "21:00",
+            "start_time": "23:30",
+            "league": "Copa Betano do Brasil",
+            "country": "Brazil",
+            "home": "Mixto",
+            "away": "Gr\u00eamio Novorizontino",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:00",
+            "league": "Liga InterEmpresas",
+            "country": "Colombia Amateur",
+            "home": "EYC Ingenieros",
+            "away": "Ipsos",
+            "score": "1 - 2",
+            "minute": "1st half",
+            "scorers": [
+                "Nelson  Barrero 20'(H)",
+                "David Bravo 11'(A)",
+                "Luis  Lozano 4'(A)"
+            ]
+        },
+        {
+            "start_time": "23:00",
             "league": "Copa Presidente, Group D",
             "country": "El Salvador",
-            "home": "CSD Vendaval",
-            "away": "AD Batanecos",
-            "score": "0 - 1",
-            "minute": "2nd half",
+            "home": "Zacatecoluca FC",
+            "away": "Alianza FC",
+            "score": "1 - 2",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 55'(A)"
+                "Unknown 29'(H)",
+                "Unknown 21'(A)",
+                "Unknown 10'(A)"
             ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Premier League, Group 2",
-            "country": "Libya",
-            "home": "Abelashhar SC",
-            "away": "Al Tersana Tripoli",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Sharaf Al Rwemid 66'(A)",
-                "Ayman Abdelrahman 38'(H)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Premier League, Group 2",
-            "country": "Libya",
-            "home": "Olympic Azzawiya SC",
-            "away": "Al Ittihad SC",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
         },
         {
             "start_time": "22:00",
@@ -154,9 +178,11 @@
             "country": "Mauritania",
             "home": "FC Amitie 2020",
             "away": "AS Armee",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 69'(A)",
+                "Unknown 48'(H)",
                 "Unknown 13'(H)"
             ]
         },
@@ -166,39 +192,46 @@
             "country": "Mexico",
             "home": "Cruz Azul",
             "away": "Necaxa",
-            "score": "2 - 0",
+            "score": "3 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Ana Luc\u00eda Mart\u00ednez 68'(H)",
                 "Uchenna Kanu 35'(H)",
                 "Liliana Rodr\u00edguez 10'(H)"
             ]
         },
         {
-            "start_time": "21:30",
-            "league": "Championship Round",
-            "country": "Portugal Amateur",
-            "home": "AEFEUNL",
-            "away": "AEISCTE",
-            "score": "2 - 3",
-            "minute": "2nd half",
+            "start_time": "23:00",
+            "league": "Liga de Ascenso, Clausura",
+            "country": "Nicaragua",
+            "home": "Deportivo Masaya",
+            "away": "Deportivo Ocotal",
+            "score": "0 - 1",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 60'(H)",
-                "Unknown 55'(A)",
-                "Unknown 53'(A)",
-                "Unknown 15'(H)",
-                "Unknown 9'(A)"
+                "Unknown 18'(A)"
             ]
         },
         {
-            "start_time": "21:00",
+            "start_time": "23:00",
             "league": "SKNFA Division 1",
             "country": "Saint Kitts and Nevis",
-            "home": "Mantab United",
-            "away": "Garden Hotspurs",
-            "score": "0 - 1",
+            "home": "KFC Trinity/Challengers United FC",
+            "away": "Rivers of Living Water FC",
+            "score": "0 - 0",
             "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "23:00",
+            "league": "USL Super League",
+            "country": "USA",
+            "home": "DC Power FC",
+            "away": "Dallas Trinity",
+            "score": "1 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 85'(A)"
+                "Loza Abera 17'(H)"
             ]
         }
     ]
