@@ -2,10 +2,9 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 02:00 | North & Central America | Vancouver Whitecaps vs Seattle Sounders FC | **0 - 3** | `2nd half` | Paul Rothrock 70'(A), Paul Arriola 58'(A), Paul Arriola 45'(A) |
-| 03:00 | Colombia Amateur | Sura - Nacional Eléctricos vs Embajadores - Kelevra | **0 - 0** | `1st half` | --- |
-| 02:15 | Colombia Amateur | San Martin vs Vodka Juniors FC | **2 - 0** | `2nd half` | Unknown 6'(H), Unknown 4'(H) |
-| 02:00 | Costa Rica | Pitbulls Santa Barbara FC vs Municipal Santa Ana | **1 - 1** | `2nd half` | Unknown 89'(H), Unknown 67'(A) |
-| 03:30 | India | Inter Kerala FC vs Kerala United FC | **0 - 2** | `Started` | Unknown 26'(A), Unknown 25'(A) |
-| 03:10 | Mexico | Mazatlán FC vs Monterrey | **0 - 1** | `1st half` | Lucía García 15'(A) |
-| 02:00 | Thailand | Songkhla Rajabhat University vs Rajabhat Maha Sarakham University | **3 - 0** | `2nd half` | Unknown 78'(H), Unknown 63'(H), Unknown 45'(H) |
+| 03:00 | Colombia Amateur | Sura - Nacional Eléctricos vs Embajadores - Kelevra | **3 - 1** | `2nd half` | Danny Chávez 90'(A), Carlos Andres Quitian Ariza 84'(H), Unknown 55'(H), Andrés Palacios 49'(H) |
+| 03:30 | India | Inter Kerala FC vs Kerala United FC | **0 - 9** | `2nd half` | Unknown 82'(A), Unknown 81'(A), Unknown 67'(A), Unknown 59'(A), Unknown 59'(A), Unknown 48'(A), Unknown 41'(A), Unknown 25'(A), Unknown 17'(A) |
+| 04:15 | Nepal | Planning Boys United vs Chitlang FC | **3 - 2** | `Halftime` | Unknown 39'(A), Unknown 37'(H), Unknown 34'(H), Unknown 29'(H), Unknown 22'(A) |
+| 05:00 | South Korea | Gangneung City vs Pocheon Citizen | **0 - 0** | `1st half` | --- |
+| 04:10 | Thailand | Suan Sunandha Rajabhat University vs Chaiyaphum Rajabhat University | **2 - 0** | `Halftime` | Unknown 41'(H), Unknown 16'(H) |
+| 04:10 | Thailand | Udon Thani Rajabhat University vs Surindra Rajabhat University | **2 - 0** | `Halftime` | Unknown 45'(H), Unknown 34'(H) |
