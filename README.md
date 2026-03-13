@@ -2,22 +2,22 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | Brazil | Remo vs Fluminense | **0 - 2** | `2nd half` | Agustín Canobbio 63'(A), John Kennedy 16'(A) |
-| 22:30 | Brazil | Vasco da Gama vs Palmeiras | **1 - 1** | `2nd half` | Thiago Mendes 63'(H), José López 40'(A) |
-| 23:00 | Brazil | São Paulo vs Chapecoense | **0 - 0** | `Halftime` | --- |
-| 22:15 | Argentina | CA Talleres vs Instituto De Córdoba | **1 - 0** | `2nd half` | Valentin Davila 31'(H) |
-| 22:15 | Argentina | Estudiantes de Río Cuarto vs Club Atlético Belgrano | **0 - 1** | `2nd half` | Francisco González Metilli 59'(A) |
-| 22:00 | South America | Nacional U20 vs LDU Quito U20 | **2 - 1** | `2nd half` | Jarold Méndez 59'(A), Juan Ignacio Garcia 24'(H), Mateo Soria 21'(H) |
-| 22:00 | Brazil | Vila Nova FC vs Operário-MS | **1 - 1** | `2nd half` | Roger Fagundes 64'(A), Dellatorre 58'(H) |
-| 22:30 | Brazil | Maranhão AC vs Ceará | **0 - 1** | `2nd half` | Vinicius Zanocelo 28'(A) |
-| 22:30 | Brazil | Operário-PR vs Capital CF | **1 - 0** | `2nd half` | Pablo 45'(H) |
-| 22:30 | Brazil | Sousa EC vs CRB | **0 - 0** | `2nd half` | --- |
-| 23:00 | Brazil | Amazonas FC vs Figueirense | **0 - 0** | `Halftime` | --- |
-| 23:30 | Brazil | Mixto vs Grêmio Novorizontino | **0 - 1** | `1st half` | Robson 18'(A) |
-| 00:00 | Brazil | Guaporé FC vs Rondoniense | **0 - 0** | `1st half` | --- |
-| 23:00 | Colombia Amateur | EYC Ingenieros vs Ipsos | **2 - 5** | `2nd half` | David Bravo 57'(A), Nelson  Barrero 54'(H), Juan Sanchez 53'(A), David Bravo 52'(A), Nelson  Barrero 20'(H), David Bravo 11'(A), Luis  Lozano 4'(A) |
-| 23:00 | El Salvador | Zacatecoluca FC vs Alianza FC | **1 - 2** | `Halftime` | Unknown 29'(H), Unknown 21'(A), Unknown 10'(A) |
-| 22:00 | Mauritania | FC Amitie 2020 vs AS Armee | **2 - 2** | `2nd half` | Unknown 69'(A), Unknown 48'(H), Unknown 13'(H) |
-| 23:00 | Nicaragua | Deportivo Masaya vs Deportivo Ocotal | **0 - 3** | `Halftime` | Unknown 40'(A), Unknown 32'(A), Unknown 18'(A) |
-| 23:00 | Saint Kitts and Nevis | KFC Trinity/Challengers United FC vs Rivers of Living Water FC | **0 - 0** | `Started` | --- |
-| 23:00 | USA | DC Power FC vs Dallas Trinity | **1 - 1** | `1st half` | Bethany Balcer 44'(A), Loza Abera 17'(H) |
+| 00:30 | South America | Independiente Medellín vs Juventud de Las Piedras | **1 - 1** | `2nd half` | Federico Barrandeguy 25'(A), Hayen Palacios 14'(H) |
+| 00:30 | Brazil | Grêmio vs Red Bull Bragantino | **1 - 0** | `2nd half` | Carlos Vinícius 7'(H) |
+| 00:30 | Argentina | Huracán vs River Plate | **1 - 1** | `2nd half` | Jordy Caicedo 45'(H), Sebastián Driussi 27'(A) |
+| 00:00 | North & Central America | FC Cincinnati vs Tigres UANL | **2 - 0** | `2nd half` | Tom Barlow 53'(H), Kévin Denkey 6'(H) |
+| 00:00 | South America | Santiago Wanderers U20 vs Belgrano U20 | **1 - 0** | `2nd half` | Ignacio Flores 63'(H) |
+| 00:00 | Bolivia | Club Independiente vs Blooming | **0 - 3** | `2nd half` | Miguel Villaroel 49'(A), César Menacho 43'(A), Bayron Garcés 3'(A) |
+| 00:30 | Brazil | Barra FC vs América Mineiro | **0 - 0** | `2nd half` | --- |
+| 00:30 | Brazil | Sport Recife vs Anápolis | **1 - 1** | `2nd half` | Marcelo Ajul 42'(H), João Borim 14'(A) |
+| 00:30 | Brazil | Tuna Luso vs Juventude | **1 - 1** | `Halftime` | Gabriel Taliari 45'(A), Paulo Rangel 9'(H) |
+| 00:00 | Brazil | Guaporé FC vs Rondoniense | **2 - 2** | `2nd half` | Antonio Luis dos Santos Mano 48'(H), Unknown 45'(A), Antonio Luis dos Santos Mano 28'(H), Unknown 19'(A) |
+| 00:00 | Brazil | Ji-Paraná vs Genus | **2 - 0** | `2nd half` | Patrick Justino 16'(H), Juan Palacios 4'(H) |
+| 01:00 | Colombia Amateur | Enmedio vs Castro R | **0 - 2** | `2nd half` | Sebastian  Ardila 22'(A), Juan  Arias 8'(A) |
+| 01:00 | Colombia Amateur | Sangox FC vs Football Internacional | **0 - 0** | `1st half` | --- |
+| 01:30 | Honduras | Platense Futbol Club vs CD Olimpia | **0 - 0** | `1st half` | --- |
+| 00:00 | Mauritania | FC Brakna vs AS Vallee | **1 - 0** | `2nd half` | Unknown 73'(H) |
+| 00:00 | Mexico | Toluca vs Pumas UNAM | **3 - 2** | `2nd half` | Ariatna Michelle Dorantes Gonzalez 75'(A), Eugénie Le Sommer 74'(H), Kayla Fernandez 69'(H), Kayla Fernandez 59'(H), Stephanie Ribeiro 39'(A) |
+| 01:00 | Mexico | Querétaro vs Atlas | **0 - 0** | `1st half` | --- |
+| 01:06 | Mexico | Pachuca vs Tijuana | **1 - 0** | `1st half` | Abril Anahí Fragoso García 15'(H) |
+| 01:00 | Panama | SD Atletico Nacional vs La Familia FC | **0 - 0** | `1st half` | --- |
