@@ -2,37 +2,48 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Argentina | Estudiantes de La Plata vs CA Lanús | **0 - 0** | `Halftime` | --- |
-| 23:00 | Chile | Audax Italiano vs Deportes Concepción | **3 - 0** | `Halftime` | Franco Troyansky 32'(H), Giovani Chiaverano 9'(H), Enzo Ferrario 3'(H) |
-| 23:00 | Venezuela | Deportivo La Guaira vs Academia Puerto Cabello | **0 - 0** | `Halftime` | --- |
-| 23:20 | Colombia | Once Caldas vs Deportivo Pasto | **2 - 0** | `1st half` | Jorge Cardona 17'(H), Luis Gómez 7'(H) |
-| 00:00 | Ecuador | Deportivo Cuenca vs Leones del Norte | **0 - 0** | `1st half` | --- |
-| 00:00 | South America | Flamengo U20 vs Independiente Medellín U20 | **0 - 0** | `1st half` | --- |
-| 22:10 | Argentina | CA Talleres de Cordoba vs Ferro Carril Oeste | **0 - 0** | `2nd half` | --- |
-| 22:00 | Brazil | Botafogo vs Flamengo | **1 - 0** | `2nd half` | Rebeca 42'(H) |
-| 23:00 | Brazil | Pinheiros FC U20 vs Rio Branco-ES U20 | **1 - 2** | `1st half` | Unknown 42'(A), Unknown 36'(A), Unknown 4'(H) |
-| 22:45 | Brazil Amateur | VFC vs EC Rio Branco da Santana | **1 - 1** | `2nd half` | Luyde Alberto Santos Carvalho 31'(H), Willian Nunes de Queiroz 17'(A) |
-| 23:30 | Chile | Deportes Iquique vs Cobreloa | **1 - 2** | `1st half` | Unknown 28'(H), Gustavo Gotti 25'(A), Sebastián Zuñiga 13'(A) |
-| 23:00 | Dominican Republic | Cibao FC vs Club Atlético Pantoja | **0 - 0** | `Halftime` | --- |
-| 23:00 | Mexico | Alebrijes de Oaxaca vs CD Tapatío | **3 - 1** | `Halftime` | Israel García 44'(H), Fernando Morales 31'(H), Luis Ledesma 28'(A), Hector Mascorro 14'(H) |
-| 22:00 | Mexico | Inter Playa del Carmen II vs Progreso FC | **1 - 3** | `2nd half` | Unknown 86'(A), Unknown 79'(A), Unknown 71'(H), Unknown 61'(A) |
-| 22:15 | Mexico | Oceanía FC vs Chivas Alamos FC | **0 - 1** | `2nd half` | Unknown 49'(A) |
-| 22:00 | Mexico | Tecos FC vs Tigres de Álica F.C. | **1 - 1** | `2nd half` | Unknown 17'(A), Unknown 14'(H) |
-| 23:30 | Paraguay | CS 2 de Mayo vs Libertad | **0 - 0** | `1st half` | --- |
-| 23:00 | Poland Amateur | BLKS Granit Bychawa vs Tur Milejów | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | Bug Hanna vs MKS Janowianka Janów Lubelski | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | Huragan Międzyrzec Podlaski vs Orlęta Radzyń Podlaski | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | KS Lublinianka vs Tomasovia Tomaszów Lubelski | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | MKS Lewart Lubartów vs Motor II Lublin | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | Tanew Majdan Stary vs Start 1944 Krasnystaw | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | AKS Sparta Augustów vs LUKS Czarni Czarna Białostocka | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | KKS Orzeł Kolno vs KS Turośnianka Turośń Kościelna | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | KS Michałowo vs UKS Krypnianka Krypno | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | MLKS Wissa Szczuczyn vs MKS Ruch Wysokie Mazowieckie | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | MOSP Białystok vs KS Śniadowo | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | Pionier Brańsk vs KS Warmia Grajewo | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | ZKS Olimpia Zambrów vs MKS Supraślanka Supraśl | **0 - 0** | `Started` | --- |
-| 23:00 | Poland Amateur | GKS Ruszcovia Borkowice vs LKS Strażak Wielogóra | **0 - 0** | `Started` | --- |
-| 23:00 | Saint Kitts and Nevis | Conaree Fireball International FC vs Security Forces United | **0 - 0** | `Started` | --- |
-| 23:00 | USA | Carolina Ascent vs Tampa Bay Sun FC | **0 - 0** | `Halftime` | --- |
-| 23:00 | Uruguay | Nacional vs Montevideo Wanderers | **1 - 0** | `Halftime` | Maximiliano Silvera 45'(H) |
+| 01:00 | Mexico | Club Puebla vs Club Necaxa | **0 - 0** | `2nd half` | --- |
+| 02:00 | Australia | Wellington Phoenix vs Perth Glory | **0 - 0** | `1st half` | --- |
+| 01:30 | Colombia | Atlético Nacional vs Llaneros FC | **1 - 0** | `2nd half` | Matheus Uribe 2'(H) |
+| 01:30 | World | Nomads United AFC vs Christchurch United | **2 - 1** | `2nd half` | Unknown 50'(H), Unknown 27'(A), Unknown 2'(H) |
+| 02:30 | Australia | FFSA NTC vs West Torrens Birkalla | **0 - 0** | `1st half` | --- |
+| 02:30 | Australia | Salisbury Inter vs Campbelltown City SC | **0 - 0** | `1st half` | --- |
+| 01:00 | Australia | Avondale FC vs Melbourne City U20 | **5 - 0** | `2nd half` | Unknown 75'(H), Unknown 68'(H), Unknown 50'(H), Unknown 33'(H), Unknown 31'(H) |
+| 01:30 | Australia | Green Gully U23 vs South Melbourne FC U23 | **3 - 1** | `2nd half` | Unknown 55'(A), Unknown 30'(H), Unknown 18'(H), Unknown 3'(H) |
+| 02:00 | Australia | Melbourne City U23 vs St. Albans Saints U23 | **3 - 0** | `1st half` | Unknown 42'(H), Unknown 29'(H), Unknown 18'(H), Unknown 12'(H) |
+| 00:45 | Australia | South Hobart FC 2 vs Clarence Zebras FC 2 | **4 - 5** | `2nd half` | Unknown 90'(A), Unknown 87'(A), Unknown 84'(A), Unknown 54'(H), Unknown 49'(A), Unknown 45'(H), Unknown 32'(H), Unknown 28'(A), Unknown 3'(H) |
+| 01:00 | Australia | Werribee City U23 vs Essendon Royals U23 | **0 - 0** | `Started` | --- |
+| 01:45 | Australia | Bayside Argonauts U23 vs Whittlesea United U23 | **0 - 0** | `Started` | --- |
+| 02:15 | Australia | Nunawading City U23 vs Moreland City U23 | **0 - 0** | `Started` | --- |
+| 01:00 | Australia | Lambton Jaffas Reserve vs Charlestown Azzurri FC Reserves | **2 - 2** | `2nd half` | Unknown 84'(H), Unknown 78'(A), Unknown 74'(H), Unknown 38'(A) |
+| 01:30 | Australia | Cooks Hill United Reserves vs Edgeworth Eagles Reserve | **0 - 0** | `2nd half` | --- |
+| 01:45 | Australia | Adelaide City FC Reserves vs Adelaide United FC Reserves | **1 - 2** | `Halftime` | Unknown 27'(H), Unknown 26'(A), Unknown 16'(A) |
+| 01:45 | Australia | West Torrens Birkalla Reserves vs Campbelltown City SC Reserve | **0 - 1** | `Halftime` | Unknown 4'(A) |
+| 02:00 | Australia | Sturt Lions Reserve vs Metrostars Reserves | **1 - 1** | `Halftime` | Unknown 28'(H) |
+| 02:15 | Australia | Playford City Reserves vs Croydon FC Reserve | **0 - 1** | `1st half` | Unknown 15'(A) |
+| 02:15 | Australia | Adelaide Comets FC Reserve vs Adelaide University Reserves | **0 - 1** | `1st half` | Unknown 15'(A) |
+| 02:30 | Australia | Flinders United WFC Reserve vs Modbury Vista Reserves | **0 - 0** | `1st half` | --- |
+| 01:45 | Australia | Adelaide Atletico Victory Reserves vs Fulham United Reserves | **1 - 0** | `Halftime` | Unknown 3'(H) |
+| 02:15 | Australia | Cumberland United Reserve vs Adelaide Cobras Reserves | **0 - 1** | `1st half` | Unknown 25'(A) |
+| 02:15 | Australia | Modbury Jets Reserves vs The Cove FC Reserves | **0 - 0** | `1st half` | --- |
+| 02:15 | Australia | South Adelaide Reserves vs Adelaide Croatia Raiders Reserves | **0 - 0** | `1st half` | --- |
+| 01:30 | Australia | Alamein United FC U20 vs Bentleigh Greens SC U20 | **1 - 0** | `2nd half` | Unknown 22'(H) |
+| 01:15 | Australia | Devonport City SC vs Taroona | **5 - 0** | `2nd half` | Unknown 65'(H), Unknown 53'(H), Unknown 48'(H), Unknown 38'(H), Unknown 15'(H) |
+| 01:15 | Australia | Riverside Olympic vs Glenorchy Knights | **0 - 4** | `2nd half` | Unknown 62'(A), Unknown 58'(A), Unknown 55'(A), Unknown 50'(A) |
+| 02:00 | Costa Rica | LD Alajuelense vs Municipal Pérez Zeledón | **1 - 0** | `1st half` | José Alvarado 11'(H) |
+| 01:00 | Costa Rica | Deportivo Saprissa Femenino vs CS Herediano | **2 - 0** | `2nd half` | Unknown 73'(H), Unknown 67'(H) |
+| 01:30 | Fiji | FC Labasa vs Nadi FC | **0 - 0** | `Started` | --- |
+| 00:30 | Guadeloupe | Siroco Les Abymes vs L'Etoile de Morne-à-L'eau | **0 - 0** | `Started` | --- |
+| 00:30 | Guadeloupe | Cerfa FC vs AS Gosier | **0 - 0** | `Started` | --- |
+| 00:30 | Guadeloupe | Red Star vs AS Nénuphars | **0 - 0** | `Started` | --- |
+| 02:00 | Japan | Diavorosso Hiroshima vs Veertien Mie FC | **0 - 0** | `1st half` | --- |
+| 01:00 | Mexico | Correcaminos UAT vs C.D. Irapuato | **1 - 1** | `2nd half` | Jose Salazar 51'(A), Tomás Sandoval 2'(H) |
+| 01:00 | Mexico | Mineros de Zacatecas vs CDS Tampico Madero | **1 - 0** | `2nd half` | Mauro Pérez 1'(H) |
+| 02:00 | Mexico | Club América vs Club León | **2 - 1** | `1st half` | Unknown 45'(A), Geyse Ferreira 14'(H), Nancy Antonio 2'(H) |
+| 01:00 | Mexico | Real San Cosme vs Gavilanes de Matamoros II | **0 - 0** | `2nd half` | --- |
+| 01:00 | Mexico | Soles de Sonora vs Obson Dynamo FC | **0 - 0** | `1st half` | --- |
+| 02:00 | Mexico | Tapatios Soccer FC vs Tecos II | **1 - 1** | `1st half` | Unknown 22'(H), Unknown 12'(A) |
+| 02:00 | Mexico | Cimarrones de Sonora vs Colima F.C. | **0 - 0** | `1st half` | --- |
+| 01:00 | Mexico | Cañoneros F.C. vs Neza FC | **2 - 2** | `2nd half` | Unknown 64'(A), Unknown 60'(H), Unknown 55'(H), Unknown 23'(A) |
+| 01:30 | Panama | San Francisco FC vs Árabe Unido | **0 - 0** | `2nd half` | --- |
+| 02:00 | Vanuatu | ABM Galaxy FC vs Naka FC | **0 - 0** | `Started` | --- |
