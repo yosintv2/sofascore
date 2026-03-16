@@ -2,8 +2,15 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 07:15 | Australia | FC Bulleen Lions U23 vs Brunswick Juventus U23 | **2 - 0** | `2nd half` | Unknown 57'(H), Unknown 11'(H) |
-| 07:00 | Ethiopia | Ethio Electric vs Hawassa Ketema | **0 - 0** | `2nd half` | --- |
-| 06:40 | India | CISF Protectors vs Garhwal Diamond FC | **0 - 1** | `2nd half` | Unknown 10'(A) |
-| 08:15 | Nepal | Laliguransh Association vs Planning Boys United | **0 - 0** | `1st half` | --- |
-| 07:00 | Thailand | Udon Thani Rajabhat University vs Nakhon Pathom Rajabhat University | **0 - 0** | `2nd half` | --- |
+| 09:30 | Australia | FC Bulleen Lions vs Brunswick Juventus FC | **1 - 0** | `1st half` | Unknown 8'(H) |
+| 09:00 | Azerbaijan | Neftçi Baku II vs Zirə FK II | **1 - 0** | `1st half` | Unknown 8'(H) |
+| 08:45 | Greece Amateur | AE Lerou vs GFS Aris Archaggelou | **0 - 0** | `Started` | --- |
+| 09:30 | India | Garhwal United vs Shastri FC | **0 - 0** | `1st half` | --- |
+| 09:00 | Kazakhstan | Ulytau FC vs FC Kyzylzhar | **1 - 0** | `1st half` | Georgiy Bugulov 13'(H) |
+| 09:30 | Myanmar | Dagon Port FC vs Yadanarbon FC | **0 - 0** | `1st half` | --- |
+| 09:30 | Myanmar | Rakhine United FC vs Ispe FC | **0 - 0** | `1st half` | --- |
+| 08:15 | Nepal | Laliguransh Association vs Planning Boys United | **2 - 1** | `2nd half` | Unknown 57'(A), Unknown 24'(H), Unknown 20'(H) |
+| 09:00 | Thailand | Suan Sunandha Rajabhat University vs Nakhon Pathom Rajabhat University | **0 - 0** | `1st half` | --- |
+| 09:00 | Ukraine | Polissya Zhytomyr vs Vorskla Poltava | **1 - 0** | `1st half` | Unknown 9'(H) |
+| 09:45 | Ukraine | EMC Podillia vs WFC Kolos Kovalivka | **0 - 0** | `1st half` | --- |
+| 09:45 | Ukraine | Ladomyr vs SeaSters Odessa | **0 - 0** | `1st half` | --- |
