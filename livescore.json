@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-16 23:26:49 UTC"
+        "updated": "2026-03-16 23:52:00 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,12 @@
             "country": "Brazil",
             "home": "Chapecoense",
             "away": "Gr\u00eamio",
-            "score": "0 - 0",
+            "score": "1 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Juan Nardoni 45'(A)",
+                "Walter Clar 28'(H)"
+            ]
         },
         {
             "start_time": "23:00",
@@ -20,6 +23,16 @@
             "country": "Argentina",
             "home": "Racing Club",
             "away": "Estudiantes de R\u00edo Cuarto",
+            "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "23:30",
+            "league": "Liga de Primera",
+            "country": "Chile",
+            "home": "Colo-Colo",
+            "away": "Huachipato",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -31,25 +44,28 @@
             "home": "Blooming",
             "away": "Club Independiente",
             "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "23:00",
+            "league": "Kings League Brazil",
+            "country": "Brazil Amateur",
+            "home": "Capim FC",
+            "away": "Dibrados FC",
+            "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
         },
         {
-            "start_time": "22:00",
-            "league": "Kings League Brazil",
-            "country": "Brazil Amateur",
-            "home": "Funkbol Clube",
-            "away": "G3X FC",
-            "score": "2 - 4",
-            "minute": "2nd half",
-            "scorers": [
-                "Kelvin Oliveira 29'(A)",
-                "Andreas Vaz 22'(A)",
-                "Luan Mestre 21'(H)",
-                "Andreas Vaz 21'(A)",
-                "Jo\u00e3o Choco 16'(H)",
-                "Kelvin Oliveira 12'(A)"
-            ]
+            "start_time": "23:30",
+            "league": "Liga de Ascenso",
+            "country": "Chile",
+            "home": "San Marcos de Arica",
+            "away": "Santiago Wanderers",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "22:30",
@@ -57,9 +73,11 @@
             "country": "Colombia",
             "home": "Barranquilla FC",
             "away": "Bogot\u00e1 FC",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 59'(A)"
+            ]
         },
         {
             "start_time": "23:15",
@@ -67,9 +85,11 @@
             "country": "Colombia",
             "home": "Internacional de Palmira",
             "away": "Independiente Yumbo",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Jown Cardona 18'(H)"
+            ]
         },
         {
             "start_time": "23:00",
@@ -77,9 +97,14 @@
             "country": "Colombia Amateur",
             "home": "Positiva 3",
             "away": "Novomet",
-            "score": "2 - 1",
-            "minute": "1st half",
+            "score": "4 - 4",
+            "minute": "2nd half",
             "scorers": [
+                "Carlos  Bonilla 49'(H)",
+                "Oscar Andr\u00e9s Guti\u00e9rrez 45'(A)",
+                "Jeison  Rodriguez 45'(H)",
+                "Oscar Andr\u00e9s Guti\u00e9rrez 20'(A)",
+                "Cristian Velandia Robayo 18'(A)",
                 "Santiago  Avellaneda 11'(A)",
                 "Bastien Lemus 4'(H)",
                 "Jeison  Rodriguez 1'(H)"
@@ -92,21 +117,11 @@
             "home": "Persido Dogiyai",
             "away": "Persemi Mimika",
             "score": "1 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 23'(H)",
                 "Unknown 11'(A)"
             ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "MFF President's Cup - 11th Place match",
-            "country": "Russia Amateur",
-            "home": "UOR 5 Master-Saturn Egorjevsk U18",
-            "away": "Novator Moscow",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
         },
         {
             "start_time": "23:00",
@@ -115,7 +130,17 @@
             "home": "Liverpool UY",
             "away": "Montevideo City Torque",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "23:30",
+            "league": "Gorditos League",
+            "country": "Venezuela Amateur",
+            "home": "Kilos United",
+            "away": "Pesados FC",
+            "score": "0 - 0",
+            "minute": "Started",
             "scorers": []
         }
     ]
