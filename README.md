@@ -2,5 +2,4 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 04:00 | Oceania | South Island United FC vs Bula FC | **2 - 1** | `2nd half` | Unknown 59'(A), Unknown 26'(H), Unknown 16'(H) |
-| 04:15 | Nepal | Chitlang FC vs Laliguransh Association | **0 - 1** | `2nd half` | Unknown 50'(A) |
+| 05:30 | Nepal | Bagmati Yuwa Club vs RS Pokhara | **3 - 2** | `2nd half` | Unknown 60'(H), Unknown 50'(H), Unknown 47'(A), Unknown 8'(H), Unknown 7'(A) |
