@@ -2,44 +2,24 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | Brazil | Bahia vs Red Bull Bragantino | **2 - 0** | `2nd half` | Erick 40'(H), Luciano Juba 17'(H) |
-| 22:00 | Brazil | Palmeiras vs Botafogo | **2 - 1** | `2nd half` | Danilo 59'(A), Jhon Arias 53'(H), Allan 9'(H) |
-| 22:30 | Brazil | Athletico vs Cruzeiro | **2 - 0** | `2nd half` | Kevin Viveros 10'(H), Stiven Mendoza 1'(H) |
-| 23:00 | Brazil | Atlético Mineiro vs São Paulo | **0 - 0** | `Halftime` | --- |
-| 23:00 | Brazil | Mirassol vs Coritiba | **0 - 0** | `Halftime` | --- |
-| 22:30 | Venezuela | Zamora vs Portuguesa FC | **0 - 2** | `2nd half` | Jonathan Canete 45'(A), Jonathan Canete 27'(A) |
-| 23:30 | Venezuela | Metropolitanos vs Monagas | **1 - 0** | `1st half` | Kavier Ortiz 23'(H) |
-| 23:20 | Colombia | Internacional de Bogotá vs Deportivo Pereira | **0 - 0** | `1st half` | --- |
-| 23:00 | North & Central America | Inter Miami CF vs Nashville SC | **1 - 0** | `Halftime` | Lionel Messi 7'(H) |
-| 23:00 | Argentina | Central Cordoba Reserve vs Boca Juniors Reserve | **0 - 1** | `Halftime` | Unknown 43'(A) |
-| 22:00 | Brazil | Vila Nova FC vs Confiança | **0 - 0** | `Awaiting penalties` | --- |
-| 23:00 | Brazil | Atlético Goianiense vs Ponte Preta | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | Galvez EC vs Rio Branco-AC | **1 - 2** | `2nd half` | Matheus Nego 73'(A), Unknown 62'(A), Marcelinho Junior 45'(H) |
-| 23:00 | Brazil | São José EC vs Juventus-SP | **1 - 0** | `Halftime` | Clessione 3'(H) |
-| 22:00 | Brazil | Ituano vs XV de Piracicaba | **0 - 0** | `2nd half` | --- |
-| 22:30 | Brazil | Penapolense vs Jabaquara | **3 - 1** | `2nd half` | Unknown 54'(H), Unknown 15'(H), Unknown 14'(A) |
-| 23:00 | Brazil | AE Araçatuba vs Nacional-SP | **1 - 1** | `Halftime` | Unknown 29'(A), Unknown 18'(H) |
-| 23:00 | Brazil | Barretos vs Internacional de Bebedouro | **0 - 1** | `Halftime` | Unknown 45'(A) |
-| 23:00 | Brazil | Comercial-SP vs VOCEM | **2 - 0** | `Halftime` | Unknown 34'(H), Fofão 9'(H) |
-| 22:00 | Brazil | Piauí EC vs Atlético Piauiense | **1 - 0** | `2nd half` | Wallace 63'(H) |
-| 23:30 | Brazil | América-RN vs ABC | **0 - 0** | `1st half` | --- |
-| 23:30 | Brazil | Gazin Porto Velho vs Guaporé FC | **0 - 1** | `1st half` | Unknown 18'(A) |
-| 23:30 | Brazil | Ji-Paraná vs Rondoniense | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | Náutico-RR vs Progresso | **0 - 0** | `Halftime` | --- |
-| 23:30 | Brazil | Naviraiense vs AA Bataguassu | **0 - 2** | `1st half` | Unknown 19'(A), Unknown 13'(A) |
-| 23:30 | Brazil | Operário-MS vs Corumbaense | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | UDA U20 vs Litoral Norte U20 | **2 - 0** | `Halftime` | Unknown 41'(H), Unknown 29'(H) |
-| 23:15 | Honduras | CD Olimpia vs Olancho FC | **0 - 0** | `1st half` | --- |
-| 23:30 | Paraguay | Guaraní vs Recoleta FC | **0 - 0** | `1st half` | --- |
-| 23:30 | Paraguay | Libertad vs Nacional Asunción | **0 - 0** | `1st half` | --- |
-| 21:30 | Portugal Amateur | ABCD vs ADC Reguenga | **0 - 0** | `Started` | --- |
-| 22:00 | Trinidad and Tobago | Prisons FC vs San Juan Jabloteh | **2 - 1** | `2nd half` | Unknown 70'(H), Unknown 66'(H), Unknown 3'(A) |
-| 23:00 | Turks and Caicos Islands | Academy Eagles vs Provo United SC | **0 - 0** | `Started` | --- |
-| 22:00 | USA | Chattanooga FC vs Kalonji Pro-Profile | **2 - 1** | `2nd half` | Ameziane Sid Mohand 46'(H), Darwin Ortiz 45'(H), Braiden Kalonji 13'(A) |
-| 22:30 | USA | Asheville City SC vs Greenville Triumph SC | **1 - 1** | `2nd half` | Devin Boyce 19'(A), Evan Southern 13'(H) |
-| 22:30 | USA | Charleston Battery vs Florida Badgers FC | **1 - 0** | `2nd half` | Colton Swan 21'(H) |
-| 23:00 | USA | FC Motown vs Hartford Athletic | **0 - 1** | `Halftime` | Thomas Presthus 33'(A) |
-| 23:00 | USA | FC Naples vs Red Force FC | **2 - 0** | `Halftime` | Hudson Gay 30'(H), Marc Torrellas 23'(H) |
-| 23:00 | USA | Louisville City FC vs Southern Indiana FC | **2 - 0** | `Halftime` | Tola Showunmi 30'(H), Tola Showunmi 20'(H) |
-| 23:30 | USA | SC Vistula Garfield vs One Knoxville SC | **1 - 2** | `1st half` | Babacar Diene 14'(A), Simon Gorczowski 1'(H) |
-| 23:30 | USA | Tampa Bay Sun FC vs Brooklyn FC | **0 - 1** | `1st half` | Rebecca Cooke 6'(A) |
+| 00:30 | Brazil | Santos vs Internacional | **1 - 2** | `2nd half` | Johan Carbonero 90'(A), Neymar 56'(H), Zé Ivaldo 46'(A) |
+| 02:07 | Mexico | CD Guadalajara vs Club León | **0 - 0** | `1st half` | --- |
+| 01:30 | Colombia | Deportivo Cali vs Independiente Santa Fe | **0 - 1** | `Halftime` | Hugo Rodallega 31'(A) |
+| 01:00 | North & Central America | Club América vs Philadelphia Union | **1 - 1** | `2nd half` | Jesus Bueno 49'(A), Rodrigo Dourado 6'(H) |
+| 00:30 | Brazil | Jacuipense vs Grêmio Novorizontino | **0 - 0** | `2nd half` | --- |
+| 01:00 | Brazil | Atlético Roraima vs Rio Negro-RR | **1 - 2** | `2nd half` | Unknown 53'(A), Unknown 35'(A), Unknown 21'(H) |
+| 01:20 | Colombia Amateur | TV Ondina Cardona Abogados vs TuReserva.com | **0 - 0** | `2nd half` | --- |
+| 01:00 | El Salvador | Alianza FC vs CD Cacahuatique | **1 - 0** | `2nd half` | Enrico Dueñas Hernández 63'(H) |
+| 01:00 | El Salvador | CD Municipal Limeño vs C.D. Platense Zacatecoluca | **2 - 0** | `2nd half` | Juan Carlos Argueta 50'(H), Juan Carlos Argueta 41'(H) |
+| 01:30 | El Salvador | CD FAS vs CD Hercules | **1 - 0** | `Halftime` | Yan Maciel 14'(H) |
+| 00:30 | Guadeloupe | AS Nénuphars vs Phare du Canal | **0 - 0** | `Started` | --- |
+| 02:00 | Guatemala | CD Marquense vs Cobán Imperial | **1 - 1** | `1st half` | Steven Paredes 12'(A), Marco Tulio Rodas 8'(H) |
+| 01:30 | Honduras | Real CD España vs Génesis PN | **1 - 0** | `Halftime` | Unknown 27'(H) |
+| 01:00 | Mexico | Tlaxcala FC vs Atlante FC | **1 - 1** | `2nd half` | Javier Ibarra 43'(A), Christian 15'(H) |
+| 02:00 | Mexico | CDS Tampico Madero vs Correcaminos UAT | **1 - 0** | `1st half` | Juan Portales 27'(H) |
+| 01:00 | Nicaragua | Managua FC vs UNAN Managua | **1 - 0** | `2nd half` | --- |
+| 01:00 | Nicaragua | Real Estelí vs Juventus Managua | **3 - 0** | `2nd half` | Widman Talavera 65'(H), Joaquín Vergés 55'(H), Joaquín Vergés 31'(H) |
+| 01:00 | Panama | Veraguas FC Reserve vs Udelas FC | **1 - 1** | `2nd half` | Unknown 74'(H), Unknown 66'(A) |
+| 01:30 | USA | New Mexico United vs Cruizers FC | **2 - 2** | `Halftime` | Ariel Mbumba 45'(A), Grady Gilchrist 38'(H), Ariel Mbumba 16'(A), Ignacio Flores 12'(H) |
+| 02:00 | USA | Sacramento Republic FC vs El Farolito | **0 - 0** | `1st half` | --- |
+| 02:30 | USA | Ventura County Fusion vs Spokane Velocity FC | **0 - 0** | `1st half` | --- |
