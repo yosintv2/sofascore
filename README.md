@@ -2,4 +2,5 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 05:30 | Nepal | Bagmati Yuwa Club vs RS Pokhara | **3 - 2** | `2nd half` | Unknown 60'(H), Unknown 50'(H), Unknown 47'(A), Unknown 8'(H), Unknown 7'(A) |
+| 07:30 | India | Hindustan FC vs National United SC | **0 - 0** | `1st half` | --- |
+| 07:00 | Nigeria | Kakawa FC U19 vs ABFC Rising Stars U19 | **0 - 0** | `1st half` | --- |
