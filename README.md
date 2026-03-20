@@ -2,23 +2,12 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | Brazil | Grêmio vs Vitória | **2 - 0** | `2nd half` | Francis Amuzu 54'(H), Camutanga 27'(H) |
-| 23:00 | Brazil | Flamengo vs Remo | **1 - 0** | `Halftime` | Léo Ortiz 19'(H) |
-| 23:20 | Colombia | Deportes Tolima vs Fortaleza FC | **2 - 0** | `1st half` | Juan Torres 33'(H) |
-| 00:00 | Ecuador | Emelec vs Independiente del Valle | **0 - 0** | `1st half` | --- |
-| 23:00 | North & Central America | Mount Pleasant FA vs LA Galaxy | **0 - 1** | `Halftime` | João Klauss 18'(A) |
-| 23:30 | South America | Palmeiras U20 vs Santiago Wanderers U20 | **1 - 0** | `1st half` | Riquelme Fillipi 14'(H) |
-| 23:00 | Argentina | River Plate Reserve vs Atlético Tucumán Reserve | **1 - 0** | `2nd half` | Unknown 44'(H) |
-| 22:30 | Brazil | Juventude vs Águia de Marabá FC | **2 - 0** | `2nd half` | Pablo 52'(H), Luis Mandaca 37'(H) |
-| 22:30 | Brazil | Maringá FC vs Goiás | **0 - 0** | `2nd half` | --- |
-| 23:00 | Brazil | Volta Redonda vs Barra FC | **0 - 0** | `Halftime` | --- |
-| 23:00 | Colombia Amateur | Ipsos vs Cooperativa Sanitas | **4 - 0** | `2nd half` | Jeisson Gil 54'(H), Jeisson Gil 26'(H), Damian Rojas 25'(H), Luis Lancheros 9'(H) |
-| 23:15 | Colombia Amateur | Club Estrella Roja vs Kanto League | **0 - 0** | `1st half` | --- |
-| 00:00 | Nicaragua | Rancho Santana FC vs CD Santo Tomás del Norte | **0 - 0** | `1st half` | --- |
-| 23:00 | Paraguay | Sportivo Trinidense vs Sportivo Ameliano | **0 - 1** | `Halftime` | Elvio Vera 28'(A) |
-| 23:00 | Saint Kitts and Nevis | Lodge Patriots FC vs Mantab United | **0 - 0** | `Started` | --- |
-| 22:00 | USA | Carolina Core FC vs Virginia Dream FC | **1 - 2** | `2nd half` | Akingbolahan Akinkoye 78'(A), Zoumana Diarra 58'(A), Tim Zeegers 52'(H) |
-| 22:30 | USA | Charlotte Independence vs Ristozi FC | **2 - 1** | `2nd half` | Yohsuke Ono 38'(A), Clay Dimick 4'(H) |
-| 23:00 | USA | Lexington SC vs Flower City Union | **3 - 0** | `Halftime` | Marcus Epps 40'(H), Aaron Molloy 36'(H), Nicolas Firmino 30'(H) |
-| 23:30 | USA | Westchester SC vs NY Renegades FC | **0 - 0** | `1st half` | --- |
-| 23:30 | USA | M3 FC vs 876 United | **0 - 0** | `1st half` | --- |
+| 01:30 | Colombia | Independiente Medellín vs Junior Barranquilla | **2 - 0** | `2nd half` | Francisco Chaverra 24'(H), Alexis Serna 5'(H) |
+| 01:00 | North & Central America | Tigres UANL vs FC Cincinnati | **4 - 1** | `2nd half` | Kévin Denkey 65'(A), Rodrigo Aguirre 49'(H), Ozziel Herrera 46'(H), Ozziel Herrera 10'(H), Rodrigo Aguirre 5'(H) |
+| 01:00 | Argentina Amateur | Sociedad Sportiva Devoto vs Proyecto Crecer (SF) | **2 - 0** | `2nd half` | Sebastian Vietto 58'(H), Sebastian Vietto 40'(H) |
+| 01:00 | Colombia Amateur | Everest FC vs Real Sporting Promatch | **0 - 1** | `2nd half` | Jesús David Naranjo guzman 12'(A) |
+| 02:30 | Costa Rica | Sporting FC vs Deportivo Saprissa Femenino | **0 - 0** | `1st half` | --- |
+| 01:00 | El Salvador | Zacatecoluca FC vs CD Luis Ángel Firpo | **1 - 3** | `2nd half` | Cristian Gil 86'(A), Matias Mier 73'(H), Cristian Gil 32'(A), Cristian Gil 8'(A) |
+| 02:00 | Guatemala | CSD Xelajú MC vs CSD Municipal | **0 - 0** | `1st half` | --- |
+| 02:30 | India | Bengaluru FC U21 vs Diamond Harbour FC U21 | **0 - 0** | `1st half` | --- |
+| 01:15 | USA | Beaman United FC vs Chattanooga Red Wolves SC | **1 - 0** | `2nd half` | Geofrey Oyirwoth 34'(H) |
