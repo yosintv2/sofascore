@@ -35,8 +35,8 @@
             {
                 "country": "AR",
                 "channels": [
-                    "ESPN 3 Argentina",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
@@ -607,8 +607,8 @@
             {
                 "country": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "CBS Sports Network"
+                    "CBS Sports Network",
+                    "ESPN Deportes"
                 ]
             },
             {
@@ -690,15 +690,15 @@
             {
                 "country": "AR",
                 "channels": [
-                    "ESPN 3 Argentina",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
                 "country": "AT",
                 "channels": [
-                    "ORF Sport +",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ORF Sport +"
                 ]
             },
             {
@@ -757,6 +757,12 @@
                 ]
             },
             {
+                "country": "BR",
+                "channels": [
+                    "ESPN"
+                ]
+            },
+            {
                 "country": "BW",
                 "channels": [
                     "ESPN Africa"
@@ -777,8 +783,8 @@
             {
                 "country": "CH",
                 "channels": [
-                    "ORF Sport +",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "ORF Sport +"
                 ]
             },
             {
@@ -1204,8 +1210,8 @@
             {
                 "country": "SK",
                 "channels": [
-                    "Disney+ Premium",
-                    "\u010cT Sport"
+                    "\u010cT Sport",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1277,8 +1283,8 @@
             {
                 "country": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "CBS Sports Network"
+                    "CBS Sports Network",
+                    "ESPN Deportes"
                 ]
             },
             {
@@ -1336,8 +1342,8 @@
             {
                 "country": "BO",
                 "channels": [
-                    "TyC Sports Internacional",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "TyC Sports Internacional"
                 ]
             },
             {
@@ -1349,8 +1355,8 @@
             {
                 "country": "CL",
                 "channels": [
-                    "TyC Sports Internacional",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "TyC Sports Internacional"
                 ]
             },
             {
@@ -1404,8 +1410,8 @@
             {
                 "country": "PE",
                 "channels": [
-                    "TyC Sports Internacional",
-                    "Disney+ Premium Chile"
+                    "Disney+ Premium Chile",
+                    "TyC Sports Internacional"
                 ]
             },
             {
@@ -1567,6 +1573,12 @@
         "venue": "Estadio Municipal Castalia",
         "tv_channels": [
             {
+                "country": "BA",
+                "channels": [
+                    "Arena Sport Premium 2"
+                ]
+            },
+            {
                 "country": "BO",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -1585,6 +1597,12 @@
                 ]
             },
             {
+                "country": "MK",
+                "channels": [
+                    "Arena Sport Premium 2"
+                ]
+            },
+            {
                 "country": "PE",
                 "channels": [
                     "Disney+ Premium Chile"
@@ -1594,6 +1612,12 @@
                 "country": "RO",
                 "channels": [
                     "Prima Play"
+                ]
+            },
+            {
+                "country": "RS",
+                "channels": [
+                    "Arena Sport Premium 2"
                 ]
             },
             {
@@ -2095,11 +2119,11 @@
             {
                 "country": "RO",
                 "channels": [
-                    "Prima Sport 1",
                     "Digi Online",
+                    "Digi Sport 1",
                     "Prima Play",
-                    "Orange TV Go",
-                    "Digi Sport 1"
+                    "Prima Sport 1",
+                    "Orange TV Go"
                 ]
             }
         ]
@@ -2115,15 +2139,15 @@
             {
                 "country": "GB",
                 "channels": [
-                    "Discovery+",
-                    "discovery+ App"
+                    "discovery+ App",
+                    "Discovery+"
                 ]
             },
             {
                 "country": "IE",
                 "channels": [
-                    "Discovery+",
                     "discovery+ App",
+                    "Discovery+",
                     "TNT Sports 3"
                 ]
             }
@@ -2182,6 +2206,12 @@
                 ]
             },
             {
+                "country": "ES",
+                "channels": [
+                    "DAZN"
+                ]
+            },
+            {
                 "country": "FI",
                 "channels": [
                     "V Sport 2 Suomi"
@@ -2220,7 +2250,14 @@
         "league_id": 1127,
         "league": "Liga F Moeve",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "ES",
+                "channels": [
+                    "DAZN"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15554575,
@@ -2413,15 +2450,6 @@
         "match_id": 15220777,
         "kickoff": 1774429200,
         "fixture": "Ukraine U19 vs Northern Ireland U19",
-        "league_id": 748,
-        "league": "U19 UEFA European Championship, Elite round Gr. 5",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
-        "match_id": 15217225,
-        "kickoff": 1774432800,
-        "fixture": "Kazakhstan U19 vs Romania U19",
         "league_id": 748,
         "league": "U19 UEFA European Championship, Elite round Gr. 5",
         "venue": "TBA",
