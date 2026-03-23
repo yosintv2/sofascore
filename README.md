@@ -2,15 +2,20 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | Argentina | Estudiantes de La Plata vs Central Córdoba | **0 - 0** | `Halftime` | --- |
-| 22:00 | Venezuela | Carabobo FC vs Academia Puerto Cabello | **0 - 0** | `Halftime` | --- |
-| 21:10 | Colombia | Independiente Santa Fe vs Independiente Medellín | **2 - 1** | `2nd half` | Francisco Chaverra 70'(A), Helibelton Palacios 60'(H), Luis Palacios 32'(H) |
-| 21:30 | Ecuador | Guayaquil City vs Leones del Norte | **0 - 0** | `2nd half` | --- |
-| 21:50 | England | Gold Devils FC vs VZN FC | **1 - 1** | `2nd half` | Joshua Parker 12'(A), Bilal Sayoud 4'(H) |
-| 22:45 | Brazil | CTE Colatina U20 vs Pinheiros FC U20 | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | SERC Brasil U20 vs São Luiz U20 | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil Amateur | Furia FC vs Podpah Funkbol Clube | **4 - 5** | `2nd half` | Rafão Portugal 22'(A), Luan Mestre 21'(A), Juninho Antunes 21'(A), Luan Mestre 15'(A), Cris Guedes 5'(H), Michel Elias 5'(A), Jeffinho Honorato 3'(H), Tiago Marinho 2'(H), Lipão Pinheiro 1'(H) |
-| 21:00 | Colombia Amateur | CD Maracaneiros vs Everest FC | **2 - 2** | `2nd half` | Unknown 55'(A), Eduardo Luis Mieles Gomez 55'(H), Luis Fernando Correa Espitia 28'(A), Esteban Landazury Aguirre 9'(H) |
-| 21:00 | Colombia Amateur | Sura - Nacional Eléctricos vs Atlético Granada - La Coruña | **1 - 1** | `2nd half` | Unknown 74'(H), Dandy Fernando Choles Gómez 61'(A) |
-| 22:00 | Jamaica | Spanish Town Police FC vs Treasure Beach FC | **0 - 0** | `Halftime` | --- |
-| 21:30 | Paraguay | Sportivo Trinidense vs Recoleta FC | **2 - 1** | `2nd half` | Allan Wlk 37'(A), Lucas González 32'(H), Jose Antonio Espinola Nunez 20'(H) |
+| 22:00 | Argentina | Estudiantes de La Plata vs Central Córdoba | **2 - 0** | `2nd half` | Mikel Amondarain 70'(H), Alexis Castro 47'(H) |
+| 22:00 | Venezuela | Carabobo FC vs Academia Puerto Cabello | **1 - 1** | `2nd half` | Jean Fuentes 73'(H), Jefre Vargas 47'(A) |
+| 23:00 | Venezuela | Metropolitanos vs Anzoátegui FC | **0 - 0** | `1st half` | --- |
+| 23:20 | Colombia | Jaguares de Córdoba vs Rionegro Águilas Doradas | **0 - 0** | `1st half` | --- |
+| 23:00 | Argentina | Club Comunicaciones vs CSYD Liniers | **0 - 0** | `1st half` | --- |
+| 23:00 | Brazil | Fluminense vs São Paulo | **0 - 0** | `1st half` | --- |
+| 23:00 | Brazil | São José-AP vs Independente-AP | **1 - 0** | `1st half` | Unknown 22'(H) |
+| 22:45 | Brazil | CTE Colatina U20 vs Pinheiros FC U20 | **0 - 1** | `Halftime` | Unknown 25'(A) |
+| 22:00 | Brazil | SERC Brasil U20 vs São Luiz U20 | **0 - 1** | `2nd half` | Unknown 64'(A) |
+| 23:00 | Brazil Amateur | Fluxo FC vs DesimpaiN | **2 - 1** | `1st half` | Matheus Chaveirinho 3'(H), Well Andrade 2'(H), Kaiky Souza 1'(A) |
+| 23:30 | Chile | Cobreloa vs Deportes Magallanes | **0 - 0** | `1st half` | --- |
+| 23:30 | Chile | Palestino vs Everton de Viña del Mar | **0 - 0** | `1st half` | --- |
+| 23:00 | Colombia Amateur | Alcadia Sibate - Expreso Azul vs T.O Juan Baena & Cardona Asociados | **0 - 0** | `1st half` | --- |
+| 23:00 | Colombia Amateur | Embajadores - Kelevra vs Real Sporting Promatch | **0 - 0** | `1st half` | --- |
+| 22:00 | Jamaica | Spanish Town Police FC vs Treasure Beach FC | **0 - 0** | `2nd half` | --- |
+| 23:30 | Paraguay | Rubio Ñu vs Sportivo Ameliano | **0 - 1** | `1st half` | Cristhian Ocampos 7'(A) |
+| 23:30 | Venezuela Amateur | AC Obesos vs Redondos SC | **0 - 0** | `Started` | --- |
