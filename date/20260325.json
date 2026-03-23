@@ -35,8 +35,8 @@
             {
                 "country": "AR",
                 "channels": [
-                    "ESPN 3 Argentina",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
@@ -418,9 +418,9 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "beIN Sports Connect Malaysia",
+                    "sooka"
                 ]
             },
             {
@@ -607,8 +607,8 @@
             {
                 "country": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "CBS Sports Network"
+                    "CBS Sports Network",
+                    "ESPN Deportes"
                 ]
             },
             {
@@ -690,8 +690,8 @@
             {
                 "country": "AR",
                 "channels": [
-                    "ESPN 3 Argentina",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "ESPN 3 Argentina"
                 ]
             },
             {
@@ -876,10 +876,10 @@
             {
                 "country": "GB",
                 "channels": [
-                    "BBC Two",
                     "BBC Sport Web",
-                    "Disney+ Premium",
-                    "BBC iPlayer"
+                    "BBC Two",
+                    "BBC iPlayer",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -951,10 +951,10 @@
             {
                 "country": "IE",
                 "channels": [
-                    "BBC Two",
                     "BBC Sport Web",
-                    "Disney+ Premium",
-                    "BBC iPlayer"
+                    "BBC Two",
+                    "BBC iPlayer",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1086,9 +1086,9 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "beIN Sports Connect Malaysia",
+                    "sooka"
                 ]
             },
             {
@@ -1283,8 +1283,8 @@
             {
                 "country": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "CBS Sports Network"
+                    "CBS Sports Network",
+                    "ESPN Deportes"
                 ]
             },
             {
@@ -1342,8 +1342,8 @@
             {
                 "country": "AD",
                 "channels": [
-                    "Teledeporte",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "Teledeporte"
                 ]
             },
             {
@@ -1457,8 +1457,8 @@
             {
                 "country": "CH",
                 "channels": [
-                    "Teledeporte",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "Teledeporte"
                 ]
             },
             {
@@ -1530,8 +1530,8 @@
             {
                 "country": "ES",
                 "channels": [
-                    "Teledeporte",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "Teledeporte"
                 ]
             },
             {
@@ -1819,9 +1819,9 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "beIN Sports Connect Malaysia",
+                    "sooka"
                 ]
             },
             {
@@ -1858,8 +1858,8 @@
                 "country": "NO",
                 "channels": [
                     "NRK TV",
-                    "NRK 2",
-                    "Disney+ Premium"
+                    "Disney+ Premium",
+                    "NRK 2"
                 ]
             },
             {
@@ -2069,8 +2069,8 @@
             {
                 "country": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "CBS Sports Network"
+                    "CBS Sports Network",
+                    "ESPN Deportes"
                 ]
             },
             {
@@ -2530,9 +2530,9 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
-                    "beIN Sports Connect Malaysia"
+                    "beIN Sports Connect Malaysia",
+                    "sooka"
                 ]
             },
             {
@@ -2712,8 +2712,8 @@
             {
                 "country": "US",
                 "channels": [
-                    "ESPN Deportes",
-                    "CBS Sports Network"
+                    "CBS Sports Network",
+                    "ESPN Deportes"
                 ]
             },
             {
@@ -2931,16 +2931,16 @@
             {
                 "country": "GB",
                 "channels": [
-                    "discovery+ App",
-                    "Discovery+"
+                    "Discovery+",
+                    "discovery+ App"
                 ]
             },
             {
                 "country": "IE",
                 "channels": [
-                    "TNT Sports 3",
+                    "Discovery+",
                     "discovery+ App",
-                    "Discovery+"
+                    "TNT Sports 3"
                 ]
             }
         ]
@@ -2983,16 +2983,16 @@
             {
                 "country": "GB",
                 "channels": [
-                    "discovery+ App",
-                    "Discovery+"
+                    "Discovery+",
+                    "discovery+ App"
                 ]
             },
             {
                 "country": "IE",
                 "channels": [
-                    "TNT Sports 2",
+                    "Discovery+",
                     "discovery+ App",
-                    "Discovery+"
+                    "TNT Sports 2"
                 ]
             },
             {
@@ -3132,6 +3132,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "AR",
+                "channels": [
+                    "TyC Sports"
+                ]
+            },
+            {
                 "country": "BO",
                 "channels": [
                     "TyC Sports Internacional"
@@ -3244,6 +3250,12 @@
         "venue": "TBA",
         "tv_channels": [
             {
+                "country": "AR",
+                "channels": [
+                    "TyC Sports"
+                ]
+            },
+            {
                 "country": "BO",
                 "channels": [
                     "TyC Sports Internacional"
@@ -3346,6 +3358,15 @@
                 ]
             }
         ]
+    },
+    {
+        "match_id": 13218616,
+        "kickoff": 1774521000,
+        "fixture": "Afghanistan vs Myanmar",
+        "league_id": 28,
+        "league": "AFC Asian Cup, Qualification Group E",
+        "venue": "TBA",
+        "tv_channels": []
     },
     {
         "match_id": 15759535,
