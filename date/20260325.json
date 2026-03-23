@@ -96,14 +96,20 @@
             {
                 "country": "BO",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
                 "country": "BW",
                 "channels": [
                     "ESPN Africa"
+                ]
+            },
+            {
+                "country": "CA",
+                "channels": [
+                    "OneSoccer"
                 ]
             },
             {
@@ -133,8 +139,8 @@
             {
                 "country": "CL",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -424,8 +430,8 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
+                    "sooka",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -468,8 +474,8 @@
             {
                 "country": "PE",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -703,8 +709,8 @@
             {
                 "country": "AT",
                 "channels": [
-                    "Disney+ Premium",
-                    "ORF Sport +"
+                    "ORF Sport +",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -758,21 +764,27 @@
             {
                 "country": "BO",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
                 "country": "BR",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "BW",
                 "channels": [
                     "ESPN Africa"
+                ]
+            },
+            {
+                "country": "CA",
+                "channels": [
+                    "OneSoccer"
                 ]
             },
             {
@@ -803,8 +815,8 @@
             {
                 "country": "CL",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -890,9 +902,9 @@
                 "country": "GB",
                 "channels": [
                     "BBC iPlayer",
+                    "BBC Two",
                     "BBC Sport Web",
-                    "Disney+ Premium",
-                    "BBC Two"
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -964,10 +976,10 @@
             {
                 "country": "IE",
                 "channels": [
-                    "BBC iPlayer",
-                    "BBC Sport Web",
+                    "BBC Two",
                     "Disney+ Premium",
-                    "BBC Two"
+                    "BBC Sport Web",
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -1099,8 +1111,8 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
+                    "sooka",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -1131,8 +1143,8 @@
             {
                 "country": "NL",
                 "channels": [
-                    "Disney+ Premium",
-                    "BBC Two"
+                    "BBC Two",
+                    "Disney+ Premium"
                 ]
             },
             {
@@ -1144,8 +1156,8 @@
             {
                 "country": "PE",
                 "channels": [
-                    "Disney+ Premium Chile",
-                    "ESPN 2 Sur"
+                    "ESPN 2 Sur",
+                    "Disney+ Premium Chile"
                 ]
             },
             {
@@ -1355,6 +1367,7 @@
             {
                 "country": "AD",
                 "channels": [
+                    "TV3",
                     "Teledeporte",
                     "Disney+ Premium"
                 ]
@@ -1456,6 +1469,12 @@
                 ]
             },
             {
+                "country": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "CF",
                 "channels": [
                     "ESPN Africa"
@@ -1549,6 +1568,7 @@
             {
                 "country": "ES",
                 "channels": [
+                    "TV3",
                     "Teledeporte",
                     "Disney+ Premium"
                 ]
@@ -1838,8 +1858,8 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
+                    "sooka",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -2229,6 +2249,12 @@
                 ]
             },
             {
+                "country": "CA",
+                "channels": [
+                    "OneSoccer"
+                ]
+            },
+            {
                 "country": "CD",
                 "channels": [
                     "DStv Now"
@@ -2555,8 +2581,8 @@
             {
                 "country": "MY",
                 "channels": [
-                    "sooka",
                     "beIN Sports 1 Malaysia",
+                    "sooka",
                     "beIN Sports Connect Malaysia"
                 ]
             },
@@ -2943,7 +2969,20 @@
         "league_id": 25,
         "league": "League Two",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "GB",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            },
+            {
+                "country": "IE",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15131162,
@@ -3506,8 +3545,8 @@
             {
                 "country": "CL",
                 "channels": [
-                    "TNT SPORTS Premium",
-                    "TNT SPORTS Premium HD"
+                    "TNT SPORTS Premium HD",
+                    "TNT SPORTS Premium"
                 ]
             }
         ]
