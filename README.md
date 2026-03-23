@@ -2,6 +2,7 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 03:30 | India | Dreams Kochi FC vs Lords FA | **0 - 3** | `Started` | Unknown 90'(A), Unknown 90'(A), Unknown 23'(H) |
-| 04:30 | Indonesia | Persiweja vs Persimi Sarmi | **2 - 1** | `Halftime` | Unknown 28'(A), Unknown 13'(H) |
+| 06:00 | India | Bengaluru FC U21 vs FC Goa U21 | **0 - 0** | `1st half` | --- |
+| 06:30 | Indonesia | PSBS Biak Numfor vs Persiker Keerom | **0 - 0** | `1st half` | --- |
+| 06:30 | Samoa | Vaivase-Tai FC vs Lepea FC | **0 - 0** | `Started` | --- |
 | 04:30 | Tahiti | AS Mira II vs AS Tiare Anani | **0 - 0** | `Started` | --- |
