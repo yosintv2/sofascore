@@ -2,49 +2,35 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:30 | Brazil | Corinthians vs Flamengo | **1 - 1** | `1st half` | Yuri Alberto 19'(H), Lucas Paquetá 3'(A) |
-| 23:00 | Argentina | Boca Juniors vs Instituto De Córdoba | **0 - 0** | `Halftime` | --- |
-| 23:00 | Mexico | CF Pachuca vs CD Toluca | **0 - 1** | `1st half` | Franco Romero 45'(A) |
-| 23:00 | Mexico | Santos Laguna vs Club Puebla | **0 - 0** | `1st half` | --- |
-| 23:00 | USA | San Diego FC vs Real Salt Lake | **1 - 1** | `1st half` | Marcus Ingvartsen 27'(H), Sergi Solans 17'(A) |
-| 23:00 | Brazil | Grêmio Novorizontino vs Londrina | **0 - 0** | `Halftime` | --- |
-| 22:30 | Venezuela | Portuguesa FC vs Rayo Zuliano | **1 - 1** | `2nd half` | Jonathan Canete 58'(H), José Luis Ochoa 50'(A) |
-| 23:30 | Venezuela | Monagas vs Caracas F.C. | **0 - 0** | `1st half` | --- |
-| 23:15 | Ecuador | Mushuc Runa SC vs Emelec | **1 - 0** | `1st half` | Cristopher Angulo 22'(H) |
-| 23:00 | Peru | Sport Boys vs Sport Huancayo | **2 - 0** | `Halftime` | Jimmy Valoyes 32'(H), Hernan Da Campo 9'(H) |
-| 23:00 | USA | Crown Legacy FC vs Atlanta United 2 | **0 - 0** | `1st half` | --- |
-| 23:00 | USA | Orlando City B vs Inter Miami CF II | **1 - 3** | `1st half` | Preston Plambeck 38'(A), Pedro Leão 37'(H), Idoh Zeltzer-Zubida 5'(A), Preston Plambeck 3'(A) |
-| 23:00 | USA | Utah Royals FC vs San Diego Wave FC | **0 - 1** | `1st half` | Dudinha 18'(A) |
-| 23:00 | World | Atlético Parceros vs Galácticos del Caribe | **5 - 4** | `2nd half` | Pablo Gómez 23'(A), Alejandro 'Maro' Ortega 22'(A), Juán Tilano 22'(H), Maicol Hernández 20'(H), Angellot Caro 8'(H), Juán Tilano 5'(H), Jose Hernandez 3'(A), Jose Hernandez 2'(A) |
-| 22:30 | Antigua and Barbuda | Flow Old Road FC vs Villa Lions FC | **1 - 1** | `Started` | Unknown 17'(A), Unknown 7'(H) |
-| 22:00 | Argentina | Deportivo Maipú vs Ferrocarril Midland | **0 - 1** | `2nd half` | Juan Cruz Vega 12'(A) |
-| 21:30 | Bahamas | Cavalier Nassau FC vs United FC | **0 - 0** | `Started` | --- |
-| 21:45 | Bahamas | Inter Nassau vs Future Stars FC | **0 - 0** | `Started` | --- |
-| 21:45 | British Virgin Islands | Avengers FC vs Panthers FC | **0 - 0** | `Started` | --- |
+| 23:30 | Brazil | Corinthians vs Flamengo | **1 - 1** | `2nd half` | Yuri Alberto 19'(H), Lucas Paquetá 3'(A) |
+| 23:00 | Mexico | CF Pachuca vs CD Toluca | **1 - 1** | `2nd half` | Elías Montiel 72'(H), Franco Romero 45'(A) |
+| 23:00 | USA | San Diego FC vs Real Salt Lake | **2 - 2** | `2nd half` | Victor Olatunji 85'(A), Anders Dreyer 56'(H), Marcus Ingvartsen 27'(H), Sergi Solans 17'(A) |
+| 23:30 | Venezuela | Monagas vs Caracas F.C. | **1 - 0** | `2nd half` | Edder Farías 42'(H) |
+| 23:15 | Ecuador | Mushuc Runa SC vs Emelec | **1 - 0** | `2nd half` | Cristopher Angulo 22'(H) |
+| 23:00 | USA | Orlando City B vs Inter Miami CF II | **4 - 4** | `2nd half` | Gustavo Caraballo 90'(H), Gustavo Caraballo 68'(H), Justin Ellis 54'(H), Idoh Zeltzer-Zubida 49'(A), Preston Plambeck 38'(A), Pedro Leão 37'(H), Idoh Zeltzer-Zubida 5'(A), Preston Plambeck 3'(A) |
+| 00:00 | USA | Sporting Kansas City II vs Minnesota United FC 2 | **0 - 1** | `Halftime` | Darius Randell 23'(A) |
+| 23:00 | USA | Utah Royals FC vs San Diego Wave FC | **1 - 2** | `2nd half` | Lia Godfrey 87'(A), Lara Prašnikar 67'(H), Dudinha 18'(A) |
+| 00:00 | World | Peluche Caligari vs Simios FC | **2 - 6** | `2nd half` | Unknown 33'(A), Andrés Suaréz 23'(A), Santiago Lagarde 22'(H), Andrés Suaréz 19'(A), Santiago Lagarde 15'(H), Andrés Suaréz 13'(A), Miguel Rebollo 8'(A) |
+| 00:00 | Bahamas | University of Bahamas Mingoes vs Westside Renegades | **0 - 1** | `Started` | Unknown 50'(A) |
 | 23:00 | British Virgin Islands | Old Madrid FC vs One Love United FC | **0 - 0** | `Started` | --- |
-| 22:00 | Cayman Islands | Elite SC vs Academy SC | **0 - 0** | `Started` | --- |
-| 22:00 | Cayman Islands | Sunset FC vs East End United FC | **0 - 0** | `Started` | --- |
-| 23:30 | Chile | Deportes Temuco vs San Luis de Quillota | **1 - 0** | `1st half` | Unknown 22'(H) |
-| 23:30 | Chile | O'Higgins vs Deportes Limache | **0 - 0** | `1st half` | --- |
-| 23:00 | Colombia Amateur | Arnold Iguarán FC - Nia Champion Grama FC vs Nueva Generación Gcc | **0 - 0** | `1st half` | --- |
-| 23:00 | Colombia Amateur | Los Primos FC vs Bogotá United - Kanto FC | **0 - 0** | `1st half` | --- |
-| 23:00 | El Salvador | CD FAS vs Fuerte San Francisco | **0 - 1** | `1st half` | Unknown 44'(A) |
-| 22:00 | Guatemala | Deportivo Guastatoya vs CSD Municipal | **0 - 1** | `2nd half` | Yorman Baltazar 84'(A) |
-| 23:15 | Honduras | FC Motagua vs Real CD España | **0 - 1** | `1st half` | Unknown 35'(A) |
-| 22:00 | Honduras | CD Parrillas One vs CD Brasilia | **1 - 1** | `2nd half` | Unknown 58'(H), Unknown 49'(A) |
-| 22:00 | Honduras | Pirata FC vs Club Atlético Independiente | **2 - 1** | `2nd half` | Unknown 74'(H), Unknown 70'(H), Unknown 39'(A) |
-| 23:00 | Jamaica | Waterhouse FC vs Cavalier FC | **0 - 1** | `1st half` | Unknown 42'(A) |
-| 23:00 | Mexico | CD Tapatío vs Club Atlético Morelia | **1 - 1** | `Halftime` | Ruben Del Campo 42'(A), Vladimir Moragregra 14'(H) |
-| 23:00 | Mexico | CDS Tampico Madero vs Tlaxcala FC | **0 - 0** | `1st half` | --- |
-| 23:00 | Mexico | Atlético de San Luis vs Tigres UANL | **0 - 1** | `Halftime` | Jheniffer Da Silva 14'(A) |
-| 22:00 | Mexico | Neza FC vs Mexicali FC | **1 - 4** | `2nd half` | Unknown 76'(A), Unknown 48'(H), Unknown 34'(A), Unknown 26'(A), Unknown 24'(A) |
-| 23:15 | Panama | Sporting San Miguelito vs Veraguas United FC | **1 - 0** | `1st half` | Ángel Valencia 22'(H) |
-| 23:30 | Paraguay | Sportivo Luqueño vs CS 2 de Mayo | **0 - 0** | `1st half` | --- |
-| 23:15 | Paraguay | Sportivo Trinidense vs Club Guaraní | **0 - 0** | `1st half` | --- |
-| 23:00 | Suriname | SV Robinhood vs SV Notch | **0 - 0** | `Halftime` | --- |
-| 22:00 | USA Amateur | Mexicali FC vs Lands End FC | **0 - 0** | `Started` | --- |
-| 22:00 | USA Amateur | Club Deportivo San Nicolas vs Oakland SC Development | **0 - 0** | `Started` | --- |
-| 22:00 | USA Amateur | San Francisco Glens SC Reserves vs FC Jabronis | **0 - 0** | `Started` | --- |
-| 22:00 | USA Amateur | Bluff City FC vs El Farolito SFSFL | **0 - 0** | `Started` | --- |
-| 22:00 | USA Amateur | Peninsula FC vs Berenice SC | **0 - 0** | `Started` | --- |
-| 22:00 | Uruguay Amateur | Maldonado Capital vs Colonia Capital | **3 - 0** | `Started` | Unknown 86'(H), Facundo Suárez 72'(H), Damián Muniz 23'(H) |
+| 00:00 | Cayman Islands | Cayman Athletic SC vs Scholars International SC | **0 - 0** | `Started` | --- |
+| 00:00 | Cayman Islands | Future SC vs 345 FC | **0 - 0** | `Started` | --- |
+| 00:00 | Cayman Islands | Latinos FC vs Tigers FC | **0 - 0** | `Started` | --- |
+| 23:30 | Chile | Deportes Temuco vs San Luis de Quillota | **1 - 1** | `2nd half` | Gonzalo Bustos 53'(A), Camilo Núñez 22'(H) |
+| 23:30 | Chile | O'Higgins vs Deportes Limache | **1 - 1** | `2nd half` | Daniel Castro 71'(A), Alan Robledo 55'(H) |
+| 23:00 | Colombia Amateur | Arnold Iguarán FC - Nia Champion Grama FC vs Nueva Generación Gcc | **1 - 1** | `2nd half` | Jefferson Steven Contreras Guerrero 28'(H), Andres Felipe Perea Andrade 26'(A) |
+| 23:00 | Colombia Amateur | Los Primos FC vs Bogotá United - Kanto FC | **0 - 1** | `2nd half` | Darlin Esteban Buitrago 54'(A) |
+| 00:00 | Costa Rica | San Carlos vs Deportivo Saprissa | **0 - 1** | `Halftime` | Kendall Waston 40'(A) |
+| 23:45 | Curacao | SV Victory Boys vs RKSV Centro Dominguito | **1 - 1** | `2nd half` | Unknown 30'(H), Unknown 1'(A) |
+| 00:00 | Guatemala | Comunicaciones FC vs CSD Xelajú MC | **1 - 1** | `Halftime` | Antonio López 45'(A), Dairon Reyes 42'(H) |
+| 01:00 | Guatemala | CD Suchitepéquez vs Deportivo Gomerano | **0 - 0** | `1st half` | --- |
+| 23:15 | Honduras | FC Motagua vs Real CD España | **1 - 1** | `2nd half` | John Kleber 82'(H), Eddie Hernández 35'(A) |
+| 00:00 | Jamaica | Arnett Gardens vs Harbour View FC | **0 - 1** | `2nd half` | Trayvon Reid 13'(A) |
+| 23:15 | Panama | Sporting San Miguelito vs Veraguas United FC | **2 - 3** | `2nd half` | Nedwar Zúñiga 82'(A), Estevis Lopez 55'(A), Gabriel Torres 53'(A), Rodrigo Tello 45'(H), Ángel Valencia 22'(H) |
+| 23:30 | Paraguay | Sportivo Luqueño vs CS 2 de Mayo | **0 - 2** | `2nd half` | Miguel Barreto 49'(A), Fernando Cáceres 44'(A) |
+| 23:15 | Paraguay | Sportivo Trinidense vs Club Guaraní | **0 - 2** | `2nd half` | Unknown 59'(A), Unknown 45'(A) |
+| 00:10 | Saint Vincent and the Grenadines | System 3 FC vs Hope International | **2 - 0** | `Halftime` | Unknown 45'(H), Unknown 45'(H) |
+| 00:00 | USA Amateur | San Francisco Hibernian FC vs San Francisco Elite Metro | **0 - 0** | `Started` | --- |
+| 00:00 | USA Amateur | Sammamish FC vs Bellevue Athletic FC | **0 - 0** | `Started` | --- |
+| 00:00 | Uruguay | Oriental de La Paz vs Colón FC | **0 - 0** | `2nd half` | --- |
+| 01:00 | Uruguay Amateur | Durazno Capital vs Soriano Interior | **0 - 0** | `1st half` | --- |
