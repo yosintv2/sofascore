@@ -2,43 +2,59 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 10:45 | Asia | Bangladesh U20 vs Pakistan U20 | **0 - 0** | `2nd half` | --- |
-| 11:00 | Algeria | AS Bordj Ghedir U20 vs MSP Batna U20 | **1 - 1** | `1st half` | Unknown 17'(H), Unknown 13'(A) |
-| 11:00 | Algeria | Hussein Dey U20 vs USM Alger U20 | **0 - 0** | `1st half` | --- |
-| 11:00 | Algeria | MC Alger U20 vs RC Kouba U20 | **0 - 0** | `1st half` | --- |
-| 12:00 | Algeria | NRC Boudjelbana U20 vs Nc Magra U20 | **0 - 0** | `1st half` | --- |
-| 11:00 | Azerbaijan | Ağdaş FK vs Şəmkir PFK | **1 - 1** | `Halftime` | Unknown 38'(A), Elcin Suleymanov 25'(H) |
-| 11:00 | Azerbaijan | Göygöl FK vs Xankəndi FK | **0 - 2** | `Halftime` | Hüseyn Hüseynli 29'(A), Bahruz Teymurov 25'(A) |
-| 11:00 | Azerbaijan | Kür-Araz FK vs Qaradağ Lökbatan FK | **2 - 2** | `Halftime` | Sabir Allahquliyev 45'(A), Elnur Məmmədov 38'(H), Bayram Əliyev 30'(H), İlham Hüseynov 11'(A) |
-| 11:00 | DR Congo | US Tshinkunku vs CS Don Bosco | **0 - 0** | `Started` | --- |
-| 11:00 | England Amateur | Sunderland U18 vs Middlesbrough U18 | **0 - 1** | `Halftime` | Tyler Smith 35'(A) |
-| 11:00 | England Amateur | Birmingham City U18 vs Brighton U18 | **0 - 2** | `Halftime` | Anton Palmer 45'(A), Jacob Parsons 22'(A) |
-| 10:00 | Ethiopia | Lideta Sub City vs Adama Ketema | **2 - 1** | `2nd half` | Unknown 18'(A), Unknown 16'(H), Unknown 12'(H) |
-| 11:00 | Greece Amateur | AS Asteras Pastidas vs AS Nikagoras Kefalou | **0 - 1** | `Halftime` | Unknown 5'(A) |
+| 13:00 | Europe | Bulgaria U17 vs Azerbaijan U17 | **1 - 1** | `1st half` | Ali Bashirov 39'(A), Andrey Grozdanov 31'(H) |
+| 13:00 | Europe | Türkiye U19 vs Gibraltar U19 | **2 - 0** | `1st half` | Thierry Karadeniz 40'(H), Thierry Karadeniz 33'(H) |
+| 11:00 | Algeria | MC Alger U20 vs RC Kouba U20 | **1 - 0** | `2nd half` | Unknown 85'(H) |
+| 12:00 | Algeria | CA Batna U20 vs US Berhoum U20 | **2 - 0** | `2nd half` | Unknown 31'(H), Unknown 27'(H) |
+| 12:00 | Algeria | NRC Boudjelbana U20 vs Nc Magra U20 | **2 - 2** | `2nd half` | Unknown 46'(A), Unknown 33'(H), Unknown 27'(A), Unknown 25'(H) |
+| 12:00 | Armenia | Lernayin Artsakh FC vs Sardarapat FC | **0 - 2** | `2nd half` | Hamlet Minasyan 60'(A), Hamlet Minasyan 4'(A) |
+| 12:00 | Armenia | Shirak Gyumri II vs FC Hayq | **0 - 1** | `2nd half` | Unknown 33'(A) |
+| 13:30 | Chad | Scorpion FC vs Aiglons FC N'Djamena | **0 - 0** | `Started` | --- |
+| 13:00 | Denmark Amateur | FC København Reserve vs Brøndby Reserve | **2 - 1** | `Halftime` | Unknown 39'(A), Unknown 33'(H), Unknown 6'(H) |
+| 12:30 | Egypt | Al Tayaran vs Al Ahly | **0 - 10** | `2nd half` | Unknown 45'(A), Unknown 45'(A), Unknown 43'(A), Unknown 37'(A), Unknown 31'(A), Unknown 27'(A), Unknown 21'(A), Unknown 11'(A), Unknown 9'(A), Unknown 3'(A) |
+| 12:30 | Egypt | ENPPI vs Palm Hills SC | **0 - 0** | `Started` | --- |
+| 12:30 | Egypt | FC Masar vs Al Mokawloon Al Arab SC | **5 - 0** | `Halftime` | Unknown 42'(H), Unknown 34'(H), Unknown 31'(H), Unknown 10'(H), Unknown 6'(H) |
+| 12:30 | Egypt | Pyramids FC vs Ethad Besion | **2 - 0** | `Halftime` | Unknown 14'(H), Unknown 4'(H) |
+| 12:30 | Egypt | SAK FC vs Al Ahli Bank | **0 - 2** | `Halftime` | Unknown 43'(A), Unknown 15'(A) |
+| 12:30 | Egypt | ZED FC vs El Masry | **1 - 0** | `Started` | Unknown 49'(H) |
+| 12:30 | Egypt | Zamalek SC vs RA SC | **0 - 0** | `Halftime` | --- |
+| 13:00 | England Amateur | Fleetwood Town U21 vs Millwall U21 | **2 - 1** | `1st half` | Unknown 30'(A), Unknown 18'(H), Unknown 5'(H) |
+| 13:00 | England Amateur | Huddersfield Town U21 vs Queens Park Rangers U21 | **2 - 0** | `1st half` | Jonathan Hogg 33'(H), George Sebine 16'(H) |
+| 13:00 | England Amateur | Hull City U21 vs Swansea City U21 | **1 - 2** | `1st half` | Unknown 13'(H) |
+| 13:00 | England Amateur | Peterborough United U21 vs Watford U21 | **0 - 1** | `1st half` | Unknown 17'(A) |
+| 13:00 | England Amateur | Wigan Athletic U21 vs Bristol City U21 | **1 - 0** | `1st half` | Unknown 29'(H) |
+| 13:00 | England Amateur | Preston Reserves vs Mansfield Reserves | **1 - 1** | `1st half` | Unknown 33'(A), Unknown 1'(H) |
+| 12:30 | Ethiopia | Hawassa Ketema vs Sheger Ketema | **0 - 0** | `2nd half` | --- |
 | 11:30 | Greece Amateur | GAS Ialysos Rodou vs AE Lerou | **0 - 0** | `Started` | --- |
-| 10:30 | India | Delhi FC XI vs Tarun Sangha | **2 - 1** | `2nd half` | Unknown 74'(H), Unknown 73'(A), Unknown 1'(H) |
-| 10:30 | India | DKR Football Academy vs Hops FC | **0 - 0** | `2nd half` | --- |
-| 10:30 | Paraguay | Sportivo Trinidense Reserve vs Deportivo Recoleta Reserve | **0 - 0** | `1st half` | --- |
+| 13:00 | India | Aizawl FC vs Chanmari FC | **0 - 2** | `1st half` | Malsawmsanga Renthlei 19'(A) |
+| 13:30 | India Amateur | Gokulam Kerala FC II vs EMEA College | **0 - 0** | `Started` | --- |
+| 12:30 | India Amateur | East Bengal Club U21 vs NorthEast United FC U21 | **2 - 1** | `2nd half` | Unknown 28'(H), Unknown 26'(H), Unknown 24'(A) |
+| 12:30 | Iraq | Al Fahad SC vs Afak SC | **2 - 0** | `2nd half` | Unknown 42'(H), Unknown 15'(H) |
+| 12:30 | Iraq | Naft Al Basra SC vs Peshmerga Sulaymaniya SC | **0 - 0** | `2nd half` | --- |
+| 12:30 | Kosovo | KF Malisheva U21 vs FC Drita U21 | **2 - 2** | `2nd half` | Unknown 60'(A), Unknown 39'(H), Unknown 37'(H), Unknown 23'(A) |
+| 12:40 | Saudi Arabia | Al-Jeel vs Najran | **1 - 0** | `Halftime` | Unknown 15'(H) |
+| 13:05 | Saudi Arabia | Al-Ain vs Al-Rawdah | **0 - 0** | `1st half` | --- |
 | 11:45 | Singapore | Albirex Jurong FC vs Geylang International | **0 - 0** | `Started` | --- |
-| 11:00 | South Africa | Mabopane Jm vs Eersterust Rams FC | **0 - 1** | `Halftime` | Unknown 45'(A) |
-| 11:00 | Syria | Afrin SC vs Al Nairab Sport | **0 - 0** | `Started` | --- |
-| 11:00 | Syria | Al-Mayadin SC vs Shortat Deir Ez-Zor | **0 - 0** | `Started` | --- |
-| 11:00 | Syria | Al-Jihad SC vs Al Hilal SC | **0 - 0** | `Started` | --- |
-| 10:30 | Turkey | 24 Erzincanspor vs Antalya Kepezspor | **1 - 1** | `2nd half` | Ahmet Hakan Demirli 58'(A), Ahmet Dereli 36'(H) |
-| 11:00 | Turkey | Adana 01 FK vs Bucaspor 1928 | **2 - 0** | `Halftime` | Muammer Denizhan Taskan 43'(H), Okan Derici 7'(H) |
-| 11:00 | Turkey | İskenderun A.Ş. vs İnegölspor | **0 - 0** | `Halftime` | --- |
-| 11:00 | Turkey | 68 Aksarayspor vs Fethiyespor | **0 - 0** | `Halftime` | --- |
-| 11:00 | Turkey | Kırklarelispor vs Ankara Demirspor | **1 - 0** | `Halftime` | Muhammet Akpınar 43'(H) |
-| 11:00 | Turkey | Muş 1984 Muşspor vs Kahramanmaraş İstiklalspor | **2 - 0** | `Halftime` | Seçim Can Koç 33'(H), Ersel Asliyuksek 4'(H) |
-| 11:00 | Turkey | Kilis 1984 Futbol Kulübü vs Karaköprü Belediyespor | **0 - 0** | `Halftime` | --- |
-| 11:00 | Turkey | Malatya Yeşilyurt Belediyespor vs Osmaniyespor FK | **2 - 1** | `Halftime` | Unknown 45'(A), Unknown 30'(H), Unknown 6'(H) |
-| 11:00 | Turkey | Suvermez Kapadokyaspor vs Türk Metal 1963 SK | **1 - 3** | `Halftime` | Fırat Tulgayoğlu 45'(A), Yakup Uzunel 45'(A), Unknown 23'(H), Ahmet Bugrahan Tuncay 12'(A) |
-| 11:00 | Turkey | Karadeniz Ereğli Belediyespor vs Karabük İdman Yurdu FK | **0 - 0** | `Halftime` | --- |
-| 11:00 | Turkey | Orduspor 1967 vs Çayeli Spor | **0 - 1** | `Halftime` | Oguzhan Yilmaz 3'(A) |
-| 11:00 | Turkey | Sebat Gençlik Spor vs Amasyaspor FK | **1 - 0** | `Halftime` | --- |
-| 11:00 | Turkey | Yozgat Belediye Bozokspor vs 1926 Bulancakspor | **1 - 1** | `Halftime` | Mert Cayir 33'(H), Unknown 9'(A) |
-| 10:00 | Turkey Amateur | Trabzon Karadeniz vs Trabzon Faroz Yalıspor | **2 - 3** | `2nd half` | Unknown 90'(A), Unknown 75'(A), Unknown 40'(H), Unknown 21'(H), Unknown 12'(A) |
-| 11:00 | Turkey Amateur | 1461 Soğuksuspor vs Beşikdüzüspor | **0 - 2** | `Halftime` | Unknown 35'(A), Unknown 6'(A) |
-| 11:00 | Turkey Amateur | Kıratlıspor vs Sürmenespor | **0 - 1** | `Halftime` | Unknown 38'(A) |
-| 12:00 | Turkey Amateur | Gümüşçayspor vs Geliboluspor | **0 - 0** | `Started` | --- |
-| 10:00 | Uzbekistan | Ahmedov FK vs FA Navoiy | **5 - 2** | `2nd half` | Unknown 86'(H), Unknown 73'(A), Unknown 62'(H), Unknown 56'(H), Unknown 50'(H), Unknown 21'(A), Unknown 19'(H) |
+| 12:00 | South Africa | Dube Continental vs Wits University | **0 - 3** | `2nd half` | Unknown 84'(A), Unknown 45'(A), Unknown 40'(A) |
+| 13:00 | South Africa | Free Agents FC vs University of Johannesburg | **0 - 0** | `1st half` | --- |
+| 13:00 | South Africa | Jomo Cosmos vs Tshwane South College | **0 - 1** | `1st half` | Unknown 19'(A) |
+| 13:00 | South Africa | Leruma United vs Soweto Super United FC | **0 - 0** | `1st half` | --- |
+| 13:00 | South Africa | Young Pirates FC vs Dinoko City FC | **0 - 0** | `1st half` | --- |
+| 12:00 | Syria | Al-Wahda SC vs Al-Shouleh | **2 - 2** | `2nd half` | Unknown 70'(A), Unknown 64'(H), Momen Naji 41'(H), Unknown 22'(A) |
+| 13:00 | Tunisia | AS Sakiet Sidi Youssef vs AF Laaroussa | **0 - 0** | `Started` | --- |
+| 13:00 | Tunisia | Eclair Testour vs CS Sidi Bourouis | **0 - 0** | `Started` | --- |
+| 13:00 | Tunisia | FC Djerissa vs CS Bargou | **0 - 0** | `Started` | --- |
+| 13:00 | Tunisia | Kesra Sport vs FC Kalaa Khesba | **0 - 0** | `Started` | --- |
+| 13:00 | Turkey | Elazığspor vs Beykoz Anadolu Spor A.Ş. | **1 - 0** | `1st half` | Enes Soy 4'(H) |
+| 13:00 | Turkey | Isparta 32 Spor vs Somaspor | **0 - 0** | `1st half` | --- |
+| 13:00 | Turkey | Bursa Nilüfer FK vs Yalova FK 77 SK | **1 - 0** | `1st half` | Furkan Güneş 16'(H) |
+| 13:00 | Turkey | Kestel Çilekspor vs Bulvarspor | **1 - 1** | `1st half` | Taha Özmert 19'(A) |
+| 13:00 | Turkey | Polatlı 1926 SK vs Edirnespor | **0 - 0** | `1st half` | --- |
+| 13:00 | Turkey | Silivrispor vs Küçükçekmece Sinop Spor | **0 - 0** | `1st half` | --- |
+| 13:00 | Turkey | Giresunspor vs 52 Orduspor | **0 - 1** | `1st half` | Emre Gemici 10'(A) |
+| 13:00 | Turkey | Afyonspor vs İzmir Çoruhlu FK | **1 - 0** | `1st half` | Emir Aktürk 31'(H) |
+| 13:00 | Turkey | Eskişehirspor vs Tire FK | **2 - 0** | `1st half` | Christopher Krohn Aydemir 26'(H), Christopher Krohn Aydemir 3'(H) |
+| 13:00 | Turkey | Nazillispor vs Eskişehir Anadolu Spor Faaliyetleri | **0 - 11** | `1st half` | Ramazan Keskin 42'(A), Mert-Yusuf Torlak 38'(A), Recep Aydın 36'(A), Burak Temir 31'(A), Burak Temir 29'(A), Burak Temir 26'(A), Ramazan Keskin 24'(A), Anil Basaran 22'(A), Berat Altindis 2'(A) |
+| 12:00 | Turkey | Kayseri Kadın FK vs Bakırköy Kadın Futbol SK | **0 - 5** | `2nd half` | Unknown 76'(A), Unknown 67'(A), Unknown 53'(A), Unknown 45'(A), Unknown 3'(A) |
+| 12:00 | Turkey Amateur | Gümüşçayspor vs Geliboluspor | **1 - 0** | `2nd half` | Unknown 53'(H) |
+| 12:30 | Uruguay | Deportivo Maldonado Reserve vs Montevideo City Torque Reserve | **0 - 2** | `2nd half` | Unknown 7'(A), Unknown 1'(A) |
