@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-24 23:19:51 UTC"
+        "updated": "2026-03-24 23:50:11 UTC"
     },
     "matches": [
         {
@@ -10,9 +10,11 @@
             "country": "Colombia",
             "home": "Junior Barranquilla",
             "away": "Atl\u00e9tico Bucaramanga",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Jannenson Sarmiento 43'(H)"
+            ]
         },
         {
             "start_time": "23:00",
@@ -30,9 +32,10 @@
             "country": "Bolivia",
             "home": "Blooming",
             "away": "GV San Jos\u00e9",
-            "score": "2 - 0",
-            "minute": "Halftime",
+            "score": "2 - 1",
+            "minute": "2nd half",
             "scorers": [
+                "Unknown 62'(A)",
                 "Bayron Garc\u00e9s 24'(H)",
                 "Miguel Villaroel 1'(H)"
             ]
@@ -46,7 +49,7 @@
             "score": "1 - 0",
             "minute": "1st half",
             "scorers": [
-                "Unknown 11'(H)"
+                "Juniel 11'(H)"
             ]
         },
         {
@@ -68,7 +71,7 @@
             "home": "ASA",
             "away": "Piau\u00ed EC",
             "score": "1 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Higor Leite 18'(H)"
             ]
@@ -84,13 +87,37 @@
             "scorers": []
         },
         {
+            "start_time": "23:30",
+            "league": "Copa Verde, Norte A",
+            "country": "Brazil",
+            "home": "Paysandu SC",
+            "away": "GAS",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 8'(A)"
+            ]
+        },
+        {
             "start_time": "22:00",
             "league": "Copa Verde, Centro Oeste A",
             "country": "Brazil",
             "home": "Rio Branco-ES",
             "away": "Vila Nova FC",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
+            "scorers": [
+                "Alex Galo 59'(H)"
+            ]
+        },
+        {
+            "start_time": "23:30",
+            "league": "Copa de la Liga, Group A ",
+            "country": "Chile",
+            "home": "Deportes Concepci\u00f3n",
+            "away": "Colo-Colo",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -104,34 +131,16 @@
             "scorers": []
         },
         {
-            "start_time": "21:00",
-            "league": " AFP Ta\u00e7a da P\u00f3voa - Knockout",
-            "country": "Portugal Amateur",
-            "home": "CDC Navais",
-            "away": "AAS Pedro de Rates",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "21:00",
-            "league": " AFP Ta\u00e7a da P\u00f3voa - Knockout",
-            "country": "Portugal Amateur",
-            "home": "CSB Amorim",
-            "away": "CCD Terroso",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "21:00",
-            "league": "Interinsular Preferente de Tenerife",
-            "country": "Spain Amateur",
-            "home": "CD Guancha",
-            "away": "CD \u00c1guilas San Aquilino",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
+            "start_time": "23:30",
+            "league": "Liga AUF Uruguaya, Apertura",
+            "country": "Uruguay",
+            "home": "Nacional",
+            "away": "Cerro Largo",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Tomas Veron Lupi 15'(H)"
+            ]
         }
     ]
 }
