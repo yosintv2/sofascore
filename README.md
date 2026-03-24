@@ -2,25 +2,41 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 16:50 | Argentina Amateur | Alem (DF) (7ma) vs 2 de Abril (7ma) | **0 - 0** | `Started` | --- |
-| 15:15 | Croatia Amateur | NK Zagreb City - Veterani vs NK Čulinec - Veterani | **1 - 4** | `Started` | Unknown 87'(A), Unknown 52'(A), Unknown 32'(A), Unknown 20'(A), Unknown 3'(H) |
-| 15:30 | Croatia Amateur | Kustošija - Veterani vs Zanatlija - Veterani | **0 - 0** | `Started` | --- |
-| 16:00 | Croatia Amateur | NK Dugo Selo U19 vs HNK Segesta U19 | **0 - 0** | `Started` | --- |
-| 16:00 | Croatia Amateur | NK Primorac Stobreč vs NK Croatia Zmijavci | **1 - 5** | `2nd half` | Tomislav Gudelj 75'(A), Antonio Bebić 73'(A), Duje Javorčić 41'(H), Ante Žužul 25'(A), Ante Žužul 24'(A), Roko Čotić 21'(A) |
-| 16:30 | Gambia | Falcons FC vs Gambian Dutch Lions | **0 - 0** | `2nd half` | --- |
-| 16:30 | Gambia | Gambia Ports Authority vs Brikama United FC | **0 - 0** | `2nd half` | --- |
-| 16:30 | Gambia | Hawks FC vs BST Galaxy | **1 - 0** | `2nd half` | Unknown 43'(H) |
-| 16:30 | Gambia | Real de Banjul vs Bombada FC | **0 - 0** | `2nd half` | --- |
+| 17:45 | Europe | VfL Wolfsburg vs OL Lyonnes | **1 - 0** | `Halftime` | Lineth Beerensteyn 14'(H) |
+| 18:00 | Argentina Amateur | Alem (DF) (5ta) vs 2 de Abril (5ta) | **0 - 0** | `Started` | --- |
+| 16:50 | Argentina Amateur | Alem (DF) (7ma) vs 2 de Abril (7ma) | **1 - 0** | `Started` | Unknown 64'(H) |
+| 18:00 | Austria Amateur | SCR Altach Juniors vs SK Bischofshofen | **0 - 3** | `1st half` | Unknown 35'(A), Said Llambay 18'(A), Pavol Teluch 3'(A) |
+| 18:00 | Austria Amateur | SV BB1 Wolfau vs ASV Gemeinde Tobaj | **0 - 0** | `1st half` | --- |
+| 18:30 | Austria Amateur | SV Oberloisdorf vs Mattersburger SV | **0 - 1** | `1st half` | Unknown 2'(A) |
+| 18:00 | Brazil | Galícia U20 vs Feirense U20 | **2 - 0** | `1st half` | Unknown 36'(H), Unknown 14'(H) |
+| 18:00 | Brazil | Serrano-BA U20 vs Porto Sport Club U20 | **0 - 0** | `Started` | --- |
+| 18:30 | Brazil | Aparecida EC U20 vs FC Estrela U20 | **0 - 0** | `Started` | --- |
+| 18:30 | Brazil | Centro-Oeste U20 vs Campineira U20 | **0 - 0** | `1st half` | --- |
+| 18:30 | Brazil | Itauçu EC U20 vs Canedo FC U20 | **0 - 0** | `Started` | --- |
+| 18:30 | Brazil | Abadia U20 vs Jardim América U20 | **0 - 0** | `Started` | --- |
+| 18:30 | Brazil | Belavistense U20 vs Hidrolandense U20 | **0 - 0** | `1st half` | --- |
+| 18:30 | Brazil | Planalto EC U20 vs Aliança Nacional U20 | **0 - 0** | `Started` | --- |
+| 18:30 | Brazil | Independente Rio Verde U20 vs Rioverdense U20 | **0 - 0** | `Started` | --- |
+| 18:30 | Brazil | São Luíz-GO U20 vs Goiatuba U20 | **0 - 0** | `Started` | --- |
+| 18:00 | Denmark | AGF vs Fortuna Hjørring | **0 - 2** | `1st half` | Unknown 38'(A), Unknown 9'(A) |
+| 18:00 | Finland Amateur | Kymin Palloilijat vs LAUTP | **0 - 0** | `Started` | --- |
+| 18:00 | Germany Amateur | FSV Zwickau vs Hertha BSC II U23 | **0 - 0** | `1st half` | --- |
+| 18:00 | Germany Amateur | SpVgg Ansbach vs SpVgg Unterhaching | **0 - 0** | `1st half` | --- |
+| 18:00 | Germany Amateur | Curslack-Neuengamme vs Eimsbütteler TV | **0 - 5** | `1st half` | Unknown 35'(A), Unknown 32'(A), Unknown 26'(A), Unknown 6'(A), Unknown 2'(A) |
+| 18:00 | Germany Amateur | Hamburg-Eimsbütteler Ballspiel Club 1911 vs FC Teutonia 05 Ottensen | **0 - 0** | `1st half` | --- |
+| 18:00 | Germany Amateur | Ssd Nikola Tesla Hamburg vs Halstenbek-Rellingen | **1 - 0** | `1st half` | Unknown 26'(H) |
+| 18:00 | Germany Amateur | TSV Sasel vs TSV Buchholz 08 | **0 - 0** | `1st half` | --- |
+| 18:30 | Germany Amateur | TuRa Harksheide vs Paloma Hamburg | **0 - 0** | `1st half` | --- |
 | 17:00 | Germany Amateur | Altona 93 U23 vs FC Alsterbrüder | **0 - 0** | `Started` | --- |
-| 17:30 | Germany Amateur | FC Würzburger Kickers vs SV Wacker Burghausen | **0 - 0** | `Started` | --- |
-| 16:30 | Germany Amateur | FC Alsbach II U13 vs JSG Seeheim /​ Hähnlein U13 | **0 - 0** | `Started` | --- |
-| 16:00 | Greece Amateur | AO Kalymniakos vs AO Argonautes Kalymnou | **0 - 0** | `Started` | --- |
-| 16:00 | Greece Amateur | AO Pagou Syros vs AO Pannaxiakos | **0 - 3** | `2nd half` | Dimitrios Siovas 76'(A), Konstantinos Manolas 35'(A), Alexandros Melissopoulos 17'(A) |
-| 15:30 | Libya | Al Mokhtar Tobruk SC vs Al Khaleej Algaara FC | **0 - 0** | `Started` | --- |
-| 16:00 | Mauritania | AS Garde Nationale vs ASC Riadh | **1 - 2** | `2nd half` | Unknown 80'(A), Unknown 36'(A), Unknown 18'(H) |
-| 17:15 | Qatar | Umm-Salal SC vs Al Bidda SC | **0 - 0** | `1st half` | --- |
-| 16:30 | Sierra Leone | Bo Rangers FC vs Bhantal FC | **1 - 0** | `Halftime` | Abu Komeh 13'(H) |
-| 16:30 | Sierra Leone | FC Kallon vs East End Lions FC | **1 - 2** | `2nd half` | Unknown 45'(A), Unknown 40'(A), Unknown 8'(H) |
-| 16:30 | Sierra Leone | Old Edwardians FC vs Kamboi Eagles FC | **0 - 0** | `2nd half` | --- |
-| 16:00 | Turkey | Bursaspor vs Guzide Gebzespor | **2 - 0** | `2nd half` | Unknown 75'(H), İlhan Depe 70'(H) |
-| 17:00 | Uruguay | Deportivo Maldonado vs Montevideo City Torque | **0 - 0** | `1st half` | --- |
+| 18:00 | Germany Amateur | Kickers Offenbach vs SG Barockstadt Fulda-Lehnerz | **0 - 0** | `Started` | --- |
+| 17:30 | Germany Amateur | FC Würzburger Kickers vs SV Wacker Burghausen | **1 - 0** | `Started` | Maximilian Zaiser 7'(H) |
+| 18:30 | Germany Amateur | SC Vierkirchen vs TSV Altomünster | **0 - 0** | `Started` | --- |
+| 18:30 | Germany Amateur | Haimhausen II vs Günding II | **0 - 0** | `Started` | --- |
+| 18:30 | Germany Amateur | FSG Vill/​Non/​Hungen II vs SV Bobenhausen | **0 - 0** | `Started` | --- |
+| 17:15 | Qatar | Umm-Salal SC vs Al Bidda SC | **0 - 0** | `2nd half` | --- |
+| 16:30 | Sierra Leone | Bo Rangers FC vs Bhantal FC | **1 - 0** | `2nd half` | Abu Komeh 13'(H) |
+| 18:00 | Sweden Amateur | Heby AIF vs Procyon BK | **0 - 0** | `Started` | --- |
+| 18:00 | Turkey Amateur | Babalar FC vs Marmara FT | **0 - 0** | `2nd half` | --- |
+| 18:00 | Turkey Amateur | X FC vs Gençlergücü | **0 - 2** | `2nd half` | Ahmet Kutsi Muhsinoğlu 17'(A), Burak Garip 9'(A) |
+| 17:45 | Turkey Amateur | Los Galaxy vs Nafta Boys FC | **2 - 2** | `2nd half` | Mert Ali Aymutlu 28'(H), Ediz Özaktaç 16'(A), Bilge Kağan Tunca 14'(A), Mertcan Öz 13'(H) |
+| 17:00 | Uruguay | Deportivo Maldonado vs Montevideo City Torque | **1 - 0** | `2nd half` | Santiago Ramírez 44'(H) |
