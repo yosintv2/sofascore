@@ -2,36 +2,32 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | USA | Lexington SC vs Brooklyn FC | **0 - 0** | `Halftime` | --- |
-| 23:30 | USA | SC Jacksonville vs Miami FC | **1 - 1** | `1st half` | Mason Tunbridge 13'(A), Kieran Sadlier 2'(H) |
-| 23:00 | USA | Greenville Triumph SC vs New York Cosmos | **1 - 1** | `Halftime` | Philip Spengler 25'(A), Brandon Fricke 3'(H) |
-| 23:00 | USA | NJ/NY Gotham FC vs Denver Summit FC | **0 - 0** | `1st half` | --- |
-| 23:00 | USA | Washington Spirit vs Utah Royals FC | **1 - 0** | `1st half` | Rebeca Bernal 18'(H) |
-| 22:00 | Argentina | Atlético Tucumán vs Sportivo Barracas | **2 - 1** | `2nd half` | Clever Ferreira 88'(H), Santiago Gómez 81'(A), Leandro Díaz 21'(H) |
-| 23:00 | Brazil | São José EC vs Ferroviária | **0 - 0** | `Halftime` | --- |
-| 23:15 | Brazil | XV de Piracicaba vs Votuporanguense | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | Lemense vs Jabaquara | **0 - 0** | `2nd half` | --- |
-| 22:30 | Brazil | Penapolense vs Barretos | **1 - 1** | `2nd half` | Unknown 16'(A), Luan Carlos 6'(H) |
-| 23:00 | Brazil | AE Araçatuba vs VOCEM | **0 - 3** | `Halftime` | Unknown 45'(A), Unknown 14'(A), Unknown 3'(A) |
-| 23:00 | Brazil | Comercial-SP vs Internacional de Bebedouro | **0 - 0** | `Halftime` | --- |
-| 22:00 | Brazil | América-RN vs Maranhão AC | **2 - 0** | `2nd half` | Cassiano Bouzon 66'(H), Cassiano Bouzon 29'(H) |
-| 22:00 | Brazil | Ceará vs ABC | **1 - 1** | `2nd half` | Wallyson 54'(A), Vinicius Zanocelo 23'(H) |
-| 22:30 | Brazil | AO Itabaiana vs CRB | **0 - 0** | `2nd half` | --- |
-| 22:30 | Brazil | Fluminense-PI vs Juazeirense | **1 - 1** | `2nd half` | Unknown 60'(A), Gabriel Cardoso 10'(H) |
-| 22:30 | Brazil | Vitória vs Botafogo-PB | **1 - 2** | `2nd half` | Dudu Hatamoto 36'(A), Rodolfo 34'(A), Osvaldo 7'(H) |
-| 22:00 | Brazil | Sampaio Corrêa-RJ vs Juventude | **2 - 0** | `2nd half` | Octávio 54'(H), Elias 16'(H) |
-| 23:00 | Brazil | Tombense vs Avaí | **3 - 0** | `Halftime` | Felipe Rocha 43'(H), Felipe Rocha 36'(H), Juan Rocha 2'(H) |
-| 23:00 | Brazil | Monte Roraima vs Águia de Marabá FC | **0 - 2** | `Halftime` | Gustavo Vintecinco 45'(A), PH 14'(A) |
-| 22:30 | Brazil | Araguaína vs Operário-MS | **0 - 0** | `2nd half` | --- |
-| 22:30 | Brazil | Capital CF vs Primavera AC | **3 - 2** | `2nd half` | Gustavo Nescau 43'(H), Richardson 38'(H), Bryan Gabriel Amancio 20'(A), Lessinho 14'(H), Bryan Gabriel Amancio 12'(A) |
-| 22:30 | Brazil | Porto Vitória vs Gama | **0 - 1** | `2nd half` | Unknown 57'(A) |
-| 23:30 | Brazil | Cuiabá vs Tocantinópolis | **0 - 0** | `1st half` | --- |
-| 23:30 | Chile | Audax Italiano vs Deportes La Serena | **1 - 0** | `1st half` | Giovani Chiaverano 8'(H) |
-| 22:00 | Colombia | Barranquilla FC vs Leones FC | **3 - 0** | `2nd half` | Unknown 90'(H), Unknown 70'(H), Unknown 13'(H) |
-| 23:00 | Colombia | Real Cundinamarca vs Atlético Cali | **1 - 1** | `1st half` | Alejandro Oñate 34'(A), Onel Acosta 21'(H) |
-| 18:00 | Finland Amateur | ACE/2 vs TPV/2 | **0 - 6** | `2nd half` | --- |
-| 22:30 | Paraguay | Guaraní vs CS 2 de Mayo | **1 - 0** | `2nd half` | Ivan Ramirez 32'(H) |
-| 23:00 | Turks and Caicos Islands | Flamingo FC vs Cheshire Hall FC | **0 - 0** | `Started` | --- |
-| 23:00 | USA | Pittsburgh Riverhounds vs Steel City FC | **1 - 0** | `1st half` | Danny Griffin 6'(H) |
-| 23:30 | Uruguay | Boston River vs Peñarol | **0 - 1** | `1st half` | Eduardo Darias 7'(A) |
-| 23:30 | Venezuela | Deportivo Lara vs Academia Puerto Cabello Reserves | **1 - 0** | `1st half` | Unknown 13'(H) |
+| 01:00 | Colombia | América de Cali vs Llaneros FC | **0 - 0** | `Halftime` | --- |
+| 00:00 | USA | Chicago Stars FC vs Orlando Pride | **0 - 3** | `2nd half` | Hannah Anderson 35'(A), Lizbeth Ovalle 22'(A), Barbra Banda 13'(A) |
+| 01:00 | USA | Seattle Reign FC vs Kansas City Current | **3 - 0** | `1st half` | Maddie Mercado 33'(H), Brittany Ratcliffe 26'(H), Angharad James-Turner 18'(H) |
+| 00:00 | World | Puerto Rico vs Guam | **4 - 0** | `2nd half` | Leandro Antonetti 76'(H), Wilfredo Rivera 63'(H), Ricardo Rivera 57'(H), Wilfredo Rivera 52'(H) |
+| 00:15 | Argentina | Banfield vs Real Pilar | **2 - 0** | `2nd half` | Tiziano Perrotta 37'(H), Tiziano Perrotta 29'(H) |
+| 00:00 | Argentina | Gimnasia y Esgrima Mendoza Reserve vs Tigre Reserve | **1 - 1** | `2nd half` | Unknown 80'(H), Unknown 71'(A) |
+| 01:00 | Argentina Amateur | AD El Arañado vs Union de Alicia | **0 - 1** | `1st half` | Facundo Duran 28'(A) |
+| 01:00 | Argentina Amateur | Alianza Carrilobo vs Huracán de Las Varillas | **0 - 1** | `1st half` | Unknown 41'(A) |
+| 01:00 | Argentina Amateur | Almafuerte vs Granaderos Las Varas | **1 - 0** | `1st half` | Eladio Galarza 24'(H) |
+| 01:00 | Argentina Amateur | Unión Deportiva Laspiur vs Sportivo Club Sacanta | **0 - 0** | `1st half` | --- |
+| 01:30 | Argentina Amateur | Filodramatico Alicia vs Sportivo Pozo del Molle | **0 - 0** | `1st half` | --- |
+| 01:00 | Argentina Amateur | 9 De Julio De Freyre vs 9 de Julio de Morteros | **0 - 0** | `1st half` | --- |
+| 01:00 | Argentina Amateur | 8 de Diciembre (VC) vs Sociedad Sportiva Devoto | **0 - 2** | `1st half` | Rodrigo Pittavino 23'(A), Sebastian Vietto 19'(A) |
+| 01:00 | Argentina Amateur | Colonia Marina FC vs La Milka (SF) | **1 - 0** | `1st half` | Unknown 17'(H) |
+| 00:30 | Brazil | Grêmio Novorizontino vs América Mineiro | **1 - 0** | `2nd half` | Juninho 37'(H) |
+| 00:45 | Brazil | Chapecoense vs São Bernardo | **1 - 0** | `Halftime` | Wermeson 42'(H) |
+| 00:00 | Brazil | Independência vs Guaporé FC | **0 - 0** | `2nd half` | --- |
+| 01:00 | Colombia Amateur | Rotterdam FC Col vs Black River Naisu | **1 - 1** | `1st half` | Unknown 21'(A), Unknown 4'(H) |
+| 01:00 | Colombia Amateur | Atlético Granada - La Coruña vs CD Maracaneiros | **1 - 0** | `1st half` | Unknown 6'(H) |
+| 01:00 | Colombia Amateur | Positiva 3 vs Global 66 | **2 - 3** | `Halftime` | Andres Briceño 14'(A), Santiago Cubillos 14'(A), Bastien Lemus 11'(H), Jeison  Rodriguez 6'(H), Santiago Cubillos 2'(A) |
+| 01:00 | Colombia Amateur | JInversiones vs Seven FC | **0 - 0** | `1st half` | --- |
+| 01:30 | El Salvador | CD Hercules vs CD Águila | **0 - 0** | `1st half` | --- |
+| 01:00 | Guatemala | Deportivo Gomerano vs Aguacatán FC | **1 - 0** | `1st half` | Unknown 44'(H) |
+| 01:00 | Guatemala | CSD Chiquimulilla vs CS Deportivo Sacachispas | **1 - 0** | `Halftime` | --- |
+| 01:00 | Mexico | Tigres UANL vs Club América | **0 - 1** | `Halftime` | Geyse Ferreira 36'(A) |
+| 00:00 | Mexico | Club Deportivo Ayense vs FC Racing | **1 - 1** | `2nd half` | Unknown 53'(A), Unknown 14'(H) |
+| 01:00 | Mexico | Dragones de Oaxaca vs C.D. Petroleros de Poza Rica | **1 - 0** | `1st half` | Unknown 28'(H) |
+| 01:00 | Panama | Sporting SM B vs San Martin FC | **3 - 0** | `1st half` | Unknown 37'(H), Unknown 29'(H), Unknown 15'(H) |
+| 01:00 | USA | Palm Beach Flames vs Miami United | **0 - 2** | `1st half` | Unknown 28'(A), Unknown 9'(A) |
