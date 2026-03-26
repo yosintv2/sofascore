@@ -1,33 +1,19 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-26 22:50:38 UTC"
+        "updated": "2026-03-26 23:16:19 UTC"
     },
     "matches": [
-        {
-            "start_time": "21:00",
-            "league": "Int. Friendly Games",
-            "country": "World",
-            "home": "Martinique",
-            "away": "Cuba",
-            "score": "2 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 51'(A)",
-                "Unknown 42'(H)",
-                "Unknown 26'(H)",
-                "Unknown 21'(A)"
-            ]
-        },
         {
             "start_time": "21:30",
             "league": "Int. Friendly Games",
             "country": "World",
             "home": "Bahamas",
             "away": "Anguilla",
-            "score": "1 - 2",
+            "score": "1 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 83'(A)",
                 "Unknown 52'(A)",
                 "Unknown 45'(A)",
                 "Unknown 28'(H)"
@@ -39,9 +25,11 @@
             "country": "World",
             "home": "Bolivia",
             "away": "Suriname",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "2nd half",
+            "scorers": [
+                "Liam van Gelderen 48'(A)"
+            ]
         },
         {
             "start_time": "21:30",
@@ -64,7 +52,7 @@
             "home": "Talleres de C\u00f3rdoba Reserve",
             "away": "Banfield Reserve",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -74,7 +62,7 @@
             "home": "Cruzeiro",
             "away": "Fluminense",
             "score": "3 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Isabela Capelinha 38'(H)",
                 "Tainara 16'(H)",
@@ -88,12 +76,22 @@
             "home": "Sousa EC",
             "away": "Confian\u00e7a",
             "score": "2 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 45'(A)",
+                "Eduardo 45'(A)",
                 "Everton Heleno 24'(H)",
                 "Everton Heleno 19'(H)"
             ]
+        },
+        {
+            "start_time": "23:00",
+            "league": "Copa Verde, Norte A",
+            "country": "Brazil",
+            "home": "Nacional-AM",
+            "away": "Trem",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "21:30",
@@ -101,39 +99,14 @@
             "country": "Brazil",
             "home": "Galvez EC",
             "away": "Amazonas FC",
-            "score": "0 - 4",
+            "score": "0 - 5",
             "minute": "2nd half",
             "scorers": [
+                "Pedro Caracoci 73'(A)",
                 "Unknown 44'(A)",
                 "Unknown 42'(A)",
                 "Ronaldo Henrique Silva 37'(A)",
                 "Ronaldo Henrique Silva 10'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Copa de la Liga, Group C",
-            "country": "Chile",
-            "home": "Deportes Limache",
-            "away": "Palestino",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Nelson Da Silva 64'(A)",
-                "Joaqu\u00edn Montecinos 35'(H)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "Primera B, Apertura",
-            "country": "Colombia",
-            "home": "Uni\u00f3n Magdalena",
-            "away": "Real Santander",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Luiz Gustavo Narvaez 77'(H)",
-                "Jhon Lerma 35'(H)"
             ]
         },
         {
@@ -143,20 +116,50 @@
             "home": "Internacional de Palmira",
             "away": "Tigres FC",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
-            "start_time": "21:00",
-            "league": "Premier League",
-            "country": "Jamaica",
-            "home": "Cavalier FC",
-            "away": "Dunbeholden FC",
-            "score": "0 - 1",
-            "minute": "2nd half",
+            "start_time": "23:00",
+            "league": "Primera B, Apertura",
+            "country": "Colombia",
+            "home": "Independiente Yumbo",
+            "away": "Patriotas Boyac\u00e1",
+            "score": "1 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 76'(A)"
+                "Unknown 5'(H)"
             ]
+        },
+        {
+            "start_time": "22:00",
+            "league": "Liga Premier Serie B, Playoffs",
+            "country": "Mexico",
+            "home": "CDM F.C.",
+            "away": "Gorilas de Juanacatlan",
+            "score": "0 - 0",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:00",
+            "league": "Divisi\u00f3n de Honor, Apertura",
+            "country": "Paraguay",
+            "home": "Recoleta FC",
+            "away": "Rubio \u00d1u",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:00",
+            "league": "USL Super League",
+            "country": "USA",
+            "home": "DC Power FC",
+            "away": "Tampa Bay Sun FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "22:40",
@@ -164,9 +167,12 @@
             "country": "USA",
             "home": "Speed United",
             "away": "Club 360",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 2",
+            "minute": "2nd half",
+            "scorers": [
+                "Juan Quintero 23'(A)",
+                "Jose Escobar 13'(A)"
+            ]
         }
     ]
 }
