@@ -168,8 +168,8 @@
             {
                 "country": "BI",
                 "channels": [
-                    "Sporty TV App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -181,9 +181,9 @@
             {
                 "country": "CG",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -225,17 +225,17 @@
             {
                 "country": "GH",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "GN",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -247,9 +247,9 @@
             {
                 "country": "KE",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -273,17 +273,17 @@
             {
                 "country": "MZ",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "NG",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -301,9 +301,9 @@
             {
                 "country": "RW",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -315,25 +315,25 @@
             {
                 "country": "SL",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "TZ",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "UG",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
@@ -351,9 +351,9 @@
             {
                 "country": "ZA",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
@@ -971,9 +971,9 @@
                 "country": "GB",
                 "channels": [
                     "Sky Sports Ultra HD",
+                    "Sky Go UK",
                     "Sky Sports Main Event",
-                    "Sky Sports Football",
-                    "Sky Go UK"
+                    "Sky Sports Football"
                 ]
             },
             {
@@ -1003,10 +1003,10 @@
             {
                 "country": "IE",
                 "channels": [
-                    "Sky Go UK",
-                    "Sky Sports Main Event",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             },
             {
@@ -1196,7 +1196,20 @@
         "league_id": 25,
         "league": "League Two",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "GB",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            },
+            {
+                "country": "IE",
+                "channels": [
+                    "Sky Sports+"
+                ]
+            }
+        ]
     },
     {
         "match_id": 14061088,
@@ -1246,7 +1259,26 @@
         "league_id": 13363,
         "league": "USL Championship",
         "venue": "Rio Grande Credit Union Field at Isotopes Park",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "BO",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "CL",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "PE",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15285674,
@@ -1255,7 +1287,26 @@
         "league_id": 13363,
         "league": "USL Championship",
         "venue": "Keyworth Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "BO",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "CL",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "PE",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15227353,
@@ -1264,7 +1315,26 @@
         "league_id": 13363,
         "league": "USL Championship",
         "venue": "Dillon Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "BO",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "CL",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "PE",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15227356,
@@ -1273,7 +1343,26 @@
         "league_id": 13363,
         "league": "USL Championship",
         "venue": "FIU Stadium",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "BO",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "CL",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "PE",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15227358,
@@ -1408,7 +1497,26 @@
         "league_id": 13362,
         "league": "USL, League One",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "BO",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "CL",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "PE",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15285378,
@@ -1417,7 +1525,26 @@
         "league_id": 13362,
         "league": "USL, League One",
         "venue": "TBA",
-        "tv_channels": []
+        "tv_channels": [
+            {
+                "country": "BO",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "CL",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            },
+            {
+                "country": "PE",
+                "channels": [
+                    "Disney+ Premium Chile"
+                ]
+            }
+        ]
     },
     {
         "match_id": 15285374,
@@ -1580,16 +1707,16 @@
             {
                 "country": "EC",
                 "channels": [
-                    "ECDF App",
-                    "Canal del Futbol"
+                    "Canal del Futbol",
+                    "ECDF App"
                 ]
             },
             {
                 "country": "PE",
                 "channels": [
+                    "Am\u00e9rica Televisi\u00f3n",
                     "ATV",
-                    "M+ Deportes",
-                    "Am\u00e9rica Televisi\u00f3n"
+                    "M+ Deportes"
                 ]
             },
             {
@@ -1623,10 +1750,10 @@
             {
                 "country": "CA",
                 "channels": [
-                    "TSN1",
+                    "RDS",
                     "TSN4",
-                    "OneSoccer",
-                    "RDS"
+                    "TSN1",
+                    "OneSoccer"
                 ]
             }
         ]
@@ -1642,9 +1769,9 @@
             {
                 "country": "AO",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1656,24 +1783,24 @@
             {
                 "country": "BF",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "BI",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "BJ",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1685,40 +1812,40 @@
             {
                 "country": "BW",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "CD",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "CF",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "CG",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "CI",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1730,17 +1857,17 @@
             {
                 "country": "CM",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "CV",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1758,9 +1885,9 @@
             {
                 "country": "DJ",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1772,17 +1899,17 @@
             {
                 "country": "ER",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "ET",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1794,49 +1921,49 @@
             {
                 "country": "GA",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "GH",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "GM",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "GN",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "GQ",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "GW",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1848,40 +1975,40 @@
             {
                 "country": "KE",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "KM",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "LR",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "LS",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "MG",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1893,65 +2020,65 @@
             {
                 "country": "ML",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "MR",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "MU",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "MW",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "MZ",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "NA",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "NE",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "NG",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -1981,8 +2108,8 @@
             {
                 "country": "RE",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -2000,24 +2127,24 @@
             {
                 "country": "RW",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "SC",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "SD",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
@@ -2041,108 +2168,108 @@
             {
                 "country": "SL",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "SN",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "SO",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "SS",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "ST",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "SZ",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "TD",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "TG",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "TZ",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "UG",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "YT",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "ZA",
                 "channels": [
-                    "SuperSport LaLiga",
+                    "DStv App",
                     "SuperSport GOtv LaLiga",
-                    "DStv App"
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "ZM",
                 "channels": [
-                    "SuperSport LaLiga",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             },
             {
                 "country": "ZW",
                 "channels": [
-                    "SuperSport LaLiga",
                     "DStv Now",
-                    "SuperSport GOtv LaLiga"
+                    "SuperSport GOtv LaLiga",
+                    "SuperSport LaLiga"
                 ]
             }
         ]
@@ -2164,22 +2291,22 @@
             {
                 "country": "AO",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "BF",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "BI",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2203,22 +2330,22 @@
             {
                 "country": "BR",
                 "channels": [
-                    "Disney+",
-                    "ESPN"
+                    "ESPN",
+                    "Disney+"
                 ]
             },
             {
                 "country": "BW",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "CD",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2230,15 +2357,15 @@
             {
                 "country": "CG",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "CI",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2250,15 +2377,15 @@
             {
                 "country": "CM",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "CV",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2276,29 +2403,29 @@
             {
                 "country": "DJ",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "DK",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
                 "country": "ER",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "ET",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2310,8 +2437,8 @@
             {
                 "country": "FO",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
@@ -2323,8 +2450,8 @@
             {
                 "country": "GA",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2338,36 +2465,36 @@
             {
                 "country": "GH",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "GM",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "GN",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "GQ",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "GW",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2380,9 +2507,9 @@
                 "country": "IE",
                 "channels": [
                     "BBC Scotland",
+                    "Virgin Media Two",
                     "BBC Sport Web",
-                    "BBC iPlayer",
-                    "Virgin Media Two"
+                    "BBC iPlayer"
                 ]
             },
             {
@@ -2395,15 +2522,15 @@
             {
                 "country": "JP",
                 "channels": [
-                    "NHK G TV",
-                    "U-NEXT"
+                    "U-NEXT",
+                    "NHK G TV"
                 ]
             },
             {
                 "country": "KE",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2415,15 +2542,15 @@
             {
                 "country": "LR",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "LS",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2441,8 +2568,8 @@
             {
                 "country": "MG",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2454,57 +2581,57 @@
             {
                 "country": "ML",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "MR",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "MU",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "MW",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "MZ",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "NA",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "NE",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "NG",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2541,10 +2668,10 @@
             {
                 "country": "RO",
                 "channels": [
-                    "Digi Online",
+                    "Prima Play",
                     "Prima Sport 4",
                     "Digi Sport 2",
-                    "Prima Play"
+                    "Digi Online"
                 ]
             },
             {
@@ -2562,15 +2689,15 @@
             {
                 "country": "SC",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "SD",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2588,8 +2715,8 @@
             {
                 "country": "SL",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2602,8 +2729,8 @@
             {
                 "country": "SN",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2615,8 +2742,8 @@
             {
                 "country": "SS",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2628,36 +2755,36 @@
             {
                 "country": "SZ",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "TD",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "TG",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "TZ",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
                 "country": "UG",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             },
             {
@@ -2693,8 +2820,8 @@
             {
                 "country": "ZW",
                 "channels": [
-                    "SuperSport Maximo 2",
-                    "DStv Now"
+                    "DStv Now",
+                    "SuperSport Maximo 2"
                 ]
             }
         ]
@@ -2716,8 +2843,8 @@
             {
                 "country": "BI",
                 "channels": [
-                    "Sporty TV App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2741,9 +2868,9 @@
             {
                 "country": "CG",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2759,6 +2886,18 @@
                 ]
             },
             {
+                "country": "CO",
+                "channels": [
+                    "Disney+ Premium Sur"
+                ]
+            },
+            {
+                "country": "EC",
+                "channels": [
+                    "Disney+ Premium Sur"
+                ]
+            },
+            {
                 "country": "FR",
                 "channels": [
                     "L'\u00c9quipe Live Foot"
@@ -2767,24 +2906,24 @@
             {
                 "country": "GB",
                 "channels": [
-                    "Premier Sports Player",
-                    "Premier Sports 2 HD"
+                    "Premier Sports 2 HD",
+                    "Premier Sports Player"
                 ]
             },
             {
                 "country": "GH",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "GN",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2796,16 +2935,16 @@
             {
                 "country": "IE",
                 "channels": [
-                    "Premier Sports Player",
-                    "Premier Sports 2 HD"
+                    "Premier Sports 2 HD",
+                    "Premier Sports Player"
                 ]
             },
             {
                 "country": "KE",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2835,17 +2974,17 @@
             {
                 "country": "MZ",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "NG",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2863,49 +3002,55 @@
             {
                 "country": "RW",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "SL",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "TZ",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "UG",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "US",
                 "channels": [
                     "TNT",
-                    "Peacock",
-                    "Telemundo"
+                    "Telemundo",
+                    "Peacock"
+                ]
+            },
+            {
+                "country": "VE",
+                "channels": [
+                    "Disney+ Premium Sur"
                 ]
             },
             {
                 "country": "ZA",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
@@ -2924,6 +3069,12 @@
         "league": "Int. Friendly Games",
         "venue": "TBA",
         "tv_channels": [
+            {
+                "country": "HT",
+                "channels": [
+                    "Tele Haiti"
+                ]
+            },
             {
                 "country": "TN",
                 "channels": [
@@ -2982,16 +3133,16 @@
                 "country": "CR",
                 "channels": [
                     "TUDN",
-                    "Fox Sports App",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             },
             {
                 "country": "DO",
                 "channels": [
                     "TUDN",
-                    "Fox Sports App",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             },
             {
@@ -3004,46 +3155,46 @@
                 "country": "GT",
                 "channels": [
                     "TUDN",
-                    "Fox Sports App",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             },
             {
                 "country": "HN",
                 "channels": [
                     "TUDN",
-                    "Fox Sports App",
                     "TUDN En Vivo",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             },
             {
                 "country": "MX",
                 "channels": [
-                    "Azteca Deportes",
+                    "Fox Sports App",
                     "Canal 5",
+                    "TUDN",
+                    "ViX",
                     "TUDN En Vivo",
                     "Azteca 7",
-                    "Fox Sports App",
-                    "ViX",
                     "Canal 5 Televisa",
-                    "TUDN"
+                    "Azteca Deportes"
                 ]
             },
             {
                 "country": "NI",
                 "channels": [
                     "TUDN",
-                    "Fox Sports App",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             },
             {
                 "country": "PA",
                 "channels": [
                     "TUDN",
-                    "Fox Sports App",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             },
             {
@@ -3062,8 +3213,8 @@
             {
                 "country": "PT",
                 "channels": [
-                    "Sport TV1",
-                    "RTP 1"
+                    "RTP 1",
+                    "Sport TV1"
                 ]
             },
             {
@@ -3076,25 +3227,25 @@
                 "country": "SV",
                 "channels": [
                     "TUDN",
-                    "Fox Sports App",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             },
             {
                 "country": "US",
                 "channels": [
                     "Foxsports.com",
-                    "FOX One",
-                    "Univision",
-                    "fuboTV",
-                    "Univision Now",
-                    "TUDN.com",
-                    "Fox Sports App",
-                    "ViX",
-                    "TUDN USA",
-                    "TUDN",
                     "Fox Deportes",
-                    "TUDN App"
+                    "Fox Sports App",
+                    "FOX One",
+                    "TUDN",
+                    "ViX",
+                    "Univision Now",
+                    "Univision",
+                    "TUDN App",
+                    "fuboTV",
+                    "TUDN USA",
+                    "TUDN.com"
                 ]
             },
             {
@@ -3106,8 +3257,8 @@
             {
                 "country": "VE",
                 "channels": [
-                    "Fox Sports App",
-                    "ViX"
+                    "ViX",
+                    "Fox Sports App"
                 ]
             }
         ]
@@ -3153,15 +3304,15 @@
             {
                 "country": "DK",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
                 "country": "FO",
                 "channels": [
-                    "TV2 Play Denmark",
-                    "TV2 Sport X"
+                    "TV2 Sport X",
+                    "TV2 Play Denmark"
                 ]
             },
             {
@@ -3255,15 +3406,15 @@
             {
                 "country": "BI",
                 "channels": [
-                    "Sporty TV App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "BR",
                 "channels": [
-                    "Sportv",
-                    "Xsports"
+                    "Xsports",
+                    "Sportv"
                 ]
             },
             {
@@ -3275,9 +3426,9 @@
             {
                 "country": "CG",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -3295,17 +3446,17 @@
             {
                 "country": "CO",
                 "channels": [
-                    "RCN Television",
                     "Caracol Play",
                     "Caracol TV",
+                    "RCN Television",
                     "ditu"
                 ]
             },
             {
                 "country": "EC",
                 "channels": [
-                    "ECDF App",
-                    "Canal del Futbol"
+                    "Canal del Futbol",
+                    "ECDF App"
                 ]
             },
             {
@@ -3317,25 +3468,25 @@
             {
                 "country": "GH",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "GN",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "KE",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
@@ -3371,17 +3522,17 @@
             {
                 "country": "MZ",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "NG",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
@@ -3399,33 +3550,33 @@
             {
                 "country": "RW",
                 "channels": [
-                    "Sporty TV App",
                     "StarTimes App",
-                    "Sporty TV"
+                    "Sporty TV",
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "SL",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "TZ",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
                 "country": "UG",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
@@ -3437,9 +3588,9 @@
             {
                 "country": "ZA",
                 "channels": [
-                    "Sporty TV App",
+                    "StarTimes App",
                     "Sporty TV",
-                    "StarTimes App"
+                    "Sporty TV App"
                 ]
             },
             {
@@ -3470,15 +3621,15 @@
             {
                 "country": "GB",
                 "channels": [
-                    "TNT Sports 4",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 4"
                 ]
             },
             {
                 "country": "IE",
                 "channels": [
-                    "TNT Sports 4",
-                    "Discovery+"
+                    "Discovery+",
+                    "TNT Sports 4"
                 ]
             },
             {
@@ -3624,17 +3775,17 @@
             {
                 "country": "GB",
                 "channels": [
+                    "Sky Sports Premier League",
                     "Sky Go UK",
-                    "Sky Sports Mix",
-                    "Sky Sports Premier League"
+                    "Sky Sports Mix"
                 ]
             },
             {
                 "country": "IE",
                 "channels": [
+                    "Sky Sports Premier League",
                     "Sky Go UK",
-                    "Sky Sports Mix",
-                    "Sky Sports Premier League"
+                    "Sky Sports Mix"
                 ]
             },
             {
@@ -3657,31 +3808,31 @@
                 "country": "AO",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "BF",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "BI",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "BJ",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
@@ -3699,9 +3850,9 @@
             {
                 "country": "BW",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
@@ -3713,9 +3864,9 @@
             {
                 "country": "CD",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
@@ -3729,8 +3880,8 @@
                 "country": "CG",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -3743,8 +3894,8 @@
                 "country": "CI",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -3756,9 +3907,9 @@
             {
                 "country": "CM",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
@@ -3770,41 +3921,41 @@
             {
                 "country": "CV",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "DJ",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "ER",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "ET",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GA",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -3819,32 +3970,32 @@
                 "country": "GH",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GM",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GN",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GQ",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -3857,8 +4008,8 @@
                 "country": "GW",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -3879,47 +4030,47 @@
                 "country": "KE",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "KM",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "LR",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "LS",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "MG",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "ML",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
@@ -3932,8 +4083,8 @@
                 "country": "MR",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -3947,32 +4098,32 @@
                 "country": "MW",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "MZ",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "NA",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "NE",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4003,31 +4154,31 @@
             {
                 "country": "RE",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "RW",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "SC",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "SD",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4045,17 +4196,17 @@
             {
                 "country": "SL",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "SN",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4069,55 +4220,55 @@
                 "country": "SS",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "ST",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "SZ",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "TD",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "TG",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "TZ",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "UG",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4161,9 +4312,9 @@
             {
                 "country": "ZW",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             }
         ]
@@ -4180,31 +4331,37 @@
                 "country": "AO",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "AR",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
                 "country": "BF",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "BI",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "BJ",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
@@ -4216,17 +4373,17 @@
             {
                 "country": "BW",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "CD",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
@@ -4240,16 +4397,16 @@
                 "country": "CG",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "CI",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4261,25 +4418,25 @@
             {
                 "country": "CM",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "CV",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "DJ",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
@@ -4292,16 +4449,16 @@
                 "country": "ER",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "ET",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
@@ -4314,16 +4471,16 @@
                 "country": "GA",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GB",
                 "channels": [
+                    "Sky Sports Football",
                     "Sky Sports Ultra HD",
                     "Sky Sports Main Event",
-                    "Sky Sports Football",
                     "Sky Go UK"
                 ]
             },
@@ -4331,8 +4488,8 @@
                 "country": "GH",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4345,96 +4502,96 @@
                 "country": "GM",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GN",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GQ",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "GW",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "IE",
                 "channels": [
-                    "Sky Go UK",
-                    "Sky Sports Main Event",
                     "Sky Sports Ultra HD",
-                    "Sky Sports Football"
+                    "Sky Sports Football",
+                    "Sky Go UK",
+                    "Sky Sports Main Event"
                 ]
             },
             {
                 "country": "KE",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "KM",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "LR",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "LS",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "MG",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "ML",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "MR",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4448,32 +4605,32 @@
                 "country": "MW",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "MZ",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "NA",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "NE",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4497,33 +4654,39 @@
                 ]
             },
             {
+                "country": "PY",
+                "channels": [
+                    "Disney+ Premium Argentina"
+                ]
+            },
+            {
                 "country": "RE",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "RW",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "SC",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "SD",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4541,17 +4704,17 @@
             {
                 "country": "SL",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "SN",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
@@ -4565,55 +4728,61 @@
                 "country": "SS",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "ST",
                 "channels": [
-                    "SuperSport Premier League",
-                    "W-Sport"
+                    "W-Sport",
+                    "SuperSport Premier League"
                 ]
             },
             {
                 "country": "SZ",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
                 ]
             },
             {
                 "country": "TD",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "TG",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "TZ",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             },
             {
                 "country": "UG",
                 "channels": [
                     "W-Sport",
-                    "DStv Now",
-                    "SuperSport Premier League"
+                    "SuperSport Premier League",
+                    "DStv Now"
+                ]
+            },
+            {
+                "country": "UY",
+                "channels": [
+                    "Disney+ Premium Argentina"
                 ]
             },
             {
@@ -4639,9 +4808,9 @@
             {
                 "country": "ZW",
                 "channels": [
+                    "W-Sport",
                     "SuperSport Premier League",
-                    "DStv Now",
-                    "W-Sport"
+                    "DStv Now"
                 ]
             }
         ]
@@ -4765,9 +4934,9 @@
             {
                 "country": "GB",
                 "channels": [
-                    "Sky One",
                     "Sky Sports Football",
-                    "Sky Sports Main Event"
+                    "Sky Sports Main Event",
+                    "Sky One"
                 ]
             },
             {
@@ -4809,8 +4978,8 @@
             {
                 "country": "IE",
                 "channels": [
-                    "Sky Sports Main Event",
                     "Sky Sports Football",
+                    "Sky Sports Main Event",
                     "Sky One"
                 ]
             },
@@ -5246,8 +5415,8 @@
                 "country": "DE",
                 "channels": [
                     "DAZN",
-                    "Das Erste",
-                    "Magenta Sport"
+                    "Magenta Sport",
+                    "Das Erste"
                 ]
             },
             {
@@ -5460,17 +5629,17 @@
             {
                 "country": "ES",
                 "channels": [
+                    "DAZN",
                     "TV3",
-                    "Teledeporte",
-                    "DAZN"
+                    "Teledeporte"
                 ]
             },
             {
                 "country": "PL",
                 "channels": [
                     "TVP Sport HD",
-                    "TVP Sport App",
-                    "sport.tvp.pl"
+                    "sport.tvp.pl",
+                    "TVP Sport App"
                 ]
             }
         ]
@@ -5831,7 +6000,7 @@
     },
     {
         "match_id": 15275485,
-        "kickoff": 1774720800,
+        "kickoff": 1774713600,
         "fixture": "Atlanta vs Club Ferro Carril Oeste",
         "league_id": 703,
         "league": "Primera B Nacional",
@@ -6072,7 +6241,7 @@
     },
     {
         "match_id": 15846625,
-        "kickoff": 1774814400,
+        "kickoff": 1774818000,
         "fixture": "Piau\u00ed EC vs Sousa EC",
         "league_id": 1596,
         "league": "Copa do Nordeste",
@@ -6968,8 +7137,8 @@
             {
                 "country": "GT",
                 "channels": [
-                    "Tigo Sports",
-                    "ViX"
+                    "ViX",
+                    "Tigo Sports"
                 ]
             },
             {
@@ -7387,8 +7556,8 @@
             {
                 "country": "IT",
                 "channels": [
-                    "Sky Sport Uno",
-                    "NOW"
+                    "NOW",
+                    "Sky Sport Uno"
                 ]
             },
             {
@@ -8304,6 +8473,15 @@
         ]
     },
     {
+        "match_id": 15275004,
+        "kickoff": 1774792800,
+        "fixture": "Estoril Praia U23 vs UD Leiria U23",
+        "league_id": 11341,
+        "league": "U23 Championship, Relegation Round",
+        "venue": "TBA",
+        "tv_channels": []
+    },
+    {
         "match_id": 15707242,
         "kickoff": 1774699200,
         "fixture": "Volga Ulyanovsk vs Spartak Kostroma",
@@ -8951,15 +9129,6 @@
         "tv_channels": []
     },
     {
-        "match_id": 15853746,
-        "kickoff": 1774785600,
-        "fixture": "Str\u00f8mmen IF vs Grorud",
-        "league_id": 853,
-        "league": "Club Friendly Games",
-        "venue": "TBA",
-        "tv_channels": []
-    },
-    {
         "match_id": 15870279,
         "kickoff": 1774692000,
         "fixture": "USA U19 vs Wales U19",
@@ -8976,5 +9145,44 @@
         "league": "U23 Friendly Games",
         "venue": "TBA",
         "tv_channels": []
+    },
+    {
+        "match_id": 15400664,
+        "kickoff": 1774839600,
+        "fixture": "Cabo Verde vs Finland",
+        "league_id": 32832,
+        "league": "FIFA Series, New Zealand ",
+        "venue": "Eden Park",
+        "tv_channels": [
+            {
+                "country": "FI",
+                "channels": [
+                    "Yle Areena"
+                ]
+            },
+            {
+                "country": "SL",
+                "channels": [
+                    "DAZN International"
+                ]
+            }
+        ]
+    },
+    {
+        "match_id": 15718024,
+        "kickoff": 1774850400,
+        "fixture": "New Zealand vs Chile",
+        "league_id": 32832,
+        "league": "FIFA Series, New Zealand ",
+        "venue": "Eden Park",
+        "tv_channels": [
+            {
+                "country": "CL",
+                "channels": [
+                    "ChileVisi\u00f3n Web",
+                    "Chilevision"
+                ]
+            }
+        ]
     }
 ]
