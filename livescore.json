@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-27 23:26:50 UTC"
+        "updated": "2026-03-27 23:53:06 UTC"
     },
     "matches": [
         {
@@ -15,14 +15,28 @@
             "scorers": []
         },
         {
+            "start_time": "23:30",
+            "league": "USL, League One",
+            "country": "USA",
+            "home": "Charlotte Independence",
+            "away": "Spokane Velocity FC",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Simon Fitch 2'(H)"
+            ]
+        },
+        {
             "start_time": "23:15",
             "league": "Int. Friendly Games",
             "country": "World",
             "home": "Argentina",
             "away": "Mauritania",
-            "score": "0 - 0",
+            "score": "2 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Enzo Fern\u00e1ndez 17'(H)"
+            ]
         },
         {
             "start_time": "22:00",
@@ -38,38 +52,16 @@
             ]
         },
         {
-            "start_time": "21:00",
-            "league": "U16 Generation adidas Cup, Group E",
-            "country": "International Clubs",
-            "home": "DC United U16",
-            "away": "Colorado Rapids U16",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "21:00",
-            "league": "U16 Generation adidas Cup, Group E",
-            "country": "International Clubs",
-            "home": "San Jose Earthquakes U16",
-            "away": "FC K\u00f8benhavn U16",
-            "score": "0 - 1",
-            "minute": "Started",
+            "start_time": "23:30",
+            "league": "Club Friendly Games",
+            "country": "World",
+            "home": "Provincial Ovalle",
+            "away": "Deportes Uni\u00f3n Compa\u00f1\u00edas",
+            "score": "2 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 34'(A)"
-            ]
-        },
-        {
-            "start_time": "21:00",
-            "league": "U16 Generation adidas Cup, Group G",
-            "country": "International Clubs",
-            "home": "New England Revolution U16",
-            "away": "Columbus Crew U16",
-            "score": "0 - 2",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 76'(A)",
-                "Unknown 31'(H)"
+                "Unknown 13'(H)",
+                "Unknown 5'(H)"
             ]
         },
         {
@@ -78,9 +70,10 @@
             "country": "Brazil",
             "home": "Botafogo",
             "away": "Corinthians",
-            "score": "0 - 3",
+            "score": "1 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Rebeca 86'(H)",
                 "Jaqueline Ribeiro 46'(A)",
                 "Gabriela Zanotti 35'(A)",
                 "Vict\u00f3ria Albuquerque 19'(A)"
@@ -106,20 +99,8 @@
             "home": "Real Santa Rita",
             "away": "Bahia Valente",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
-        },
-        {
-            "start_time": "21:30",
-            "league": "Liga TDP",
-            "country": "Mexico",
-            "home": "Arietes FC",
-            "away": "Irapuato Olimpo",
-            "score": "0 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 88'(A)"
-            ]
         },
         {
             "start_time": "22:00",
@@ -127,9 +108,10 @@
             "country": "Mexico",
             "home": "Astilleros FC",
             "away": "Grupo Sherwood",
-            "score": "2 - 1",
+            "score": "2 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 69'(A)",
                 "Unknown 33'(H)",
                 "Unknown 23'(H)",
                 "Unknown 19'(A)"
@@ -156,9 +138,10 @@
             "country": "Mexico",
             "home": "Ocean\u00eda FC",
             "away": "FormaFutIntegral AC",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 52'(A)",
                 "Unknown 21'(H)",
                 "Unknown 3'(A)"
             ]
@@ -182,6 +165,36 @@
             "country": "New Zealand",
             "home": "Ferrymead Bays FC",
             "away": "Northern AFC",
+            "score": "0 - 0",
+            "minute": "Halftime",
+            "scorers": []
+        },
+        {
+            "start_time": "23:45",
+            "league": "Southern League",
+            "country": "New Zealand",
+            "home": "Dunedin City Royals FC",
+            "away": "Coastal Spirit",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:30",
+            "league": "Divisi\u00f3n de Honor, Apertura",
+            "country": "Paraguay",
+            "home": "Sportivo Ameliano",
+            "away": "Libertad",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "23:45",
+            "league": "Primera Divisi\u00f3n Reserve, Apertura",
+            "country": "Paraguay",
+            "home": "Nacional Asunci\u00f3n Reserve",
+            "away": "Sportivo Luque\u00f1o Reserve",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -307,43 +320,13 @@
             "scorers": []
         },
         {
-            "start_time": "21:30",
-            "league": "Campeonato AFAST",
-            "country": "Portugal Amateur",
-            "home": "AD Tarrio",
-            "away": "GR Avidos e Lagoa",
+            "start_time": "23:30",
+            "league": "Uruguay Friendly Games",
+            "country": "Uruguay Amateur",
+            "home": "CA Pe\u00f1arol de Omb\u00faes de Lavalle",
+            "away": "CA Polancos de Nueva Palmira",
             "score": "0 - 0",
             "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "21:00",
-            "league": "AFP P\u00f3voa de Varzim",
-            "country": "Portugal Amateur",
-            "home": "AJ Estela",
-            "away": "AAS Pedro de Rates",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "21:00",
-            "league": "AFP P\u00f3voa de Varzim",
-            "country": "Portugal Amateur",
-            "home": "Averomar FC",
-            "away": "CCD Terroso",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "22:00",
-            "league": "Pro League",
-            "country": "Trinidad and Tobago",
-            "home": "Prisons FC",
-            "away": "Morvant Caledonia United",
-            "score": "0 - 0",
-            "minute": "2nd half",
             "scorers": []
         }
     ]
