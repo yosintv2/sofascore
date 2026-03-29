@@ -2,76 +2,163 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 07:30 | South Korea | Daegu FC vs Seoul E-Land FC | **1 - 2** | `2nd half` | John Iredale 30'(A), Ju-kong Kim 22'(H), Hyeon-je Kang 14'(A) |
-| 08:00 | World | South Korea U23 vs Japan U21 | **1 - 0** | `Halftime` | Unknown 33'(H) |
-| 07:10 | Australia | Souths United FC vs Pine Hills | **1 - 1** | `2nd half` | Unknown 38'(H), Unknown 15'(A) |
-| 07:00 | Australia | Fremantle City FC vs Uwa Nedlands FC | **5 - 0** | `2nd half` | Unknown 83'(H), Unknown 79'(H), Unknown 71'(H), Unknown 45'(H), Unknown 31'(H) |
-| 07:00 | Australia | Hyundai NTC U19 vs Sorrento FC | **6 - 2** | `2nd half` | Unknown 89'(H), Unknown 81'(A), Unknown 79'(A), Unknown 59'(H), Unknown 35'(H), Unknown 7'(H), Unknown 5'(H), Unknown 3'(H) |
-| 07:00 | Australia | Perth Azzurri SC vs Subiaco AFC | **2 - 0** | `2nd half` | Unknown 35'(H), Unknown 30'(H) |
-| 07:50 | Australia | APIA Leichhardt FC U23 vs Manly United FC U23 U23 | **0 - 2** | `Halftime` | Unknown 34'(A), Unknown 26'(A) |
-| 07:00 | Australia | Yeronga Eagles FC vs Logan Roos FC | **7 - 1** | `2nd half` | Unknown 84'(H), Unknown 81'(A), Unknown 74'(H), Unknown 67'(H), Unknown 60'(H), Unknown 43'(H), Unknown 35'(H), Unknown 14'(H) |
-| 07:15 | Australia | Peninsula Power U23 vs Rochedale Rovers U23 | **1 - 5** | `2nd half` | Unknown 72'(A), Unknown 61'(A), Unknown 56'(H), Unknown 43'(A), Unknown 35'(A), Unknown 18'(A) |
-| 08:30 | Australia | Mindil Aces vs Hellenic Athletic | **0 - 2** | `1st half` | Unknown 7'(A), Unknown 6'(A) |
-| 08:00 | Croatia Amateur | NK Mladost Buzin vs NK Mala Mlaka | **3 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown 36'(H) |
-| 08:30 | Croatia Amateur | NK Muntić vs NK Marčana | **0 - 0** | `Started` | --- |
-| 07:00 | Cyprus | Aris Limassol vs Olympiakos Nicosia | **7 - 0** | `2nd half` | Kinga Ejzel 80'(H), Kinga Ejzel 52'(H), Efthalía Siakallí 43'(H), Chryso Michael 40'(H), Chryso Michael 35'(H), Micheli Ferreira 34'(H), Micheli Ferreira 22'(H) |
-| 07:00 | Cyprus | Lakatamia FC vs Apollon Limassol | **0 - 5** | `2nd half` | Unknown 56'(A), Unknown 31'(A), Unknown 20'(A), Unknown 16'(A), Unknown 5'(A) |
-| 08:15 | Czech Republic | FK Jablonec B vs Slovan Liberec U21 | **1 - 0** | `1st half` | Unknown 8'(H) |
-| 08:15 | Czech Republic | SK Uničov vs FC Vsetín | **0 - 0** | `1st half` | --- |
-| 08:15 | Czech Republic | FK Velké Meziříčí vs FK Pelhřimov | **1 - 0** | `1st half` | Unknown 14'(H) |
-| 08:15 | Czech Republic | Elseremo Brumov vs Skastice | **0 - 1** | `1st half` | Unknown 29'(A) |
-| 08:30 | Czechia Amateur | Jiskra Trebon vs SK Mirovice | **1 - 0** | `1st half` | Unknown 7'(H) |
+| 08:00 | World | South Korea U23 vs Japan U21 | **2 - 0** | `2nd half` | Unknown 49'(H), Unknown 33'(H) |
+| 09:30 | Spain | CD Basconia vs Alfaro | **0 - 0** | `1st half` | --- |
+| 09:30 | Spain | CD Castellón B vs UE Porreres | **0 - 0** | `1st half` | --- |
+| 09:00 | Spain | Villarreal CF vs Costa Adeje Tenerife B | **0 - 1** | `1st half` | Unknown 28'(A) |
+| 09:00 | Italy | Monza U18 vs Frosinone U18 | **1 - 0** | `Started` | Unknown 8'(H) |
+| 09:30 | Italy | Bologna U18 vs Roma U18 | **0 - 0** | `Started` | --- |
+| 09:30 | Italy | Lazio U18 vs Atalanta U18 | **0 - 0** | `Started` | --- |
+| 07:50 | Australia | APIA Leichhardt FC U23 vs Manly United FC U23 U23 | **0 - 2** | `2nd half` | Unknown 34'(A), Unknown 26'(A) |
+| 09:00 | Australia | Ipswich Knights vs North Brisbane FC | **0 - 0** | `1st half` | --- |
+| 08:30 | Australia | Mindil Aces vs Hellenic Athletic | **0 - 4** | `2nd half` | Unknown 33'(A), Unknown 24'(A), Unknown 7'(A), Unknown 6'(A) |
+| 09:00 | Austria | SCR Altach vs SK Sturm Graz | **0 - 0** | `1st half` | --- |
+| 09:00 | Austria Amateur | ASKÖ Markt Neuhodis vs SV Oberwart II | **0 - 0** | `Started` | --- |
+| 09:00 | Bulgaria Amateur | FC Yunak Ardino vs FC Varbitsa Benkovski | **0 - 2** | `1st half` | Unknown 8'(A), Unknown 4'(A) |
+| 08:00 | Croatia Amateur | NK Mladost Buzin vs NK Mala Mlaka | **3 - 0** | `Started` | Unknown 57'(H), Unknown 57'(H), Unknown 57'(H) |
+| 08:30 | Croatia Amateur | NK Muntić vs NK Marčana | **0 - 1** | `Started` | Unknown 6'(A) |
+| 08:30 | Croatia Amateur | NK Rabac vs NK Barban 2013 | **0 - 3** | `Started` | Marin Biljuh 44'(A), Unknown 37'(A), Unknown 10'(A) |
+| 09:00 | Croatia Amateur | NK Osvit Đelekovec vs NK Tomislav Drnje | **0 - 0** | `Started` | --- |
+| 09:15 | Croatia Amateur | NK Ivanja Reka Pioniri vs NK Polet (SK) Pioniri | **0 - 0** | `Started` | --- |
+| 09:30 | Croatia Amateur | HNK Segesta U19 vs NK Trnje U19 | **0 - 0** | `Started` | --- |
+| 09:30 | Croatia Amateur | HNK Vukovar 1991 U19 vs NK Graničar Đurđevac U19 | **0 - 0** | `Started` | --- |
+| 09:30 | Croatia Amateur | HNK Đakovo Croatia U19 vs NK Zagorec Krapina U19 | **0 - 0** | `Started` | --- |
+| 09:30 | Croatia Amateur | NK Bjelovar U19 vs NK Varteks U19 | **0 - 0** | `Started` | --- |
+| 09:30 | Croatia Amateur | HNK Zadar U19 vs NK Solin U19 | **0 - 0** | `Started` | --- |
+| 09:30 | Croatia Amateur | NK Lučko U19 vs NK Istra 1961 U19 | **0 - 0** | `Started` | --- |
+| 09:30 | Croatia Amateur | Nogometni Klub Inker U19 vs NK Adriatic U19 | **0 - 0** | `Started` | --- |
+| 08:15 | Czech Republic | FK Jablonec B vs Slovan Liberec U21 | **1 - 0** | `2nd half` | Unknown 8'(H) |
+| 09:00 | Czech Republic | FK Teplice B vs FK Pardubice B | **1 - 0** | `1st half` | Unknown 18'(H) |
+| 08:15 | Czech Republic | SK Uničov vs FC Vsetín | **0 - 0** | `2nd half` | --- |
+| 09:00 | Czech Republic | Sparta Prague vs FC Slovan Liberec | **3 - 0** | `1st half` | Unknown 31'(H), Michaela Khyrova 12'(H), Elizabeth Tori Hansen 8'(H) |
+| 08:15 | Czech Republic | FK Velké Meziříčí vs FK Pelhřimov | **2 - 1** | `2nd half` | Unknown 54'(H), Unknown 49'(A), Unknown 14'(H) |
+| 08:15 | Czech Republic | Elseremo Brumov vs Skastice | **0 - 1** | `2nd half` | Unknown 29'(A) |
+| 08:30 | Czechia Amateur | Jiskra Trebon vs SK Mirovice | **1 - 0** | `Halftime` | Unknown 7'(H) |
+| 09:00 | Germany Amateur | SV Eutingen vs 1. FC Donzdorf | **1 - 1** | `1st half` | Unknown 16'(H), Unknown 8'(A) |
+| 09:00 | Germany Amateur | FC Schalke 04 U19 vs Holstein Kiel U19 | **0 - 0** | `1st half` | --- |
+| 09:00 | Germany Amateur | 1. FC Köln U19 vs Hamburger SV U19 | **1 - 0** | `1st half` | Alessandro Puzzo 4'(H) |
+| 09:00 | Greece | AS Volos 2004 WFC vs Asteras Aktor | **0 - 0** | `1st half` | --- |
+| 09:00 | Greece | Makedonikos U19 vs Kallithea U19 | **0 - 0** | `1st half` | --- |
+| 09:30 | Greece Amateur | A.O. Paiania vs Panvoriakos F.C. | **0 - 0** | `Started` | --- |
+| 09:30 | Greece Amateur | AE Pikermiou vs AO Kouvara | **0 - 0** | `Started` | --- |
 | 08:30 | Greece Amateur | Iraklis Argous 2024 vs PAOK Koutsopodiou | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | Theseus Troizinas vs Aristeionas Lygouriou | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | Agamemnon vs Mikinaikos | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | Argolida 2000 vs A.P.S Athlisis | **0 - 0** | `Started` | --- |
 | 08:00 | Greece Amateur | APO Ifestos Peristeriou vs AE Iraklio | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | AO Thiella Agiou Dimitriou vs GS Apollon Smyrnis | **0 - 0** | `Started` | --- |
 | 08:30 | Greece Amateur | AO Tryfilliakos vs AO Melission | **0 - 0** | `Started` | --- |
 | 08:30 | Greece Amateur | AO Iason Iliou vs AO Agiou Ierotheou | **0 - 0** | `Started` | --- |
-| 07:00 | Greece Amateur | AO Lykovrysis vs Aris Cholargou | **0 - 0** | `Started` | --- |
 | 08:30 | Greece Amateur | AE Kerameikos vs Egaleo B | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | Glyfada FC vs AS Ippokratis | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | PAO Thyella Peristeriou vs GS Eirini Petroupolis | **0 - 0** | `Started` | --- |
+| 09:30 | Greece Amateur | AE Metamorfosis vs AO Galaxias Peristeriou | **0 - 0** | `Started` | --- |
+| 09:30 | Greece Amateur | Atlas Kypselis F.C. vs AO Viron | **0 - 0** | `Started` | --- |
+| 09:30 | Greece Amateur | PAO Amilla Peristeriou vs AE Poseidonas Glyfadas | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | AE Pallinis vs AS Neas Potideas | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | AS Thermaikos Portarias vs AS Doxa Ormylias | **0 - 0** | `Started` | --- |
 | 08:00 | Greece Amateur | Aspida Naustahmou vs Thyella Kaminia | **0 - 0** | `Started` | --- |
+| 09:30 | Greece Amateur | AO Anagennisi Asfendiou vs AES Efklis Soronis | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | PAO Thrasyvoulos Fylis vs Apollon Pontion B | **0 - 0** | `Started` | --- |
+| 09:00 | Greece Amateur | AO Skyros vs AO Agiou Louka | **0 - 0** | `Started` | --- |
+| 08:30 | Greece Amateur | AO Iraklis Psachnon vs AO Kyzikos Neas Artakis B | **0 - 0** | `Started` | --- |
 | 08:00 | Greece Amateur | GAS Iraklis Kavalas vs AMS PAOK Agiou Andrea | **0 - 0** | `Started` | --- |
 | 08:00 | Greece Amateur | GS Keravnos Krinidon vs Aspida Polystylou | **0 - 0** | `Started` | --- |
 | 08:00 | Greece Amateur | Megas Alexandros Filippon vs Vyronas Kavalas B | **0 - 0** | `Started` | --- |
-| 08:00 | Greece Amateur | Kavala 2004 vs Ethnikos Neas Karyas | **0 - 2** | `Started` | Unknown -1'(A), Unknown 6'(A) |
+| 08:00 | Greece Amateur | Kavala 2004 vs Ethnikos Neas Karyas | **1 - 3** | `Started` | Unknown 71'(H), Unknown 61'(A), Unknown 34'(A), Unknown 6'(A) |
 | 08:00 | Greece Amateur | Nazianzos Neas Karvalis vs Aris Zygou | **1 - 0** | `Started` | Unknown 25'(H) |
-| 08:30 | Greece Amateur | AMON PAOK Stavrou vs Makedonikos Agiou Vasiliou | **0 - 0** | `Started` | --- |
-| 08:30 | Greece Amateur | APS Keravnos Kolchikou vs AMS Keravnos Agiou Pavlou | **1 - 0** | `1st half` | Unknown 3'(H) |
+| 08:30 | Greece Amateur | AMON PAOK Stavrou vs Makedonikos Agiou Vasiliou | **0 - 1** | `Started` | Unknown 35'(A) |
+| 08:30 | Greece Amateur | AO Pontiakos Polydendriou vs AMS Panorama | **0 - 0** | `Started` | --- |
+| 08:30 | Greece Amateur | APS Doxa Agiou Pavlou vs AE Elpida Toumpas | **2 - 1** | `Started` | Unknown -1'(H), Unknown -1'(A), Unknown -1'(H) |
+| 08:30 | Greece Amateur | APS Keravnos Kolchikou vs AMS Keravnos Agiou Pavlou | **2 - 0** | `Halftime` | Unknown 21'(H), Unknown 3'(H) |
 | 08:30 | Greece Amateur | MAS Nea Genea Asvestochoriou vs AMO Ethnikos Pyleas | **0 - 0** | `Started` | --- |
 | 08:30 | Greece Amateur | AMS Marathonas Kalamarias vs AMO Apollon Kato Scholariou | **0 - 0** | `Started` | --- |
-| 08:30 | Greece Amateur | GS Megas Alexandros Thessalonikis vs PAS Ioannis Papafis | **0 - 0** | `1st half` | --- |
+| 08:30 | Greece Amateur | GS Megas Alexandros Thessalonikis vs PAS Ioannis Papafis | **2 - 1** | `Halftime` | Unknown 15'(A), Unknown 12'(H), Dimos Antoniadis 9'(H) |
 | 08:30 | Greece Amateur | AMS Smyrnaikos Vathylakou vs MAS Agxialou | **0 - 0** | `Started` | --- |
 | 08:30 | Greece Amateur | PAS Leukochoriou vs AMS Megas Alexandros Melissochoriou | **0 - 0** | `Started` | --- |
 | 07:30 | Greece Amateur | Asteras Amaliadas U14 vs Ermis Pyrgou U14 | **0 - 0** | `Started` | --- |
-| 07:30 | Hong Kong | Eastern District U22 vs Southern District FC U22 | **1 - 2** | `2nd half` | Unknown 29'(A), Unknown 28'(A), Unknown 9'(H) |
-| 06:30 | Hong Kong | Fukien vs Kowloon Cricket Club | **1 - 1** | `2nd half` | Unknown 67'(A), Unknown 45'(H) |
-| 06:30 | Hong Kong | Kwong Wah vs Tuen Mun SA | **1 - 4** | `2nd half` | Unknown 72'(A), Unknown 70'(A), Unknown 62'(A), Unknown 52'(A), Unknown 25'(H) |
-| 06:30 | Hong Kong | Wong Tai Sin vs Tsuen Wan | **2 - 1** | `2nd half` | Unknown 50'(H), Unknown 25'(H), Unknown 5'(A) |
-| 07:40 | Hong Kong | Fu Moon FC vs Mutual FC | **0 - 0** | `2nd half` | --- |
 | 05:30 | Hong Kong | Ling Yui Orion vs City Linkers Sky Wolf | **2 - 2** | `2nd half` | Unknown 73'(H), Unknown 71'(A), Unknown 40'(H), Unknown 30'(A) |
-| 07:00 | Hong Kong | Sham Shui Po Youth vs Tung Sing Youth | **1 - 2** | `2nd half` | Unknown 49'(H), Unknown 45'(A), Unknown 33'(A) |
-| 07:00 | Hong Kong | WSE Youth vs Hoi King Youth | **0 - 2** | `2nd half` | Unknown 74'(A), Unknown 71'(A) |
+| 09:00 | Hungary | Debreceni VSC II vs Nyíregyháza Spartacus II | **2 - 0** | `1st half` | Unknown 26'(H), Unknown 8'(H) |
+| 09:00 | Hungary | Diósgyőri VTK II F4R vs Sényő-Carnifex FC | **3 - 0** | `1st half` | Unknown 28'(H), Unknown 26'(H), Unknown 19'(H) |
+| 09:00 | Hungary | Kisvárda FC II vs Eger SE | **0 - 0** | `1st half` | --- |
+| 09:00 | Hungary | Szeged-Csanád Grosics Akadémia II vs Tiszaföldvár SE | **0 - 0** | `1st half` | --- |
+| 09:00 | Hungary | Vasas II vs III. Kerületi TVE | **1 - 1** | `1st half` | Unknown 22'(H), Unknown 17'(A) |
+| 09:00 | Hungary | Puskás Akadémia FC II vs CREDOBUS Mosonmagyaróvári TE | **0 - 0** | `1st half` | --- |
+| 09:00 | Hungary | Újpest FC II vs Komárom VSE | **1 - 1** | `1st half` | Unknown 20'(H), Unknown 7'(A) |
 | 08:00 | Hungary Amateur | Martfűi LSE U19 vs Lurkó Focimánia FK U19 | **0 - 0** | `Started` | --- |
 | 08:00 | Hungary Amateur | Tiszaföldvár SE U19 vs Szajol KLK U19 | **0 - 0** | `Started` | --- |
 | 08:00 | Hungary Amateur | Tiszaszentimre KSE U19 vs Tiszafüredi VSE U19 | **0 - 0** | `Started` | --- |
 | 08:00 | Hungary Amateur | Tószeg KSE U19 vs Primoil Kisújszállás SE U19 | **0 - 0** | `Started` | --- |
 | 08:00 | Hungary Amateur | Zagyvarékasi KSE U19 vs Cserkeszőlő SE U19 | **0 - 0** | `Started` | --- |
-| 08:30 | Indonesia | Garudayaksa FC vs FC Bekasi City | **1 - 0** | `1st half` | Unknown 24'(H) |
-| 08:30 | Indonesia | PS Barito Putera vs Persiku Kudus | **0 - 0** | `1st half` | --- |
-| 08:30 | Italy Amateur | Real San Basilio 1960 vs Atletico Morena | **0 - 0** | `1st half` | --- |
-| 08:45 | Malaysia | Selangor U23 vs Immigration FC II | **1 - 0** | `1st half` | Unknown 8'(H) |
-| 08:00 | Philippines | Manila Digger FC vs Philippine Army | **3 - 0** | `Halftime` | Pa Ousman Gai 35'(H), Pa Ousman Gai 22'(H), Modou Manneh 3'(H) |
-| 07:30 | Romania | FC Politehnica Iași vs ACS Juniorul 2014 București | **2 - 0** | `2nd half` | Unknown 39'(H), Unknown 19'(H) |
+| 08:30 | Indonesia | Garudayaksa FC vs FC Bekasi City | **1 - 0** | `2nd half` | Everton 24'(H) |
+| 08:30 | Indonesia | PS Barito Putera vs Persiku Kudus | **0 - 0** | `Halftime` | --- |
+| 09:00 | Italy Amateur | Piazzolla vs Piano Pizzeria Lucia | **1 - 0** | `1st half` | Francesco Montagnolo 8'(H) |
+| 09:00 | Italy Amateur | ASD Sorianese vs ASD Aurelia Antica Aurelio | **1 - 0** | `1st half` | Christian Spolverini 3'(H) |
+| 09:00 | Italy Amateur | Astrea vs Civitavecchia Calcio | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Sporting Nuova Florida vs Roma City | **0 - 0** | `1st half` | --- |
+| 09:15 | Italy Amateur | Boreale vs W3 Maccarese | **0 - 0** | `Started` | --- |
+| 09:30 | Italy Amateur | Pomezia Calcio 1957 vs S.S. Romulea | **0 - 0** | `Started` | --- |
+| 09:30 | Italy Amateur | Pro Calcio Tor Sapienza vs FC Rieti 1936 | **0 - 0** | `Started` | --- |
+| 09:00 | Italy Amateur | A.S.D. Vis Sezze vs A.S.D. Ferentino Calcio | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Anagni vs A.S.D Casal Barriera | **1 - 0** | `1st half` | Unknown 28'(H) |
+| 09:00 | Italy Amateur | S.S.D. Colleferro Calcio vs A.S.D. Roccasecca T. San Tommaso | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | U.S. Arce 1932 vs A.S.D. Lodigiani Calcio 1972 | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Tharros vs Moncalieri Women | **0 - 0** | `Started` | --- |
+| 09:00 | Italy Amateur | Città di Cerveteri vs Atletico Cimina | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Grifone Calcio vs Atletico Monterano | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Olimpus Roma vs DuePigrecoRoma | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Pianoscarano 1949 vs AC Fonte Meravigliosa | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Urbetevere Calcio vs Santa Marinella 1947 | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | AS Luiss vs A.S.D. Parioli Calcio | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Nova 7 vs Città di Fiano | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Riano Calcio vs Futbol Montesacro | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Sporting San Cesareo vs Palombara | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | A.S.D. Pescatori Ostia vs Lanuvio Campoleone | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Ariccia Calcio vs Lvpa Frascati | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Atletico Ardea vs Ostiantica Calcio 1926 | **0 - 1** | `1st half` | Flavio Bucri 2'(A) |
+| 09:00 | Italy Amateur | Longarina TSS 1944 vs Cisterna Calcio | **0 - 0** | `1st half` | --- |
+| 08:30 | Italy Amateur | Real San Basilio 1960 vs Atletico Morena | **3 - 0** | `1st half` | Unknown 31'(H), Danilo Alessandro 22'(H), Danilo Alessandro 10'(H) |
+| 09:00 | Italy Amateur | ASD Atletico Torrenova vs Anitrella | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Atletico Lariano 1963 vs Alatri | **0 - 0** | `1st half` | --- |
+| 09:00 | Italy Amateur | Pol. Canarini 1926 RDP vs Magnitudo FCCG | **0 - 0** | `1st half` | --- |
+| 08:45 | Malaysia | Selangor U23 vs Immigration FC II | **1 - 0** | `Halftime` | Unknown 8'(H) |
+| 08:00 | Philippines | Manila Digger FC vs Philippine Army | **9 - 0** | `2nd half` | Jordan Jarvis 75'(H), Pa Ousman Gai 66'(H), Pa Ousman Gai 62'(H), Pa Ousman Gai 57'(H), Baboucarr Touray 55'(H), Pa Ousman Gai 53'(H), Pa Ousman Gai 35'(H), Pa Ousman Gai 22'(H), Modou Manneh 3'(H) |
+| 09:00 | Philippines | DH Cebu FC vs Don Bosco Garelli United | **2 - 2** | `1st half` | Unknown 34'(H), Kaito Asano 21'(H), Desmond Ngai 13'(A), Yuta Yamaguchi 5'(A) |
+| 09:00 | Poland | Lechia Gdańsk U19 vs Śląsk Wrocław U19 | **0 - 0** | `1st half` | --- |
+| 09:00 | Poland Amateur | Lechia II Dzierżoniów vs Zdrój Jedlina Zdrój | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | LZS Victoria Czernikowo vs MZKS Orlęta Aleksandrów Kujawski | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | Kolorowi Krusza Zamkowa vs Orłowianka Orłowo | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | WKS Róża Różanki vs MKS Ilanka Rzepin | **0 - 1** | `1st half` | Unknown 26'(A) |
+| 09:00 | Poland Amateur | Polonia lll Warszawa vs Delta Warszawa | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | Korona Góra Kalwaria vs Laura Chylice | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | Orzeł Kampinos vs Partyzant Leszno | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | KS LZS Magnuszew vs Legion Głowaczów | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | ZKS Izolator Boguchwała vs Stal Gorzyce | **0 - 0** | `1st half` | --- |
+| 09:00 | Poland Amateur | LKS Kamieniarz Golemki vs Brzostowianka Brzostek | **0 - 0** | `Started` | --- |
+| 09:00 | Poland Amateur | KKS II Kalisz vs Polonia 1908 Marcinki Kępno | **1 - 0** | `Started` | Unknown 7'(H) |
+| 09:00 | Poland Amateur | Prawobrzeże Świnoujście vs OKS Jeziorak Szczecin | **0 - 0** | `Started` | --- |
+| 09:30 | Portugal Amateur | SC Duas Igrejas vs AR Nogueira | **0 - 0** | `Started` | --- |
 | 08:00 | Romania | AC Bihor United vs ACS Roma Florin Pădurean | **0 - 0** | `Started` | --- |
 | 08:00 | Romania | Sepsi OSK vs ACS Colțea 1920 Brașov | **0 - 1** | `1st half` | Unknown 16'(A) |
 | 08:00 | Romania | ACS Liceenii Topolog vs FC Voluntari | **0 - 0** | `Started` | --- |
 | 08:00 | Romania | CS Universitatea Suceava vs AFC Unirea 04 Slobozia | **0 - 0** | `Started` | --- |
 | 08:00 | Romania | FC Botoșani vs FC Metaloglobus București | **0 - 0** | `Started` | --- |
-| 08:00 | Romania | FCSB vs FC Dinamo București | **1 - 2** | `Halftime` | Unknown 26'(A), Unknown 16'(A), Unknown 9'(H) |
-| 08:00 | Romania | FK Csíkszereda Miercurea Ciuc vs SSU Politehnica Timișoara | **1 - 1** | `Halftime` | Unknown 35'(H), Unknown 34'(A) |
-| 08:00 | Romania | AC Olimpia Gherla vs ACS Vasas Femina | **2 - 1** | `Halftime` | Unknown 45'(A), Unknown 44'(H), Unknown 41'(H) |
+| 08:00 | Romania | FCSB vs FC Dinamo București | **1 - 2** | `2nd half` | Unknown 26'(A), Unknown 16'(A), Unknown 9'(H) |
+| 09:00 | Romania | ACS Academia Didi Iași U19 vs CS Ştiința Miroslava U19 | **0 - 0** | `Started` | --- |
+| 09:00 | Romania | AFC Unirea 04 Slobozia U19 vs ACS AXI Arena U19 | **0 - 0** | `Started` | --- |
+| 09:00 | Romania | CSM Râmnicu Sărat U19 vs AFC Metalul Buzău U19 | **0 - 0** | `Started` | --- |
+| 09:00 | Romania | FC Corvinul Hunedoara U19 vs ACS Alma Sibiu U19 | **2 - 0** | `Started` | Unknown 4'(H), Unknown 1'(H) |
+| 09:00 | Romania | LPS Sebeș U19 vs FC Hermannstadt U19 | **0 - 0** | `Started` | --- |
+| 09:00 | Romania | ACS Viitorul Arad U19 vs CSȘ Lugoj U19 | **0 - 0** | `Started` | --- |
+| 09:00 | Romania | CS Minaur Baia Mare U19 vs ACS U Evolution 2020 U19 | **0 - 0** | `Started` | --- |
+| 09:00 | Romania | LPS Bistrița U19 vs CS Gloria Bistriţa U19 | **0 - 0** | `Started` | --- |
+| 08:00 | Romania | FK Csíkszereda Miercurea Ciuc vs SSU Politehnica Timișoara | **4 - 1** | `2nd half` | Unknown 75'(H), Unknown 62'(H), Unknown 51'(H), Unknown 35'(H), Unknown 34'(A) |
+| 08:00 | Romania | AC Olimpia Gherla vs ACS Vasas Femina | **3 - 2** | `2nd half` | Unknown 68'(H), Unknown 56'(A), Unknown 45'(A), Unknown 44'(H), Unknown 41'(H) |
 | 08:00 | Romania Amateur | CS Bârsănești vs ACS Gloria Zemeș | **0 - 0** | `Started` | --- |
-| 08:00 | Romania Amateur | ACS Izvorul Cociuba Mare vs CS Voința Cheresig | **1 - 0** | `1st half` | Bogdan Laslău 18'(H) |
+| 09:00 | Romania Amateur | AS Viitorul Dămienești vs AS Sportul Horgești | **0 - 0** | `Started` | --- |
+| 08:00 | Romania Amateur | ACS Izvorul Cociuba Mare vs CS Voința Cheresig | **2 - 0** | `2nd half` | Andrei Șut 50'(H), Bogdan Laslău 18'(H) |
 | 08:00 | Romania Amateur | ACS Vulcan 2008 vs AS AC Internațional Brașov | **0 - 0** | `Started` | --- |
-| 08:00 | Romania Amateur | AS Unirea Lueta vs AS Andycom Avrămești | **3 - 0** | `Started` | Unknown 30'(H), Unknown 20'(H), Unknown 18'(H) |
+| 08:00 | Romania Amateur | AS Unirea Lueta vs AS Andycom Avrămești | **5 - 0** | `Started` | Unknown 70'(H), Unknown 54'(H), Unknown 30'(H), Unknown 20'(H), Unknown 18'(H) |
 | 08:00 | Romania Amateur | AS Viitorul Hărmănești vs AS Voința Scobinți 2024 | **0 - 0** | `Started` | --- |
 | 08:00 | Romania Amateur | AS Borussia Pângărați vs AS Unirea Dulcești | **0 - 0** | `Started` | --- |
 | 08:00 | Romania Amateur | AS Grumăzești vs CS Speranța Răucești | **0 - 0** | `Started` | --- |
@@ -86,38 +173,57 @@
 | 08:00 | Romania Amateur | CS Vicovu de Sus vs FC Şoimii Gura Humorului II | **3 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown -1'(H) |
 | 08:00 | Romania Amateur | CSO Viitorul Liteni vs ACS Dream Team Ipotești | **0 - 0** | `Started` | --- |
 | 08:00 | Romania Amateur | ACS Releul Mihoveni-Șcheia vs ACS Foresta Moldovița 1947 | **0 - 0** | `Started` | --- |
-| 08:00 | Romania Amateur | ACS Sporting Siminicea vs AS Viitorul Forăști | **0 - 0** | `Started` | --- |
+| 08:00 | Romania Amateur | ACS Sporting Siminicea vs AS Viitorul Forăști | **1 - 1** | `Started` | Unknown -1'(H), Unknown -1'(A) |
 | 08:00 | Romania Amateur | ACS Stejarii Dragomirnei vs AS Unirea Salcea | **6 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(H), Unknown -1'(H) |
 | 08:00 | Romania Amateur | AS Avântul Stejaru vs ACS Valea Dunării Pietroșani | **0 - 0** | `Started` | --- |
 | 08:00 | Romania Amateur | AS Vedea vs AS Progresul 2007 Bogdana | **0 - 0** | `Started` | --- |
-| 08:00 | Romania Amateur | AS Măgura Pui vs AS Zarandu Crişcior | **2 - 2** | `Halftime` | Unknown 43'(A), Unknown 25'(H), Unknown 14'(H), Unknown 8'(A) |
-| 08:00 | Romania Amateur | AS Ponorul Vaţa vs AS Universitatea Petroşani | **1 - 2** | `Halftime` | Unknown 45'(H), Unknown 42'(A), Unknown 32'(A) |
-| 08:00 | Romania Amateur | CSM Deva II vs Sântămăria Orlea | **0 - 0** | `Halftime` | --- |
-| 08:00 | Romania Amateur | FC Corvinul Hunedoara II vs AS Unirea General Berthelot | **2 - 0** | `Halftime` | Unknown 35'(H), Unknown 22'(H) |
-| 08:00 | Romania Amateur | Real Sîntandrei 2022 vs CSC Narcisa Sălașu | **0 - 5** | `Halftime` | Unknown 41'(A), Unknown 34'(A), Unknown 27'(A), Unknown 17'(A), Unknown 13'(A) |
-| 08:00 | Russia | Enisey-2 Krasnoyarsk vs FC Irkutsk | **0 - 1** | `Halftime` | Ivan Yakovlev 19'(A) |
+| 08:00 | Romania Amateur | AS Măgura Pui vs AS Zarandu Crişcior | **2 - 4** | `2nd half` | Unknown 77'(A), Unknown 50'(A), Unknown 43'(A), Unknown 25'(H), Unknown 14'(H), Unknown 8'(A) |
+| 08:00 | Romania Amateur | AS Ponorul Vaţa vs AS Universitatea Petroşani | **3 - 2** | `2nd half` | Unknown 67'(H), Unknown 59'(H), Unknown 45'(H), Unknown 42'(A), Unknown 32'(A) |
+| 08:00 | Romania Amateur | CSM Deva II vs Sântămăria Orlea | **0 - 0** | `2nd half` | --- |
+| 08:00 | Romania Amateur | FC Corvinul Hunedoara II vs AS Unirea General Berthelot | **3 - 0** | `2nd half` | Unknown 56'(H), Unknown 35'(H), Unknown 22'(H) |
+| 08:00 | Romania Amateur | Real Sîntandrei 2022 vs CSC Narcisa Sălașu | **3 - 5** | `2nd half` | Unknown 74'(H), Unknown 58'(H), Unknown 49'(H), Unknown 41'(A), Unknown 34'(A), Unknown 27'(A), Unknown 17'(A), Unknown 13'(A) |
+| 09:00 | Russia | Sibir Novosibirsk vs Rodina-2 Moscow | **1 - 0** | `1st half` | Unknown 31'(H) |
+| 08:00 | Russia | Enisey-2 Krasnoyarsk vs FC Irkutsk | **2 - 1** | `2nd half` | Ivan Oborocha 70'(H), Vladislav Skavysh 63'(H), Ivan Yakovlev 18'(A) |
+| 11:00 | Serbia | FK Radnički Obrenovac vs FK Zvezdara Beograd | **1 - 0** | `1st half` | Unknown 13'(H) |
 | 08:00 | Serbia Amateur | FK BSK 1925 vs FK Posavac Tišma Boljevci | **0 - 1** | `Started` | Unknown 38'(A) |
 | 08:30 | Slovakia | FK Slavia Staskov vs FILJO Ladomerská Vieska | **0 - 0** | `Started` | --- |
 | 08:30 | Slovakia | OŠK Bešeňová vs OŠK Rosina | **0 - 0** | `Started` | --- |
-| 08:30 | Slovakia | MFK Dukla Banská Bystrica B vs MFK Ružomberok B | **0 - 1** | `1st half` | Unknown 16'(A) |
-| 08:30 | Slovakia | TJ Jednota Bánová vs TJ Tatran Oravské Veselé | **0 - 1** | `1st half` | Unknown 3'(A) |
-| 08:30 | Slovakia | DAC Dunajská Streda B vs OK Častkovce | **1 - 0** | `1st half` | Unknown 2'(H) |
-| 08:30 | Slovakia | FK Rača Bratislava vs FKM Nové Zámky | **0 - 0** | `1st half` | --- |
+| 08:30 | Slovakia | MFK Dukla Banská Bystrica B vs MFK Ružomberok B | **0 - 1** | `2nd half` | Unknown 16'(A) |
+| 08:30 | Slovakia | TJ Jednota Bánová vs TJ Tatran Oravské Veselé | **0 - 1** | `Halftime` | Unknown 3'(A) |
+| 08:30 | Slovakia | DAC Dunajská Streda B vs OK Častkovce | **1 - 0** | `2nd half` | Unknown 2'(H) |
+| 08:30 | Slovakia | FK Rača Bratislava vs FKM Nové Zámky | **0 - 1** | `Halftime` | Unknown 25'(A) |
 | 08:45 | Slovakia | TJ Hornád Ždaňa vs TJ Tatran Jasov | **0 - 0** | `Started` | --- |
 | 08:45 | Slovakia | FK Geča 73 vs FK Sobrance | **0 - 0** | `Started` | --- |
+| 09:00 | Slovenia | ZNK Cerklje vs ŽNK Zalec Trbovlje | **3 - 0** | `1st half` | Unknown 31'(H), Unknown 19'(H), Unknown 11'(H) |
+| 09:00 | Slovenia | ŽNK Aluminij vs ZNK Radomlje | **0 - 2** | `1st half` | Unknown 24'(A), Unknown 18'(A) |
 | 08:30 | Slovenia Amateur | NK Rakičan vs NK Odranci | **0 - 0** | `Started` | --- |
-| 08:00 | South Africa | Chippa United FC Reserves U23 vs Richards Bay FC Reserves U23 | **0 - 0** | `Halftime` | --- |
-| 08:30 | Spain Amateur | CF San Ignacio B vs Ipar Arriaga Gazteiz | **0 - 0** | `1st half` | --- |
+| 08:00 | South Africa | Chippa United FC Reserves U23 vs Richards Bay FC Reserves U23 | **0 - 1** | `2nd half` | Unknown 57'(A) |
+| 09:15 | Spain Amateur | SD Zamudio vs SD Deusto | **1 - 0** | `1st half` | Unknown 15'(H) |
+| 09:30 | Spain Amateur | AD Parla vs CD Móstoles URJC | **0 - 0** | `1st half` | --- |
+| 09:30 | Spain Amateur | AD Torrejón vs UD Sanse B | **0 - 0** | `1st half` | --- |
+| 09:30 | Spain Amateur | Trival Valderas Alcorcón vs Sad Racing Ciudad de Madrid | **0 - 1** | `1st half` | Unknown 3'(A) |
+| 09:30 | Spain Amateur | San Roque de Lepe vs Dos Hermanas CF | **0 - 0** | `1st half` | --- |
+| 09:30 | Spain Amateur | SFC Minerva vs CD Cieza | **0 - 0** | `1st half` | --- |
+| 09:00 | Spain Amateur | Santa Amalia vs Club Deportivo Azuaga | **0 - 1** | `1st half` | Víctor Hernández 4'(A) |
+| 09:30 | Spain Amateur | SD Huesca B vs CD Caspe | **0 - 0** | `1st half` | --- |
+| 08:30 | Spain Amateur | CF San Ignacio B vs Ipar Arriaga Gazteiz | **0 - 0** | `Halftime` | --- |
+| 09:00 | Spain Amateur | ED Moratalaz vs El Álamo | **0 - 0** | `1st half` | --- |
+| 09:30 | Spain Amateur | Real Aranjuez CF vs Villaviciosa Odón | **0 - 0** | `Started` | --- |
 | 08:00 | Switzerland Amateur | FC Brasil Suisse vs FC Kilchberg-Rüschlikon 2 | **0 - 0** | `Started` | --- |
 | 08:00 | Switzerland Amateur | FC Urdorf 2 vs FC Wollishofen 2 | **0 - 0** | `Started` | --- |
+| 09:00 | Switzerland Amateur | FC Birmensdorf vs Benfica Clube de Zurique | **0 - 0** | `Started` | --- |
 | 08:00 | Switzerland Amateur | FC Hard Zürich vs Centro Lusitano Zürich | **0 - 0** | `Started` | --- |
+| 09:00 | Switzerland Amateur | FC Oetwil-Geroldswil 2 vs FC United Zürich | **0 - 0** | `Started` | --- |
+| 09:00 | Switzerland Amateur | FC Oberglatt vs FC Rafzerfeld 2 | **0 - 0** | `Started` | --- |
+| 09:00 | Switzerland Amateur | FC Töss 2 vs FC Weisslingen | **0 - 0** | `Started` | --- |
 | 08:00 | Switzerland Amateur | SV Seebach ZH vs FC Volketswil 2 | **0 - 0** | `Started` | --- |
 | 08:15 | Switzerland Amateur | Racing Club Zürich 2 vs FC Gossau ZH 3 | **0 - 0** | `Started` | --- |
 | 08:00 | Switzerland Amateur | FC Stäfa 1895 3 vs FC Rüti 2 | **0 - 0** | `Started` | --- |
+| 09:00 | Switzerland Amateur | FC Russikon vs FC Hinwil 2 | **0 - 0** | `Started` | --- |
 | 08:00 | Turkey Amateur | Küçükçekmece Sinop Spor U16 vs İstanbul Gençlerbirliği U16 | **0 - 0** | `Started` | --- |
-| 07:00 | Turkey Amateur | Eryamanspor U16 vs Keçiörengücü U16 | **0 - 0** | `Started` | --- |
-| 07:00 | Uganda | Kawempe Muslim Ladies vs Lady Doves FC | **1 - 0** | `2nd half` | Unknown 50'(H) |
-| 07:00 | Uganda | Makerere University Wfc vs Amusi College | **1 - 0** | `2nd half` | Unknown 16'(H) |
-| 07:00 | Uganda | Rine SS WFC vs SHE Corporate FC | **2 - 3** | `2nd half` | Unknown 72'(A), Unknown 45'(A), Unknown 43'(A), Unknown 15'(H), Unknown 4'(H) |
-| 08:30 | Vietnam | Hà Nội Youth vs Phù Đổng Ninh Bình Youth | **0 - 0** | `1st half` | --- |
-| 08:30 | Vietnam | Tây Ninh FC vs Mê Kông Cần Thơ | **0 - 0** | `1st half` | --- |
+| 09:00 | Turkey Amateur | Eryamanspor U17 vs Keçiörengücü U17 | **0 - 0** | `Started` | --- |
+| 09:00 | Ukraine | FC Lokomotyv Kyiv vs FC Dinaz Vyshhorod | **0 - 0** | `1st half` | --- |
+| 09:00 | Ukraine | WFC Kolos Kovalivka vs Shakhtar Donetsk | **0 - 0** | `1st half` | --- |
+| 08:30 | Vietnam | Hà Nội Youth vs Phù Đổng Ninh Bình Youth | **1 - 0** | `2nd half` | Unknown 27'(H) |
+| 08:30 | Vietnam | Tây Ninh FC vs Mê Kông Cần Thơ | **3 - 0** | `2nd half` | Unknown 39'(H), Unknown 37'(H), Unknown 31'(H) |
+| 09:00 | Zambia | Blaze FC vs Vilanova AC | **0 - 0** | `1st half` | --- |
