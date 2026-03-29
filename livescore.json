@@ -1,7 +1,7 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-03-29 19:24:52 UTC"
+        "updated": "2026-03-29 19:53:19 UTC"
     },
     "matches": [
         {
@@ -11,7 +11,7 @@
             "home": "Almer\u00eda",
             "away": "Real Sociedad B U21",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Sergio Arribas 19'(H)",
                 "Miguel de la Fuente 4'(H)"
@@ -23,9 +23,12 @@
             "country": "World",
             "home": "Colombia",
             "away": "France",
-            "score": "0 - 0",
+            "score": "0 - 2",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Marcus Thuram 41'(A)",
+                "D\u00e9sir\u00e9 Dou\u00e9 29'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -34,7 +37,7 @@
             "home": "Martinique",
             "away": "El Salvador",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -44,7 +47,7 @@
             "home": "Real Madrid",
             "away": "F\u00fatbol Club Barcelona",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Ona Batlle 18'(A)"
             ]
@@ -56,67 +59,44 @@
             "home": "Uruguay U17",
             "away": "Argentina U17",
             "score": "0 - 2",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 42'(A)",
                 "Unknown 37'(A)"
             ]
         },
         {
-            "start_time": "17:00",
-            "league": "U16 Generation adidas Cup, Group B",
+            "start_time": "19:30",
+            "league": "U16 Generation adidas Cup, Group E",
             "country": "International Clubs",
-            "home": "Seattle Sounders FC U16",
-            "away": "Orlando City SC U16",
-            "score": "1 - 1",
+            "home": "FC K\u00f8benhavn U16",
+            "away": "DC United U16",
+            "score": "1 - 0",
             "minute": "Started",
             "scorers": [
-                "Unknown 56'(A)",
-                "Unknown 41'(H)"
+                "Unknown 20'(H)"
             ]
         },
         {
-            "start_time": "17:00",
-            "league": "U16 Generation adidas Cup, Group C",
+            "start_time": "19:30",
+            "league": "U16 Generation adidas Cup, Group F",
             "country": "International Clubs",
-            "home": "Houston Dynamo U16",
-            "away": "Sockers FC Chicago U16",
+            "home": "Atlanta United U16",
+            "away": "Sporting Kansas City U16",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
         },
         {
-            "start_time": "17:00",
-            "league": "U16 Generation adidas Cup, Group C",
+            "start_time": "19:30",
+            "league": "U16 Generation adidas Cup, Group G",
             "country": "International Clubs",
-            "home": "Slavia Praha U16",
-            "away": "Los Angeles FC U16",
+            "home": "Inter Miami CF U16",
+            "away": "Columbus Crew U16",
             "score": "1 - 0",
             "minute": "Started",
             "scorers": [
-                "Unknown 59'(H)"
-            ]
-        },
-        {
-            "start_time": "17:00",
-            "league": "U16 Generation adidas Cup, Group D",
-            "country": "International Clubs",
-            "home": "Portland Timbers U16",
-            "away": "Chicago Fire U16",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "17:00",
-            "league": "U16 Generation adidas Cup, Group D",
-            "country": "International Clubs",
-            "home": "Red Bull Bragantino U16",
-            "away": "CF Montr\u00e9al U16",
-            "score": "1 - 0",
-            "minute": "Started",
-            "scorers": [
-                "Unknown 45'(H)"
+                "Unknown 65'(H)"
             ]
         },
         {
@@ -135,9 +115,11 @@
             "country": "Spain",
             "home": "CP Cacere\u00f1o",
             "away": "CD Lugo",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Nicol\u00e1s Reniero 45'(A)"
+            ]
         },
         {
             "start_time": "18:30",
@@ -146,7 +128,7 @@
             "home": "Gubbio",
             "away": "Ravenna",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Manuel Fischnaller 30'(A)"
             ]
@@ -158,7 +140,7 @@
             "home": "Pineto",
             "away": "Sambenedettese",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -168,7 +150,7 @@
             "home": "AZ Picerno",
             "away": "Monopoli",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -198,7 +180,7 @@
             "home": "Nueva Chicago",
             "away": "All Boys",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -207,9 +189,12 @@
             "country": "Argentina",
             "home": "Club Atl\u00e9tico Chacarita Juniors",
             "away": "Estudiantes de Buenos Aires",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 2",
+            "minute": "Halftime",
+            "scorers": [
+                "Dario Rostagno 41'(A)",
+                "Facundo Ardiles 35'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -217,7 +202,7 @@
             "country": "Argentina",
             "home": "Deportivo Madryn",
             "away": "San Mart\u00edn de Tucum\u00e1n",
-            "score": "0 - 1",
+            "score": "1 - 1",
             "minute": "1st half",
             "scorers": [
                 "Diego Diellos 6'(A)"
@@ -239,9 +224,12 @@
             "country": "Argentina",
             "home": "San Telmo",
             "away": "Quilmes Atl\u00e9tico Club",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 2",
+            "minute": "Halftime",
+            "scorers": [
+                "Ulises Vera 43'(A)",
+                "Agust\u00edn Lavezzi 28'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -250,7 +238,7 @@
             "home": "Argentino de Merlo",
             "away": "Talleres Remedios de Escalada",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -259,9 +247,11 @@
             "country": "Argentina",
             "home": "Real Pilar",
             "away": "Argentino de Quilmes",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Dylan Oyarz\u00fan 45'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -270,7 +260,7 @@
             "home": "San Martin de Burzaco",
             "away": "CS Dock Sud",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Gonzalo G\u00f3mez 7'(A)"
             ]
@@ -282,7 +272,7 @@
             "home": "Defensores de Cambaceres",
             "away": "Juventud Unida San Miguel",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Juan Trent\u00edn 43'(H)"
             ]
@@ -294,7 +284,7 @@
             "home": "Deportivo Espa\u00f1ol",
             "away": "CA Atlas",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 32'(A)"
             ]
@@ -306,7 +296,7 @@
             "home": "Puerto Nuevo",
             "away": "Argentino de Rosario",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 14'(A)"
             ]
@@ -318,7 +308,7 @@
             "home": "Gimnasia de Chivilcoy",
             "away": "Sportivo Belgrano",
             "score": "0 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": []
         },
         {
@@ -327,6 +317,32 @@
             "country": "Argentina",
             "home": "Defensores Villa Ramallo",
             "away": "El Linque\u00f1o",
+            "score": "2 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Enzo Luna 39'(H)",
+                "Unknown 32'(H)"
+            ]
+        },
+        {
+            "start_time": "19:30",
+            "league": "Torneo Federal A, Group 1",
+            "country": "Argentina",
+            "home": "Gimnasia Y Esgrima de Concepcion Del Uruguay",
+            "away": "Douglas Haig",
+            "score": "0 - 2",
+            "minute": "1st half",
+            "scorers": [
+                "Guillermo Pereira 7'(A)",
+                "Lucas L\u00f3pez 3'(A)"
+            ]
+        },
+        {
+            "start_time": "19:30",
+            "league": "Torneo Federal A, Group 2",
+            "country": "Argentina",
+            "home": "CA Bartolome Mitre",
+            "away": "Boca Unidos",
             "score": "0 - 0",
             "minute": "1st half",
             "scorers": []
@@ -338,7 +354,7 @@
             "home": "Cipolletti",
             "away": "San Martin de Mendoza",
             "score": "2 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Martin Peralta 45'(H)",
                 "Federico Agustin Acevedo 23'(H)"
@@ -351,7 +367,7 @@
             "home": "CD Argentino Monte Maiz",
             "away": "Costa Brava de General Pico",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -371,7 +387,7 @@
             "home": "Alvarado",
             "away": "Guillermo Brown",
             "score": "2 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Tom\u00e1s Fern\u00e1ndez 25'(H)",
                 "Unknown 4'(H)"
@@ -384,7 +400,7 @@
             "home": "Villa Mitre",
             "away": "Circulo Deportivo",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -393,9 +409,10 @@
             "country": "Argentina",
             "home": "Racing Club",
             "away": "Ferro Carril Oeste",
-            "score": "1 - 0",
+            "score": "2 - 0",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 83'(H)",
                 "Unknown 19'(H)"
             ]
         },
@@ -419,7 +436,7 @@
             "home": "Newells Old Boys",
             "away": "Boca Juniors",
             "score": "0 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 42'(A)",
                 "Unknown 2'(A)"
@@ -431,9 +448,11 @@
             "country": "Argentina Amateur",
             "home": "Automoto CD",
             "away": "CA Independiente Rivera",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 24'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -449,11 +468,25 @@
             "start_time": "19:00",
             "league": "Primera Divisi\u00f3n, Zona A",
             "country": "Argentina Amateur",
-            "home": "Racing Club",
-            "away": "CA Boca Juniors",
+            "home": "Puan FBC",
+            "away": "CA Leandro N Alem",
             "score": "1 - 0",
             "minute": "1st half",
             "scorers": [
+                "Facundo Rapetti 29'(H)"
+            ]
+        },
+        {
+            "start_time": "19:00",
+            "league": "Primera Divisi\u00f3n, Zona A",
+            "country": "Argentina Amateur",
+            "home": "Racing Club",
+            "away": "CA Boca Juniors",
+            "score": "3 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Jonathan Clatt 18'(H)",
+                "Axel G\u00f3mez 17'(H)",
                 "Emilio Romero 6'(H)"
             ]
         },
@@ -463,9 +496,13 @@
             "country": "Argentina Amateur",
             "home": "Blanco y Negro",
             "away": "CA Pe\u00f1arol",
-            "score": "0 - 0",
+            "score": "1 - 2",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Juan Ullman 39'(H)",
+                "Gabriel Mercado 28'(A)",
+                "Emiliano Aliberti 1'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -473,9 +510,11 @@
             "country": "Argentina Amateur",
             "home": "CSDG San Mart\u00edn",
             "away": "CA Tiro Federal",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Manuel Machado 14'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -483,9 +522,13 @@
             "country": "Argentina Amateur",
             "home": "Deportivo Rivera",
             "away": "Club Union",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
+            "score": "2 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Ezequiel Schmidt 40'(A)",
+                "Lucas Parodi 29'(H)",
+                "Unknown 26'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -493,9 +536,11 @@
             "country": "Argentina Amateur",
             "home": "Union Pig\u00fce",
             "away": "CSyD Pe\u00f1arol",
-            "score": "0 - 0",
+            "score": "0 - 1",
             "minute": "1st half",
-            "scorers": []
+            "scorers": [
+                "Unknown 42'(A)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -526,9 +571,11 @@
             "country": "Brazil",
             "home": "Vila Nova FC",
             "away": "UDA",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "2nd half",
+            "scorers": [
+                "Unknown 50'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -536,9 +583,10 @@
             "country": "Brazil",
             "home": "Atl\u00e9tico Piauiense",
             "away": "A\u00e7\u00e3o",
-            "score": "2 - 0",
+            "score": "3 - 0",
             "minute": "1st half",
             "scorers": [
+                "Unknown 38'(H)",
                 "Unknown 13'(H)",
                 "Unknown 1'(H)"
             ]
@@ -572,9 +620,11 @@
             "country": "Brazil",
             "home": "SERC Brasil",
             "away": "Mauaense",
-            "score": "0 - 0",
+            "score": "1 - 0",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 90'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -593,7 +643,7 @@
             "home": "Arauc\u00e1ria EC",
             "away": "Rio Branco SC",
             "score": "3 - 2",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 45'(A)",
                 "Unknown 45'(A)",
@@ -608,10 +658,11 @@
             "country": "Brazil",
             "home": "Atl\u00e9tico Paranava\u00ed",
             "away": "Prudent\u00f3polis",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "1 - 1",
+            "minute": "2nd half",
             "scorers": [
-                "Unknown 43'(H)"
+                "Unknown 47'(A)",
+                "Andriw 43'(H)"
             ]
         },
         {
@@ -621,7 +672,7 @@
             "home": "Batel Guarapuava",
             "away": "Paran\u00e1 Clube",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 19'(H)"
             ]
@@ -632,9 +683,10 @@
             "country": "Brazil",
             "home": "Juazeirense",
             "away": "AO Itabaiana",
-            "score": "1 - 0",
-            "minute": "Halftime",
+            "score": "2 - 0",
+            "minute": "2nd half",
             "scorers": [
+                "Cleiton Diki 47'(H)",
                 "Luan 1'(H)"
             ]
         },
@@ -645,18 +697,20 @@
             "home": "Capital CF",
             "away": "Rio Branco-ES",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
-            "start_time": "18:00",
+            "start_time": "17:00",
             "league": "U20 Capixaba",
             "country": "Brazil",
             "home": "Forte FC U20",
             "away": "Pinheiros FC U20",
-            "score": "2 - 0",
+            "score": "3 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 85'(A)",
+                "Unknown 72'(H)",
                 "Unknown 44'(H)",
                 "Unknown 5'(H)"
             ]
@@ -667,9 +721,10 @@
             "country": "Brazil",
             "home": "Volta Redonda U20",
             "away": "Resende U20",
-            "score": "2 - 2",
+            "score": "3 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 71'(H)",
                 "Unknown 58'(H)",
                 "Unknown 49'(H)",
                 "Unknown 31'(A)",
@@ -715,7 +770,7 @@
             "home": "Hope Internacional U20",
             "away": "Cianorte U20",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -764,9 +819,10 @@
             "country": "Brazil",
             "home": "Am\u00e9rica-PE U20",
             "away": "Sport Recife U20",
-            "score": "1 - 1",
+            "score": "1 - 2",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 72'(A)",
                 "Unknown 53'(A)",
                 "Unknown 30'(H)"
             ]
@@ -790,9 +846,12 @@
             "country": "Brazil Amateur",
             "home": "VFC",
             "away": "Arsenal Junquense",
-            "score": "0 - 2",
+            "score": "1 - 4",
             "minute": "1st half",
             "scorers": [
+                "Igor Dantas da Silva 25'(A)",
+                "Robert Dote Santos Silva 20'(H)",
+                "Unknown 18'(A)",
                 "Eudair Pereira Santos 8'(A)",
                 "S\u00e1vio  Santos Lopes 5'(A)"
             ]
@@ -833,9 +892,10 @@
             "country": "Colombia Amateur",
             "home": "T.O Juan Baena & Cardona Asociados",
             "away": "Everest FC",
-            "score": "1 - 1",
+            "score": "2 - 1",
             "minute": "1st half",
             "scorers": [
+                "Leider Perez Diaz 31'(H)",
                 "Leider Perez Diaz 4'(H)",
                 "Jesus Manuel Cabarca Barvo 3'(A)"
             ]
@@ -847,7 +907,7 @@
             "home": "Deportivo Upala FC",
             "away": "PFA Santa Cruz",
             "score": "0 - 1",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 15'(A)"
             ]
@@ -858,9 +918,10 @@
             "country": "Costa Rica",
             "home": "Quepos Cambute",
             "away": "ADR Jicaral Sercoba",
-            "score": "1 - 0",
-            "minute": "1st half",
+            "score": "2 - 0",
+            "minute": "Halftime",
             "scorers": [
+                "Unknown 44'(H)",
                 "Unknown 21'(H)"
             ]
         },
@@ -870,9 +931,11 @@
             "country": "Costa Rica",
             "home": "Uruguay de Coronado",
             "away": "AD Cariari Pococ\u00ed",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 44'(H)"
+            ]
         },
         {
             "start_time": "18:30",
@@ -881,7 +944,7 @@
             "home": "Africa Sports National",
             "away": "Nour FC",
             "score": "1 - 0",
-            "minute": "Halftime",
+            "minute": "2nd half",
             "scorers": [
                 "Unknown 36'(H)"
             ]
@@ -907,24 +970,12 @@
             "country": "El Salvador",
             "home": "CD Fuerte San Francisco U20",
             "away": "CD Cacahuatique U20",
-            "score": "0 - 1",
+            "score": "0 - 3",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 82'(A)",
+                "Unknown 70'(A)",
                 "Unknown 1'(A)"
-            ]
-        },
-        {
-            "start_time": "18:00",
-            "league": "U20 Primera Divisi\u00f3n",
-            "country": "El Salvador",
-            "home": "CD Municipal Lime\u00f1o U20",
-            "away": "CD Hercules U20",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 58'(H)",
-                "Unknown 48'(A)",
-                "Unknown 19'(H)"
             ]
         },
         {
@@ -933,9 +984,14 @@
             "country": "El Salvador",
             "home": "CD \u00c1guila U20",
             "away": "CD FAS U20",
-            "score": "0 - 0",
+            "score": "2 - 2",
             "minute": "2nd half",
-            "scorers": []
+            "scorers": [
+                "Unknown 88'(H)",
+                "Unknown 83'(H)",
+                "Unknown 74'(A)",
+                "Unknown 72'(A)"
+            ]
         },
         {
             "start_time": "18:00",
@@ -948,20 +1004,15 @@
             "scorers": []
         },
         {
-            "start_time": "18:00",
+            "start_time": "19:00",
             "league": "Kings League Germany",
             "country": "Germany Amateur",
-            "home": "\u0130stanbul United",
-            "away": "Kaktus Kickers",
-            "score": "3 - 4",
-            "minute": "2nd half",
+            "home": "G2 FC",
+            "away": "Tiki Tacker Fu\u00dfball Freunde",
+            "score": "1 - 0",
+            "minute": "1st half",
             "scorers": [
-                "Kerem Sengun 31'(H)",
-                "Nici 24'(A)",
-                "Gaspard Fehlinger 19'(A)",
-                "Kerem Sengun 16'(H)",
-                "Amir Ahmadi 7'(H)",
-                "Noah Can Kurmali 1'(A)"
+                "Unknown 1'(H)"
             ]
         },
         {
@@ -973,18 +1024,6 @@
             "score": "0 - 0",
             "minute": "Halftime",
             "scorers": []
-        },
-        {
-            "start_time": "15:00",
-            "league": "Division One - Zone Three",
-            "country": "Ghana",
-            "home": "Home Stars FC",
-            "away": "True Democracy FC",
-            "score": "1 - 0",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 15'(H)"
-            ]
         },
         {
             "start_time": "15:00",
@@ -1037,34 +1076,19 @@
             "scorers": []
         },
         {
-            "start_time": "17:30",
-            "league": "Icelandic Men's Football League Cup C, Group 3",
-            "country": "Iceland",
-            "home": "KM Reykjavik",
-            "away": "Vaengir Jupiters",
-            "score": "1 - 8",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 89'(A)",
-                "Unknown 73'(A)",
-                "Unknown 68'(A)",
-                "Unknown 45'(A)",
-                "Unknown 28'(A)",
-                "Unknown 25'(A)",
-                "Unknown 18'(H)",
-                "Unknown 16'(A)",
-                "Unknown 3'(A)"
-            ]
-        },
-        {
             "start_time": "19:00",
             "league": "ACP Cup Community",
             "country": "Italy Amateur",
             "home": "Real Sorsetto",
             "away": "Sele\u00e7ao ACP",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "2 - 2",
+            "minute": "2nd half",
+            "scorers": [
+                "Raffaele Chiacchio 29'(H)",
+                "Giuseppe Di Pietro 29'(A)",
+                "Giuseppe Di Pietro 22'(A)",
+                "Raffaele Chiacchio 13'(H)"
+            ]
         },
         {
             "start_time": "19:00",
@@ -1073,7 +1097,7 @@
             "home": "Atl\u00e9tico Pachuca",
             "away": "Atl\u00e9tico Inter Capital",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -1082,9 +1106,11 @@
             "country": "Mexico",
             "home": "Monta\u00f1eses F.C.",
             "away": "Celaya FC",
-            "score": "3 - 0",
+            "score": "5 - 1",
             "minute": "2nd half",
             "scorers": [
+                "Unknown 89'(H)",
+                "Unknown 78'(A)",
                 "Unknown 59'(H)",
                 "Unknown 57'(H)",
                 "Unknown 23'(H)"
@@ -1096,8 +1122,91 @@
             "country": "Panama",
             "home": "Rio Abajo FC",
             "away": "AD Alianza West",
+            "score": "1 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 35'(H)",
+                "Unknown 17'(A)"
+            ]
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo A",
+            "country": "Paraguay",
+            "home": "Lucero del Alba",
+            "away": "Sportivo Pe\u00f1on",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo A",
+            "country": "Paraguay",
+            "home": "Nanawa (Limpio)",
+            "away": "Uni\u00f3n Atl\u00e9tico Ribere\u00f1o",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo B",
+            "country": "Paraguay",
+            "home": "1\u00b0 de Mayo",
+            "away": "Guaran\u00ed (Limpio)",
             "score": "0 - 0",
             "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo B",
+            "country": "Paraguay",
+            "home": "Nueva Estrella",
+            "away": "6 de Enero (Limpio)",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo B",
+            "country": "Paraguay",
+            "home": "Sportivo Col\u00f3n",
+            "away": "Atl\u00e9tico San Juan",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo C",
+            "country": "Paraguay",
+            "home": "Atl\u00e9tico \u00d1u Poty",
+            "away": "R\u00edo Salado",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo C",
+            "country": "Paraguay",
+            "home": "Cerro Cora (Limpio)",
+            "away": "Inter FBC",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "19:45",
+            "league": "Primera Fase, Grupo C",
+            "country": "Paraguay",
+            "home": "Sudam\u00e9rica (Itapuami)",
+            "away": "24 de Setiembre (Itapuami)",
+            "score": "0 - 0",
+            "minute": "Started",
             "scorers": []
         },
         {
@@ -1111,21 +1220,6 @@
             "scorers": [
                 "Unknown 43'(H)",
                 "Unknown 18'(H)"
-            ]
-        },
-        {
-            "start_time": "17:30",
-            "league": "II Liga",
-            "country": "Poland",
-            "home": "Resovia Rzesz\u00f3w",
-            "away": "\u015awit Skolwin Szczecin",
-            "score": "3 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Bartosz Zimnicki 57'(H)",
-                "Mateusz Geniec 11'(H)",
-                "Mikolaj Szkiela 10'(H)",
-                "Kacper Wojdak 5'(A)"
             ]
         },
         {
@@ -1159,41 +1253,21 @@
             "scorers": []
         },
         {
+            "start_time": "18:45",
+            "league": "Liga 5 Bucure\u0219ti",
+            "country": "Romania Amateur",
+            "home": "CS Universitar ASE Bucure\u0219ti",
+            "away": "ACS Interna\u021bional Bucure\u0219ti II",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
+        },
+        {
             "start_time": "18:00",
             "league": "Primera Division Madrid, Grupo 2",
             "country": "Spain Amateur",
             "home": "Mostoles B URJC",
             "away": "Fuenlabrada Promesas",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "17:00",
-            "league": "Upplandscupen, Grupp 1",
-            "country": "Sweden Amateur",
-            "home": "Rosersbergs IK",
-            "away": "Sigtuna IF FK",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "17:15",
-            "league": "Upplandscupen, Grupp 1",
-            "country": "Sweden Amateur",
-            "home": "Fr\u00f6sunda SK",
-            "away": "BKV Norrt\u00e4lje",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "17:00",
-            "league": "Upplandscupen, Grupp 3",
-            "country": "Sweden Amateur",
-            "home": "Procyon BK",
-            "away": "M\u00e5nkarbo IF",
             "score": "0 - 0",
             "minute": "Started",
             "scorers": []
@@ -1229,14 +1303,52 @@
             "scorers": []
         },
         {
+            "start_time": "19:30",
+            "league": "Segunda Division, Central-West",
+            "country": "Venezuela",
+            "home": "Academia Puerto Cabello Reserves",
+            "away": "Real Frontera SC",
+            "score": "2 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 8'(H)",
+                "Unknown 4'(H)"
+            ]
+        },
+        {
+            "start_time": "19:30",
+            "league": "Segunda Division, Central-West",
+            "country": "Venezuela",
+            "home": "Ure\u00f1a SC",
+            "away": "Atl\u00e9tico El Vig\u00eda",
+            "score": "1 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 14'(H)",
+                "Unknown 10'(A)"
+            ]
+        },
+        {
+            "start_time": "19:30",
+            "league": "Segunda Division, Central-West",
+            "country": "Venezuela",
+            "home": "Zamora FC Barinas II",
+            "away": "Deportivo Lara",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
             "start_time": "19:00",
             "league": "Segunda Division, Central-East",
             "country": "Venezuela",
             "home": "Bol\u00edvar SC",
             "away": "CS Maritimo de la Guaira",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 29'(A)"
+            ]
         }
     ]
 }
