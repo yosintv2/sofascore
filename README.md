@@ -2,31 +2,28 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:30 | Brazil | Botafogo vs Mirassol | **2 - 1** | `2nd half` | Alex Telles 43'(H), Shaylon 21'(A), Arthur Cabral 11'(H) |
-| 22:30 | Brazil | Internacional vs São Paulo | **1 - 0** | `2nd half` | Alerrandro 23'(H) |
-| 23:00 | Brazil | Bahia vs Athletico | **2 - 0** | `1st half` | Everaldo 35'(H), Everaldo 3'(H) |
-| 23:00 | Brazil | Cruzeiro vs Vitória | **3 - 0** | `1st half` | Kaio Jorge 39'(H), Kauã Moraes 36'(H), Christian 33'(H) |
-| 23:30 | Brazil | Coritiba vs Vasco da Gama | **0 - 0** | `1st half` | --- |
-| 23:00 | Argentina | CA Lanús vs Platense | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | Atlético Goianiense vs Náutico | **1 - 2** | `2nd half` | Igor Fernandes 82'(A), Vinícius 78'(A), Leo Jacó 41'(H) |
-| 22:00 | Brazil | Londrina vs Goiás | **2 - 1** | `2nd half` | Iago 59'(H), Anselmo Ramon 38'(A), Bruno Santos 33'(H) |
-| 22:00 | Brazil | Sport Recife vs Vila Nova FC | **1 - 1** | `2nd half` | Perotti 78'(H), Janderson 59'(A) |
-| 23:30 | Colombia | Independiente Santa Fe vs Llaneros FC | **0 - 0** | `1st half` | --- |
-| 22:30 | International Clubs | Red Bull Bragantino U16 vs Vancouver Whitecaps U16 | **0 - 1** | `Started` | Unknown 38'(A) |
-| 22:00 | Argentina | Defensa y Justicia vs Chaco For Ever | **2 - 1** | `2nd half` | Agustín Hausch 36'(H), Aaron Molinas 26'(H), Imanol Enriquez 16'(A) |
-| 23:00 | Bolivia | The Strongest vs Blooming | **1 - 0** | `Halftime` | Carmelo Algarañaz 37'(H) |
-| 23:00 | Brazil | ASA vs CSA | **0 - 0** | `1st half` | --- |
-| 23:10 | Brazil | Baré vs GAS | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | Iguaçu U20 vs Samas U20 | **0 - 0** | `Started` | --- |
-| 22:00 | Dominican Republic | Moca FC vs Cibao FC | **2 - 2** | `2nd half` | Ángel Pérez 63'(A), Wilman Modesta 44'(A), Junior Jiménez 19'(H), Jhonny Parima 11'(H) |
+| 23:00 | Brazil | Bahia vs Athletico | **2 - 0** | `2nd half` | Everaldo 35'(H), Everaldo 3'(H) |
+| 23:00 | Brazil | Cruzeiro vs Vitória | **3 - 0** | `2nd half` | Kaio Jorge 39'(H), Kauã Moraes 36'(H), Christian 33'(H) |
+| 23:30 | Brazil | Coritiba vs Vasco da Gama | **0 - 1** | `2nd half` | Tchê Tchê 24'(A) |
+| 00:30 | Brazil | Fluminense vs Corinthians | **1 - 0** | `1st half` | John Kennedy 20'(H) |
+| 00:00 | Brazil | Ponte Preta vs Ceará | **0 - 0** | `Halftime` | --- |
+| 00:30 | Brazil | CRB vs Avaí | **0 - 0** | `1st half` | --- |
+| 00:30 | Brazil | Criciúma vs Athletic Club | **0 - 1** | `1st half` | Ronaldo Tavares 2'(A) |
+| 23:30 | Colombia | Independiente Santa Fe vs Llaneros FC | **0 - 1** | `2nd half` | Jhon Vásquez 48'(A) |
+| 22:30 | International Clubs | Red Bull Bragantino U16 vs Vancouver Whitecaps U16 | **0 - 1** | `Started` | Unknown 77'(A) |
+| 00:15 | Argentina | Instituto De Córdoba vs Atlanta | **1 - 0** | `1st half` | Leonel Galeano 21'(H) |
+| 00:30 | Aruba | SV Estrella Papilon vs Brazil Juniors | **0 - 0** | `1st half` | --- |
+| 23:00 | Brazil | ASA vs CSA | **1 - 3** | `2nd half` | Alex Bruno 77'(H), Ryan Santana 72'(A), Matheus Melo 60'(A), Ryan Santana 44'(A) |
+| 23:10 | Brazil | Baré vs GAS | **0 - 2** | `2nd half` | Digão 45'(A), Vitinho 35'(A) |
 | 23:00 | French Guiana | AS La Joyeuse de Montjoly vs ASL Sport Guyanais | **0 - 0** | `Started` | --- |
-| 23:00 | Mexico | Necaxa vs FC Juárez | **0 - 1** | `1st half` | Unknown 43'(A) |
-| 23:30 | Paraguay | Sportivo Trinidense vs Olimpia | **1 - 0** | `1st half` | Fernando Romero 15'(H) |
-| 22:00 | Saint Kitts and Nevis | Trafalgar Southstars vs Security Forces United | **0 - 0** | `Started` | --- |
+| 00:00 | Guatemala | Antigua GFC vs CD Mictlán | **6 - 1** | `Halftime` | Diego Santis 41'(H), José Rosales 34'(H), Sebastián Colón 22'(A), Agustín Maziero 17'(H), Luis Diego  Castellanos Santos 12'(H), Agustín Maziero 6'(H), José Ardón 3'(H) |
+| 01:00 | Mexico | Club Unión FC vs CD Mexiquense | **1 - 1** | `2nd half` | Unknown 90'(H), Unknown 10'(A) |
+| 00:00 | Mexico | Gorilas de Juanacatlan vs Artesanos Metepec F.C. | **0 - 3** | `Halftime` | Unknown 45'(A), Unknown 28'(A), Unknown 9'(A) |
+| 23:30 | Paraguay | Sportivo Trinidense vs Olimpia | **2 - 0** | `2nd half` | Alan Tobías Morinigo 67'(H), Fernando Romero 15'(H) |
+| 00:00 | Saint Kitts and Nevis | Molineaux F.C. vs Conaree Fireball International FC | **0 - 0** | `Started` | --- |
 | 23:00 | Turks and Caicos Islands | Cheshire Hall FC vs Teachers Young Strikers FC | **0 - 0** | `Started` | --- |
-| 22:00 | USA | Chattanooga FC vs Tennessee Tempo FC | **1 - 0** | `2nd half` | Nathan  Koehler 44'(H) |
-| 22:30 | USA | Richmond Kickers vs Loudoun United FC | **0 - 0** | `2nd half` | --- |
-| 23:00 | USA | Lexington SC vs Louisville City FC | **0 - 1** | `1st half` | Babacar Niang 23'(A) |
-| 23:00 | USA | Rhode Island FC vs Hartford Athletic | **2 - 0** | `1st half` | Jerome Williams 30'(H), Aldair Sanchez 12'(H) |
-| 23:00 | USA | Vermont Green FC vs Westchester SC | **0 - 0** | `1st half` | --- |
-| 23:30 | USA | Flint City Bucks vs Detroit City FC | **0 - 0** | `1st half` | --- |
+| 23:00 | USA | Vermont Green FC vs Westchester SC | **0 - 0** | `2nd half` | --- |
+| 23:30 | USA | Flint City Bucks vs Detroit City FC | **0 - 1** | `2nd half` | Alex Dalou 40'(A) |
+| 00:00 | USA | Colorado Springs Switchbacks FC vs Spokane Velocity FC | **1 - 0** | `Halftime` | Jon-Talen Maples 45'(H) |
+| 00:30 | USA | San Antonio FC vs FC Tulsa | **0 - 0** | `1st half` | --- |
+| 23:00 | USA | DC Power FC vs Lexington SC | **0 - 0** | `1st half` | --- |
