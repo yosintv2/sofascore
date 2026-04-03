@@ -2,17 +2,13 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 00:30 | Brazil | Palmeiras vs Grêmio | **0 - 0** | `1st half` | --- |
-| 00:30 | Brazil | Red Bull Bragantino vs Flamengo | **1 - 0** | `1st half` | Isidro Pitta 17'(H) |
-| 23:30 | Argentina | CA Talleres vs Boca Juniors | **0 - 1** | `2nd half` | Adam Bareiro 71'(A) |
-| 23:20 | Colombia | Jaguares de Córdoba vs Millonarios | **1 - 0** | `2nd half` | Yairo Moreno 50'(H) |
-| 23:30 | Brazil | Operário-MS vs AA Bataguassu | **0 - 1** | `2nd half` | Unknown 55'(A) |
-| 01:00 | Costa Rica | Sporting FC vs CS Cartaginés | **0 - 0** | `1st half` | --- |
-| 00:00 | Ecuador | El Nacional vs CD Cuenca Juniors | **0 - 1** | `Halftime` | Unknown 3'(A) |
-| 23:15 | Honduras | CD Olimpia vs Lobos UPNFM | **0 - 0** | `2nd half` | --- |
-| 00:07 | Indonesia | Ricky Nelson Academy U17 vs Ganendra Satya U17 | **0 - 1** | `2nd half` | Ediz Mika Rahil 22'(A) |
-| 01:00 | Indonesia | Prahara U13 vs Bina Taruna U13 | **0 - 0** | `1st half` | --- |
-| 01:00 | Mexico | Guadalajara vs Mazatlán FC | **0 - 0** | `1st half` | --- |
-| 01:00 | Mexico | Santos Laguna vs Pachuca | **0 - 0** | `1st half` | --- |
-| 00:00 | Saint Kitts and Nevis | Mantab United vs Rivers of Living Water FC | **0 - 0** | `Started` | --- |
-| 00:30 | USA | 876 United vs Midnight Wizards | **0 - 3** | `1st half` | Benjamin Zamora 12'(A), Malik Mennana 12'(A), Unknown 5'(A) |
+| 03:30 | Australia | APIA Leichhardt Tigers U20 vs Western Sydney Wanderers U20 | **1 - 0** | `1st half` | Unknown 13'(H) |
+| 03:30 | Canada | Burnaby FC vs TSS FC Rovers | **1 - 0** | `Started` | Unknown 10'(H) |
+| 03:39 | Indonesia | Nova Arianto AP U17 vs Java Soccer U17 | **0 - 0** | `1st half` | --- |
+| 03:00 | Indonesia | FFF Academy U13 vs Golden Boy SS U13 | **3 - 2** | `2nd half` | Naraya Gunrefa 33'(A), Kiamy Santos 20'(H), Naraya Gunrefa 18'(A), Unknown 17'(H), Théodore Helde 8'(H) |
+| 03:15 | Indonesia | Tajimalela FA U14 vs biMBA AIUEO U14 | **0 - 0** | `1st half` | --- |
+| 03:06 | Mexico | Tijuana vs Tigres UANL | **0 - 0** | `1st half` | --- |
+| 02:00 | New Zealand | Auckland City vs Birkenhead United | **0 - 1** | `2nd half` | Unknown 45'(A) |
+| 02:00 | New Zealand | Bay Olympic vs Tauranga City AFC | **1 - 0** | `2nd half` | Unknown 53'(H) |
+| 02:00 | New Zealand | East Coast Bays vs Manukau United FC | **3 - 0** | `2nd half` | Unknown 67'(H), Unknown 55'(H), Unknown 45'(H) |
+| 02:00 | New Zealand | Eastern Suburbs vs Auckland United FC | **0 - 0** | `2nd half` | --- |
