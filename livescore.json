@@ -1,60 +1,249 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-04-03 07:49:38 UTC"
+        "updated": "2026-04-03 08:37:08 UTC"
     },
     "matches": [
         {
-            "start_time": "06:00",
+            "start_time": "08:35",
+            "league": "A-League Men",
+            "country": "Australia",
+            "home": "Adelaide United",
+            "away": "Auckland FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:00",
+            "league": "A-League, Women",
+            "country": "Australia",
+            "home": "Perth Glory",
+            "away": "Melbourne Victory",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Claudia Bunge 22'(A)"
+            ]
+        },
+        {
+            "start_time": "08:00",
             "league": "NSW NPL 1",
             "country": "Australia",
-            "home": "Wests APIA FC",
-            "away": "Western Sydney Wanderers Academy Youth",
-            "score": "3 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 64'(A)",
-                "Unknown 49'(H)",
-                "Presley Ortiz 45'(H)",
-                "Presley Ortiz 25'(H)"
-            ]
+            "home": "Manly United",
+            "away": "Sydney FC Academy Youth",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
-            "start_time": "06:00",
-            "league": "NSW U20 Premier League",
-            "country": "Australia",
-            "home": "Manly United U20",
-            "away": "Sydney FC U20",
-            "score": "1 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 32'(H)"
-            ]
+            "start_time": "08:15",
+            "league": "CFL, Group A",
+            "country": "Czech Republic",
+            "home": "FK Admira Praha",
+            "away": "Loko Vltav\u00edn",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
-            "start_time": "06:00",
-            "league": "NSW NPL Women's",
-            "country": "Australia",
-            "home": "Manly United FC",
-            "away": "Western City Rangers FC",
-            "score": "3 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 70'(H)",
-                "Unknown 49'(H)",
-                "Unknown 43'(H)"
-            ]
-        },
-        {
-            "start_time": "06:00",
-            "league": "NSW U23 League One, Women ",
-            "country": "Australia",
-            "home": "Southern Districts Raiders U23",
-            "away": "Camden Tigers FC U23",
+            "start_time": "08:15",
+            "league": "CFL, Group A",
+            "country": "Czech Republic",
+            "home": "SK Aritma Praha",
+            "away": "Petrin Plzen",
             "score": "2 - 0",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": [
-                "Unknown 16'(H)"
+                "Unknown 20'(H)",
+                "Erik Biegon 2'(H)"
+            ]
+        },
+        {
+            "start_time": "08:15",
+            "league": "CFL, Group B",
+            "country": "Czech Republic",
+            "home": "FK Neratovice-By\u0161kovice",
+            "away": "Slovan Velvary",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "CFL, Group B",
+            "country": "Czech Republic",
+            "home": "FK Pardubice B",
+            "away": "TJ Jiskra \u00dast\u00ed nad Orlic\u00ed",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "CFL, Group B",
+            "country": "Czech Republic",
+            "home": "Slovan Liberec U21",
+            "away": "Mlad\u00e1 Boleslav B",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 11'(A)"
+            ]
+        },
+        {
+            "start_time": "08:00",
+            "league": "U19 1. Liga",
+            "country": "Czech Republic",
+            "home": "Slovan Liberec U19",
+            "away": "1. FC Slov\u00e1cko U19",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 17'(A)"
+            ]
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize A",
+            "country": "Czech Republic",
+            "home": "FC Krimice",
+            "away": "Slavoj Cesky Krumlov",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize B",
+            "country": "Czech Republic",
+            "home": "Meteor Praha VIII",
+            "away": "SK Slany",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize B",
+            "country": "Czech Republic",
+            "home": "SK Steti",
+            "away": "FC Chomutov",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize B",
+            "country": "Czech Republic",
+            "home": "SK Ujezd Praha 4",
+            "away": "Tempo Prague",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize B",
+            "country": "Czech Republic",
+            "home": "Viktoria Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+            "away": "FK Ostrov",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 17'(A)"
+            ]
+        },
+        {
+            "start_time": "08:30",
+            "league": "Divize B",
+            "country": "Czech Republic",
+            "home": "FC Predni Kopanina",
+            "away": "FK Seko Louny",
+            "score": "0 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 2'(A)"
+            ]
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize C",
+            "country": "Czech Republic",
+            "home": "FK Brandys Nad Labem",
+            "away": "FK \u010c\u00e1slav",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize C",
+            "country": "Czech Republic",
+            "home": "FK Chlumec nad Cidlinou",
+            "away": "SK Kosmonosy",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 4'(H)"
+            ]
+        },
+        {
+            "start_time": "08:30",
+            "league": "Divize C",
+            "country": "Czech Republic",
+            "home": "FC Hlinsko",
+            "away": "FK N\u00e1chod",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Divize D",
+            "country": "Czech Republic",
+            "home": "FC Kurim",
+            "away": "TJ D\u00e1lnice Spe\u0159ice",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 15'(H)"
+            ]
+        },
+        {
+            "start_time": "08:30",
+            "league": "Krajsky prebor",
+            "country": "Czech Republic",
+            "home": "Tj Tatran Rousinov",
+            "away": "AFK Ti\u0161nov",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Pra\u017esk\u00fd P\u0159ebor",
+            "country": "Czechia Amateur",
+            "home": "FK Motorlet Praha B",
+            "away": "SK St\u0159e\u0161ovice",
+            "score": "1 - 1",
+            "minute": "1st half",
+            "scorers": [
+                "Roman Alba 13'(A)",
+                "Teo Sandev 5'(H)"
+            ]
+        },
+        {
+            "start_time": "08:15",
+            "league": "Pra\u017esk\u00fd P\u0159ebor",
+            "country": "Czechia Amateur",
+            "home": "FK Slavoj Vy\u0161ehrad",
+            "away": "Sokol Kolovraty",
+            "score": "1 - 0",
+            "minute": "1st half",
+            "scorers": [
+                "Unknown 11'(H)"
             ]
         },
         {
@@ -64,7 +253,29 @@
             "home": "Eastern District",
             "away": "Lee Man FC",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "2nd half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:00",
+            "league": "MLSZ Orsz\u00e1gos U17 Kiemelt",
+            "country": "Hungary",
+            "home": "Budapest Honv\u00e9d U17",
+            "away": "Vasas Kubala Akad\u00e9mia U17",
+            "score": "1 - 0",
+            "minute": "Started",
+            "scorers": [
+                "Unknown 30'(H)"
+            ]
+        },
+        {
+            "start_time": "08:00",
+            "league": "Pest V\u00e1rmegye II. oszt\u00e1ly - D\u00e9li",
+            "country": "Hungary Amateur",
+            "home": "T\u00e1pi\u00f3szecs\u0151 FC",
+            "away": "Magl\u00f3di TC",
+            "score": "0 - 0",
+            "minute": "Started",
             "scorers": []
         },
         {
@@ -78,25 +289,24 @@
             "scorers": []
         },
         {
-            "start_time": "06:15",
-            "league": "Indonesia Liga 4",
+            "start_time": "08:30",
+            "league": "Indonesia Super League",
             "country": "Indonesia",
-            "home": "Nathan Lebak FC",
-            "away": "Trisukma FC",
-            "score": "10 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 52'(H)",
-                "Unknown 47'(H)",
-                "Unknown 41'(H)",
-                "Unknown 28'(H)",
-                "Unknown 24'(H)",
-                "Unknown 18'(H)",
-                "Unknown 15'(H)",
-                "Unknown 11'(H)",
-                "Unknown 6'(H)",
-                "Unknown 3'(H)"
-            ]
+            "home": "Arema FC",
+            "away": "Malut United FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:30",
+            "league": "Indonesia Championship, Championship round, Group A",
+            "country": "Indonesia",
+            "home": "Sriwijaya FC",
+            "away": "PSPS Pekanbaru",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
         },
         {
             "start_time": "07:00",
@@ -105,7 +315,7 @@
             "home": "Tunas Muda Bengkulu",
             "away": "Bengkulu Putra",
             "score": "2 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": [
                 "Unknown 41'(H)",
                 "Unknown 11'(H)"
@@ -117,31 +327,51 @@
             "country": "Indonesia",
             "home": "Young Tiger U17",
             "away": "Nawasena U17",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "07:10",
-            "league": "Liga Topskor U14, LTS1, First Round",
-            "country": "Indonesia",
-            "home": "Fifa Farmel U14",
-            "away": "Abinaya SS U14",
-            "score": "1 - 1",
-            "minute": "Halftime",
+            "score": "0 - 2",
+            "minute": "2nd half",
             "scorers": [
-                "Renaldi Putra 13'(H)",
-                "Rennar Arya Putra 4'(A)"
+                "Mirza Hakim 60'(A)",
+                "Zehmar Khedira  Aguslemi 52'(A)"
             ]
         },
         {
-            "start_time": "05:30",
-            "league": "Ligue 1 Vini - Playoff",
-            "country": "Tahiti",
-            "home": "AS Venus",
-            "away": "AS Pirae",
+            "start_time": "08:20",
+            "league": "Liga Topskor U14, LTS1, First Round",
+            "country": "Indonesia",
+            "home": "Asiop U14",
+            "away": "Binna Banua U14",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:15",
+            "league": "Nepal National League",
+            "country": "Nepal",
+            "home": "APF FC",
+            "away": "Satdobato Youth Club",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "08:00",
+            "league": "Liga de Tineret Feminin, Series 2 Playoff",
+            "country": "Romania",
+            "home": "ACS Kids T\u00e2mpa Bra\u0219ov U19",
+            "away": "SSU Politehnica Timi\u0219oara U19",
             "score": "0 - 0",
             "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "08:00",
+            "league": " M-League",
+            "country": "Russia",
+            "home": "Akron Akademia Konoplev",
+            "away": "Pari Nizhny Novgorod Youth",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         },
         {
@@ -172,6 +402,26 @@
             "away": "Tausi FC",
             "score": "0 - 0",
             "minute": "Started",
+            "scorers": []
+        },
+        {
+            "start_time": "07:00",
+            "league": "Vietnam 2nd Division, Group B",
+            "country": "Vietnam",
+            "home": "M\u00ea K\u00f4ng C\u1ea7n Th\u01a1",
+            "away": "Tr\u01b0\u1eddng Giang Gia \u0110\u1ecbnh FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "07:30",
+            "league": "Vietnam 2nd Division, Group B",
+            "country": "Vietnam",
+            "home": "T\u00e2y Ninh FC",
+            "away": "CLB V\u0129nh Long",
+            "score": "0 - 0",
+            "minute": "1st half",
             "scorers": []
         }
     ]
