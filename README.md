@@ -2,32 +2,40 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 01:00 | Mexico | Club Puebla vs FC Juárez | **1 - 1** | `2nd half` | Madson de Souza Silva 77'(A), Iker Moreno 55'(H) |
-| 01:30 | Colombia | Junior Barranquilla vs Deportivo Cali | **0 - 1** | `2nd half` | Steven Rodríguez 31'(A) |
-| 01:00 | USA | Utah Royals FC vs Chicago Stars FC | **1 - 0** | `2nd half` | Mina Tanaka 74'(H) |
-| 00:30 | International Youth | Philadelphia Union U18 vs CF Monterrey U19 | **0 - 0** | `Started` | --- |
-| 01:00 | Argentina | Gimnasia y Tiro de Salta vs San Martín de San Juan | **1 - 1** | `2nd half` | Hernán Zuliani 45'(A), Lautaro Gordillo 2'(H) |
-| 01:30 | Australia | NWS Spirit FC U23 vs APIA Leichhardt FC U23 | **1 - 5** | `2nd half` | Unknown 64'(A), Unknown 52'(A), Unknown 47'(H), Unknown 43'(A), Unknown 41'(A), Unknown 25'(A) |
-| 02:00 | Australia Amateur | Fawkner SC vs Murray United | **0 - 0** | `Halftime` | --- |
-| 02:00 | Australia Amateur | Skye United FC vs Brunswick Juventus FC | **0 - 2** | `Halftime` | Unknown 34'(A), Unknown 20'(A) |
-| 02:00 | India Amateur | Sunrise FC Sirohi vs FC Brothers United | **1 - 0** | `1st half` | Unknown 9'(H) |
-| 02:20 | Indonesia | Asiop U17 vs PS Putra Nusantara U17 | **0 - 0** | `1st half` | --- |
-| 02:00 | Indonesia | RMD U13 vs Duta Junior U13 | **5 - 0** | `2nd half` | Unknown 50'(H), Unknown 47'(H), Rizqulloh Radithya Al Varo 19'(H), Muhammad Rizki Ariansyah 14'(H), Rizqulloh Radithya Al Varo 14'(H) |
-| 02:20 | Indonesia | Kabomania Muda U14 vs Garuda Putra U14 | **0 - 1** | `1st half` | Sammy Hagar Purwanto 29'(A) |
-| 02:40 | Indonesia | Tajimalela Biru U15 vs Fifa Farmel U15 | **0 - 0** | `1st half` | --- |
-| 02:05 | Indonesia | Ricky Nelson Academy U15 vs MM Star U15 | **1 - 0** | `2nd half` | Raffa Raditya  Zamzami 27'(H) |
-| 02:05 | Indonesia | CS Private U15 vs Gabus Putra U15 | **1 - 0** | `Halftime` | Muhammad  Messi 13'(H) |
-| 02:10 | Indonesia | Royal Indonesia U16 vs Putra Cianjur U16 | **1 - 0** | `2nd half` | Mukmin Al Mansyuri 29'(H) |
-| 02:20 | Indonesia | Sparta 1979 U16 vs HRC FA U16 | **2 - 0** | `1st half` | Fahim Abhid 11'(H), Fahim Abhid 5'(H) |
-| 01:30 | Japan | Brew Saga vs Kawasoe Club | **0 - 0** | `2nd half` | --- |
-| 01:00 | Mexico | Correcaminos UAT vs Cancún FC | **1 - 3** | `2nd half` | Diego Pineda 72'(H), Karel Campos 49'(A), Christopher Trejo 39'(A), José Rodríguez 7'(A) |
-| 02:00 | Mexico | Tepatitlán FC vs Alebrijes de Oaxaca | **1 - 0** | `Halftime` | Maximiliano Pinela 45'(H) |
-| 01:30 | Mexico | Real San Cosme vs CF Nuevo Leon | **1 - 0** | `2nd half` | Unknown 7'(H) |
-| 02:00 | Mexico | Alacranes de Durango vs Reboceros de La Piedad | **1 - 1** | `1st half` | Unknown 32'(A), Unknown 6'(H) |
-| 02:00 | New Zealand | Wellington Phoenix Reserve vs FC Petone | **1 - 0** | `Halftime` | Unknown 3'(H) |
-| 02:45 | New Zealand | Island Bay United vs Miramar Rangers | **0 - 1** | `1st half` | Unknown 8'(A) |
-| 02:00 | New Zealand | Franklin United vs West Auckland AFC | **1 - 0** | `Started` | Unknown 45'(H) |
-| 02:00 | New Zealand | Mangere United vs South Auckland Rangers | **0 - 0** | `Started` | --- |
-| 02:00 | New Zealand | Papakura City FC vs Waiheke United | **0 - 0** | `Started` | --- |
-| 02:00 | New Zealand | Papatoetoe AFC vs Oratia United | **0 - 0** | `Started` | --- |
-| 00:30 | USA Amateur | Alexandria United FC vs Summit Valley United | **0 - 0** | `Started` | --- |
+| 03:00 | Mexico | Club Necaxa vs Mazatlán FC | **2 - 1** | `2nd half` | Alexis Peña 56'(H), Fábio Gomes 40'(A), Javier Ruiz 15'(H) |
+| 03:06 | Mexico | Club Tijuana vs Tigres UANL | **1 - 0** | `2nd half` | Kevin Castañeda 22'(H) |
+| 03:15 | Australia | Central Coast Mariners vs Sydney FC | **0 - 0** | `2nd half` | --- |
+| 04:00 | Australia | Canberra United vs Brisbane Roar | **0 - 1** | `1st half` | Aimee Medwin 21'(A) |
+| 03:00 | Australia | Hyundai NTC U19 vs Perth RedStar FC | **0 - 0** | `2nd half` | --- |
+| 03:40 | Australia | Bulls FC Academy vs Sydney Olympic FC | **2 - 0** | `Halftime` | Unknown 36'(H), Unknown 28'(H) |
+| 04:00 | Australia | NWS Spirit vs APIA Leichhardt Tigers | **0 - 3** | `1st half` | Unknown 28'(A), Unknown 25'(A), Unknown 12'(A) |
+| 04:00 | Australia | UNSW FC U23 vs Northern Tigers U23 | **0 - 0** | `1st half` | --- |
+| 04:00 | Australia | South Coast Flame FC U23 vs Sutherland Strikers U23 | **2 - 0** | `1st half` | Unknown 36'(H), Unknown 12'(H) |
+| 03:00 | Australia | Perth Redstar U23 vs Stirling Macedonia U23 | **4 - 0** | `2nd half` | Unknown 77'(H), Unknown 51'(H), Unknown 44'(H), Unknown 22'(H) |
+| 04:00 | Australia | Bayswater City U23 vs Fremantle City U23 | **1 - 1** | `1st half` | Unknown 33'(H), Unknown 11'(A) |
+| 03:00 | Australia Amateur | Whittlesea United SC vs Dandenong City FC | **4 - 3** | `2nd half` | Unknown 87'(H), Unknown 86'(A), Unknown 80'(A), Unknown 76'(A), Unknown 66'(H), Unknown 58'(H), Unknown 55'(H) |
+| 04:00 | Australia Amateur | Croydon FC vs North Eastern MetroStars | **0 - 0** | `1st half` | --- |
+| 04:30 | Australia Amateur | Modbury Jets vs Eastern United | **0 - 0** | `1st half` | --- |
+| 04:30 | Australia Amateur | Salisbury Inter FC vs Para Hills | **0 - 0** | `Started` | --- |
+| 04:30 | Australia Amateur | Whyalla Lions vs West Adelaide SC | **0 - 0** | `Started` | --- |
+| 03:30 | India | Gokulam Kerala FC vs Dreams Kochi FC | **2 - 0** | `Started` | Unknown 29'(H), Unknown 29'(H) |
+| 04:00 | India Amateur | Jerthi Football Club vs Rihan Football Academy | **0 - 0** | `Started` | --- |
+| 04:40 | Indonesia | Raga Negeri U17 vs FFF Academy U17 | **0 - 0** | `Started` | --- |
+| 04:30 | Indonesia | Assa Pro U13 vs Binna Banua U13 | **0 - 0** | `1st half` | --- |
+| 04:00 | Indonesia | Mastabe FA U13 vs Aqua Haier U13 | **0 - 2** | `2nd half` | Ryuzaki Sechan Keanu 43'(A), Unknown 24'(A) |
+| 04:40 | Indonesia | Jawara U14 vs Sulcata Racing U14 | **0 - 0** | `Started` | --- |
+| 03:50 | Indonesia | Newland FA U15 vs Young Tiger U15 | **1 - 0** | `Halftime` | Dimas Pramudya  Winoto 8'(H) |
+| 04:25 | Indonesia | Jakarta City U15 vs Prahara U15 | **0 - 0** | `1st half` | --- |
+| 04:25 | Indonesia | Cibinong Poetra U15 vs CTFD U15 | **0 - 0** | `1st half` | --- |
+| 04:30 | Indonesia | Akademi Purwakarta U16 vs Thisa Bekasi U16 | **0 - 0** | `1st half` | --- |
+| 03:30 | Indonesia | ABZ FA U16 vs Asad Purwakarta U16 | **0 - 1** | `2nd half` | Rizki Fadilah 29'(A) |
+| 04:00 | Japan | JEF United Chiba vs Tokyo Verdy | **2 - 0** | `1st half` | Hiroto Goya 40'(H), Hiroto Goya 19'(H) |
+| 04:00 | Japan | Ichihara Vonds vs Asahi Intecc Loveledge Nagoya | **0 - 0** | `1st half` | --- |
+| 04:00 | Japan | Viamaterras Miyazaki vs Iga FC Kunoichi Mie | **1 - 1** | `1st half` | Unknown 37'(H), Unknown 25'(A) |
+| 03:00 | Japan | Bunnys Gunma FC White Star vs Speranza Osaka | **1 - 0** | `2nd half` | Unknown 59'(H) |
+| 04:00 | Japan | Renofa Yamaguchi FC vs Seisa Osa Reia Shonan FC | **1 - 2** | `1st half` | Unknown 44'(A), Unknown 31'(A), Unknown 4'(H) |
+| 04:00 | Japan | Briobecca Urayasu-Ichikawa vs Yokohama SCC | **1 - 0** | `1st half` | Aoi Matsuyama 14'(H) |
+| 04:00 | Japan | Honda FC vs Verspah Oita | **0 - 1** | `1st half` | --- |
+| 03:00 | New Caledonia | AS Tiga Sport vs SC Ne Drehu | **0 - 0** | `Started` | --- |
+| 03:00 | New Caledonia | Hienghène Sport vs CA Saint Louis | **0 - 0** | `Started` | --- |
+| 03:00 | Russia | SKA-Khabarovsk-2 vs Avangard Kursk | **2 - 0** | `2nd half` | Unknown 67'(H), Unknown 48'(H) |
