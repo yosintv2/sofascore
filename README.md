@@ -2,39 +2,32 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:30 | Argentina | San Lorenzo vs Estudiantes de La Plata | **1 - 0** | `2nd half` | Manuel Insaurralde 11'(H) |
-| 23:00 | Chile | O'Higgins vs Audax Italiano | **1 - 1** | `Halftime` | Giovani Chiaverano 17'(A), Martín Maturana 12'(H) |
-| 23:30 | Venezuela | Caracas F.C. vs Metropolitanos | **0 - 0** | `1st half` | --- |
-| 23:20 | Colombia | Fortaleza FC vs Internacional de Bogotá | **1 - 1** | `1st half` | Johan Caballero 9'(A), Jhon Velásquez 3'(H) |
-| 23:30 | Bolivia | Blooming vs Guabirá | **3 - 0** | `1st half` | Bayron Garcés 22'(H), César Menacho 17'(H), Bayron Garcés 6'(H) |
-| 23:15 | Peru | Cienciano vs Asociación Deportiva Tarma | **2 - 2** | `1st half` | Carlos Garcés 39'(H), Jordan Guivin 18'(A), Aylton Mazzo 7'(A), Alejandro Hohberg 5'(H) |
-| 23:00 | USA | Crown Legacy FC vs Atlanta United 2 | **1 - 0** | `Halftime` | Hugo Mbongue 1'(H) |
-| 23:00 | USA | New York Cosmos vs Charlotte Independence | **2 - 2** | `Halftime` | Jefferson Amaya 45'(A), Philip Spengler 22'(H), Viggo Ortiz 13'(A), Philip Spengler 6'(H) |
-| 23:00 | USA | Boston Legacy FC vs San Diego Wave FC | **0 - 0** | `Halftime` | --- |
-| 23:00 | South America | Paraguay U17 vs Ecuador U17 | **1 - 0** | `Halftime` | Lucas Doria 22'(H) |
-| 22:00 | International Youth | Botafogo U19 vs St.Louis City U19 | **2 - 0** | `Started` | Unknown 67'(H), Unknown 52'(A) |
-| 22:00 | Argentina | Ituzaingó vs Argentino de Merlo | **0 - 1** | `2nd half` | Nahuel Sica 43'(A) |
-| 23:00 | Argentina Amateur | F. C. Villa Huidobro vs C.A. Cultural Mattaldi | **1 - 1** | `Halftime` | Unknown 45'(H), Unknown 28'(A) |
-| 22:00 | Argentina Amateur | Santa Elena (4ta) vs Quirquinchos (4ta) | **0 - 0** | `Started` | --- |
-| 00:00 | Brazil | Corinthians vs Red Bull Bragantino | **0 - 0** | `1st half` | --- |
-| 00:00 | Indonesia | Diklat Pakujaya U13 vs Persija SS U13 | **0 - 0** | `Started` | --- |
-| 00:00 | Indonesia | Sparta 1979 U14 vs Bojong Gede Raya U14 | **0 - 0** | `Started` | --- |
-| 23:45 | Indonesia | Asiop Biru U15 vs Bogor Football School U15 | **0 - 0** | `1st half` | --- |
-| 23:45 | Indonesia | Khenzi United U15 vs Erlangga U15 | **0 - 0** | `1st half` | --- |
-| 23:00 | Mexico | Tlaxcala FC vs Dorados de Sinaloa | **0 - 0** | `Halftime` | --- |
-| 22:45 | Mexico | Oceanía FC vs CEFOR Cuauhtémoc Blanco | **2 - 2** | `2nd half` | Unknown 54'(H), Unknown 32'(H), Unknown 23'(A), Unknown 7'(A) |
-| 23:45 | Mexico | Club Tijuana U21 vs Tigres UANL U21 | **0 - 0** | `1st half` | --- |
-| 23:30 | New Zealand | Western Suburbs FC vs FC Western | **0 - 0** | `1st half` | --- |
-| 22:00 | Poland Amateur | LKS Paszczyniak Paszczyna vs Kaskada Ostrów-Kamionka | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | LKS Wiewiórka vs LKS Łopuchowa-Łączki Kucharskie | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | Pogórze Wielopole Skrzyńskie vs Czarnovia Czarna | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | Victoria Ocieka vs MKS DAP Dębica | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | Grom Czacz vs Korona Czernina | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | KP Olimpia Stary Lubosz vs Orzeł Lipno | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | KS Stare Oborzyska II vs KAR-MAR Iskra Wonieść | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | Korona Wilkowice II vs Kłos Garzyn | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | Rydzyniak Rydzyna II vs Kormoran Święciechowa | **0 - 0** | `Started` | --- |
-| 22:00 | Poland Amateur | Sokół Włoszakowice vs Pogoń Śmigiel II | **0 - 0** | `Started` | --- |
-| 23:00 | Suriname | Inter Wanica vs SV Voorwaarts | **0 - 0** | `Started` | --- |
-| 22:00 | USA Amateur | Club Atlético Los Toros vs Doradus FC | **0 - 0** | `Started` | --- |
-| 23:30 | Uruguay | Nacional vs Central Español | **0 - 0** | `1st half` | --- |
+| 01:00 | Mexico | Club Puebla vs FC Juárez | **1 - 1** | `2nd half` | Madson de Souza Silva 77'(A), Iker Moreno 55'(H) |
+| 01:30 | Colombia | Junior Barranquilla vs Deportivo Cali | **0 - 1** | `2nd half` | Steven Rodríguez 31'(A) |
+| 01:00 | USA | Utah Royals FC vs Chicago Stars FC | **1 - 0** | `2nd half` | Mina Tanaka 74'(H) |
+| 00:30 | International Youth | Philadelphia Union U18 vs CF Monterrey U19 | **0 - 0** | `Started` | --- |
+| 01:00 | Argentina | Gimnasia y Tiro de Salta vs San Martín de San Juan | **1 - 1** | `2nd half` | Hernán Zuliani 45'(A), Lautaro Gordillo 2'(H) |
+| 01:30 | Australia | NWS Spirit FC U23 vs APIA Leichhardt FC U23 | **1 - 5** | `2nd half` | Unknown 64'(A), Unknown 52'(A), Unknown 47'(H), Unknown 43'(A), Unknown 41'(A), Unknown 25'(A) |
+| 02:00 | Australia Amateur | Fawkner SC vs Murray United | **0 - 0** | `Halftime` | --- |
+| 02:00 | Australia Amateur | Skye United FC vs Brunswick Juventus FC | **0 - 2** | `Halftime` | Unknown 34'(A), Unknown 20'(A) |
+| 02:00 | India Amateur | Sunrise FC Sirohi vs FC Brothers United | **1 - 0** | `1st half` | Unknown 9'(H) |
+| 02:20 | Indonesia | Asiop U17 vs PS Putra Nusantara U17 | **0 - 0** | `1st half` | --- |
+| 02:00 | Indonesia | RMD U13 vs Duta Junior U13 | **5 - 0** | `2nd half` | Unknown 50'(H), Unknown 47'(H), Rizqulloh Radithya Al Varo 19'(H), Muhammad Rizki Ariansyah 14'(H), Rizqulloh Radithya Al Varo 14'(H) |
+| 02:20 | Indonesia | Kabomania Muda U14 vs Garuda Putra U14 | **0 - 1** | `1st half` | Sammy Hagar Purwanto 29'(A) |
+| 02:40 | Indonesia | Tajimalela Biru U15 vs Fifa Farmel U15 | **0 - 0** | `1st half` | --- |
+| 02:05 | Indonesia | Ricky Nelson Academy U15 vs MM Star U15 | **1 - 0** | `2nd half` | Raffa Raditya  Zamzami 27'(H) |
+| 02:05 | Indonesia | CS Private U15 vs Gabus Putra U15 | **1 - 0** | `Halftime` | Muhammad  Messi 13'(H) |
+| 02:10 | Indonesia | Royal Indonesia U16 vs Putra Cianjur U16 | **1 - 0** | `2nd half` | Mukmin Al Mansyuri 29'(H) |
+| 02:20 | Indonesia | Sparta 1979 U16 vs HRC FA U16 | **2 - 0** | `1st half` | Fahim Abhid 11'(H), Fahim Abhid 5'(H) |
+| 01:30 | Japan | Brew Saga vs Kawasoe Club | **0 - 0** | `2nd half` | --- |
+| 01:00 | Mexico | Correcaminos UAT vs Cancún FC | **1 - 3** | `2nd half` | Diego Pineda 72'(H), Karel Campos 49'(A), Christopher Trejo 39'(A), José Rodríguez 7'(A) |
+| 02:00 | Mexico | Tepatitlán FC vs Alebrijes de Oaxaca | **1 - 0** | `Halftime` | Maximiliano Pinela 45'(H) |
+| 01:30 | Mexico | Real San Cosme vs CF Nuevo Leon | **1 - 0** | `2nd half` | Unknown 7'(H) |
+| 02:00 | Mexico | Alacranes de Durango vs Reboceros de La Piedad | **1 - 1** | `1st half` | Unknown 32'(A), Unknown 6'(H) |
+| 02:00 | New Zealand | Wellington Phoenix Reserve vs FC Petone | **1 - 0** | `Halftime` | Unknown 3'(H) |
+| 02:45 | New Zealand | Island Bay United vs Miramar Rangers | **0 - 1** | `1st half` | Unknown 8'(A) |
+| 02:00 | New Zealand | Franklin United vs West Auckland AFC | **1 - 0** | `Started` | Unknown 45'(H) |
+| 02:00 | New Zealand | Mangere United vs South Auckland Rangers | **0 - 0** | `Started` | --- |
+| 02:00 | New Zealand | Papakura City FC vs Waiheke United | **0 - 0** | `Started` | --- |
+| 02:00 | New Zealand | Papatoetoe AFC vs Oratia United | **0 - 0** | `Started` | --- |
+| 00:30 | USA Amateur | Alexandria United FC vs Summit Valley United | **0 - 0** | `Started` | --- |
