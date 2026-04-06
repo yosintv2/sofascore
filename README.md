@@ -2,27 +2,23 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 18:45 | Italy | Napoli vs Milan | **0 - 0** | `2nd half` | --- |
-| 19:00 | Spain | Girona FC vs Villarreal | **1 - 0** | `Halftime` | Pau Navarro 45'(H) |
-| 19:45 | Portugal | Casa Pia vs Benfica | **0 - 0** | `1st half` | --- |
-| 19:00 | England | Hull City vs Coventry City | **0 - 0** | `Halftime` | --- |
-| 18:30 | Spain | Sporting Gijón vs Real Sociedad B U21 | **1 - 0** | `2nd half` | Gaspar Campos 45'(H) |
-| 18:45 | France | Le Mans vs Pau FC | **2 - 0** | `2nd half` | Dame Gueye 40'(H), Dame Gueye 26'(H) |
-| 18:15 | Poland | KS Lechia Gdańsk vs MKS Korona Kielce | **3 - 2** | `2nd half` | Dawid Błanik 78'(A), Rifet Kapić 59'(H), Tomáš Bobček 29'(H), Aleksandar Ćirković 19'(H) |
-| 18:00 | Egypt | ZED FC vs Arab Contractors FC | **0 - 0** | `2nd half` | --- |
-| 18:30 | Argentina | Berazategui vs Justo José de Urquiza | **1 - 1** | `2nd half` | Unknown 59'(H), Unknown 53'(A) |
-| 18:30 | Argentina | Sacachispas vs Puerto Nuevo | **0 - 2** | `2nd half` | Unknown 57'(A), Rodrigo Martinez 30'(A) |
+| 19:00 | Spain | Girona FC vs Villarreal | **1 - 0** | `2nd half` | Pau Navarro 45'(H) |
+| 19:45 | Portugal | Casa Pia vs Benfica | **0 - 0** | `Halftime` | --- |
+| 19:00 | England | Hull City vs Coventry City | **0 - 0** | `2nd half` | --- |
+| 20:30 | Colombia | Deportivo Pereira vs Alianza Valledupar FC | **0 - 1** | `1st half` | Jesús Muñoz 13'(A) |
+| 20:00 | Peru | FC Cajamarca vs Los Chankas CYC | **0 - 1** | `1st half` | Adrián Quiroz 11'(A) |
+| 20:00 | South America | Bolivia U17 vs Venezuela U17 | **0 - 2** | `1st half` | Román Lozada 43'(A), Santiago Sanchez 18'(A) |
+| 20:00 | Argentina | Sarmiento de Resistencia Reserves vs Club Atlético Independiente Tirol | **1 - 0** | `1st half` | Unknown 38'(H) |
 | 18:30 | Brazil Amateur | Canedo FC U17 vs Cristianópolis U17 | **1 - 0** | `Started` | Unknown 90'(H) |
-| 18:30 | Brazil Amateur | Goiás U17 vs Itaberaí U17 | **0 - 0** | `Started` | --- |
-| 18:30 | Brazil Amateur | Goiânia U17 vs Santa Cruz-GO U17 | **0 - 0** | `Started` | --- |
-| 18:00 | Croatia Amateur | NK Ćiro Blažević Academy vs NK Kašina | **0 - 0** | `Started` | --- |
-| 18:45 | England Amateur | Barkingside vs AS London | **0 - 0** | `Started` | --- |
-| 19:30 | Italy Amateur | Zeta Como vs Underdogs FC | **5 - 1** | `2nd half` | Andrea Filipi 10'(H), Oussama M'Hamsi 5'(H), Gabriele Giacchino 2'(H), Gianmarco Chironi 1'(A), Gabriele Giacchino 1'(H) |
-| 18:00 | Lithuania Amateur | FK Nevėžis vs MFA Žalgiris B-MRU | **0 - 0** | `Started` | --- |
+| 18:30 | Brazil Amateur | Goiás U17 vs Itaberaí U17 | **1 - 0** | `Started` | Unknown 90'(H) |
+| 18:30 | Brazil Amateur | Goiânia U17 vs Santa Cruz-GO U17 | **1 - 0** | `Started` | Unknown 90'(H) |
+| 20:00 | Brazil Amateur | Dibrados FC vs Fluxo FC | **1 - 4** | `2nd half` | Gustavo Henrique 29'(A), Renan Augusto 28'(A), Well Andrade 26'(A), Helber Júnior Gomes 21'(A), Luan Teles 2'(H) |
+| 18:45 | England Amateur | Barkingside vs AS London | **1 - 0** | `Started` | Unknown -1'(H) |
+| 20:30 | Italy Amateur | BIGBRO vs Stallions | **1 - 0** | `1st half` | Tiziano Merlonghi 2'(H) |
 | 17:00 | Malta | Kercem Ajax F.C. vs Nadur Youngsters F.C. | **1 - 0** | `2nd half` | Samuel Azzopardi 36'(H) |
-| 18:45 | Malta | Mgarr United FC vs St. Lucia FC | **0 - 0** | `2nd half` | --- |
-| 19:00 | Morocco | Wydad Casablanca vs Difaâ Hassani El-Jadidi | **1 - 0** | `Halftime` | Ramiro Vaca 34'(H) |
-| 18:45 | Northern Ireland | Dungannon Swifts Reserves vs Larne Olympic Reserves | **1 - 2** | `2nd half` | Unknown 50'(A), Unknown 7'(H), Unknown 2'(A) |
-| 19:00 | Turkey Amateur | Mermi City vs İstanbul United | **2 - 1** | `2nd half` | Ahmet Baştuğ 25'(A), Sami Arslan 20'(H), Sami Arslan 7'(H) |
-| 19:00 | Turkey Amateur | Atapark FK vs Harman FC | **0 - 1** | `2nd half` | Muhammet Zengin 48'(A) |
-| 19:00 | Turkey Amateur | Jugoslavia vs Yeşilyayla FK | **0 - 0** | `1st half` | --- |
+| 19:00 | Morocco | Wydad Casablanca vs Difaâ Hassani El-Jadidi | **1 - 1** | `2nd half` | Mouad Mouchtanim 79'(A), Ramiro Vaca 34'(H) |
+| 20:00 | Paraguay | Club Fernando de La Mora vs Encarnacion FC | **0 - 1** | `1st half` | Blas Diaz 15'(A) |
+| 20:00 | Turkey Amateur | FC Goat vs Kayaşehir United | **0 - 1** | `2nd half` | Tuncay Kartal 19'(A) |
+| 20:00 | Turkey Amateur | Ayaks Sportif vs ZB Leipzig | **0 - 0** | `2nd half` | --- |
+| 19:45 | Turkey Amateur | Grand Bazar FC vs Marmara FK | **0 - 3** | `2nd half` | Unknown 29'(A), Ersin Yücel 17'(A), Ersin Yücel 13'(A) |
+| 19:00 | Turkey Amateur | Jugoslavia vs Yeşilyayla FK | **2 - 1** | `2nd half` | Onur Gürbüz 37'(A), Ahmet Bedirhan Özdemir 25'(H), Semih Büyükkeskin 12'(H) |
