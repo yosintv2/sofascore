@@ -2,12 +2,12 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | South America | Club Independiente vs Racing Club | **1 - 2** | `2nd half` | Thomaz 45'(H), Gastón Martirena 37'(A), Gonzalo Sosa 27'(A) |
-| 23:00 | South America | Colombia U17 vs Chile U17 | **1 - 0** | `Halftime` | Jose Rafael Escorcia 45'(H) |
-| 23:00 | Barbados | Ellerton FC vs Kickstart Rush Stars | **0 - 1** | `Halftime` | Unknown 28'(A) |
-| 22:00 | Brazil | América-RN vs ABC | **0 - 3** | `2nd half` | Wallyson 84'(A), Jhosefer 45'(A), Lucas Marques 12'(A) |
-| 22:30 | Brazil | Ferroviário vs Jacuipense | **1 - 0** | `2nd half` | Pablinho 14'(H) |
-| 23:30 | Brazil | Atlético Goianiense vs Cuiabá | **1 - 0** | `1st half` | Léo Tocantins 5'(H) |
-| 22:00 | Brazil | Botafogo U20 vs Corinthians U20 | **1 - 1** | `2nd half` | Unknown 90'(H), Luiz Gustavo Lemos 11'(A) |
-| 23:00 | El Salvador | Zacatecoluca FC vs Inter FA | **0 - 1** | `Halftime` | Unknown 19'(A) |
-| 23:00 | Mexico | CD Tapatío vs Tlaxcala FC | **2 - 0** | `Halftime` | Vladimir Moragregra 25'(H), Vladimir Moragregra 15'(H) |
+| 02:00 | South America | Deportes Tolima vs Universitario de Deportes | **0 - 0** | `Halftime` | --- |
+| 02:00 | South America | Alianza Atlético de Sullana vs Tigre | **0 - 1** | `1st half` | Ignacio Russo 9'(A) |
+| 02:00 | North & Central America | Los Angeles FC vs Cruz Azul | **2 - 0** | `1st half` | David Martínez Morales 39'(H), Heung-min Son 30'(H) |
+| 01:00 | USA | Spokane Velocity FC vs AV Alta FC | **2 - 1** | `2nd half` | Shavon John-Brown 55'(H), Andrew Booth 45'(H), Osvaldo Lay 7'(A) |
+| 01:00 | Barbados | Bagatelle vs St. Andrew Lions | **3 - 1** | `2nd half` | Unknown 46'(H), Unknown 44'(H), Unknown 42'(A), Unknown 18'(H) |
+| 01:30 | Chile Amateur | Boedo SS vs América SS | **1 - 3** | `2nd half` | Patricio Osorio 49'(A), Sebastián Cerón Poblete 33'(A), Roberto Loy Parra 9'(H), Sebastián Cerón Poblete 1'(A) |
+| 01:30 | Chile Amateur | Cuervo SS vs La Banda SS | **0 - 1** | `2nd half` | Sebastián Venegas Salazar 26'(A) |
+| 01:05 | Colombia Amateur | Los Primos FC vs Rotterdam FC Col | **2 - 1** | `2nd half` | Unknown 36'(H), Unknown 6'(A), Unknown 3'(H) |
+| 01:00 | El Salvador | Alianza FC vs Isidro Metapan | **3 - 1** | `2nd half` | Leonardo Menjívar 23'(H), Unknown 19'(H) |
