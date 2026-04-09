@@ -2,5 +2,5 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 05:00 | China | Qingdao Fuli vs Dalian Juxing Shengheng | **1 - 0** | `1st half` | --- |
-| 05:00 | China | Qingdao Quick Boy vs Shanxi Longsheng | **0 - 0** | `1st half` | --- |
+| 06:00 | Indonesia | Harin FC vs Sam's SC | **0 - 1** | `Halftime` | --- |
+| 06:30 | Samoa | Vaitele-Uta SC vs Vaivase-Tai FC | **0 - 0** | `Started` | --- |
