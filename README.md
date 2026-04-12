@@ -2,63 +2,37 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 23:00 | Brazil | Santos vs Atlético Mineiro | **0 - 0** | `Halftime` | --- |
-| 23:30 | Brazil | Internacional vs Grêmio | **0 - 0** | `1st half` | --- |
-| 22:30 | Argentina | Boca Juniors vs CA Independiente | **1 - 1** | `2nd half` | Milton Giménez 45'(H), Matías Abaldo 9'(A) |
-| 23:00 | Mexico | Querétaro FC vs Club Necaxa | **2 - 0** | `Halftime` | Mateo Coronel 45'(H), Santiago Homenchenko 29'(H) |
-| 23:00 | Mexico | Tigres UANL vs CD Guadalajara | **2 - 1** | `Halftime` | Rodrigo Aguirre 42'(H), Daniel Aguirre 25'(A), Juan Brunetta 16'(H) |
-| 23:30 | USA | Charlotte FC vs Nashville SC | **0 - 1** | `1st half` | Edvard Sandvik Tagseth 14'(A) |
-| 23:30 | USA | Inter Miami CF vs New York Red Bulls | **0 - 1** | `1st half` | Jorge Ruvalcaba 15'(A) |
-| 23:30 | USA | New England Revolution vs DC United | **0 - 0** | `1st half` | --- |
-| 23:30 | USA | Vancouver Whitecaps vs New York City FC | **0 - 0** | `1st half` | --- |
-| 23:30 | Brazil | Ceará vs Náutico | **0 - 0** | `1st half` | --- |
-| 23:00 | Venezuela | Metropolitanos vs Zamora | **0 - 0** | `Halftime` | --- |
-| 23:30 | Bolivia | Club Aurora vs Club Always Ready | **0 - 0** | `1st half` | --- |
-| 22:00 | Canada | Pacific FC vs FC Supra Du Quebec | **2 - 2** | `2nd half` | Josh Heard 69'(H), Sean Rea 58'(A), Marco Bustos 53'(H), Loïc Kwemi 34'(A) |
-| 23:00 | USA | Brooklyn FC vs Charleston Battery | **2 - 0** | `Halftime` | Stefan Stojanovic 32'(H), Jaden Servania 9'(H) |
-| 23:00 | USA | Hartford Athletic vs El Paso Locomotive FC | **0 - 3** | `Halftime` | Diego Abitia 32'(A), Tony Alfaro 24'(A), Eric Calvillo 12'(A) |
-| 23:00 | USA | Indy Eleven vs Monterey Bay FC | **1 - 0** | `Halftime` | Bruno Rendón 14'(H) |
-| 23:00 | USA | Lexington SC vs Rhode Island FC | **0 - 2** | `Halftime` | Jojea Kwizera 27'(A), Aldair Sanchez 22'(A) |
-| 23:30 | USA | FC Tampa Bay Rowdies vs Oakland Roots SC | **1 - 1** | `1st half` | Charlie Ostrem 12'(A), Marco Micaletto 3'(H) |
-| 23:00 | USA | Chattanooga FC vs Orlando City B | **1 - 0** | `Halftime` | Alex McGrath 30'(H) |
-| 22:00 | USA | Portland Hearts of Pine vs One Knoxville SC | **0 - 0** | `2nd half` | --- |
-| 23:00 | USA | Chattanooga Red Wolves SC vs Fort Wayne FC | **0 - 1** | `Halftime` | Taig Healy 1'(A) |
-| 23:00 | USA | FC Naples vs Sarasota Paradise | **0 - 0** | `Halftime` | --- |
-| 22:30 | Aruba | Bubali vs SV Britannia Piedra Plat | **0 - 1** | `2nd half` | Unknown 40'(A) |
-| 22:00 | Bolivia | Unión Tarija vs León Fútbol Club | **0 - 0** | `Started` | --- |
-| 23:00 | Brazil | Barra FC vs Maranhão AC | **2 - 0** | `Halftime` | Tetê 24'(H), Warley 22'(H) |
-| 23:00 | Brazil | Ferroviária vs Botafogo-PB | **0 - 1** | `Halftime` | Igor Maduro 45'(A) |
-| 22:30 | Brazil | Gama vs Inhumas | **1 - 0** | `2nd half` | Felipe Clemente 36'(H) |
-| 22:30 | Brazil | Imperatriz vs Oratório RC | **3 - 1** | `2nd half` | Unknown 43'(A), Wyldson 37'(H), Josimar Alves Doda 27'(H), Gustavo Índio 21'(H) |
-| 22:00 | Brazil Amateur | AD Gameleira vs Barra de Munique EC | **0 - 0** | `Started` | --- |
-| 23:30 | Brazil Amateur | Nacional E.C/Serra vs Paranaibana | **0 - 0** | `1st half` | --- |
-| 22:30 | Canada | Burnaby FC vs Nanaimo United FC | **0 - 0** | `Started` | --- |
-| 23:00 | Canada | CS LaSalle vs CS Longueuil | **0 - 0** | `Started` | --- |
-| 23:00 | Canada | Railway City FC vs Guelph United FC | **0 - 0** | `Started` | --- |
-| 23:30 | Canada | North Toronto Nitros vs Rush Canada SA | **0 - 0** | `Started` | --- |
-| 22:00 | Canada | Revolution FC vs Panellinios St Michel FC | **0 - 0** | `Started` | --- |
-| 22:45 | Canada | Mistral Sherbrooke vs CS Roussillon | **0 - 0** | `Started` | --- |
-| 23:30 | Canada | CS Rivière-des-Prairies vs CS Trident | **0 - 0** | `Started` | --- |
-| 22:00 | Canada | Chevaliers NDMC vs CS Mondial Rivière-du-Loup | **0 - 0** | `Started` | --- |
-| 23:00 | Chile Amateur | Comunal Cabrero vs Quintero Unido FC | **1 - 4** | `Halftime` | Unknown 44'(A), Unknown 37'(A), Unknown 18'(A), Unknown 13'(A), Unknown 5'(H) |
-| 22:20 | Chile Amateur | Fussball U17 vs CFyP U de Chile Zona Sur U17 | **1 - 0** | `2nd half` | Unknown 10'(H) |
-| 23:00 | Colombia Amateur | Disprofinca Los Vagos vs Teleantuco FC | **1 - 0** | `1st half` | John Mario Romero 38'(H) |
-| 00:07 | Indonesia | Asiop U17 vs BTC U17 | **0 - 0** | `1st half` | --- |
-| 00:00 | Indonesia | Asiop Biru U14 vs Kabomania Muda U14 | **0 - 0** | `1st half` | --- |
-| 23:45 | Indonesia | Asiana SS U15 vs Tunas Betawi U15 | **0 - 0** | `1st half` | --- |
-| 23:47 | Indonesia | MM Star U15 vs Abinaya SS U15 | **0 - 0** | `1st half` | --- |
-| 23:45 | Indonesia | Raga Negeri U15 vs CTFD U15 | **0 - 0** | `1st half` | --- |
-| 23:45 | Indonesia | Young Tiger U16 vs Bintang Junior U16 | **0 - 0** | `1st half` | --- |
-| 23:00 | Martinique | AS Morne des Esses vs Aiglon du Lamentin | **0 - 0** | `Started` | --- |
-| 23:00 | Mexico | CD Tapatío vs C.D. Irapuato | **0 - 1** | `Halftime` | Juan Gamboa 3'(A) |
-| 23:15 | Panama | CA Independiente de la Chorrera vs San Francisco FC | **0 - 0** | `1st half` | --- |
-| 23:30 | Paraguay | Nacional Asunción vs Cerro Porteño | **0 - 1** | `1st half` | Pablo Vegetti 29'(A) |
-| 22:00 | Saint Kitts and Nevis | St .Peter's FC vs Cayon FC | **0 - 1** | `2nd half` | Unknown 1'(A) |
-| 23:00 | Suriname | SV Leo Victor vs SV Transvaal | **2 - 0** | `Halftime` | Unknown 38'(H), Unknown 23'(H) |
-| 23:00 | USA | Carolina Ascent vs Lexington SC | **0 - 0** | `Halftime` | --- |
-| 23:30 | USA | Tampa Bay Sun FC vs DC Power FC | **0 - 1** | `1st half` | Alyssa Walker 18'(A) |
-| 23:30 | USA Amateur | Chiefs United vs Baltimore City FC | **0 - 0** | `Started` | --- |
-| 22:00 | USA Amateur | World Class FC vs Imlay City FC | **0 - 0** | `Started` | --- |
-| 23:00 | USA Amateur | Tennessee Tempo FC vs Pumas Premier FC | **0 - 0** | `Started` | --- |
-| 23:30 | USA Amateur | Tennessee United SC vs Kaistorms FC | **2 - 0** | `1st half` | Unknown 19'(H), Unknown 14'(H) |
-| 23:00 | Uruguay Amateur | Salto Capital vs Maldonado Capital | **0 - 0** | `Halftime` | --- |
+| 03:05 | Mexico | Club América vs Cruz Azul | **1 - 0** | `1st half` | Patricio Salas 17'(H) |
+| 02:30 | USA | San Diego FC vs Minnesota United | **1 - 2** | `Halftime` | Kelvin Yeboah 40'(A), Kyle Duncan 15'(A), Luca Bombino 7'(H) |
+| 02:00 | USA | Phoenix Rising FC vs New Mexico United | **1 - 0** | `2nd half` | Ihsan Sacko 13'(H) |
+| 02:30 | USA | Las Vegas Lights vs Sacramento Republic FC | **1 - 1** | `Halftime` | Mark-Anthony Kaye 30'(A), Aaron Guillén 20'(H) |
+| 02:30 | USA | AV Alta FC vs AC Boise | **1 - 1** | `Halftime` | Adam Aoumaich 23'(H), Denys Kostyshyn 14'(A) |
+| 03:00 | Oceania | Auckland FC Reserves vs South Melbourne FC | **1 - 2** | `1st half` | Charlie Leech 23'(A), Unknown 10'(A), Unknown 1'(H) |
+| 03:00 | Australia | Melbourne City U23 vs Caroline Springs George Cross U23 | **1 - 0** | `1st half` | Unknown 13'(H) |
+| 03:00 | Australia | Kahibah FC Reserve vs Valentine Phoenix Reserve | **2 - 0** | `1st half` | Unknown 20'(H), Unknown 17'(H) |
+| 02:45 | Australia | North Star U23 vs Holland Park Hawks U23 | **0 - 1** | `1st half` | Unknown 34'(A) |
+| 02:00 | Canada | Unity FC vs TSS FC Rovers | **0 - 2** | `Started` | Unknown 33'(A), Unknown -1'(A) |
+| 01:00 | Colombia Amateur | Niquia La 60 vs Playa Rica | **1 - 3** | `2nd half` | Julio Cesar Puerta 54'(A), Unknown 34'(H), Julio Cesar Puerta 34'(A), Julio Cesar Puerta 25'(A) |
+| 02:00 | Costa Rica | Sporting FC vs LD Alajuelense | **0 - 1** | `2nd half` | Creichel Pérez 41'(A) |
+| 01:00 | Guatemala | Antigua GFC vs CSD Municipal | **1 - 0** | `2nd half` | Agustín Maziero 5'(H) |
+| 03:00 | Guatemala | CD Marquense vs CD Mictlán | **0 - 0** | `1st half` | --- |
+| 03:15 | Indonesia | Pakuan City U17 vs PS Putra Nusantara U17 | **0 - 0** | `1st half` | --- |
+| 03:30 | Indonesia | JAS U13 vs Asiop Biru U13 | **0 - 1** | `1st half` | Muhammad Rizki 3'(A) |
+| 03:00 | Indonesia | Elzeds FC U13 vs Persija SS U13 | **2 - 0** | `2nd half` | Galang Fitriansyah Supraedin 18'(H), Muhammad Rizky Nurmaulana 14'(H) |
+| 02:20 | Indonesia | Sparta 1979 U14 vs Royal Indonesia U14 | **5 - 0** | `2nd half` | Alfian Putra Pitanah 47'(H), Abid Dzaki Habibi 36'(H), Abdurrahman Rajab Hussein 14'(H), Alfian Putra Pitanah 12'(H), Evan Zahwan Sonyqudsi 3'(H) |
+| 03:30 | Indonesia | Bojong Gede Raya U14 vs Djakarta Warriors U14 | **0 - 0** | `1st half` | --- |
+| 03:30 | Indonesia | Jakarta City FC U14 vs Young Tiger U14 | **0 - 0** | `Started` | --- |
+| 03:15 | Indonesia | Fifa Farmel U15 vs biMBA AIUEO U15 | **0 - 0** | `1st half` | --- |
+| 03:15 | Indonesia | Tunas Mustika U15 vs Ricky Nelson Academy U15 | **1 - 1** | `1st half` | Raffa Raditya  Zamzami 7'(A), Padel Zikri Abdillah 2'(H) |
+| 03:15 | Indonesia | CS Private U15 vs Khenzi United U15 | **0 - 1** | `1st half` | Unknown 7'(A) |
+| 03:00 | Indonesia | Akademi Purwakarta U16 vs YKK Cibitung U16 | **2 - 1** | `Halftime` | Lukas Anthomi 22'(H), Muhammad  Nur Ilyas 17'(A), Azzam Azhar Syam 13'(H) |
+| 03:15 | Indonesia | Young Warrior U16 vs Persikabo U16 | **2 - 1** | `1st half` | Purwoko Joko Raharjo 15'(A), Refky Sanjaya Baihaki 13'(H), Shabilnur - 5'(H) |
+| 03:00 | Japan | Orca Kamogawa FC vs Okayama Yunogo Belle | **0 - 0** | `1st half` | --- |
+| 02:00 | Japan | Kawasoe Club vs Nexus Miyakonojo | **3 - 2** | `2nd half` | Unknown 62'(A), Unknown 57'(H), Unknown 45'(H), Unknown 30'(A), Unknown 22'(H) |
+| 02:00 | Japan | Kobe FC 1970 vs Route11 | **0 - 1** | `2nd half` | Unknown 39'(A) |
+| 02:00 | Japan | Matsumoto University vs Fukui United FC | **0 - 0** | `2nd half` | --- |
+| 02:00 | Japan | Tadotsu FC vs Llamas Kochi FC | **1 - 1** | `2nd half` | Unknown 42'(A), Unknown 16'(H) |
+| 03:00 | Mexico | Los Cabos United vs Tigres de Álica F.C. | **0 - 1** | `1st half` | Unknown 30'(A) |
+| 02:00 | Mexico | Tapachula Soconusco F.C. vs Mexicali FC | **1 - 0** | `Halftime` | Unknown 18'(H) |
+| 02:00 | New Caledonia | AS Horizon Patho vs SC Ne Drehu | **0 - 0** | `Started` | --- |
+| 02:00 | USA Amateur | Thurston County SA vs 3 Cities FC | **0 - 0** | `Started` | --- |
