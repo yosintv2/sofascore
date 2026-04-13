@@ -2,42 +2,51 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 11:00 | World | Denmark U23 vs USA U23 | **0 - 1** | `1st half` | Unknown 35'(A) |
-| 10:30 | Europe | Norway U19 vs Austria U19 | **0 - 1** | `2nd half` | Greta Spinn 33'(A) |
-| 10:00 | Europe | France U19 vs Ireland U19 | **2 - 2** | `2nd half` | Léa Morissaint 75'(H), Della Cowper-Grey 62'(A), Finley Newell 54'(A), Lina Gay 34'(H) |
-| 11:00 | Italy | Hellas Verona U20 vs Lazio U20 | **1 - 1** | `1st half` | Fallou Cham 34'(H), Ricardo Bordon 5'(A) |
-| 11:30 | Albania | KF Tirana B vs KF Vllaznia B | **0 - 0** | `Started` | --- |
-| 11:30 | Azerbaijan | Araz Saatlı FK vs Göygöl FK | **0 - 0** | `Started` | --- |
-| 11:00 | Azerbaijan | Qarabağ II vs Sumqayıt FK II | **1 - 0** | `Started` | Unknown 12'(H) |
+| 12:30 | Romania | FC Metaloglobus București vs FK Csíkszereda Miercurea Ciuc | **0 - 0** | `1st half` | --- |
+| 11:00 | World | Denmark U23 vs USA U23 | **1 - 1** | `2nd half` | Unknown 69'(H), Unknown 35'(A) |
+| 12:00 | Europe | Scotland U19 vs North Macedonia U19 | **4 - 0** | `1st half` | Ella West 41'(H), Sienna  McGoldrick 38'(H), Abigail Tobin 29'(H), Sophie Black 20'(H) |
+| 12:00 | Asia | Uzbekistan U17 vs Tajikistan U17 | **0 - 0** | `1st half` | --- |
+| 12:30 | Asia | Indonesia U17 vs East Timor U17 | **1 - 0** | `1st half` | Unknown 8'(H) |
+| 11:00 | Italy | Hellas Verona U20 vs Lazio U20 | **1 - 1** | `2nd half` | Fallou Cham 34'(H), Ricardo Bordon 5'(A) |
+| 12:00 | Italy | Cagliari U18 vs Bologna U18 | **0 - 0** | `Started` | --- |
+| 11:30 | Albania | KF Tirana B vs KF Vllaznia B | **0 - 4** | `1st half` | Irdi Zekaj 35'(A), Unknown 26'(A), Bilal Maouloud 15'(A), Unknown 5'(A) |
+| 12:00 | Armenia | FC Ararat II vs Sardarapat FC | **0 - 2** | `1st half` | Unknown 41'(A), Hamlet Minasyan 8'(A) |
+| 11:30 | Azerbaijan | Araz Saatlı FK vs Göygöl FK | **1 - 0** | `Started` | Unknown 9'(H) |
+| 12:00 | Azerbaijan | Ağdaş FK vs Kür-Araz FK | **0 - 0** | `Started` | --- |
+| 12:00 | Azerbaijan | Şəmkir PFK vs Şirvan FK | **0 - 2** | `Started` | Unknown 26'(A), Unknown 12'(H) |
+| 11:00 | Azerbaijan | Qarabağ II vs Sumqayıt FK II | **1 - 0** | `Started` | Hikmat Cabrayilzada 32'(H) |
 | 11:00 | Azerbaijan | Qəbələ 2 vs Neftçi Baku II | **1 - 0** | `Started` | Unknown 25'(H) |
-| 10:00 | Azerbaijan | Kəpəz Youth vs Şamaxı FK U19 | **0 - 0** | `Started` | --- |
-| 10:00 | Belarus | FC Belshina 2 vs Vitebsk 2 | **0 - 9** | `Started` | Unknown 66'(A), Unknown 66'(A), Unknown 66'(A), Unknown -1'(A), Unknown -1'(A), Unknown 38'(A), Unknown 21'(A), Unknown 13'(A), Gleb Minkevich 5'(A) |
-| 10:30 | Belarus | Dnepr Mogilev 2 vs Slavia Mozyr 2 | **2 - 0** | `Started` | Unknown -1'(H), Unknown -1'(H) |
-| 10:30 | Bulgaria Amateur | FC Volov Shumen 2007 II Shumen vs FC Mladost 2024 Makak Shumen | **3 - 1** | `Halftime` | Unknown 44'(A), Unknown 39'(H), Unknown 35'(H), Unknown 24'(H) |
+| 12:30 | Brazil | Goiás U20 vs Anápolis U20 | **0 - 0** | `1st half` | --- |
+| 12:30 | Brazil Amateur | Aparecidense U15 vs Vila Nova U15 | **0 - 0** | `Started` | --- |
 | 11:00 | Bulgaria Amateur | FC Enev Dibich vs FC Geroy Zaychino Oreshe | **0 - 0** | `Started` | --- |
-| 10:00 | Bulgaria Amateur | FC Balkan 2012 Tvarditsa vs FC Burya Gradsko | **0 - 0** | `Started` | --- |
 | 11:00 | Bulgaria Amateur | FC Botev Kermen vs FC Sinite kamani 2022 Sliven | **0 - 0** | `Started` | --- |
 | 11:00 | Croatia Amateur | NK Kustošija U17 vs NK Sesvete U17 | **0 - 0** | `Started` | --- |
-| 10:00 | Ethiopia | Sheger Ketema vs Negelle Arsi | **1 - 1** | `2nd half` | Unknown 65'(H), Unknown 61'(A) |
-| 10:25 | Ghana | Bis Paradise SC vs Memphis FC | **0 - 0** | `1st half` | --- |
-| 10:30 | India | Friends United vs Tarun Sangha | **1 - 2** | `2nd half` | Unknown 41'(H), Unknown 26'(A), Unknown 11'(A) |
+| 12:00 | England Amateur | Coventry City U21 vs Millwall U21 | **0 - 2** | `1st half` | Unknown 21'(A), Unknown 18'(A) |
+| 12:00 | England Amateur | Crewe Alexandra U21 vs Queens Park Rangers U21 | **1 - 1** | `1st half` | Unknown 34'(A), Unknown 22'(H) |
+| 12:00 | Ethiopia | Mekelle 70  Enderta vs Welwalu Adigrat | **1 - 0** | `1st half` | Unknown 3'(H) |
+| 10:25 | Ghana | Bis Paradise SC vs Memphis FC | **2 - 0** | `2nd half` | Unknown 47'(H), Unknown 34'(H) |
 | 13:30 | India Amateur | EMEA College vs SAI Kollam | **0 - 0** | `Started` | --- |
-| 10:30 | India Amateur | Sesa FA vs Calangute Association | **0 - 0** | `2nd half` | --- |
-| 11:30 | Singapore | Balestier Khalsa vs Albirex Niigata Singapore | **0 - 0** | `1st half` | --- |
-| 10:00 | Turkey Amateur | Sürmenespor vs Trabzon Faroz Yalıspor | **2 - 3** | `2nd half` | Unknown 71'(H), Unknown 66'(A), Unknown 53'(A), Unknown 49'(A), Unknown 16'(H) |
-| 10:00 | Turkey Amateur | Çaykaraspor vs Vakfıkebir 1874 FK | **0 - 0** | `2nd half` | --- |
-| 10:00 | Turkey Amateur | Beşiktaş U16 vs Bursaspor U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Eyüpspor U16 vs Ümraniyespor U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Fenerbahçe U16 vs Sarıyer U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Galatasaray U16 vs Sakaryaspor U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Kasımpaşa U16 vs Pendikspor U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Fatih Karagümrük U17 vs Kocaelispor U17 | **0 - 0** | `Started` | --- |
+| 12:00 | India Amateur | Jerthi Football Club vs Jaipur City Football Club | **0 - 0** | `Started` | --- |
+| 12:00 | Libya | Shabab Al Sahraa SC vs Al Butnan FC | **0 - 0** | `Started` | --- |
+| 12:00 | Norway | Molde FK II vs Ranheim 2 | **3 - 0** | `1st half` | Unknown 37'(H), Unknown 20'(H), Unknown 6'(H) |
+| 12:00 | Serbia Amateur | GFK Sloboda Užice U19 vs FK Javor Ivanjica U19 | **0 - 0** | `Started` | --- |
+| 11:30 | Singapore | Balestier Khalsa vs Albirex Niigata Singapore | **1 - 1** | `2nd half` | Abdul Rasaq 36'(A), Bogdan Mandić 33'(H) |
+| 12:30 | Somalia | FC Badbaado vs FC Heegan | **0 - 0** | `Started` | --- |
+| 12:00 | Sweden Amateur | Helsingborg U21 vs Landskrona BoIS U21 | **0 - 0** | `1st half` | --- |
+| 12:00 | Sweden Amateur | IFK Goteborg U21 vs GAIS U21 | **0 - 1** | `1st half` | Unknown 14'(A) |
+| 12:00 | Turkey | Caykur Rizespor U19 vs Gaziantep FK U19 | **0 - 0** | `1st half` | --- |
+| 12:00 | Turkey | Eyupspor U19 vs Samsunspor U19 | **1 - 0** | `1st half` | Unknown 11'(H) |
+| 12:00 | Turkey Amateur | Diyarbakır DSİ vs Bağlar Belediyespor | **0 - 3** | `1st half` | Unknown 36'(A), Unknown 24'(A), Unknown 22'(A) |
+| 12:00 | Turkey Amateur | Fatih Karagümrük U16 vs Kocaelispor U16 | **0 - 0** | `Started` | --- |
 | 11:00 | Turkey Amateur | Esenler Erokspor U17 vs İstanbulspor U17 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Serikspor A.Ş. U16 vs Selçuklu Diriliş Gençlikspor U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Ayazağaspor U16 vs Kırklarelispor U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Çorlu Belediye FK U16 vs Dudullu SK U16 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Bandırmaspor U19 vs Silivrispor U19 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Eskişehirspor U19 vs Dudullu SK U19 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | İFA SK U19 vs Kartalspor U19 | **0 - 0** | `Started` | --- |
-| 10:00 | Ukraine | LNZ Cherkasy vs Shakhtar Donetsk | **2 - 2** | `Halftime` | Mark Assinor 45'(H), Eguinaldo 34'(A), Valeriy Bondar 28'(H), Artur Ryabov 11'(A) |
-| 10:15 | Ukraine | FC Real Pharma Odesa vs FC Skala 1911 Stryi | **0 - 0** | `2nd half` | --- |
+| 12:00 | Turkey Amateur | Beşiktaş U17 vs Bursaspor U17 | **0 - 0** | `Started` | --- |
+| 12:00 | Turkey Amateur | Eyüpspor U17 vs Ümraniyespor U17 | **0 - 0** | `Started` | --- |
+| 12:00 | Turkey Amateur | Fenerbahçe U17 vs Sarıyer U17 | **0 - 0** | `Started` | --- |
+| 12:00 | Turkey Amateur | Galatasaray U17 vs Sakaryaspor U17 | **0 - 0** | `Started` | --- |
+| 12:00 | Turkey Amateur | Kasımpaşa U17 vs Pendikspor U17 | **0 - 0** | `Started` | --- |
+| 12:00 | Turkey Amateur | Serikspor A.Ş. U17 vs Selçuklu Diriliş Gençlikspor U17 | **0 - 0** | `Started` | --- |
+| 12:00 | Turkey Amateur | Guzide Gebzespor U19 vs İstanbul Beylikdüzüspor U19 | **0 - 0** | `Started` | --- |
+| 12:15 | Ukraine | FC Livyi Bereh Kyiv vs FC Metalist Kharkiv | **1 - 0** | `1st half` | Yevhen Banada 19'(H) |
+| 10:45 | Ukraine | FC Hirnyk-Sport Horishni Plavni vs FC Livyi Bereh-2 Kyiv | **0 - 2** | `2nd half` | Valentyn Tkach 16'(A), Daniil Korniienko 6'(A) |
+| 11:15 | Ukraine | FC Dinaz Vyshhorod vs SC Chaika Petropavlivska Borshchahivka | **0 - 0** | `Halftime` | --- |
+| 12:30 | Uruguay | Racing Club Reserve vs Defensor Sporting Reserve | **0 - 1** | `1st half` | Unknown 6'(A) |
