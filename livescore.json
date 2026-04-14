@@ -1,9 +1,49 @@
 {
     "metadata": {
         "source": "YoSinTV",
-        "updated": "2026-04-14 21:05:29 UTC"
+        "updated": "2026-04-14 22:01:29 UTC"
     },
     "matches": [
+        {
+            "start_time": "22:00",
+            "league": "CONMEBOL Libertadores, Group A",
+            "country": "South America",
+            "home": "Estudiantes de La Plata",
+            "away": "Cusco FC",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "22:00",
+            "league": "CONMEBOL Libertadores, Group B",
+            "country": "South America",
+            "home": "Nacional",
+            "away": "Deportes Tolima",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "22:00",
+            "league": "CONMEBOL Libertadores, Group F",
+            "country": "South America",
+            "home": "Cerro Porte\u00f1o",
+            "away": "Junior Barranquilla",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
+        {
+            "start_time": "22:00",
+            "league": "CONMEBOL Sudamericana, Group F",
+            "country": "South America",
+            "home": "Gr\u00eamio",
+            "away": "Deportivo Riestra",
+            "score": "0 - 0",
+            "minute": "1st half",
+            "scorers": []
+        },
         {
             "start_time": "20:15",
             "league": "Liga 1, Apertura",
@@ -11,7 +51,7 @@
             "home": "Asociaci\u00f3n Deportiva Tarma",
             "away": "Alianza Lima",
             "score": "0 - 1",
-            "minute": "1st half",
+            "minute": "2nd half",
             "scorers": [
                 "Eryc Castillo 29'(A)"
             ]
@@ -23,7 +63,7 @@
             "home": "Bolivia",
             "away": "Uruguay",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
@@ -32,9 +72,11 @@
             "country": "South America",
             "home": "Peru",
             "away": "Paraguay",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 1",
+            "minute": "Halftime",
+            "scorers": [
+                "Yomira Tacilla 17'(A)"
+            ]
         },
         {
             "start_time": "21:00",
@@ -43,127 +85,19 @@
             "home": "Saint Vincent And The Grenadines",
             "away": "US Virgin Islands",
             "score": "0 - 0",
-            "minute": "1st half",
+            "minute": "Halftime",
             "scorers": []
         },
         {
-            "start_time": "20:00",
-            "league": "Copa Ecuador",
-            "country": "Ecuador",
-            "home": "Nazareno SC",
-            "away": "9 de Octubre",
+            "start_time": "21:30",
+            "league": "CONCACAF W Championship Qualification, Group C",
+            "country": "North & Central America",
+            "home": "Grenada",
+            "away": "Cayman Islands",
             "score": "0 - 1",
-            "minute": "2nd half",
+            "minute": "1st half",
             "scorers": [
-                "Jhojan Riascos 17'(A)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Premier Division",
-            "country": "England Amateur",
-            "home": "Baffins Milton Rovers FC",
-            "away": "Andover New Street FC",
-            "score": "1 - 1",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 45'(A)",
-                "Unknown 12'(H)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Premier Division",
-            "country": "England Amateur",
-            "home": "AFC Stoneham",
-            "away": "Cowes Sports FC",
-            "score": "2 - 0",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 31'(H)",
-                "Unknown 14'(H)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Premier Division",
-            "country": "England Amateur",
-            "home": "Brockenhurst",
-            "away": "Sherborne Town",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Premier Division",
-            "country": "England Amateur",
-            "home": "Hamworthy Recreation",
-            "away": "Downton FC",
-            "score": "1 - 1",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 45'(H)",
-                "Unknown 18'(A)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Premier Division",
-            "country": "England Amateur",
-            "home": "Hythe & Dibden FC",
-            "away": "Millbrook FC",
-            "score": "0 - 2",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 22'(A)",
-                "Unknown 13'(A)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Premier Division",
-            "country": "England Amateur",
-            "home": "Laverstock & Ford",
-            "away": "Petersfield Town",
-            "score": "3 - 0",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 27'(H)",
-                "Unknown 8'(H)",
-                "Unknown 1'(H)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Division One",
-            "country": "England Amateur",
-            "home": "Amesbury Town",
-            "away": "Fawley AFC",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Division One",
-            "country": "England Amateur",
-            "home": "Blackfield & Langley",
-            "away": "Totton and Eling FC",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Division One",
-            "country": "England Amateur",
-            "home": "Cove FC",
-            "away": "Whitchurch United",
-            "score": "1 - 0",
-            "minute": "Halftime",
-            "scorers": [
-                "Unknown 8'(H)"
+                "Unknown 3'(A)"
             ]
         },
         {
@@ -181,96 +115,6 @@
         },
         {
             "start_time": "18:45",
-            "league": "Velocity Wessex League Division One",
-            "country": "England Amateur",
-            "home": "Folland Sports",
-            "away": "Romsey Town FC",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Velocity Wessex League Division One",
-            "country": "England Amateur",
-            "home": "Newport Isle of Wight",
-            "away": "Clanfield FC",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Hellenic League, Division One",
-            "country": "England Amateur",
-            "home": "Stonehouse Town",
-            "away": "Newent Town AFC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Hellenic League, Division One",
-            "country": "England Amateur",
-            "home": "Clanfield 85",
-            "away": "Carterton FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Hellenic League, Division One",
-            "country": "England Amateur",
-            "home": "FC Stratford",
-            "away": "Shortwood United",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Hellenic League, Division One",
-            "country": "England Amateur",
-            "home": "Malmesbury Victoria FC",
-            "away": "Chipping Sodbury Town Fc",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Hellenic League, Division One",
-            "country": "England Amateur",
-            "home": "Thame United Reserves",
-            "away": "Brimscombe & Thrupp FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Surrey Premier County Football League",
-            "country": "England Amateur",
-            "home": "Dial Square FC",
-            "away": "CB Hounslow & Abbots FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
-            "league": "Hampshire Premier League",
-            "country": "England Amateur",
-            "home": "Hedge End Rangers FC",
-            "away": "Locks Heath",
-            "score": "0 - 0",
-            "minute": "Halftime",
-            "scorers": []
-        },
-        {
-            "start_time": "18:45",
             "league": "Hampshire Premier League",
             "country": "England Amateur",
             "home": "Andover Town",
@@ -285,28 +129,16 @@
             ]
         },
         {
-            "start_time": "20:00",
-            "league": " Honduras Reserve League",
-            "country": "Honduras",
-            "home": "Motagua Reserves",
-            "away": "Genesis De Comayagua Reserves",
-            "score": "2 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 45'(H)",
-                "Unknown 40'(A)",
-                "Unknown 21'(H)"
-            ]
-        },
-        {
             "start_time": "21:00",
             "league": " Honduras Reserve League",
             "country": "Honduras",
             "home": "CD Platense Reserves",
             "away": "CD Marathon Reserves",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 34'(H)"
+            ]
         },
         {
             "start_time": "21:00",
@@ -314,9 +146,13 @@
             "country": "Honduras",
             "home": "CD Victoria la Ceiba Reserves",
             "away": "Lobos UPNFM Reserves",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "0 - 3",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 39'(A)",
+                "Unknown 14'(A)",
+                "Unknown 12'(A)"
+            ]
         },
         {
             "start_time": "21:00",
@@ -324,9 +160,11 @@
             "country": "Honduras",
             "home": "Olancho FC Reserves",
             "away": "CD Choloma Reserves",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
+            "score": "1 - 0",
+            "minute": "Halftime",
+            "scorers": [
+                "Unknown 29'(H)"
+            ]
         },
         {
             "start_time": "21:00",
@@ -334,66 +172,15 @@
             "country": "Honduras",
             "home": "Real Espana Reserves",
             "away": "Juticalpa Reserves",
-            "score": "0 - 0",
-            "minute": "1st half",
-            "scorers": []
-        },
-        {
-            "start_time": "19:00",
-            "league": "Icelandic Men's Football League Cup C, Group 2",
-            "country": "Iceland",
-            "home": "\u00c1lftanes",
-            "away": "RB Keflav\u00edk",
-            "score": "2 - 0",
-            "minute": "2nd half",
+            "score": "5 - 0",
+            "minute": "Halftime",
             "scorers": [
-                "Unknown 20'(H)",
-                "Unknown 5'(H)"
+                "Unknown 43'(H)",
+                "Unknown 27'(H)",
+                "Unknown 24'(H)",
+                "Unknown 22'(H)",
+                "Unknown 7'(H)"
             ]
-        },
-        {
-            "start_time": "20:00",
-            "league": "U19 League, deild A",
-            "country": "Iceland",
-            "home": "Stjarnan/KFG/Alftanes U19",
-            "away": "Breidablik/Augnablik/Smari U19",
-            "score": "0 - 3",
-            "minute": "2nd half",
-            "scorers": [
-                "Unknown 43'(A)",
-                "Unknown 28'(A)",
-                "Unknown 26'(A)"
-            ]
-        },
-        {
-            "start_time": "18:45",
-            "league": "NIFL Premier Intermediate League",
-            "country": "Northern Ireland",
-            "home": "Dollingstown",
-            "away": "Strabane Athletic FC",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
-        },
-        {
-            "start_time": "19:30",
-            "league": "Primera Divisi\u00f3n B",
-            "country": "Paraguay",
-            "home": "24 de Setiembre",
-            "away": "Presidente Hayes",
-            "score": "0 - 0",
-            "minute": "2nd half",
-            "scorers": []
-        },
-        {
-            "start_time": "19:30",
-            "league": "A.F. Leiria 1\u00aaDivis\u00e3o Juvenis, Group C",
-            "country": "Portugal Amateur",
-            "home": "UD Serra U17",
-            "away": "UD Batalha B U17",
-            "score": "0 - 0",
-            "minute": "Started",
-            "scorers": []
         },
         {
             "start_time": "20:00",
@@ -406,50 +193,14 @@
             "scorers": []
         },
         {
-            "start_time": "20:00",
-            "league": "Pozitif Lig, Group B",
-            "country": "Turkey Amateur",
-            "home": "Veteranlar FK",
-            "away": "Atletico Turco",
-            "score": "3 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Ali  Kona\u00e7 46'(A)",
-                "Mikail Yal\u00e7\u0131n 40'(H)",
-                "Umut \u00d6z\u00e7elik 27'(A)",
-                "Serkan Karahan 20'(H)",
-                "Cengizhan T\u00fczen 9'(H)"
-            ]
-        },
-        {
-            "start_time": "20:00",
-            "league": "Pozitiflig G\u00fcney, Group B",
-            "country": "Turkey Amateur",
-            "home": "\u0130n\u00f6n\u00fc City",
-            "away": "X FC",
-            "score": "1 - 1",
-            "minute": "2nd half",
-            "scorers": [
-                "\u00c7a\u011fatay Altun 25'(H)",
-                "Yakup Teker 3'(A)"
-            ]
-        },
-        {
-            "start_time": "19:45",
-            "league": "Futbolig A\u00e7\u0131l\u0131\u015f Sezonu, Group A",
-            "country": "Turkey Amateur",
-            "home": "D\u00f6rty\u00fczon",
-            "away": "Nafta Boys FC",
-            "score": "4 - 2",
-            "minute": "2nd half",
-            "scorers": [
-                "Osman Bu\u011fra Ulut\u00fcrk 36'(A)",
-                "Serhat Eri\u015fmi\u015f 32'(H)",
-                "\u00c7a\u011fatay Y\u0131lmaz 22'(H)",
-                "Eren Yavuz 11'(A)",
-                "\u00c7a\u011fr\u0131 \u00c7a\u011flayan 9'(H)",
-                "G\u00f6ktu\u011f Agu\u015f 9'(H)"
-            ]
+            "start_time": "22:00",
+            "league": "2. Liga - Interregional 3",
+            "country": "Switzerland Amateur",
+            "home": "FC D\u00fcbendorf",
+            "away": "SC Binningen",
+            "score": "0 - 0",
+            "minute": "Started",
+            "scorers": []
         }
     ]
 }
