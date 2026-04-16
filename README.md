@@ -2,27 +2,23 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 19:30 | World | Côte d'Ivoire vs Pakistan | **2 - 0** | `2nd half` | Habibou Ouedraogo 69'(H), Ami Diallo 40'(H) |
-| 20:00 | South America | Uruguay U17 vs Venezuela U17 | **1 - 0** | `2nd half` | Juan Pablo Gancheff 34'(H) |
-| 20:00 | South America | Brazil U17 vs Colombia U17 | **0 - 1** | `2nd half` | Adrian Mosquera 53'(A) |
-| 21:00 | International Youth | Argentina U16 vs Mexico U16 | **0 - 0** | `1st half` | --- |
-| 21:00 | Brazil | Tocantinópolis vs Atlético Goianiense | **0 - 0** | `1st half` | --- |
-| 19:00 | Brazil Amateur | Atlético Goianiense U15 vs FC Estrela U15 | **1 - 0** | `Started` | Unknown 90'(H) |
-| 19:00 | Brazil Amateur | CE Wilson Goiano U15 vs Vila Nova U15 | **0 - 1** | `Started` | Unknown 90'(A) |
-| 19:00 | Brazil Amateur | Canedo FC U15 vs Cerrado U15 | **1 - 0** | `Started` | Unknown 18'(H) |
-| 19:00 | Brazil Amateur | Goiás U15 vs FluGoiânia U15 | **0 - 0** | `Started` | --- |
-| 19:00 | Brazil Amateur | Morrinhos U15 vs Aparecidense U15 | **0 - 0** | `Started` | --- |
-| 19:00 | Brazil Amateur | Ovel U15 vs Itaberaí U15 | **0 - 1** | `Started` | Unknown 28'(A) |
-| 20:30 | Ecuador | Independiente Juniors vs Deportivo Santo Domingo | **1 - 1** | `Halftime` | Unknown 35'(H), Unknown 10'(A) |
+| 22:00 | South America | Palmeiras vs Club Sporting Cristal | **0 - 0** | `1st half` | --- |
+| 22:00 | South America | CA Lanús vs Club Always Ready | **0 - 0** | `1st half` | --- |
+| 22:00 | South America | Tigre vs Macará | **0 - 0** | `1st half` | --- |
+| 22:00 | South America | Atlético Mineiro vs Juventud de Las Piedras | **0 - 0** | `1st half` | --- |
+| 21:00 | International Youth | Argentina U16 vs Mexico U16 | **2 - 1** | `Halftime` | Lucas Silva Cedillo 44'(A), Bruno Cabral 24'(H), Bruno Cabral 15'(H) |
+| 22:00 | Brazil | América-RN vs Fortaleza | **0 - 0** | `1st half` | --- |
+| 22:00 | Brazil | Imperatriz vs ABC | **0 - 1** | `1st half` | Bruno Leite 3'(A) |
+| 21:00 | Brazil | Tocantinópolis vs Atlético Goianiense | **0 - 0** | `2nd half` | --- |
+| 20:30 | Ecuador | Independiente Juniors vs Deportivo Santo Domingo | **2 - 1** | `2nd half` | Unknown 56'(H), Unknown 35'(H), Unknown 10'(A) |
+| 21:30 | El Salvador | CD Águila vs CD Cacahuatique | **0 - 0** | `1st half` | --- |
 | 18:45 | England Amateur | Fleetlands FC vs Folland Sports | **0 - 1** | `2nd half` | Unknown 30'(A) |
 | 18:45 | England Amateur | Totton and Eling FC vs Colden Common FC | **0 - 0** | `2nd half` | --- |
 | 19:45 | England Amateur | Shortwood United vs Thame United Reserves | **0 - 1** | `Started` | Unknown -1'(A) |
-| 20:00 | Haiti | Baltimore SC vs FICA | **0 - 0** | `1st half` | --- |
+| 22:00 | Guatemala | FC Santa Lucía Cotzumalguapa vs CD Suchitepéquez | **0 - 0** | `1st half` | --- |
+| 20:00 | Haiti | Baltimore SC vs FICA | **1 - 0** | `2nd half` | Unknown 37'(H) |
 | 20:00 | Haiti | Racing FC des Gonaïves vs Tempête FC | **0 - 0** | `2nd half` | --- |
-| 19:30 | Italy Amateur | Università Vita-Salute San Raffaele vs Università Cattolica del Sacro Cuore | **0 - 0** | `Started` | --- |
-| 21:00 | Nicaragua | CS Sébaco vs Diriangén FC | **0 - 0** | `1st half` | --- |
-| 21:00 | Panama | Sporting San Miguelito Reserves vs Academia Costa Del Este | **0 - 0** | `1st half` | --- |
-| 19:00 | Spain Amateur | SD Beasain B vs CD Anaitasuna FT | **0 - 0** | `Started` | --- |
-| 19:00 | Spain Amateur | Marca de L'Ham vs Roses City FC | **0 - 0** | `Started` | --- |
-| 19:00 | Spain Amateur | Penya Esportiva Montagut vs CE Abadessenc | **0 - 0** | `Started` | --- |
-| 19:00 | Spain Amateur | Vilabrareix FC B vs SantJoanenc | **0 - 0** | `Started` | --- |
+| 21:00 | Nicaragua | CS Sébaco vs Diriangén FC | **0 - 2** | `2nd half` | Jonathan Moncada 42'(A), Jonathan Moncada 40'(A) |
+| 22:00 | Nicaragua | ART Municipal Jalapa vs Real Madriz | **0 - 0** | `1st half` | --- |
+| 21:00 | Panama | Sporting San Miguelito Reserves vs Academia Costa Del Este | **0 - 1** | `2nd half` | Unknown 45'(A) |
+| 21:45 | USA | Any Means United vs Speed United | **0 - 2** | `1st half` | Joao Domingues 12'(A), Steven Kodra 2'(A) |
