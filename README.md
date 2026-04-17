@@ -2,18 +2,15 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | South America | Palmeiras vs Club Sporting Cristal | **2 - 1** | `2nd half` | José López 80'(H), Juan Gonzalez 41'(A), Murilo 27'(H) |
-| 22:00 | South America | CA Lanús vs Club Always Ready | **1 - 0** | `2nd half` | Yoshan Valois 67'(H) |
-| 22:00 | South America | Tigre vs Macará | **0 - 1** | `2nd half` | Federico Paz 54'(A) |
-| 22:00 | South America | Atlético Mineiro vs Juventud de Las Piedras | **2 - 1** | `2nd half` | Facundo Perez 55'(A), Bernard 43'(H) |
-| 23:00 | South America | Bolivia U17 vs Chile U17 | **0 - 2** | `Halftime` | Joaquín Muñoz 45'(A), Amaro Riveros 32'(A) |
-| 23:00 | South America | Ecuador U17 vs Argentina U17 | **0 - 1** | `1st half` | Facundo Salinas 9'(A) |
-| 22:30 | Bolivia | García Agreda vs Avilés Industrial FC | **1 - 0** | `Started` | Unknown 37'(H) |
-| 22:00 | Brazil | América-RN vs Fortaleza | **1 - 1** | `2nd half` | Carlos Coppetti 81'(H), Gustavo 21'(A) |
-| 22:00 | Brazil | Imperatriz vs ABC | **1 - 3** | `2nd half` | Luiz Fernando 44'(A), Joel Araújo 12'(H), Bruno Leite 9'(A), Bruno Leite 3'(A) |
-| 23:30 | Brazil | Operário-MS vs Primavera AC | **1 - 1** | `1st half` | Giovanni 9'(A), Unknown 4'(H) |
-| 23:00 | Colombia Amateur | Enmedio vs Iberoamericana | **2 - 3** | `2nd half` | Sebastian  Obregon 47'(H), Michael Sanchez Pinzon 21'(A), Juan David Perez 15'(A), Cristian Hernandez 12'(H) |
-| 23:00 | Guatemala | CD Mictlán vs Deportivo Mixco | **1 - 1** | `1st half` | Kennedy Rocha 25'(A), William Jehú Fajardo 15'(H) |
-| 22:00 | Guatemala | FC Santa Lucía Cotzumalguapa vs CD Suchitepéquez | **1 - 2** | `2nd half` | Jorge Matul 50'(A), Unknown 15'(H), Andrés Lezcano 11'(A) |
-| 22:00 | Nicaragua | ART Municipal Jalapa vs Real Madriz | **2 - 0** | `2nd half` | Oscar Rosales 67'(H), Unknown 57'(H) |
-| 23:30 | USA | 876 United vs Showtime FC | **0 - 1** | `1st half` | Unknown 9'(A) |
+| 00:30 | South America | Flamengo vs Independiente Medellín | **1 - 1** | `1st half` | Yony Gonzalez 40'(A), Lucas Paquetá 15'(H) |
+| 00:30 | South America | Peñarol vs Platense | **0 - 1** | `1st half` | Guido Mainero 22'(A) |
+| 00:30 | South America | San Lorenzo vs Deportivo Cuenca | **0 - 0** | `1st half` | --- |
+| 00:30 | South America | Red Bull Bragantino vs Blooming | **1 - 0** | `1st half` | Fernando 16'(H) |
+| 00:30 | Bolivia | Nacional La Pampa San Cayetano vs Chapaquito Nacional Senac | **0 - 0** | `Started` | --- |
+| 00:00 | Bonaire | SV Estrellas vs SV Juventus | **3 - 0** | `Halftime` | Unknown 27'(H), Unknown 25'(H), Unknown 15'(H) |
+| 23:30 | Brazil | Operário-MS vs Primavera AC | **3 - 1** | `2nd half` | Unknown 63'(H), Einstein 54'(H), Giovanni 9'(A), Unknown 4'(H) |
+| 00:30 | Brazil | Corinthians U20 vs Santos U20 | **0 - 0** | `1st half` | --- |
+| 01:00 | Colombia Amateur | Arnold Iguarán FC - Nia Champion Grama FC vs Atlético Chia FC | **0 - 0** | `Started` | --- |
+| 00:00 | Ecuador | El Nacional vs Atlético Rojiblanco | **1 - 1** | `2nd half` | Unknown 48'(H), Darlin Leiton 36'(A) |
+| 01:00 | Panama | SD Atletico Nacional vs Udelas FC | **0 - 0** | `1st half` | --- |
+| 00:30 | USA | For The Win FC vs Super Niños | **0 - 1** | `Halftime` | Felipe Gutiérrez Castillo 1'(A) |
