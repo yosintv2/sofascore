@@ -2,6 +2,9 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 05:00 | China | Jinan Linkaifu vs Anhui Wanmei | **0 - 3** | `2nd half` | Unknown 22'(A), Unknown 11'(A) |
-| 05:00 | China | Kunshan Zhangpu Sports vs Yangzhou Sanwan Ledao | **1 - 0** | `2nd half` | Unknown 10'(H) |
-| 06:10 | Indonesia | Persipegaf vs Ransiki | **0 - 0** | `1st half` | --- |
+| 07:00 | China | Xiamen Chengyi vs Shenzhen 2028 FC | **0 - 1** | `2nd half` | Unknown 45'(A) |
+| 08:00 | China | Jiangsu Changjin vs Nanjing Longsheng | **4 - 0** | `1st half` | Unknown 33'(H), Unknown 21'(H) |
+| 08:00 | China | Shanghai Zetian vs Hefei City FC | **1 - 0** | `1st half` | Unknown 19'(H) |
+| 08:30 | Greece Amateur | AE Lerou vs AE Kattavia | **0 - 0** | `Started` | --- |
+| 07:30 | India | Noida City FC vs Royal Rangers FC | **1 - 1** | `2nd half` | Unknown 45'(H), Unknown 11'(A) |
+| 08:30 | Indonesia | Semen Padang FC vs Persijap Jepara | **0 - 0** | `1st half` | --- |
