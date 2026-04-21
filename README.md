@@ -2,22 +2,21 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:30 | Argentina | San Lorenzo vs Vélez Sarsfield | **0 - 0** | `2nd half` | --- |
-| 22:00 | Venezuela | Carabobo FC vs Anzoátegui FC | **5 - 1** | `2nd half` | Joshuan Berríos 68'(H), Juan Camilo Pérez 56'(H), Yohandry Orozco 51'(H), Antony Velasco 44'(A), Eric Ramírez 25'(H), Edson Castillo 23'(H) |
-| 23:00 | Venezuela | Deportivo La Guaira vs Portuguesa FC | **0 - 0** | `1st half` | --- |
-| 23:20 | Colombia | Once Caldas vs Internacional de Bogotá | **0 - 0** | `1st half` | --- |
-| 23:00 | Argentina | Atlético de Rafaela vs Agropecuario Argentino | **1 - 0** | `1st half` | Agustín Obando 22'(H) |
-| 23:00 | Brazil | Floresta vs Ferroviária | **0 - 0** | `1st half` | --- |
-| 23:00 | Brazil | Maringá FC vs Brusque | **0 - 2** | `1st half` | Macário 26'(A), Gabriel Henrique Lima Santos 7'(A) |
-| 22:00 | Brazil | Ferroviária vs América Mineiro | **3 - 1** | `2nd half` | Ana Clara 45'(A), Andressa Pereira 45'(H), Micaelly 36'(H), Ana Grazyelle 6'(H) |
-| 22:00 | Brazil | Santos vs Atlético Mineiro | **1 - 1** | `2nd half` | Giovanna Barraca 56'(A), Diovanna 11'(H) |
-| 22:00 | Brazil | São Paulo vs Grêmio | **3 - 1** | `2nd half` | Isabelle Guimarães 54'(H), Giovaninha 49'(A), Bruna Calderan 8'(H), Robinha 1'(H) |
-| 23:00 | Brazil | Ação vs Atlético Matogrossense | **0 - 1** | `1st half` | Unknown 15'(A) |
-| 22:00 | Brazil | Águia de Marabá U20 vs Marabá EC U20 | **3 - 1** | `2nd half` | Unknown 61'(A), Unknown 50'(H), Unknown 45'(H) |
-| 22:00 | Brazil Amateur | Furia FC vs Dibrados FC | **3 - 4** | `2nd half` | Edda Marcelino 32'(A), Luiggi Longo 17'(A), Lipão Pinheiro 9'(H), Lipão Pinheiro 9'(H), Lucas Tylty 7'(A), Gabriel Costa 2'(A), Lipão Pinheiro 1'(H) |
-| 23:00 | Colombia Amateur | Enmedio vs Positiva 2 | **5 - 2** | `1st half` | Jhon  Bernal 17'(H), David Moreno Cortes 16'(A), Michael Kevin Quitian 14'(A), Jonathan  Moya 9'(H), Diego  Lozano 8'(H), Daniel  Rico 6'(H), Sebastian  Obregon 3'(H) |
-| 23:00 | Costa Rica | Pitbulls Santa Barbara FC vs Inter San Carlos | **0 - 1** | `1st half` | Unknown 21'(A) |
-| 23:30 | Paraguay | Sportivo Ameliano vs Nacional Asunción | **0 - 0** | `1st half` | --- |
-| 13:00 | Paraguay | Club Fernando de La Mora vs Carapegua | **0 - 0** | `1st half` | --- |
-| 23:30 | Uruguay | Peñarol vs Juventud de Las Piedras | **0 - 0** | `1st half` | --- |
+| 00:45 | Argentina | Gimnasia y Esgrima Mendoza vs CA Lanús | **0 - 0** | `1st half` | --- |
+| 00:45 | Argentina | Tigre vs Huracán | **0 - 0** | `1st half` | --- |
+| 00:30 | Chile | Universidad Católica vs Unión La Calera | **0 - 0** | `1st half` | --- |
+| 23:20 | Colombia | Once Caldas vs Internacional de Bogotá | **2 - 1** | `2nd half` | Mateo Zuleta 68'(H), Fabricio Sanguinetti 48'(A), Luis Sánchez 41'(H) |
+| 00:00 | Argentina | Atlanta vs Club Atlético Chacarita Juniors | **0 - 0** | `Halftime` | --- |
+| 00:30 | Aruba | Brazil Juniors vs SV Caiquetio | **0 - 0** | `1st half` | --- |
+| 00:00 | Bonaire | SV Vespo vs SV Vitesse | **1 - 0** | `Halftime` | Jurven Koffy 41'(H) |
+| 00:00 | Brazil | EC Juventude vs Corinthians | **0 - 1** | `2nd half` | Gabriela Zanotti 45'(A) |
+| 00:30 | Brazil | Flamengo vs EC Bahia | **0 - 1** | `1st half` | Cássia 9'(A) |
+| 00:00 | Brazil Amateur | G3X FC vs Nyvelados FC | **1 - 0** | `1st half` | Unknown 1'(H) |
+| 00:00 | Chile | Deportes Puerto Montt vs Deportes Temuco | **1 - 0** | `Halftime` | Jason Flores 41'(H) |
+| 01:00 | Costa Rica | Fútbol Consultants Desamparados vs ADR Jicaral Sercoba | **0 - 0** | `1st half` | --- |
+| 01:00 | Guatemala | Comunicaciones FC vs Deportivo Guastatoya | **0 - 0** | `1st half` | --- |
+| 01:06 | Mexico | FC Juárez vs Guadalajara | **0 - 0** | `1st half` | --- |
+| 23:30 | Paraguay | Sportivo Ameliano vs Nacional Asunción | **1 - 1** | `2nd half` | Hugo Adrián Benítez 20'(A), Elvio Vera 11'(H) |
+| 23:30 | Uruguay | Peñarol vs Juventud de Las Piedras | **1 - 2** | `2nd half` | Fernando Mimbacas 77'(A), Abel Hernández 53'(H), Renzo Rabino 45'(A) |
 | 23:30 | Venezuela Amateur | Pesados FC vs AC Obesos | **0 - 0** | `Started` | --- |
+| 00:20 | Venezuela Amateur | Atlético Barrigones vs Gordox FC | **0 - 0** | `Started` | --- |
