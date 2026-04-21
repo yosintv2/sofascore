@@ -2,39 +2,59 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 11:00 | China | Shenzhen Peng City vs Beijing Guoan | **0 - 0** | `Halftime` | --- |
-| 11:35 | China | Chengdu Rongcheng vs Yunnan Yukun | **0 - 0** | `1st half` | --- |
-| 11:35 | China | Wuhan Three Towns vs Zhejiang | **0 - 0** | `1st half` | --- |
-| 10:30 | South Korea | FC Seoul vs Bucheon FC 1995 | **2 - 0** | `2nd half` | Moon Seon-min 45'(H), Patryk Klimala 31'(H) |
-| 10:30 | South Korea | Gimcheon Sangmu FC vs Gangwon FC | **0 - 2** | `2nd half` | Dae-won Kim 45'(A), Dae-won Kim 36'(A) |
-| 10:30 | South Korea | Jeonbuk Hyundai Motors vs Incheon United | **1 - 2** | `2nd half` | Dong-ryul Lee 59'(A), Myung Joo Lee 40'(A), Wi-je Cho 13'(H) |
-| 10:00 | Italy | Genoa U18 vs Cagliari U18 | **1 - 0** | `Started` | Unknown -1'(H) |
-| 09:30 | Australia Amateur | Hume City FC vs Brunswick Juventus FC | **2 - 2** | `Awaiting extra time` | Nicholas Symeoy 90'(A), Unknown 84'(H), Unknown 66'(H), Luka Lovic 18'(A) |
-| 11:00 | Czech Republic | Sigma Olomouc U19 vs Mladá Boleslav U19 | **0 - 1** | `Halftime` | Unknown 36'(A) |
-| 10:30 | Greece Amateur | GS Fivos Kremastis vs AS Nikagoras Kefalou | **1 - 0** | `Started` | Altin Nikolas Tafani 14'(H) |
-| 10:30 | India | Sudeva Delhi FC vs Mighty Young Joe - Goalorious Mothers SC | **0 - 0** | `2nd half` | --- |
-| 10:00 | Kazakhstan | FC Turan Reserve vs FC Khan Tengri Reserve | **3 - 0** | `2nd half` | Unknown 62'(H), Unknown 60'(H), Unknown 44'(H) |
-| 10:00 | Kazakhstan | Taraz Karatau Reserve vs Atyrau Reserve | **3 - 0** | `2nd half` | Unknown 74'(H), Unknown 65'(H), Unknown 60'(H) |
-| 11:00 | Netherlands | FC Twente Heracles U21 vs FC Groningen U21 | **4 - 1** | `Halftime` | Unknown 45'(H), Unknown 44'(H), Unknown 26'(A), Unknown 15'(H), Unknown 4'(H) |
-| 11:00 | Nigeria | RBM Sport Jnr vs Derby FC | **0 - 0** | `1st half` | --- |
-| 10:15 | Nigeria | Leal SC U19 vs Obazz FC U19 | **0 - 0** | `2nd half` | --- |
-| 11:00 | Romania Amateur | Club Atletic Oradea U19 vs CS Unirea Valea lui Mihai U19 | **1 - 0** | `Halftime` | Raul Dume 2'(H) |
-| 11:45 | Singapore | Lion City Sailors FC vs Balestier Khalsa FC | **0 - 0** | `Started` | --- |
-| 11:30 | Singapore | Albirex Niigata (S) Reserve vs Young Lions Reserve | **1 - 0** | `1st half` | Unknown 0'(H) |
-| 11:30 | Singapore | Geylang International II vs Balestier Khalsa II | **1 - 0** | `1st half` | Unknown 26'(H) |
-| 11:30 | Singapore | Tampines Rovers II vs Lion City Sailors FC Reserve | **0 - 0** | `1st half` | --- |
-| 11:30 | Singapore | Tanjong Pagar United FC Reserve vs Hougang United FC II | **0 - 0** | `1st half` | --- |
-| 11:00 | South Sudan | Jamus SSC vs Koryom FC | **1 - 0** | `Started` | Unknown 52'(H) |
-| 10:00 | Turkey Amateur | Beşikdüzüspor vs Sürmenespor | **0 - 1** | `2nd half` | Unknown 41'(A) |
-| 10:00 | Turkey Amateur | Trabzon Faroz Yalıspor vs Araklı 1961 SK | **1 - 1** | `2nd half` | Unknown 29'(H), Unknown 9'(A) |
-| 09:00 | Turkey Amateur | Genç Demirspor vs Ağaçelispor | **5 - 5** | `Penalties` | Unknown 117'(H), Unknown 112'(A), Unknown 77'(H), Unknown 54'(H), Unknown 48'(A), Unknown 10'(A) |
-| 10:00 | Turkey Amateur | Antalyaspor U15 vs Alanyaspor U15 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Batman Petrolspor U15 vs Gaziantep FK U15 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Beşiktaş U15 vs Fatih Karagümrük U15 | **1 - 1** | `Started` | Unknown -1'(H), Unknown -1'(A) |
-| 10:00 | Turkey Amateur | Kayserispor U15 vs Gençlerbirliği U15 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Kütahyaspor Futbol SK U15 vs Göztepe U15 | **0 - 0** | `Started` | --- |
-| 10:00 | Turkey Amateur | Trabzonspor U15 vs Erzurumspor FK U15 | **0 - 0** | `Started` | --- |
-| 11:30 | Uzbekistan | FC Kattaqorgon vs Pfk Aral | **0 - 1** | `1st half` | Ruslan Kalmagambetov 10'(A) |
-| 11:30 | Uzbekistan | Fardu Ferghana vs FC Gazalkent | **0 - 1** | `1st half` | Unknown 19'(A) |
-| 11:00 | Uzbekistan | FC Buxoro U21 vs Pakhtakor Tashkent U21 | **0 - 0** | `Halftime` | --- |
-| 11:00 | Uzbekistan | Surkhon Termez U21 vs Mash Al Mubarek U21 | **0 - 0** | `1st half` | --- |
+| 12:00 | China | Shanghai Port vs Chongqing Tonglianglong FC | **1 - 2** | `2nd half` | Li Xinxiang 57'(H), Chen Chunxin 45'(A), Michael Ngadeu 14'(A) |
+| 12:30 | Armenia | Pyunik II vs FC Hayq | **0 - 2** | `2nd half` | Unknown 45'(A), Unknown 8'(A) |
+| 12:30 | Australia | Subiaco AFC Reserves vs Quinns FC Reserves | **0 - 5** | `2nd half` | Unknown 62'(A), Unknown 55'(A), Unknown 30'(A), Unknown 19'(A), Unknown 16'(A) |
+| 13:00 | Brazil | Juventus-SP vs Votuporanguense | **0 - 0** | `Halftime` | --- |
+| 14:00 | Brazil Amateur | Chapecoense U17 vs Avaí U17 | **0 - 0** | `Started` | --- |
+| 12:30 | Brazil Amateur | Comercial de Pirangi U15 vs Monamy FC U15 | **0 - 5** | `2nd half` | Unknown 54'(A), Unknown 47'(A), Unknown 33'(A), Unknown 25'(A), Unknown 2'(A) |
+| 13:15 | Czechia Amateur | Sigma Olomouc U17 vs Mladá Boleslav U17 | **0 - 0** | `1st half` | --- |
+| 13:30 | Egypt | El Shams vs Nogoom FC | **0 - 0** | `1st half` | --- |
+| 13:30 | Egypt | Tamiya Youth Center vs Sila SC | **0 - 3** | `1st half` | Unknown 25'(A), Unknown 5'(A), Unknown 1'(A) |
+| 13:00 | Egypt | Tanta vs WE SC | **0 - 0** | `Halftime` | --- |
+| 13:30 | England Amateur | Sheffield United U21 vs Swansea City U21 | **1 - 1** | `1st half` | Iestyn Jones 14'(A), Unknown 5'(H) |
+| 12:00 | England Amateur | Blackburn Rovers Reserves vs Preston Reserves | **4 - 1** | `2nd half` | Unknown 82'(H), Unknown 76'(H), Unknown 74'(A), Unknown 69'(H), Unknown 54'(H) |
+| 12:00 | Ethiopia | Soloda Adwa vs Addis Ketema FC | **1 - 0** | `2nd half` | Unknown 27'(H) |
+| 13:00 | Gabon | AS 3-2 FC vs Aston Villa FC | **0 - 2** | `Halftime` | Unknown 33'(A), Unknown 22'(A) |
+| 13:00 | Gabon | NSAP FC vs Badji FC | **0 - 0** | `Halftime` | --- |
+| 13:00 | Gabon | Sporting Club Nyanga vs International FC | **1 - 0** | `Halftime` | Unknown 30'(H) |
+| 13:30 | Greece Amateur | AE Mouzakiou vs Doxa Masxolouriou | **0 - 0** | `Started` | --- |
+| 12:30 | India | Karbi Anglong Morning Star FC vs FC Bengaluru United | **0 - 1** | `2nd half` | Unknown 5'(A) |
+| 14:00 | Libya | Al Shorouq Zintan vs Al Mustaqbal Jumayl | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Aljazeera Zuwara vs Soqour Alalqah FC | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Asaria SC vs Al Orouba Ajelat SC | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Ben Zeidoun SC vs Rafiq Surman FC | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Nosour El Fassi SC vs Al Shabiba Surman SC | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Wefaq Sabrata vs Al Sekka Alhadid FC | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Al Sodoud SC vs Al Ansar Al Bayda | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Al Ain Qubbah FC vs Al Intesar AlFaidiya | **0 - 0** | `Started` | --- |
+| 14:00 | Libya | Shabab Al Jabal Shahat FC vs Aswar Werdama | **0 - 0** | `Started` | --- |
+| 13:30 | Libya | Al Taweia SC vs Al Sahari Jikharra SC | **0 - 0** | `Started` | --- |
+| 13:30 | Libya | Allba SC vs Al Fath Jalu | **0 - 0** | `Started` | --- |
+| 13:00 | Lithuania | FK Tauras vs FC Hegelmann | **0 - 3** | `2nd half` | Abdel Kader Njoya 39'(A), Carlos Duke 30'(A), Ángel Puerto 15'(A) |
+| 13:00 | Netherlands | PSV Eindhoven U19 vs ADO Den Haag U19 | **5 - 0** | `Halftime` | Unknown 43'(H), Unknown 32'(H), Unknown 20'(H), Unknown 15'(H), Unknown 7'(H) |
+| 13:00 | Nigeria | Blessed Stars Fc vs One Recket | **0 - 0** | `1st half` | --- |
+| 13:07 | Nigeria | Asabari FC vs Irewole FC | **0 - 0** | `1st half` | --- |
+| 13:00 | Paraguay | Club Fernando de La Mora vs Carapegua | **0 - 0** | `Halftime` | --- |
+| 13:00 | Portugal | Famalicão U23 vs Torreense U23 | **0 - 1** | `Halftime` | João Chagas 7'(A) |
+| 13:00 | Rwanda | Etincelles FC vs APR FC | **0 - 1** | `Halftime` | Unknown 14'(A) |
+| 13:15 | Saudi Arabia Amateur | Al-Orobah U18 vs Al-Ula U18 | **0 - 0** | `Started` | --- |
+| 14:00 | Serbia | FK FAP Priboj vs SU Dinamo Jug Vranje | **0 - 0** | `1st half` | --- |
+| 11:45 | Singapore | Lion City Sailors FC vs Balestier Khalsa FC | **1 - 0** | `Started` | Dhaniyah Qasimah 5'(H) |
+| 12:30 | Somalia | Gaadiidka FC vs Raadsan | **0 - 0** | `Started` | --- |
+| 13:00 | South Africa | Black Leopards vs The Bees FC | **0 - 0** | `Halftime` | --- |
+| 13:00 | South Africa | Casric Stars FC vs Highbury FC | **3 - 0** | `Halftime` | Unknown 28'(H), Unknown 12'(H), Mlungisi Zwane 3'(H) |
+| 13:00 | South Africa | Midlands Wanderers FC vs Upington City FC | **0 - 1** | `Halftime` | Keabetswe Rakosa 15'(A) |
+| 12:00 | Syria | Al-Jihad SC vs Alyakza SC | **0 - 0** | `Started` | --- |
+| 14:00 | Tunisia | US Ajim Djerba vs SS Gafsa | **0 - 0** | `Started` | --- |
+| 13:30 | Tunisia | Lassouda SSB vs JS Majel Bel-Abbès | **0 - 0** | `Started` | --- |
+| 12:00 | Turkey Amateur | Solhan Gençlerbirliği vs Bingöl Sanayispor | **1 - 0** | `2nd half` | Unknown 45'(H) |
+| 12:00 | Turkmenistan | Arkadag FK vs Şagadam FK | **0 - 0** | `Started` | --- |
+| 13:00 | Uganda | BUL FC vs UPDF | **1 - 4** | `Halftime` | Unknown 45'(A), Ivan Bogere 45'(A), Ivan Bogere 41'(A), Unknown 36'(H), Unknown 7'(A) |
+| 13:00 | Uganda | Buhimba United Saints vs Vipers SC | **0 - 1** | `2nd half` | Hilary Mukundane 12'(A) |
+| 13:00 | Uganda | Entebbe UPPC FC vs Kampala City | **0 - 0** | `Halftime` | --- |
+| 13:00 | Uganda | Mbarara City vs Maroons | **2 - 0** | `Halftime` | Unknown 42'(H), Unknown 11'(H) |
+| 13:00 | Uganda | Police FC vs Uganda Revenue Authority | **1 - 1** | `Halftime` | Lawrence Tezikya 16'(H), Unknown 2'(A) |
+| 12:30 | Uruguay | Albion FC Reserve vs Peñarol Reserve | **1 - 2** | `2nd half` | Unknown 39'(A), Unknown 30'(H), Unknown 12'(A) |
+| 13:00 | Uruguay | Juventud de Las Piedras Reserve vs Nacional Reserve | **0 - 0** | `Halftime` | --- |
+| 13:00 | Uzbekistan | Olimpik Mobiuz vs Respublika Football Academy | **0 - 1** | `Halftime` | Saidkhon Khamidov 13'(A) |
