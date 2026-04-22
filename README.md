@@ -2,27 +2,31 @@
 
 | Start | League | Match | Score | Minute | Scorers |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| 22:00 | Bolivia | Real Potosí vs Guabirá | **2 - 0** | `1st half` | Jeferson Rivas 27'(H), Milciades Portillo 18'(H) |
-| 20:30 | Ecuador | Deportivo Cuenca vs Orense SC | **1 - 3** | `2nd half` | Agustin Herrera 67'(A), Agustin Herrera 65'(A), Patricio Boolsen 58'(H), Agustin Herrera 35'(A) |
-| 22:00 | Argentina | Acassuso vs Gimnasia y Esgrima | **0 - 0** | `1st half` | --- |
-| 22:00 | Brazil | América-RN vs ABC | **1 - 1** | `1st half` | Paulinho 13'(H), Wellington Carvalho 5'(A) |
-| 22:00 | Brazil | Bahia vs Remo | **1 - 1** | `1st half` | Willian Jose 23'(H), Duplexe Tchamba 17'(A) |
-| 22:00 | Brazil | Goiás vs Cruzeiro | **1 - 1** | `1st half` | Keny Arroyo 18'(A), Nicolas 11'(H) |
-| 22:00 | Brazil | Porto Vitória vs Vitória-ES | **0 - 1** | `1st half` | Unknown 9'(A) |
-| 22:00 | Brazil | AO Itabaiana vs Botafogo-PB | **0 - 0** | `1st half` | --- |
-| 21:00 | Costa Rica | LD Alajuelense vs CS Herediano | **1 - 0** | `2nd half` | Yeslim Alvarado 31'(H) |
-| 20:30 | Ecuador | Atlético Rojiblanco vs Independiente Juniors | **0 - 1** | `2nd half` | Brayan 88'(A) |
-| 20:15 | Ecuador Amateur | Técnico Universitario U19 vs El Nacional U19 | **0 - 0** | `Started` | --- |
-| 20:30 | Ecuador Amateur | 22 De Julio U19 vs Universidad Católica del Ecuador U19 | **0 - 0** | `Started` | --- |
-| 21:00 | El Salvador | CD Águila vs AD Izalco | **4 - 1** | `2nd half` | Unknown 73'(A), Carlos Garay 61'(H), Federico Andrada 60'(H), Tereso Benítez 40'(H), Eduardo Cruz 3'(H) |
-| 21:00 | Honduras | CD Victoria vs Juticalpa FC | **2 - 1** | `2nd half` | Unknown 65'(H), Unknown 53'(H), Kelvin Matute 51'(A) |
-| 21:00 | Mexico | Atlético Inter Capital vs Azucareros de Tezonapa | **1 - 1** | `2nd half` | Unknown 21'(A), Unknown 6'(H) |
-| 21:00 | Mexico | Ejidatarios de Bonfil vs Bombarderos De Tecamac FC | **3 - 0** | `2nd half` | Unknown 57'(H), Unknown 7'(H), Unknown 5'(H) |
-| 21:00 | Mexico | Xalisco FC vs Titanes de Querétaro | **0 - 0** | `1st half` | --- |
-| 21:30 | Mexico | Atlético Cuernavaca vs Aztecas AMF Soccer | **1 - 1** | `Halftime` | Unknown 24'(A), Unknown 10'(H) |
-| 21:30 | Mexico | CEFOR Chiapas vs Águilas UAGro | **0 - 1** | `Halftime` | Unknown 17'(A) |
-| 22:00 | Mexico | H2O Purépechas FC vs CdF Charales de Chapala | **0 - 0** | `1st half` | --- |
-| 22:00 | Mexico | Tlapa Mazatecochco vs Ecatepec FC | **1 - 0** | `1st half` | Unknown 11'(H) |
-| 21:30 | Mexico | Halcones F.C. vs Racing de Veracruz | **0 - 0** | `Halftime` | --- |
-| 22:00 | Mexico | Tritones Vallarta M.F.C. vs Deportiva Venados | **0 - 0** | `1st half` | --- |
-| 20:00 | Spain Amateur | Atlético Unión Güímar vs CD Guancha | **0 - 1** | `Started` | Unknown 90'(A) |
+| 21:00 | Colombia | Independiente Medellín vs Boyacá Chicó FC | **0 - 0** | `1st half` | --- |
+| 23:20 | Colombia | Independiente Medellín vs Boyacá Chicó FC | **0 - 0** | `1st half` | --- |
+| 22:00 | Bolivia | Real Potosí vs Guabirá | **2 - 0** | `2nd half` | Jeferson Rivas 27'(H), Milciades Portillo 18'(H) |
+| 23:00 | Ecuador | Barcelona SC Guayaquil vs Mushuc Runa SC | **0 - 0** | `1st half` | --- |
+| 23:00 | Peru | Cusco FC vs FC Cajamarca | **0 - 0** | `1st half` | --- |
+| 22:30 | USA | Sarasota Paradise vs Corpus Christi FC | **1 - 0** | `1st half` | Anderson Rosa 42'(H) |
+| 22:00 | Argentina | Acassuso vs Gimnasia y Esgrima | **0 - 2** | `2nd half` | Renzo Giampaoli 56'(A), Franco Torres 53'(A) |
+| 23:00 | Argentina | Boca Juniors Reserve vs River Plate Reserve | **0 - 0** | `1st half` | --- |
+| 23:00 | Brazil | Oratório RC vs Tocantinópolis | **0 - 0** | `1st half` | --- |
+| 22:00 | Brazil | América-RN vs ABC | **1 - 2** | `2nd half` | Wallyson 48'(A), Paulinho 13'(H), Wellington Carvalho 5'(A) |
+| 22:00 | Brazil | Bahia vs Remo | **1 - 1** | `2nd half` | Willian Jose 23'(H), Duplexe Tchamba 17'(A) |
+| 22:00 | Brazil | Goiás vs Cruzeiro | **1 - 1** | `2nd half` | Keny Arroyo 18'(A), Nicolas 11'(H) |
+| 22:30 | Brazil | Santos vs Coritiba | **0 - 0** | `Halftime` | --- |
+| 23:00 | Brazil | FC Pantanal vs Liga Sanjoanense | **0 - 0** | `1st half` | --- |
+| 22:00 | Brazil | Porto Vitória vs Vitória-ES | **0 - 1** | `2nd half` | Marco Aurelio Canário 9'(A) |
+| 23:00 | Brazil | Marília vs Portuguesa Santista | **2 - 1** | `1st half` | Otávio 13'(A), Unknown 9'(H), Matheus Marcondele 1'(H) |
+| 22:00 | Brazil | AO Itabaiana vs Botafogo-PB | **2 - 0** | `2nd half` | Gustavo Fagundes 56'(H), Leilson 45'(H) |
+| 23:00 | Ecuador | CD Baños Ciudad de Fuego vs Anaconda FC | **1 - 1** | `1st half` | Unknown 14'(H), Unknown 6'(A) |
+| 23:00 | El Salvador | Inter FA vs Zacatecoluca FC | **0 - 0** | `1st half` | --- |
+| 23:15 | Honduras | Real CD España vs Platense Futbol Club | **0 - 0** | `1st half` | --- |
+| 21:00 | Mexico | Xalisco FC vs Titanes de Querétaro | **1 - 0** | `2nd half` | Unknown 57'(H) |
+| 21:30 | Mexico | Atlético Cuernavaca vs Aztecas AMF Soccer | **2 - 1** | `2nd half` | Unknown 50'(H), Unknown 24'(A), Unknown 10'(H) |
+| 21:30 | Mexico | CEFOR Chiapas vs Águilas UAGro | **1 - 1** | `2nd half` | Unknown 85'(H), Unknown 17'(A) |
+| 22:00 | Mexico | Tlapa Mazatecochco vs Ecatepec FC | **1 - 1** | `2nd half` | Unknown 24'(A), Unknown 11'(H) |
+| 21:30 | Mexico | Halcones F.C. vs Racing de Veracruz | **0 - 0** | `2nd half` | --- |
+| 22:00 | Mexico | Tritones Vallarta M.F.C. vs Deportiva Venados | **0 - 0** | `2nd half` | --- |
+| 23:00 | Paraguay | Sportivo 2 de Mayo vs Cerro Porteño | **0 - 0** | `1st half` | --- |
+| 23:00 | USA | DC Power FC vs Fort Lauderdale United | **0 - 0** | `1st half` | --- |
